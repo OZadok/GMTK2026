@@ -106,9 +106,8 @@ public class Enemies : MonoBehaviour
 
         // 4. Offset slightly outward by spawnBufferDistance for extra safety
         Vector3 camToPoint = (worldPoint - targetCamera.transform.position);
-        camToPoint.y = 0; // Lock elevation for 3D ground games (remove if 2D)
         worldPoint += camToPoint.normalized * spawnBufferDistance;
-
+        worldPoint.z = 0;
         return worldPoint;
     }
 }
