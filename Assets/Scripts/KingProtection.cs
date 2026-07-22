@@ -11,9 +11,7 @@ public class KingProtection : MonoBehaviour
     [Tooltip("Allowed leeway/tolerance above and below targetDistance.")]
     [SerializeField] private float bufferDistance = 1.0f;
 
-    [Header("Target & Input Settings")]
-    [Tooltip("Tag assigned to your Enemy GameObjects.")]
-    [SerializeField] private string enemyTag = "Enemy";
+    [SerializeField] private EllipseRenderer _ellipseRenderer;
 
     [Tooltip("The button pressed to destroy eligible enemies.")]
     [SerializeField] private KeyCode destroyKey = KeyCode.E;
@@ -41,14 +39,30 @@ public class KingProtection : MonoBehaviour
         // Loop backwards so destroying elements won't disrupt array iteration
         foreach (var enemy in enemies)
         {
-            var distanceToEnemy = Vector3.Distance(transform.position, enemy.transform.position);
-            
-            if (distanceToEnemy >= MinDistance && distanceToEnemy <= MaxDistance)
+            if (IsObjectOnEllipse(enemy.transform.position))
             {
                 DestroyEnemy(enemy);
                 break;
             }
         }
+    }
+
+    private bool IsObjectOnEllipse(Vector3 objectPosition)
+    {
+        // 1. Convert object position relative to the ellipse center
+        Vector3 localPos = objectPosition - _ellipseRenderer.transform.position;
+
+        // Optional: If your ellipse rotates, un-rotate the position relative to the center transform:
+        // localPos = Quaternion.Inverse(ellipseCenter.rotation) * localPos;
+
+        // 2. Calculate normalized value
+        var xRadius = _ellipseRenderer.xAxisRadius; 
+        var yRadius = _ellipseRenderer.yAxisRadius; 
+        float normalizedVal = (localPos.x * localPos.x) / (xRadius * xRadius) 
+                              + (localPos.y * localPos.y) / (yRadius * yRadius);
+
+        // 3. Check if the value is within (1 - threshold) and (1 + threshold)
+        return Mathf.Abs(normalizedVal - 1f) <= _ellipseRenderer.line.startWidth;
     }
 
     private void DestroyEnemy(GameObject enemy)
@@ -61,23 +75,5 @@ public class KingProtection : MonoBehaviour
         Messenger.Default.Publish(new EnemyDestroyedEvent());
         Debug.Log($"[KingProtection] Destroyed {enemy.name} at distance!");
         Enemies.Instance.RemoveEnemy(enemy);
-    }
-
-    // Visualize the valid distance ring in Scene View
-    private void OnDrawGizmos()
-    {
-        Vector3 center = transform.position;
-
-        // Ideal Target Distance (Yellow)
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(center, targetDistance);
-
-        // Max Allowed Outer Bound (Green)
-        Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(center, MaxDistance);
-
-        // Min Allowed Inner Bound (Red)
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(center, MinDistance);
     }
 }
