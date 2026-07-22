@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 81e4117d179844cafac1a80014b52ee5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160353
+  packageName: Pub-Sub Messenger
+  packageVersion: 1.0.1
+  assetPath: Assets/SuperMaxim/Tests/Messaging/MessengerTest.cs
+  uploadId: 449845
