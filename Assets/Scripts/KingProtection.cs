@@ -1,3 +1,5 @@
+using Events;
+using SuperMaxim.Messaging;
 using UnityEngine;
 
 public class KingProtection : MonoBehaviour
@@ -56,6 +58,7 @@ public class KingProtection : MonoBehaviour
             Instantiate(destroyFxPrefab, enemy.transform.position, Quaternion.identity);
         }
 
+        Messenger.Default.Publish(new EnemyDestroyedEvent());
         Debug.Log($"[KingProtection] Destroyed {enemy.name} at distance!");
         Enemies.Instance.RemoveEnemy(enemy);
     }

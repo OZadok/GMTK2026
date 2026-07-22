@@ -419,7 +419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00e6a4d0b839a19468a688c0c7697241, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Timer
-  _startTime: 30
+  _startTime: 60
   _time: 1.38
 --- !u!4 &1001002992
 Transform:
