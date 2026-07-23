@@ -106,7 +106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoToKing
   _kingTransform: {fileID: 0}
-  _moveSpeed: 5
+  _moveSpeed: 4
   _stoppingDistance: 1
 --- !u!114 &12697823902069533
 MonoBehaviour:

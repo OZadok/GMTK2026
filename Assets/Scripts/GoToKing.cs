@@ -1,4 +1,6 @@
 using System;
+using Events;
+using SuperMaxim.Messaging;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -54,5 +56,7 @@ public class GoToKing : MonoBehaviour
     private void OnReachKing()
     {
         // Add logic here (e.g., Attack, Stop Animation, Game Over)
+        Messenger.Default.Publish(new EnemyReachesKingEvent());
+        Enemies.Instance.RemoveEnemy(gameObject);
     }
 }
