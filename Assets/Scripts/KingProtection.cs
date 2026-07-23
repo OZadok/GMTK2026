@@ -45,12 +45,16 @@ public class KingProtection : MonoBehaviour
 		{
 			if (enemyDestroyer._destroyKey.WasPressedThisFrame())
 			{
-				TryDestroyEnemiesInRange(enemyDestroyer);
+				var isEnemyDestroyed = TryDestroyEnemiesInRange(enemyDestroyer);
+				if (!isEnemyDestroyed)
+				{
+					Messenger.Default.Publish(new TryDestroyEnemyAndFailedEvent());
+				}
 			}
 		}
 	}
 
-	private void TryDestroyEnemiesInRange(EnemyDestroyer enemyDestroyer)
+	private bool TryDestroyEnemiesInRange(EnemyDestroyer enemyDestroyer)
 	{
 		// 1. Find all active enemies in the scene by tag (no physics required)
 		var enemies = Enemies.Instance.GetEnemies(enemyDestroyer._enemyType);
@@ -61,9 +65,11 @@ public class KingProtection : MonoBehaviour
 			if (IsObjectOnEllipse(enemy.transform.position, enemyDestroyer._ellipseRenderer))
 			{
 				DestroyEnemy(enemy);
-				break;
+				return true;
 			}
 		}
+
+		return false;
 	}
 
 	private bool IsObjectOnEllipse(Vector3 objectPosition, EllipseRenderer ellipseRenderer)

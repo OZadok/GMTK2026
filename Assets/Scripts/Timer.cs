@@ -9,6 +9,7 @@ public class Timer : MonoBehaviour
     [ReadOnly] [SerializeField] private float _time;
     private TimerTimeEvent _timerTimeEvent;
     [SerializeField] private float _timeToAddWhenEnemyDestroyed = 5;
+    [SerializeField] private float _timeToReduceWhenPressedAndEnemyNotDestroyed = 5;
 
     private void Start()
     {
@@ -19,11 +20,13 @@ public class Timer : MonoBehaviour
     private void OnEnable()
     {
         Messenger.Default.Subscribe<EnemyDestroyedEvent>(OnEnemyDestroyed);
+        Messenger.Default.Subscribe<TryDestroyEnemyAndFailedEvent>(OnTryDestroyEnemyAndFailed);
     }
 
     private void OnDisable()
     {
         Messenger.Default.Unsubscribe<EnemyDestroyedEvent>(OnEnemyDestroyed);
+        Messenger.Default.Unsubscribe<TryDestroyEnemyAndFailedEvent>(OnTryDestroyEnemyAndFailed);
     }
 
     private void Update()
@@ -40,5 +43,10 @@ public class Timer : MonoBehaviour
     private void OnEnemyDestroyed(EnemyDestroyedEvent enemyDestroyedEvent)
     {
         _time += _timeToAddWhenEnemyDestroyed;
+    }
+    
+    private void OnTryDestroyEnemyAndFailed(TryDestroyEnemyAndFailedEvent tryDestroyEnemyAndFailedEvent)
+    {
+        _time -= _timeToReduceWhenPressedAndEnemyNotDestroyed;
     }
 }
