@@ -35,6 +35,7 @@ public class Timer : MonoBehaviour
     private void OnEnemyReachesKing(EnemyReachesKingEvent obj)
     {
         _time -= _timeToReduceWhenEnemyReachesKing;
+        Messenger.Default.Publish(new TimerTimeChangeEvent(-_timeToReduceWhenEnemyReachesKing));
     }
 
     private void Update()
@@ -53,11 +54,13 @@ public class Timer : MonoBehaviour
         if (_time > 0)
         {
             _time += _timeToAddWhenEnemyDestroyed;
+            Messenger.Default.Publish(new TimerTimeChangeEvent(_timeToAddWhenEnemyDestroyed));
         }
     }
     
     private void OnTryDestroyEnemyAndFailed(TryDestroyEnemyAndFailedEvent tryDestroyEnemyAndFailedEvent)
     {
         _time -= _timeToReduceWhenPressedAndEnemyNotDestroyed;
+        Messenger.Default.Publish(new TimerTimeChangeEvent(-_timeToReduceWhenPressedAndEnemyNotDestroyed));
     }
 }
