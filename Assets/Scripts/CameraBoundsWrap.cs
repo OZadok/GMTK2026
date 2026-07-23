@@ -1,6 +1,5 @@
 using UnityEngine;
 
-[RequireComponent(typeof(SpriteRenderer))]
 public class CameraBoundsWrap : MonoBehaviour
 {
     [Header("Camera Reference")]
@@ -19,7 +18,7 @@ public class CameraBoundsWrap : MonoBehaviour
             targetCamera = Camera.main;
         }
 
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
     }
 
     private void LateUpdate()
