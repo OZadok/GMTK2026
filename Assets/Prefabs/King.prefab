@@ -159,4 +159,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17d359613c942c747b7944bbd2c1df27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KingMovement
-  _speed: 3
+  _speed: 1
