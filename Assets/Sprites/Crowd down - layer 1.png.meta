@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 95c679506f153484f9410d9f43a1a15f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7280320549000487730
+    second: Crowd down - layer 1_0
+  - first:
+      213: 113299681670356171
+    second: Crowd down - layer 1_1
+  - first:
+      213: 2651084787339720113
+    second: Crowd down - layer 1_2
+  - first:
+      213: 4316707171346444377
+    second: Crowd down - layer 1_3
+  - first:
+      213: -5249822777791734647
+    second: Crowd down - layer 1_4
+  - first:
+      213: 1599386261248520486
+    second: Crowd down - layer 1_5
+  - first:
+      213: 1500253812489624380
+    second: Crowd down - layer 1_6
+  - first:
+      213: 4227881371079943558
+    second: Crowd down - layer 1_7
+  - first:
+      213: -4420928363881275152
+    second: Crowd down - layer 1_8
+  - first:
+      213: 1272625106983299778
+    second: Crowd down - layer 1_9
+  - first:
+      213: -6885938722845284058
+    second: Crowd down - layer 1_10
+  - first:
+      213: -4018280695718936593
+    second: Crowd down - layer 1_11
+  - first:
+      213: -2270337972613880592
+    second: Crowd down - layer 1_12
+  - first:
+      213: 8649890135341315191
+    second: Crowd down - layer 1_13
+  - first:
+      213: -5268891370823791429
+    second: Crowd down - layer 1_14
+  - first:
+      213: -8037112019147767467
+    second: Crowd down - layer 1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crowd down - layer 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 641
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a62e67f4e80560800000000000000
+      internalID: 7280320549000487730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 321
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc502fc575829100800000000000000
+      internalID: 113299681670356171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 364
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b573da619b8ac420800000000000000
+      internalID: 2651084787339720113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_3
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 0
+        width: 368
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9507c7b2d4608eb30800000000000000
+      internalID: 4316707171346444377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0
+        width: 291
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c18f39ff1e427b0800000000000000
+      internalID: -5249822777791734647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_5
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 344
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621bb58a459223610800000000000000
+      internalID: 1599386261248520486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_6
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 358
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b9e5ec4e8f1d410800000000000000
+      internalID: 1500253812489624380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_7
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 336
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68526bbe4b37caa30800000000000000
+      internalID: 4227881371079943558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_8
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 0
+        width: 454
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0686d7315b5a2c0800000000000000
+      internalID: -4420928363881275152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_9
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 0
+        width: 360
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caabf9cac549a110800000000000000
+      internalID: 1272625106983299778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_10
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 0
+        width: 363
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62923bff63b3070a0800000000000000
+      internalID: -6885938722845284058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_11
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 0
+        width: 123
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feffcdb3ff23c38c0800000000000000
+      internalID: -4018280695718936593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_12
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 0
+        width: 305
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4e44684a32e70e0800000000000000
+      internalID: -2270337972613880592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_13
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 0
+        width: 366
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774bc2fbf359a0870800000000000000
+      internalID: 8649890135341315191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_14
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 0
+        width: 394
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc4de9c63321e6b0800000000000000
+      internalID: -5268891370823791429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crowd down - layer 1_15
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 0
+        width: 179
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551cca67331767090800000000000000
+      internalID: -8037112019147767467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crowd down - layer 1_0: 7280320549000487730
+      Crowd down - layer 1_1: 113299681670356171
+      Crowd down - layer 1_10: -6885938722845284058
+      Crowd down - layer 1_11: -4018280695718936593
+      Crowd down - layer 1_12: -2270337972613880592
+      Crowd down - layer 1_13: 8649890135341315191
+      Crowd down - layer 1_14: -5268891370823791429
+      Crowd down - layer 1_15: -8037112019147767467
+      Crowd down - layer 1_2: 2651084787339720113
+      Crowd down - layer 1_3: 4316707171346444377
+      Crowd down - layer 1_4: -5249822777791734647
+      Crowd down - layer 1_5: 1599386261248520486
+      Crowd down - layer 1_6: 1500253812489624380
+      Crowd down - layer 1_7: 4227881371079943558
+      Crowd down - layer 1_8: -4420928363881275152
+      Crowd down - layer 1_9: 1272625106983299778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
