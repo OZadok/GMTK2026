@@ -73,7 +73,7 @@ public class ParallaxEffect : MonoBehaviour
             if (Mathf.Abs(cameraDistX) >= textureSizeX)
             {
                 float offsetPositionX = (cameraDistX % textureSizeX);
-                transform.position = new Vector3(cameraTransform.position.x - offsetPositionX, transform.position.y, transform.position.z);
+                transform.position = new Vector3(cameraTransform.position.x + offsetPositionX, transform.position.y, transform.position.z);
             }
         }
 
