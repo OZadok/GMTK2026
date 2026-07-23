@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
 		//Time.timeScale = 0;
 	}
 
+	private bool isGameOver = false;
 	private void OnEnable()
 	{
 		Messenger.Default.Subscribe<StartGameEvent>(OnStartGame);
@@ -23,8 +24,9 @@ public class GameManager : MonoBehaviour
 
 	private void OnTimerTime(TimerTimeEvent timerTimeEvent)
 	{
-		if (timerTimeEvent.Time <= 0)
+		if (timerTimeEvent.Time <= 0 && !isGameOver)
 		{
+			isGameOver = true;
 			Messenger.Default.Publish(new GameOverEvent());
 		}
 	}
