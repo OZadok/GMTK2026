@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 [RequireComponent(typeof(LineRenderer))]
@@ -22,6 +23,11 @@ public class EllipseRenderer : MonoBehaviour
 		CalculateEllipse();
 	}
 
+	private void Update()
+	{
+		CalculateEllipse();
+	}
+
 	void CalculateEllipse()
 	{
 		line.positionCount = segments + 1;
@@ -32,8 +38,8 @@ public class EllipseRenderer : MonoBehaviour
 			float progressAngle = i * angleStep * Mathf.Deg2Rad;
             
 			// Calculate positions using parametric formula
-			float x = Mathf.Cos(progressAngle) * xAxisRadius;
-			float y = Mathf.Sin(progressAngle) * yAxisRadius;
+			float x = transform.position.x + Mathf.Cos(progressAngle) * xAxisRadius;
+			float y = transform.position.y + Mathf.Sin(progressAngle) * yAxisRadius;
 
 			line.SetPosition(i, new Vector3(x, y, 0f));
 		}
