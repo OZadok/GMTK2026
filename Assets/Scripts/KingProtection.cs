@@ -62,17 +62,19 @@ public class KingProtection : MonoBehaviour
 		// 1. Find all active enemies in the scene by tag (no physics required)
 		var enemies = Enemies.Instance.GetEnemies(enemyDestroyer._enemyType);
 
-		// Loop backwards so destroying elements won't disrupt array iteration
+
+		var isDestroyed = false;
 		foreach (var enemy in enemies)
 		{
 			if (IsObjectOnEllipse(enemy.transform.position, enemyDestroyer._ellipseRenderer))
 			{
 				DestroyEnemy(enemy);
-				return true;
+
+				isDestroyed = true;
 			}
 		}
 
-		return false;
+		return isDestroyed;
 	}
 
 	private bool IsObjectOnEllipse(Vector3 objectPosition, EllipseRenderer ellipseRenderer)

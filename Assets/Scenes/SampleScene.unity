@@ -2705,9 +2705,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Timer
   _startTime: 60
   _time: 1.38
-  _timeToAddWhenEnemyDestroyed: 5
+  _timeToAddWhenEnemyDestroyed: 1
   _timeToReduceWhenPressedAndEnemyNotDestroyed: 1
-  _timeToReduceWhenEnemyReachesKing: 2
+  _timeToReduceWhenEnemyReachesKing: 4
 --- !u!4 &1001002992
 Transform:
   m_ObjectHideFlags: 0
@@ -4273,7 +4273,7 @@ MonoBehaviour:
   - {fileID: 4205561727524358210, guid: b97e99846cf32d24fac7b958cb67b060, type: 3}
   - {fileID: 4443658543667738194, guid: e3c8c4003cb09794aa9e60359ddfcd4c, type: 3}
   - {fileID: 1021131369208013107, guid: 8e027976385a6ba478c8af6e722628d9, type: 3}
-  _spawnInterval: 5
+  _spawnInterval: 1
   _spawnPoints:
   - {fileID: 1990723541}
   - {fileID: 1167526543}

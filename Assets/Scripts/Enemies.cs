@@ -69,7 +69,10 @@ public class Enemies : MonoBehaviour
 	public void RemoveEnemy(Enemy enemy)
 	{
 		_enemies[enemy._type].Remove(enemy);
-		Destroy(enemy.gameObject);
+		if (enemy && enemy.gameObject)
+		{
+			Destroy(enemy.gameObject);
+		}
 	}
 
 	public List<Enemy> GetEnemies(EnemyType enemyType)
