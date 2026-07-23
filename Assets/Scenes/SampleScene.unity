@@ -523,7 +523,7 @@ MonoBehaviour:
   _changeTimeText: {fileID: 7160090498711528345, guid: 978784221086ae9479250a4fcd1fe729, type: 3}
   _timeText: {fileID: 1331987958}
   _changeTimeParent: {fileID: 1066706877}
-  _timeForChangeTimeToApear: 0.5
+  _timeForChangeTimeToApear: 0.75
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
