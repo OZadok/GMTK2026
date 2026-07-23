@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using Events;
 using SuperMaxim.Messaging;
@@ -101,6 +102,13 @@ public class KingProtection : MonoBehaviour
 
 		Messenger.Default.Publish(new EnemyDestroyedEvent());
 		Debug.Log($"[KingProtection] Destroyed {enemy.name} at distance!");
+		StartCoroutine(DestroyEnemyEnumerator(enemy));
+	}
+
+	private IEnumerator DestroyEnemyEnumerator(Enemy enemy)
+	{
+		enemy.Electrified();
+		yield return new WaitForSeconds(0.5f);
 		Enemies.Instance.RemoveEnemy(enemy);
 	}
 }
