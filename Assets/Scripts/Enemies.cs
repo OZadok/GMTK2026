@@ -1,113 +1,126 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
 public class Enemies : MonoBehaviour
 {
-    public static Enemies Instance;
-    
-    public List<GameObject> _enemies = new List<GameObject>();
-    
-    [Header("Spawn Settings")]
-    [Tooltip("The enemy prefab to spawn.")]
-    [SerializeField] private GameObject enemyPrefab;
+	public static Enemies Instance;
 
-    [Tooltip("How often (in seconds) to spawn a new enemy.")]
-    [SerializeField] private float spawnInterval = 2.0f;
+	private readonly Dictionary<EnemyType, List<Enemy>> _enemies = new Dictionary<EnemyType, List<Enemy>>();
 
-    [Tooltip("Distance BEYOND the camera border to spawn enemies.")]
-    [SerializeField] private float spawnBufferDistance = 2.0f;
+	[Header("Spawn Settings")] [SerializeField]
+	private List<GameObject> _enemyPrefabs;
 
-    [Header("Camera Reference")]
-    [Tooltip("Main camera reference. If empty, uses Camera.main.")]
-    [SerializeField] private Camera targetCamera;
+	[Tooltip("How often (in seconds) to spawn a new enemy.")] [SerializeField]
+	private float _spawnInterval = 2.0f;
 
-    private float spawnTimer;
+	[Tooltip("Distance BEYOND the camera border to spawn enemies.")] [SerializeField]
+	private float _spawnBufferDistance = 2.0f;
 
-    private void Awake()
-    {
-        if (Instance == null)
-        {
-            Instance = this;
-        }
-    }
+	[Header("Camera Reference")] [Tooltip("Main camera reference. If empty, uses Camera.main.")] [SerializeField]
+	private Camera _targetCamera;
 
-    private void Start()
-    {
-        if (targetCamera == null)
-        {
-            targetCamera = Camera.main;
-        }
-    }
+	private float _spawnTimer;
 
-    private void Update()
-    {
-        spawnTimer += Time.deltaTime;
-        if (spawnTimer >= spawnInterval)
-        {
-            spawnTimer = 0f;
-            SpawnEnemyOutsideCamera();
-        }
-    }
+	private void Awake()
+	{
+		if (Instance == null)
+		{
+			Instance = this;
+		}
+	}
 
-    private void AddEnemy(GameObject enemy)
-    {
-        _enemies.Add(enemy);
-    }
+	private void Start()
+	{
+		if (_targetCamera == null)
+		{
+			_targetCamera = Camera.main;
+		}
 
-    public void RemoveEnemy(GameObject enemy)
-    {
-        _enemies.Remove(enemy);
-        Destroy(enemy);
-    }
+		_enemies.Add(EnemyType.Red, new List<Enemy>());
+		_enemies.Add(EnemyType.Green, new List<Enemy>());
+		_enemies.Add(EnemyType.Blue, new List<Enemy>());
+	}
 
-    private void SpawnEnemyOutsideCamera()
-    {
-        if (enemyPrefab == null || targetCamera == null) return;
+	private void Update()
+	{
+		_spawnTimer += Time.deltaTime;
+		if (_spawnTimer >= _spawnInterval)
+		{
+			_spawnTimer = 0f;
+			SpawnEnemyOutsideCamera();
+		}
+	}
 
-        var spawnPosition = GetRandomOffscreenPosition();
-        var enemy = Instantiate(enemyPrefab, spawnPosition, Quaternion.identity);
-        AddEnemy(enemy);
-    }
+	private void AddEnemy(Enemy enemy, EnemyType enemyType)
+	{
+		_enemies[enemyType].Add(enemy);
+	}
 
-    private Vector3 GetRandomOffscreenPosition()
-    {
-        // 1. Pick a random edge: 0 = Top, 1 = Bottom, 2 = Left, 3 = Right
-        int side = Random.Range(0, 4);
+	public void RemoveEnemy(GameObject enemyGameObject)
+	{
+		var enemy = enemyGameObject.GetComponent<Enemy>();
+		RemoveEnemy(enemy);
+	}
 
-        // Viewport coordinates run from (0,0) [bottom-left] to (1,1) [top-right]
-        Vector3 viewportPoint = Vector3.zero;
+	public void RemoveEnemy(Enemy enemy)
+	{
+		_enemies[enemy._type].Remove(enemy);
+		Destroy(enemy.gameObject);
+	}
 
-        switch (side)
-        {
-            case 0: // Top
-                viewportPoint = new Vector3(Random.Range(0f, 1f), 1.1f, 0f);
-                break;
-            case 1: // Bottom
-                viewportPoint = new Vector3(Random.Range(0f, 1f), -0.1f, 0f);
-                break;
-            case 2: // Left
-                viewportPoint = new Vector3(-0.1f, Random.Range(0f, 1f), 0f);
-                break;
-            case 3: // Right
-                viewportPoint = new Vector3(1.1f, Random.Range(0f, 1f), 0f);
-                break;
-        }
+	public List<Enemy> GetEnemies(EnemyType enemyType)
+	{
+		return _enemies[enemyType];
+	}
 
-        // 2. Determine distance from camera plane (Z depth)
-        // For 2D games, set this to 0. For 3D top-down games, use ground plane distance.
-        float distanceToGround = Mathf.Abs(targetCamera.transform.position.y);
-        //viewportPoint.z = targetCamera.orthographic ? targetCamera.farClipPlane * 0.5f : distanceToGround;
-        viewportPoint.z = targetCamera.orthographic ? 0 : distanceToGround;
+	private void SpawnEnemyOutsideCamera()
+	{
+		if (_enemyPrefabs == null || _targetCamera == null) return;
+		var enemyPrefabToSPawn = _enemyPrefabs[Random.Range(0, _enemyPrefabs.Count)];
 
-        // 3. Convert viewport point to World coordinates
-        Vector3 worldPoint = targetCamera.ViewportToWorldPoint(viewportPoint);
+		var spawnPosition = GetRandomOffscreenPosition();
+		var enemy = Instantiate(enemyPrefabToSPawn, spawnPosition, Quaternion.identity).GetComponent<Enemy>();
+		AddEnemy(enemy, enemy._type);
+	}
 
-        // 4. Offset slightly outward by spawnBufferDistance for extra safety
-        Vector3 camToPoint = (worldPoint - targetCamera.transform.position);
-        worldPoint += camToPoint.normalized * spawnBufferDistance;
-        worldPoint.z = 0;
-        return worldPoint;
-    }
+	private Vector3 GetRandomOffscreenPosition()
+	{
+		// 1. Pick a random edge: 0 = Top, 1 = Bottom, 2 = Left, 3 = Right
+		int side = Random.Range(0, 4);
+
+		// Viewport coordinates run from (0,0) [bottom-left] to (1,1) [top-right]
+		Vector3 viewportPoint = Vector3.zero;
+
+		switch (side)
+		{
+			case 0: // Top
+				viewportPoint = new Vector3(Random.Range(0f, 1f), 1.1f, 0f);
+				break;
+			case 1: // Bottom
+				viewportPoint = new Vector3(Random.Range(0f, 1f), -0.1f, 0f);
+				break;
+			case 2: // Left
+				viewportPoint = new Vector3(-0.1f, Random.Range(0f, 1f), 0f);
+				break;
+			case 3: // Right
+				viewportPoint = new Vector3(1.1f, Random.Range(0f, 1f), 0f);
+				break;
+		}
+
+		// 2. Determine distance from camera plane (Z depth)
+		// For 2D games, set this to 0. For 3D top-down games, use ground plane distance.
+		float distanceToGround = Mathf.Abs(_targetCamera.transform.position.y);
+		//viewportPoint.z = targetCamera.orthographic ? targetCamera.farClipPlane * 0.5f : distanceToGround;
+		viewportPoint.z = _targetCamera.orthographic ? 0 : distanceToGround;
+
+		// 3. Convert viewport point to World coordinates
+		Vector3 worldPoint = _targetCamera.ViewportToWorldPoint(viewportPoint);
+
+		// 4. Offset slightly outward by spawnBufferDistance for extra safety
+		Vector3 camToPoint = (worldPoint - _targetCamera.transform.position);
+		worldPoint += camToPoint.normalized * _spawnBufferDistance;
+		worldPoint.z = 0;
+		return worldPoint;
+	}
 }

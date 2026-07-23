@@ -44,8 +44,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba7748a31712cf941b96c7cf4286f355, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KingProtection
-  targetDistance: 3
-  bufferDistance: 0.5
-  enemyTag: Enemy
-  destroyKey: 101
+  _enemyDestroyers:
+  - _ellipseRenderer: {fileID: 0}
+    _destroyKey:
+      m_Name: Destroy Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: ba759e38-2353-4ff2-beae-7f46027eb328
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: d09a45c6-8194-457d-a207-2c7c2c0e218f
+        m_Path: <Keyboard>/1
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      m_Flags: 0
+    _enemyType: 0
+  - _ellipseRenderer: {fileID: 0}
+    _destroyKey:
+      m_Name: Destroy Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: ba759e38-2353-4ff2-beae-7f46027eb328
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: d09a45c6-8194-457d-a207-2c7c2c0e218f
+        m_Path: <Keyboard>/2
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      m_Flags: 0
+    _enemyType: 2
   destroyFxPrefab: {fileID: 0}
