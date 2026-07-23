@@ -1,0 +1,1679 @@
+fileFormatVersion: 2
+guid: cf33afe8ceeba19479a0cad60876418f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6907384755939360892
+    second: Knight_Sleeps_01_0
+  - first:
+      213: 9130749327406418351
+    second: Knight_Sleeps_01_1
+  - first:
+      213: 4077103751971138304
+    second: Knight_Sleeps_01_2
+  - first:
+      213: -9223347384099009767
+    second: Knight_Sleeps_01_3
+  - first:
+      213: 5273149160650578203
+    second: Knight_Sleeps_01_4
+  - first:
+      213: -3688258104196305130
+    second: Knight_Sleeps_01_5
+  - first:
+      213: -4903801672148719721
+    second: Knight_Sleeps_01_6
+  - first:
+      213: -62858256328735158
+    second: Knight_Sleeps_01_7
+  - first:
+      213: -7910178198616025845
+    second: Knight_Sleeps_01_8
+  - first:
+      213: 4043278048656417182
+    second: Knight_Sleeps_01_9
+  - first:
+      213: -8593206998477224995
+    second: Knight_Sleeps_01_10
+  - first:
+      213: -4590697338882635062
+    second: Knight_Sleeps_01_11
+  - first:
+      213: 7101813244697952680
+    second: Knight_Sleeps_01_12
+  - first:
+      213: -6776020553351269513
+    second: Knight_Sleeps_01_13
+  - first:
+      213: -1411606679425270979
+    second: Knight_Sleeps_01_14
+  - first:
+      213: -2830502135210834203
+    second: Knight_Sleeps_01_15
+  - first:
+      213: -5165330321403531871
+    second: Knight_Sleeps_01_16
+  - first:
+      213: -5705568518823241387
+    second: Knight_Sleeps_01_17
+  - first:
+      213: 436422349848841756
+    second: Knight_Sleeps_01_18
+  - first:
+      213: -4717548748176387714
+    second: Knight_Sleeps_01_19
+  - first:
+      213: -3098272175805346547
+    second: Knight_Sleeps_01_20
+  - first:
+      213: 6923237358957493530
+    second: Knight_Sleeps_01_21
+  - first:
+      213: 7621764410034487392
+    second: Knight_Sleeps_01_22
+  - first:
+      213: 5622640668688657134
+    second: Knight_Sleeps_01_23
+  - first:
+      213: -1482215949004213351
+    second: Knight_Sleeps_01_24
+  - first:
+      213: 1408665378439097160
+    second: Knight_Sleeps_01_25
+  - first:
+      213: 7846657723924386278
+    second: Knight_Sleeps_01_26
+  - first:
+      213: 7458589665423399289
+    second: Knight_Sleeps_01_27
+  - first:
+      213: 4718393396831446607
+    second: Knight_Sleeps_01_28
+  - first:
+      213: 2147586773054722804
+    second: Knight_Sleeps_01_29
+  - first:
+      213: 5197382855068639976
+    second: Knight_Sleeps_01_30
+  - first:
+      213: 8892325058119580179
+    second: Knight_Sleeps_01_31
+  - first:
+      213: 5002546924206749560
+    second: Knight_Sleeps_01_32
+  - first:
+      213: 7771317007234030533
+    second: Knight_Sleeps_01_33
+  - first:
+      213: -4609869181576873323
+    second: Knight_Sleeps_01_34
+  - first:
+      213: -5716275976433736451
+    second: Knight_Sleeps_01_35
+  - first:
+      213: -1171135603868669306
+    second: Knight_Sleeps_01_36
+  - first:
+      213: -637786050348004243
+    second: Knight_Sleeps_01_37
+  - first:
+      213: -6541369823496869429
+    second: Knight_Sleeps_01_38
+  - first:
+      213: -400492808392694438
+    second: Knight_Sleeps_01_39
+  - first:
+      213: -6478810063488834460
+    second: Knight_Sleeps_01_40
+  - first:
+      213: -7566542320602013325
+    second: Knight_Sleeps_01_41
+  - first:
+      213: -3211954161105832807
+    second: Knight_Sleeps_01_42
+  - first:
+      213: 3250782832008979660
+    second: Knight_Sleeps_01_43
+  - first:
+      213: -1465437486938114568
+    second: Knight_Sleeps_01_44
+  - first:
+      213: 7613247613175767735
+    second: Knight_Sleeps_01_45
+  - first:
+      213: 4045638886776738816
+    second: Knight_Sleeps_01_46
+  - first:
+      213: 2994106667104494794
+    second: Knight_Sleeps_01_47
+  - first:
+      213: -2731697229578486853
+    second: Knight_Sleeps_01_48
+  - first:
+      213: 4036506655446720418
+    second: Knight_Sleeps_01_49
+  - first:
+      213: -2251525703646778773
+    second: Knight_Sleeps_01_50
+  - first:
+      213: 4683907517683604855
+    second: Knight_Sleeps_01_51
+  - first:
+      213: -7744876497649070165
+    second: Knight_Sleeps_01_52
+  - first:
+      213: 5809261818404633713
+    second: Knight_Sleeps_01_53
+  - first:
+      213: 4286968810141987817
+    second: Knight_Sleeps_01_54
+  - first:
+      213: -8551641087911699723
+    second: Knight_Sleeps_01_55
+  - first:
+      213: 5625948706536412877
+    second: Knight_Sleeps_01_56
+  - first:
+      213: -6159529078313866033
+    second: Knight_Sleeps_01_57
+  - first:
+      213: 8408340079237691347
+    second: Knight_Sleeps_01_58
+  - first:
+      213: -4868779515075875966
+    second: Knight_Sleeps_01_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c6b0b6d5fbdf50800000000000000
+      internalID: 6907384755939360892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa94231f220f6be70800000000000000
+      internalID: 9130749327406418351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_2
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00be6a0d248c49830800000000000000
+      internalID: 4077103751971138304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_3
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b00caeb66100080800000000000000
+      internalID: -9223347384099009767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_4
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191a38293dfd2940800000000000000
+      internalID: 5273149160650578203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_5
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f6c63abcca0dcc0800000000000000
+      internalID: -3688258104196305130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_6
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797eb925c5232fbb0800000000000000
+      internalID: -4903801672148719721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_7
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 6265
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a464358bfbea02ff0800000000000000
+      internalID: -62858256328735158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d37996d6693290800000000000000
+      internalID: -7910178198616025845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_9
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ec4a86fb9c1830800000000000000
+      internalID: 4043278048656417182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_10
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd34d5e73cbceb880800000000000000
+      internalID: -8593206998477224995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_11
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acac194c7119a40c0800000000000000
+      internalID: -4590697338882635062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_12
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c26fd485be8260800000000000000
+      internalID: 7101813244697952680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_13
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77370c6253db6f1a0800000000000000
+      internalID: -6776020553351269513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_14
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bb94e3437f86ce0800000000000000
+      internalID: -1411606679425270979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_15
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 5370
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e606cefd4908b8d0800000000000000
+      internalID: -2830502135210834203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad2035907f0158b0800000000000000
+      internalID: -5165330321403531871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_17
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55993e959afb1d0b0800000000000000
+      internalID: -5705568518823241387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_18
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e08ce90db7e0600800000000000000
+      internalID: 436422349848841756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_19
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e719b5e7866e78eb0800000000000000
+      internalID: -4717548748176387714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_20
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d45a71fd9b005d0800000000000000
+      internalID: -3098272175805346547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_21
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dff5472b7441060800000000000000
+      internalID: 6923237358957493530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_22
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06002dd5952f5c960800000000000000
+      internalID: 7621764410034487392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_23
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 4475
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2adce5e1a70e40800000000000000
+      internalID: 5622640668688657134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937f2f827c1e6be0800000000000000
+      internalID: -1482215949004213351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84be041c2b59c8310800000000000000
+      internalID: 1408665378439097160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_26
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1969460ade4ec60800000000000000
+      internalID: 7846657723924386278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_27
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97916fc88cb328760800000000000000
+      internalID: 7458589665423399289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_28
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46efa89bc91b7140800000000000000
+      internalID: 4718393396831446607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_29
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2114caac2cdcd10800000000000000
+      internalID: 2147586773054722804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_30
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e262167b20d02840800000000000000
+      internalID: 5197382855068639976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_31
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 3580
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab58cd682e76b70800000000000000
+      internalID: 8892325058119580179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877f0954ced9c6540800000000000000
+      internalID: 5002546924206749560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_33
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbd225d4a349db60800000000000000
+      internalID: 7771317007234030533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_34
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af61b47647600c0800000000000000
+      internalID: -4609869181576873323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_35
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4619a1945bba0b0800000000000000
+      internalID: -5716275976433736451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_36
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a689b8f5a4fbfe0800000000000000
+      internalID: -1171135603868669306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_37
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cce4267f02627f0800000000000000
+      internalID: -637786050348004243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_38
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9620e9dc26835a0800000000000000
+      internalID: -6541369823496869429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_39
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 2685
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55a7a4a9e9217af0800000000000000
+      internalID: -400492808392694438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464a58ec294a616a0800000000000000
+      internalID: -6478810063488834460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_41
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ae8249dd3ef690800000000000000
+      internalID: -7566542320602013325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_42
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f27845b8dc63d0800000000000000
+      internalID: -3211954161105832807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_43
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc465d723c91d1d20800000000000000
+      internalID: 3250782832008979660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_44
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5338eae58b9abe0800000000000000
+      internalID: -1465437486938114568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_45
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2ae621e50b7a960800000000000000
+      internalID: 7613247613175767735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_46
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00495dff12ff42830800000000000000
+      internalID: 4045638886776738816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_47
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 1790
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4646876243d8920800000000000000
+      internalID: 2994106667104494794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb3e05c7df071ad0800000000000000
+      internalID: -2731697229578486853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_49
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd663ba6d840830800000000000000
+      internalID: 4036506655446720418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_50
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae8773d49f0c0e0800000000000000
+      internalID: -2251525703646778773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_51
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d10582215900140800000000000000
+      internalID: 4683907517683604855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_52
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0b580cdba48490800000000000000
+      internalID: -7744876497649070165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_53
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c7f3558d4ae9050800000000000000
+      internalID: 5809261818404633713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_54
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e331b36b6f5e7b30800000000000000
+      internalID: 4286968810141987817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_55
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 895
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa53643db7725980800000000000000
+      internalID: -8551641087911699723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6dba18a82631e40800000000000000
+      internalID: 5625948706536412877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_57
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcca96710f4f48aa0800000000000000
+      internalID: -6159529078313866033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_58
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d774a5b0cc60b470800000000000000
+      internalID: 8408340079237691347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Sleeps_01_59
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 0
+        width: 671
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2432b3de9e6cb0800000000000000
+      internalID: -4868779515075875966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c69dcad355c5c7e42803b5f629ebaaf8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":671.0,"y":895.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight_Sleeps_01_0: 6907384755939360892
+      Knight_Sleeps_01_1: 9130749327406418351
+      Knight_Sleeps_01_10: -8593206998477224995
+      Knight_Sleeps_01_11: -4590697338882635062
+      Knight_Sleeps_01_12: 7101813244697952680
+      Knight_Sleeps_01_13: -6776020553351269513
+      Knight_Sleeps_01_14: -1411606679425270979
+      Knight_Sleeps_01_15: -2830502135210834203
+      Knight_Sleeps_01_16: -5165330321403531871
+      Knight_Sleeps_01_17: -5705568518823241387
+      Knight_Sleeps_01_18: 436422349848841756
+      Knight_Sleeps_01_19: -4717548748176387714
+      Knight_Sleeps_01_2: 4077103751971138304
+      Knight_Sleeps_01_20: -3098272175805346547
+      Knight_Sleeps_01_21: 6923237358957493530
+      Knight_Sleeps_01_22: 7621764410034487392
+      Knight_Sleeps_01_23: 5622640668688657134
+      Knight_Sleeps_01_24: -1482215949004213351
+      Knight_Sleeps_01_25: 1408665378439097160
+      Knight_Sleeps_01_26: 7846657723924386278
+      Knight_Sleeps_01_27: 7458589665423399289
+      Knight_Sleeps_01_28: 4718393396831446607
+      Knight_Sleeps_01_29: 2147586773054722804
+      Knight_Sleeps_01_3: -9223347384099009767
+      Knight_Sleeps_01_30: 5197382855068639976
+      Knight_Sleeps_01_31: 8892325058119580179
+      Knight_Sleeps_01_32: 5002546924206749560
+      Knight_Sleeps_01_33: 7771317007234030533
+      Knight_Sleeps_01_34: -4609869181576873323
+      Knight_Sleeps_01_35: -5716275976433736451
+      Knight_Sleeps_01_36: -1171135603868669306
+      Knight_Sleeps_01_37: -637786050348004243
+      Knight_Sleeps_01_38: -6541369823496869429
+      Knight_Sleeps_01_39: -400492808392694438
+      Knight_Sleeps_01_4: 5273149160650578203
+      Knight_Sleeps_01_40: -6478810063488834460
+      Knight_Sleeps_01_41: -7566542320602013325
+      Knight_Sleeps_01_42: -3211954161105832807
+      Knight_Sleeps_01_43: 3250782832008979660
+      Knight_Sleeps_01_44: -1465437486938114568
+      Knight_Sleeps_01_45: 7613247613175767735
+      Knight_Sleeps_01_46: 4045638886776738816
+      Knight_Sleeps_01_47: 2994106667104494794
+      Knight_Sleeps_01_48: -2731697229578486853
+      Knight_Sleeps_01_49: 4036506655446720418
+      Knight_Sleeps_01_5: -3688258104196305130
+      Knight_Sleeps_01_50: -2251525703646778773
+      Knight_Sleeps_01_51: 4683907517683604855
+      Knight_Sleeps_01_52: -7744876497649070165
+      Knight_Sleeps_01_53: 5809261818404633713
+      Knight_Sleeps_01_54: 4286968810141987817
+      Knight_Sleeps_01_55: -8551641087911699723
+      Knight_Sleeps_01_56: 5625948706536412877
+      Knight_Sleeps_01_57: -6159529078313866033
+      Knight_Sleeps_01_58: 8408340079237691347
+      Knight_Sleeps_01_59: -4868779515075875966
+      Knight_Sleeps_01_6: -4903801672148719721
+      Knight_Sleeps_01_7: -62858256328735158
+      Knight_Sleeps_01_8: -7910178198616025845
+      Knight_Sleeps_01_9: 4043278048656417182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
