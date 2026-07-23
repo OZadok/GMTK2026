@@ -1586,6 +1586,7 @@ MonoBehaviour:
   _time: 1.38
   _timeToAddWhenEnemyDestroyed: 5
   _timeToReduceWhenPressedAndEnemyNotDestroyed: 1
+  _timeToReduceWhenEnemyReachesKing: 2
 --- !u!4 &1001002992
 Transform:
   m_ObjectHideFlags: 0
