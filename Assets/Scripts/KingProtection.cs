@@ -51,6 +51,8 @@ public class KingProtection : MonoBehaviour
 					Messenger.Default.Publish(new TryDestroyEnemyAndFailedEvent());
 				}
 			}
+
+			enemyDestroyer._ellipseRenderer.OnPressed(enemyDestroyer._destroyKey.IsPressed());
 		}
 	}
 

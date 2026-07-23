@@ -729,6 +729,7 @@ MonoBehaviour:
   xAxisRadius: 3
   yAxisRadius: 1.75
   line: {fileID: 554841202}
+  _color: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 1}
 --- !u!120 &554841202
 LineRenderer:
   serializedVersion: 3
@@ -900,8 +901,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 0.5882353}
-      key1: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 0.5882353}
+      key0: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 1}
+      key1: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -3095,6 +3096,7 @@ MonoBehaviour:
   xAxisRadius: 4
   yAxisRadius: 2.5
   line: {fileID: 1834699416}
+  _color: {r: 0.54509807, g: 0.21803921, b: 0.32705888, a: 1}
 --- !u!120 &1834699416
 LineRenderer:
   serializedVersion: 3
@@ -3266,8 +3268,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.54509807, g: 0.21960784, b: 0.32941177, a: 0.5882353}
-      key1: {r: 0.54509807, g: 0.21960784, b: 0.32941177, a: 0.5882353}
+      key0: {r: 0.54509807, g: 0.21960784, b: 0.32941177, a: 1}
+      key1: {r: 0.54509807, g: 0.21960784, b: 0.32941177, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -3540,6 +3542,7 @@ MonoBehaviour:
   xAxisRadius: 2
   yAxisRadius: 1
   line: {fileID: 2055608103}
+  _color: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 1}
 --- !u!120 &2055608103
 LineRenderer:
   serializedVersion: 3
@@ -3711,8 +3714,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 0.5882353}
-      key1: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 0.5882353}
+      key0: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 1}
+      key1: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
