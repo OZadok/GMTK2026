@@ -42,7 +42,10 @@ public class Timer : MonoBehaviour
     
     private void OnEnemyDestroyed(EnemyDestroyedEvent enemyDestroyedEvent)
     {
-        _time += _timeToAddWhenEnemyDestroyed;
+        if (_time > 0)
+        {
+            _time += _timeToAddWhenEnemyDestroyed;
+        }
     }
     
     private void OnTryDestroyEnemyAndFailed(TryDestroyEnemyAndFailedEvent tryDestroyEnemyAndFailedEvent)

@@ -12,11 +12,21 @@ public class GameManager : MonoBehaviour
 	private void OnEnable()
 	{
 		Messenger.Default.Subscribe<StartGameEvent>(OnStartGame);
+		Messenger.Default.Subscribe<TimerTimeEvent>(OnTimerTime);
 	}
 
 	private void OnDisable()
 	{
 		Messenger.Default.Unsubscribe<StartGameEvent>(OnStartGame);
+		Messenger.Default.Unsubscribe<TimerTimeEvent>(OnTimerTime);
+	}
+
+	private void OnTimerTime(TimerTimeEvent timerTimeEvent)
+	{
+		if (timerTimeEvent.Time <= 0)
+		{
+			Messenger.Default.Publish(new GameOverEvent());
+		}
 	}
 
 	private void OnStartGame(StartGameEvent obj)
