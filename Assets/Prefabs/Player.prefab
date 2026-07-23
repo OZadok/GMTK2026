@@ -62,6 +62,30 @@ MonoBehaviour:
         m_Groups: 
         m_Action: Destroy Key
         m_Flags: 0
+      - m_Name: 
+        m_Id: 3fa95e83-ea8f-4959-bbb1-09532b78e1d2
+        m_Path: <Keyboard>/q
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: c9377624-db8a-43c6-bfda-f9f5840ec960
+        m_Path: <Keyboard>/a
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: 06bd8bc5-8aa7-45f4-a4af-c91829ecc124
+        m_Path: <Keyboard>/z
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
       m_Flags: 0
     _enemyType: 0
   - _ellipseRenderer: {fileID: 0}
@@ -76,6 +100,73 @@ MonoBehaviour:
       - m_Name: 
         m_Id: d09a45c6-8194-457d-a207-2c7c2c0e218f
         m_Path: <Keyboard>/2
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: 2c45add7-10bf-4b6d-ada8-18145b506b51
+        m_Path: <Keyboard>/w
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: ad365ebb-b6b7-4279-84fa-58fb7bcd3deb
+        m_Path: <Keyboard>/s
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: 489fa87b-7880-4418-aa10-db9272a934ec
+        m_Path: <Keyboard>/x
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      m_Flags: 0
+    _enemyType: 1
+  - _ellipseRenderer: {fileID: 0}
+    _destroyKey:
+      m_Name: Destroy Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: ba759e38-2353-4ff2-beae-7f46027eb328
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: d09a45c6-8194-457d-a207-2c7c2c0e218f
+        m_Path: <Keyboard>/3
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: b10e3f9f-4a4a-49f2-adfd-388bec2059ec
+        m_Path: <Keyboard>/e
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: ad174290-2ecf-449f-8e27-f719382f55e0
+        m_Path: <Keyboard>/d
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Destroy Key
+        m_Flags: 0
+      - m_Name: 
+        m_Id: 496a2f06-381a-41c1-8978-17cd32872eda
+        m_Path: <Keyboard>/c
         m_Interactions: 
         m_Processors: 
         m_Groups: 

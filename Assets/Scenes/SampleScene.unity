@@ -3948,18 +3948,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1834699415}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[1]._enemyType
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._enemyType
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
       propertyPath: _enemyDestroyers.Array.data[0].toggleKey.m_Id
       value: 533c9e0e-935c-47ff-813f-f9044bc6b9d9
       objectReference: {fileID: 0}
@@ -3976,23 +3964,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 554841201}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._destroyKey.m_Id
-      value: ba759e38-2353-4ff2-beae-7f46027eb328
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
       propertyPath: _enemyDestroyers.Array.data[2]._ellipseRenderer
       value: 
       objectReference: {fileID: 2055608102}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._destroyKey.m_Name
-      value: Destroy Key
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
       propertyPath: _enemyDestroyers.Array.data[0].toggleKey.m_SingletonActionBindings.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._destroyKey.m_SingletonActionBindings.Array.size
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
@@ -4004,24 +3980,8 @@ PrefabInstance:
       value: <Keyboard>/1
       objectReference: {fileID: 0}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._destroyKey.m_SingletonActionBindings.Array.data[0].m_Id
-      value: d09a45c6-8194-457d-a207-2c7c2c0e218f
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
       propertyPath: _enemyDestroyers.Array.data[0].toggleKey.m_SingletonActionBindings.Array.data[0].m_Action
       value: Toggle Key
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[1]._destroyKey.m_SingletonActionBindings.Array.data[0].m_Path
-      value: <Keyboard>/2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._destroyKey.m_SingletonActionBindings.Array.data[0].m_Path
-      value: <Keyboard>/3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
-      propertyPath: _enemyDestroyers.Array.data[2]._destroyKey.m_SingletonActionBindings.Array.data[0].m_Action
-      value: Destroy Key
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
