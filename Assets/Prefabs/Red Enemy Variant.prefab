@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 469059328517154923, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: Red Enemy Variant
       objectReference: {fileID: 0}
     - target: {fileID: 472943190325942987, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
       propertyPath: m_LocalPosition.x
@@ -50,6 +50,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472943190325942987, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794397849797657982, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9165112069953745187, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

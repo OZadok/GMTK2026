@@ -13,6 +13,9 @@ public class GoToKing : MonoBehaviour
     [Header("Movement Settings")]
     [SerializeField] private float _moveSpeed = 3.5f;
     [SerializeField] private float _stoppingDistance = 1.0f;
+    
+    [Header("Sprite Settings")]
+    [SerializeField] private SpriteRenderer _enemySpriteRenderer;
 
     private void Start()
     {
@@ -34,6 +37,8 @@ public class GoToKing : MonoBehaviour
     {
         if (!_kingTransform) return;
 
+        _enemySpriteRenderer.flipX = transform.position.x > _kingTransform.position.x;
+        
         // Calculate distance to King
         float distanceToKing = Vector3.Distance(transform.position, _kingTransform.position);
 
