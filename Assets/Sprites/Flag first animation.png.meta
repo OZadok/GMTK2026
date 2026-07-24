@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: ca7955b3aedefe6468bfaa6f4ab0fbe3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 865615025444322929
+    second: flag animation out_0
+  - first:
+      213: 2596295783221887118
+    second: flag animation out_1
+  - first:
+      213: -1475001274625064488
+    second: flag animation out_2
+  - first:
+      213: 7246770273458924199
+    second: flag animation out_3
+  - first:
+      213: 8272360067197978661
+    second: flag animation out_4
+  - first:
+      213: -7219814054439822355
+    second: flag animation out_5
+  - first:
+      213: 7505571306225125715
+    second: flag animation out_6
+  - first:
+      213: -4886884550253864442
+    second: flag animation out_7
+  - first:
+      213: 5218368108553493969
+    second: flag animation out_8
+  - first:
+      213: 4651459270711592282
+    second: flag animation out_9
+  - first:
+      213: -2874977029596259779
+    second: flag animation out_10
+  - first:
+      213: -8766967680759421066
+    second: flag animation out_11
+  - first:
+      213: -2669604470439984853
+    second: flag animation out_12
+  - first:
+      213: 2918018984896137790
+    second: flag animation out_13
+  - first:
+      213: -2298043976783964987
+    second: flag animation out_14
+  - first:
+      213: 9143434221435147242
+    second: flag animation out_15
+  - first:
+      213: 796902132715411893
+    second: flag animation out_16
+  - first:
+      213: -6776677965620684175
+    second: flag animation out_17
+  - first:
+      213: -4937399857813006394
+    second: flag animation out_18
+  - first:
+      213: 8778305138548791442
+    second: flag animation out_19
+  - first:
+      213: -7461517785349334220
+    second: flag animation out_20
+  - first:
+      213: 3606787563346945759
+    second: flag animation out_21
+  - first:
+      213: -7322011182903785033
+    second: flag animation out_22
+  - first:
+      213: -2121386783647010551
+    second: flag animation out_23
+  - first:
+      213: -3850955435895879932
+    second: flag animation out_24
+  - first:
+      213: 8226858190923690202
+    second: flag animation out_25
+  - first:
+      213: -6535196230452154032
+    second: flag animation out_26
+  - first:
+      213: 1353393724147971522
+    second: flag animation out_27
+  - first:
+      213: -3236024923761972927
+    second: flag animation out_28
+  - first:
+      213: 8655750580108049109
+    second: flag animation out_29
+  - first:
+      213: -6964540245629160524
+    second: flag animation out_30
+  - first:
+      213: 3653457139011872329
+    second: flag animation out_31
+  - first:
+      213: 5739067811488380255
+    second: flag animation out_32
+  - first:
+      213: -5278431189482829000
+    second: flag animation out_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flag first animation_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84010b121a758b741954e484ac83b930
+      internalID: -1347267618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_1
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04567ac04a63147bb0e819d1de0c94
+      internalID: -184886396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_2
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50625b04d100d2148a49666a4d4d5ba3
+      internalID: -109403552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_3
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efea2174627694ca69cce7d289838b
+      internalID: 1423005224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_4
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab41087e0441e4b9776643bb131c0e
+      internalID: -989350471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_5
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de68596cfce844469b077bd32abf9f6
+      internalID: -734843866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de35367c5349d40aa517d84940c60d
+      internalID: 1338757765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b988ca14f7e84e84796f685fb2f4e
+      internalID: 2062915209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a54555dc017364cb7fbc670b99c6f5
+      internalID: -1802045653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_9
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137f88d286cdf848baf5ca2633c38bf
+      internalID: -1799605186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_10
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36848d65877ec44853f264ce33465c
+      internalID: -1813288229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_11
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844893340a20af9458615074df065103
+      internalID: 1040527988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_12
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5cfbbe2c1e064e92b6b1374ede2fd
+      internalID: -533342976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc47ebe4f1eed4296d2ee396e957c5
+      internalID: -1958742835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1afa854d0951940a6788c1af33f128
+      internalID: -28427516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_15
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d83d320718f543a4f29ef1ca89f10
+      internalID: -1455745211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_16
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb9fee90e17fe4e977397babc8e542
+      internalID: 713111943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_17
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8b0c18559d6474e8648f08f0e9beb3
+      internalID: 1927928189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_18
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e732f315e15fb34c9886c1eaea7d2a2
+      internalID: -833622386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_19
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c76945518fba4eb3a93fa23d9d3bb
+      internalID: -59178220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9046d4572b02f3e438ac5cf7040611c6
+      internalID: 1818003704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abdb910187b2946ba1125e4a76cb6a
+      internalID: -377440517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_22
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012c310b0ec69174db127d0532ac07d1
+      internalID: 1120973002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_23
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d02e31de8ff64993f39a6311a407c
+      internalID: 285829283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_24
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753933ca81768947813f1e72430e2c3
+      internalID: -1611402048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_25
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793bbafd2d38c6b468d1af45564504e0
+      internalID: 17849762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_26
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c55a0408d0775645b19c8bd1a66fc41
+      internalID: -1027320531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57ffb889516ae4db047afd466fc843
+      internalID: -929502625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be04e05723b12418f203bcb1e887a5
+      internalID: -1141470737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a55ff5220abfc4a84bd28e329d658a
+      internalID: -1739532392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_30
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2476b916d0f429647977cb3c3d4f0326
+      internalID: 1044274079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag first animation_31
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a417049ba01f438f56440a5a5b70d
+      internalID: -65019549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f695587657556d4899f6e7135e807ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":5.0},"gridSpriteSize":{"x":651.0,"y":463.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flag first animation_0: -1347267618
+      Flag first animation_1: -184886396
+      Flag first animation_10: -1813288229
+      Flag first animation_11: 1040527988
+      Flag first animation_12: -533342976
+      Flag first animation_13: -1958742835
+      Flag first animation_14: -28427516
+      Flag first animation_15: -1455745211
+      Flag first animation_16: 713111943
+      Flag first animation_17: 1927928189
+      Flag first animation_18: -833622386
+      Flag first animation_19: -59178220
+      Flag first animation_2: -109403552
+      Flag first animation_20: 1818003704
+      Flag first animation_21: -377440517
+      Flag first animation_22: 1120973002
+      Flag first animation_23: 285829283
+      Flag first animation_24: -1611402048
+      Flag first animation_25: 17849762
+      Flag first animation_26: -1027320531
+      Flag first animation_27: -929502625
+      Flag first animation_28: -1141470737
+      Flag first animation_29: -1739532392
+      Flag first animation_3: 1423005224
+      Flag first animation_30: 1044274079
+      Flag first animation_31: -65019549
+      Flag first animation_4: -989350471
+      Flag first animation_5: -734843866
+      Flag first animation_6: 1338757765
+      Flag first animation_7: 2062915209
+      Flag first animation_8: -1802045653
+      Flag first animation_9: -1799605186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
