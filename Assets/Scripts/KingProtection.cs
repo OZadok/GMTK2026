@@ -5,6 +5,7 @@ using Events;
 using SuperMaxim.Messaging;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Serialization;
 
 public class KingProtection : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class KingProtection : MonoBehaviour
 	}
 
 	[SerializeField] private List<EnemyDestroyer> _enemyDestroyers;
+
+	[SerializeField] private float _ellipseColliderSize = 1f;
 
 	[Header("Optional VFX")] [SerializeField]
 	private GameObject destroyFxPrefab;
@@ -103,7 +106,7 @@ public class KingProtection : MonoBehaviour
 		                      + (localPos.y * localPos.y) / (yRadius * yRadius);
 
 		// 3. Check if the value is within (1 - threshold) and (1 + threshold)
-		return Mathf.Abs(normalizedVal - 1f) <= ellipseRenderer.line.startWidth;
+		return Mathf.Abs(normalizedVal - 1f) <= _ellipseColliderSize;
 	}
 
 	private void DestroyEnemy(Enemy enemy)

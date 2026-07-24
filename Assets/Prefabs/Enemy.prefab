@@ -109,7 +109,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GoToKing
   _kingTransform: {fileID: 0}
   _moveSpeed: 4
-  _stoppingDistance: 1
+  _stoppingDistance: 0.7
   _enemySpriteRenderer: {fileID: 3794397849797657982}
 --- !u!114 &12697823902069533
 MonoBehaviour:
@@ -126,6 +126,7 @@ MonoBehaviour:
   _type: 0
   _animator: {fileID: 442057113786489269}
   _goToKing: {fileID: 8699382332723798439}
+  _isDead: 0
 --- !u!1 &1690457584096913001
 GameObject:
   m_ObjectHideFlags: 0
