@@ -1,97 +1,97 @@
 fileFormatVersion: 2
-guid: 9d69f4520fe0f91448f6e2b7056af29c
+guid: 00b539fdce3c6be45a90693fd48b8cd7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7105069411746438058
-    second: Red Enemy Attack_0
+      213: -7056081311794405548
+    second: Blue Enemy Attack_0
   - first:
-      213: 7480195608006666668
-    second: Red Enemy Attack_1
+      213: 6801996570163774484
+    second: Blue Enemy Attack_1
   - first:
-      213: 6207041777692239221
-    second: Red Enemy Attack_2
+      213: -4100509301022172522
+    second: Blue Enemy Attack_2
   - first:
-      213: -4732566709086245155
-    second: Red Enemy Attack_3
+      213: 768939021043008353
+    second: Blue Enemy Attack_3
   - first:
-      213: -4144563695163927771
-    second: Red Enemy Attack_4
+      213: -4841998012715230038
+    second: Blue Enemy Attack_4
   - first:
-      213: -998950801613545434
-    second: Red Enemy Attack_5
+      213: 2102915874711847537
+    second: Blue Enemy Attack_5
   - first:
-      213: -4390933043668495748
-    second: Red Enemy Attack_6
+      213: 3053937693815156730
+    second: Blue Enemy Attack_6
   - first:
-      213: 7466149965015344952
-    second: Red Enemy Attack_7
+      213: -5278241576396948882
+    second: Blue Enemy Attack_7
   - first:
-      213: 7254152501167945079
-    second: Red Enemy Attack_8
+      213: 8252213860917949685
+    second: Blue Enemy Attack_8
   - first:
-      213: -6059292273268498425
-    second: Red Enemy Attack_9
+      213: -3276340780274172282
+    second: Blue Enemy Attack_9
   - first:
-      213: -2120469498841865604
-    second: Red Enemy Attack_10
+      213: -4597134072298882752
+    second: Blue Enemy Attack_10
   - first:
-      213: 7344556932658183640
-    second: Red Enemy Attack_11
+      213: 3574834230053439139
+    second: Blue Enemy Attack_11
   - first:
-      213: 7544297757206480054
-    second: Red Enemy Attack_12
+      213: 2915409092023131798
+    second: Blue Enemy Attack_12
   - first:
-      213: 3632787650072572893
-    second: Red Enemy Attack_13
+      213: -78949882086033571
+    second: Blue Enemy Attack_13
   - first:
-      213: -6156458085536230596
-    second: Red Enemy Attack_14
+      213: -8293821308791407545
+    second: Blue Enemy Attack_14
   - first:
-      213: 1694828376254571301
-    second: Red Enemy Attack_15
+      213: 3877589313229572829
+    second: Blue Enemy Attack_15
   - first:
-      213: 2066415856564689700
-    second: Red Enemy Attack_16
+      213: -983339056475747282
+    second: Blue Enemy Attack_16
   - first:
-      213: -3508621266772600630
-    second: Red Enemy Attack_17
+      213: -1092630028564146624
+    second: Blue Enemy Attack_17
   - first:
-      213: 3035200198556102966
-    second: Red Enemy Attack_18
+      213: 7121607217742126861
+    second: Blue Enemy Attack_18
   - first:
-      213: -3863861750592352440
-    second: Red Enemy Attack_19
+      213: -8246995427508371150
+    second: Blue Enemy Attack_19
   - first:
-      213: 311808364486154003
-    second: Red Enemy Attack_20
+      213: 5813526518335971022
+    second: Blue Enemy Attack_20
   - first:
-      213: -8361753307676898622
-    second: Red Enemy Attack_21
+      213: -1911061388131146831
+    second: Blue Enemy Attack_21
   - first:
-      213: 2845012995636345612
-    second: Red Enemy Attack_22
+      213: 4077577547295643681
+    second: Blue Enemy Attack_22
   - first:
-      213: 1745379995817210747
-    second: Red Enemy Attack_23
+      213: 7044922848281400757
+    second: Blue Enemy Attack_23
   - first:
-      213: -6877142109204234354
-    second: Red Enemy Attack_24
+      213: -109664219091173563
+    second: Blue Enemy Attack_24
   - first:
-      213: -1172537583506814492
-    second: Red Enemy Attack_25
+      213: 7788960439674527811
+    second: Blue Enemy Attack_25
   - first:
-      213: -6687770408833979964
-    second: Red Enemy Attack_26
+      213: -8339671518043671705
+    second: Blue Enemy Attack_26
   - first:
-      213: -8621006816708115680
-    second: Red Enemy Attack_27
+      213: -7882759429668061817
+    second: Blue Enemy Attack_27
   - first:
-      213: 5635192883368120586
-    second: Red Enemy Attack_28
+      213: 1880091803758401206
+    second: Blue Enemy Attack_28
   - first:
-      213: -2615693208588780798
-    second: Red Enemy Attack_29
+      213: 1108916189850439502
+    second: Blue Enemy Attack_29
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -187,661 +187,661 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Red Enemy Attack_0
+      name: Blue Enemy Attack_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 3336
-        width: 1169
-        height: 834
+        y: 3032
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aabd3a75cf64a9260800000000000000
-      internalID: 7105069411746438058
+      spriteID: 45fd8308e63c31e90800000000000000
+      internalID: -7056081311794405548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_1
+      name: Blue Enemy Attack_1
       rect:
         serializedVersion: 2
-        x: 1169
-        y: 3336
-        width: 1169
-        height: 834
+        x: 941
+        y: 3032
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca9aca1164efec760800000000000000
-      internalID: 7480195608006666668
+      spriteID: 414890097db856e50800000000000000
+      internalID: 6801996570163774484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_2
+      name: Blue Enemy Attack_2
       rect:
         serializedVersion: 2
-        x: 2338
-        y: 3336
-        width: 1169
-        height: 834
+        x: 1882
+        y: 3032
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 575ea594c97d32650800000000000000
-      internalID: 6207041777692239221
+      spriteID: 69a536224801817c0800000000000000
+      internalID: -4100509301022172522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_3
+      name: Blue Enemy Attack_3
       rect:
         serializedVersion: 2
-        x: 3507
-        y: 3336
-        width: 1169
-        height: 834
+        x: 2823
+        y: 3032
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dde231df6ab825eb0800000000000000
-      internalID: -4732566709086245155
+      spriteID: 163843337f1dbaa00800000000000000
+      internalID: 768939021043008353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_4
+      name: Blue Enemy Attack_4
       rect:
         serializedVersion: 2
-        x: 4676
-        y: 3336
-        width: 1169
-        height: 834
+        x: 3764
+        y: 3032
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52316c0374d8b76c0800000000000000
-      internalID: -4144563695163927771
+      spriteID: aac16f02674cdccb0800000000000000
+      internalID: -4841998012715230038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_5
+      name: Blue Enemy Attack_5
       rect:
         serializedVersion: 2
-        x: 5845
-        y: 3336
-        width: 1169
-        height: 834
+        x: 4705
+        y: 3032
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 620abb1e9830322f0800000000000000
-      internalID: -998950801613545434
+      spriteID: 172cab8a8de0f2d10800000000000000
+      internalID: 2102915874711847537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2502
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c725d9339a54013c0800000000000000
-      internalID: -4390933043668495748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_7
-      rect:
-        serializedVersion: 2
-        x: 1169
-        y: 2502
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 837e888f5d71d9760800000000000000
-      internalID: 7466149965015344952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_8
-      rect:
-        serializedVersion: 2
-        x: 2338
-        y: 2502
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77570a2044deba460800000000000000
-      internalID: 7254152501167945079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_9
-      rect:
-        serializedVersion: 2
-        x: 3507
-        y: 2502
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 700ef8de7c119eba0800000000000000
-      internalID: -6059292273268498425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_10
-      rect:
-        serializedVersion: 2
-        x: 4676
-        y: 2502
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c72ea7cb9349292e0800000000000000
-      internalID: -2120469498841865604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_11
-      rect:
-        serializedVersion: 2
-        x: 5845
-        y: 2502
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8dd39bbfd9b1de560800000000000000
-      internalID: 7344556932658183640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_12
+      name: Blue Enemy Attack_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 1668
-        width: 1169
-        height: 834
+        y: 2274
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b4811ab6dab2b860800000000000000
-      internalID: 7544297757206480054
+      spriteID: aff270ee624c16a20800000000000000
+      internalID: 3053937693815156730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_13
+      name: Blue Enemy Attack_7
       rect:
         serializedVersion: 2
-        x: 1169
-        y: 1668
-        width: 1169
-        height: 834
+        x: 941
+        y: 2274
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd37003de114a6230800000000000000
-      internalID: 3632787650072572893
+      spriteID: e6a7928604befb6b0800000000000000
+      internalID: -5278241576396948882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_14
+      name: Blue Enemy Attack_8
       rect:
         serializedVersion: 2
-        x: 2338
-        y: 1668
-        width: 1169
-        height: 834
+        x: 1882
+        y: 2274
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3318015dfddf8aa0800000000000000
-      internalID: -6156458085536230596
+      spriteID: 5f4b19ec8c0c58270800000000000000
+      internalID: 8252213860917949685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_15
+      name: Blue Enemy Attack_9
       rect:
         serializedVersion: 2
-        x: 3507
-        y: 1668
-        width: 1169
-        height: 834
+        x: 2823
+        y: 2274
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 523e7e9bd6d358710800000000000000
-      internalID: 1694828376254571301
+      spriteID: 68eb1ac4b691882d0800000000000000
+      internalID: -3276340780274172282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_16
+      name: Blue Enemy Attack_10
       rect:
         serializedVersion: 2
-        x: 4676
-        y: 1668
-        width: 1169
-        height: 834
+        x: 3764
+        y: 2274
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42bd5c0f5426dac10800000000000000
-      internalID: 2066415856564689700
+      spriteID: 049b7cbfae2b330c0800000000000000
+      internalID: -4597134072298882752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_17
+      name: Blue Enemy Attack_11
       rect:
         serializedVersion: 2
-        x: 5845
-        y: 1668
-        width: 1169
-        height: 834
+        x: 4705
+        y: 2274
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac853ae1c8fde4fc0800000000000000
-      internalID: -3508621266772600630
+      spriteID: 3a60e3dbacc5c9130800000000000000
+      internalID: 3574834230053439139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_18
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 834
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 631b129df723f1a20800000000000000
-      internalID: 3035200198556102966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_19
-      rect:
-        serializedVersion: 2
-        x: 1169
-        y: 834
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84f49be953ec06ac0800000000000000
-      internalID: -3863861750592352440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_20
-      rect:
-        serializedVersion: 2
-        x: 2338
-        y: 834
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31751333e04c35400800000000000000
-      internalID: 311808364486154003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_21
-      rect:
-        serializedVersion: 2
-        x: 3507
-        y: 834
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ca887c4ba515fb80800000000000000
-      internalID: -8361753307676898622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_22
-      rect:
-        serializedVersion: 2
-        x: 4676
-        y: 834
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0b364afe348b7720800000000000000
-      internalID: 2845012995636345612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_23
-      rect:
-        serializedVersion: 2
-        x: 5845
-        y: 834
-        width: 1169
-        height: 834
-      alignment: 9
-      pivot: {x: 0.34, y: 0.075}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b73f1c8dbd5d83810800000000000000
-      internalID: 1745379995817210747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Red Enemy Attack_24
+      name: Blue Enemy Attack_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1169
-        height: 834
+        y: 1516
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8f300730bb7f80a0800000000000000
-      internalID: -6877142109204234354
+      spriteID: 69e9bf86f1d957820800000000000000
+      internalID: 2915409092023131798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_25
+      name: Blue Enemy Attack_13
       rect:
         serializedVersion: 2
-        x: 1169
-        y: 0
-        width: 1169
-        height: 834
+        x: 941
+        y: 1516
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e90849b74f4abfe0800000000000000
-      internalID: -1172537583506814492
+      spriteID: d57f333208387eef0800000000000000
+      internalID: -78949882086033571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_26
+      name: Blue Enemy Attack_14
       rect:
         serializedVersion: 2
-        x: 2338
-        y: 0
-        width: 1169
-        height: 834
+        x: 1882
+        y: 1516
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c9e41a1f344033a0800000000000000
-      internalID: -6687770408833979964
+      spriteID: 74c3ce2567d66ec80800000000000000
+      internalID: -8293821308791407545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_27
+      name: Blue Enemy Attack_15
       rect:
         serializedVersion: 2
-        x: 3507
-        y: 0
-        width: 1169
-        height: 834
+        x: 2823
+        y: 1516
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02344ebe9f70c5880800000000000000
-      internalID: -8621006816708115680
+      spriteID: dda46ef9fe6ffc530800000000000000
+      internalID: 3877589313229572829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_28
+      name: Blue Enemy Attack_16
       rect:
         serializedVersion: 2
-        x: 4676
-        y: 0
-        width: 1169
-        height: 834
+        x: 3764
+        y: 1516
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0157f5221a343e40800000000000000
-      internalID: 5635192883368120586
+      spriteID: e2ccefc865a7a52f0800000000000000
+      internalID: -983339056475747282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red Enemy Attack_29
+      name: Blue Enemy Attack_17
       rect:
         serializedVersion: 2
-        x: 5845
-        y: 0
-        width: 1169
-        height: 834
+        x: 4705
+        y: 1516
+        width: 941
+        height: 758
       alignment: 9
-      pivot: {x: 0.34, y: 0.075}
+      pivot: {x: 0.51, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20bf9a4a2e033bbd0800000000000000
-      internalID: -2615693208588780798
+      spriteID: 046528c27c236d0f0800000000000000
+      internalID: -1092630028564146624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f906b580805d260800000000000000
+      internalID: 7121607217742126861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_19
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231c7176a59cc8d80800000000000000
+      internalID: -8246995427508371150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9ab9219bcda050800000000000000
+      internalID: 5813526518335971022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_21
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b36a70facb8a75e0800000000000000
+      internalID: -1911061388131146831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_22
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1285aa2ec27769830800000000000000
+      internalID: 4077577547295643681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_23
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b598d1410894c160800000000000000
+      internalID: 7044922848281400757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fff7849f46a7ef0800000000000000
+      internalID: -109664219091173563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_25
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340ee509042f71c60800000000000000
+      internalID: 7788960439674527811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763709790f8834c80800000000000000
+      internalID: -8339671518043671705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d36c83010da9290800000000000000
+      internalID: -7882759429668061817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_28
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6942cc88d671a10800000000000000
+      internalID: 1880091803758401206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Enemy Attack_29
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f07bd3669a36f00800000000000000
+      internalID: 1108916189850439502
       vertices: []
       indices: 
       edges: []
@@ -850,7 +850,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f0d93d6a82e30ab40a739d14eee30456
+    spriteID: 6aece886cd909104ea6e27592da0b1d9
     internalID: 0
     vertices: []
     indices: 
@@ -860,38 +860,38 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":1169.0,"y":834.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.3400000035762787,"y":0.07500000298023224},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":941.0,"y":758.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5099999904632568,"y":0.07999999821186066},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Red Enemy Attack_0: 7105069411746438058
-      Red Enemy Attack_1: 7480195608006666668
-      Red Enemy Attack_10: -2120469498841865604
-      Red Enemy Attack_11: 7344556932658183640
-      Red Enemy Attack_12: 7544297757206480054
-      Red Enemy Attack_13: 3632787650072572893
-      Red Enemy Attack_14: -6156458085536230596
-      Red Enemy Attack_15: 1694828376254571301
-      Red Enemy Attack_16: 2066415856564689700
-      Red Enemy Attack_17: -3508621266772600630
-      Red Enemy Attack_18: 3035200198556102966
-      Red Enemy Attack_19: -3863861750592352440
-      Red Enemy Attack_2: 6207041777692239221
-      Red Enemy Attack_20: 311808364486154003
-      Red Enemy Attack_21: -8361753307676898622
-      Red Enemy Attack_22: 2845012995636345612
-      Red Enemy Attack_23: 1745379995817210747
-      Red Enemy Attack_24: -6877142109204234354
-      Red Enemy Attack_25: -1172537583506814492
-      Red Enemy Attack_26: -6687770408833979964
-      Red Enemy Attack_27: -8621006816708115680
-      Red Enemy Attack_28: 5635192883368120586
-      Red Enemy Attack_29: -2615693208588780798
-      Red Enemy Attack_3: -4732566709086245155
-      Red Enemy Attack_4: -4144563695163927771
-      Red Enemy Attack_5: -998950801613545434
-      Red Enemy Attack_6: -4390933043668495748
-      Red Enemy Attack_7: 7466149965015344952
-      Red Enemy Attack_8: 7254152501167945079
-      Red Enemy Attack_9: -6059292273268498425
+      Blue Enemy Attack_0: -7056081311794405548
+      Blue Enemy Attack_1: 6801996570163774484
+      Blue Enemy Attack_10: -4597134072298882752
+      Blue Enemy Attack_11: 3574834230053439139
+      Blue Enemy Attack_12: 2915409092023131798
+      Blue Enemy Attack_13: -78949882086033571
+      Blue Enemy Attack_14: -8293821308791407545
+      Blue Enemy Attack_15: 3877589313229572829
+      Blue Enemy Attack_16: -983339056475747282
+      Blue Enemy Attack_17: -1092630028564146624
+      Blue Enemy Attack_18: 7121607217742126861
+      Blue Enemy Attack_19: -8246995427508371150
+      Blue Enemy Attack_2: -4100509301022172522
+      Blue Enemy Attack_20: 5813526518335971022
+      Blue Enemy Attack_21: -1911061388131146831
+      Blue Enemy Attack_22: 4077577547295643681
+      Blue Enemy Attack_23: 7044922848281400757
+      Blue Enemy Attack_24: -109664219091173563
+      Blue Enemy Attack_25: 7788960439674527811
+      Blue Enemy Attack_26: -8339671518043671705
+      Blue Enemy Attack_27: -7882759429668061817
+      Blue Enemy Attack_28: 1880091803758401206
+      Blue Enemy Attack_29: 1108916189850439502
+      Blue Enemy Attack_3: 768939021043008353
+      Blue Enemy Attack_4: -4841998012715230038
+      Blue Enemy Attack_5: 2102915874711847537
+      Blue Enemy Attack_6: 3053937693815156730
+      Blue Enemy Attack_7: -5278241576396948882
+      Blue Enemy Attack_8: 8252213860917949685
+      Blue Enemy Attack_9: -3276340780274172282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
