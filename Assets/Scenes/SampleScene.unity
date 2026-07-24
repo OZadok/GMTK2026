@@ -7252,9 +7252,17 @@ PrefabInstance:
       value: -2.0000007
       objectReference: {fileID: 0}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
+      propertyPath: _mainCamera
+      value: 
+      objectReference: {fileID: 519420031}
+    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
       propertyPath: _ellipseRenderer
       value: 
       objectReference: {fileID: 1834699415}
+    - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
+      propertyPath: _ellipseColliderSize
+      value: 0.7
+      objectReference: {fileID: 0}
     - target: {fileID: 6763917165641469024, guid: b40e76f9a1d31774a826f82c29976fbf, type: 3}
       propertyPath: _enemyDestroyers.Array.data[0]._enemyType
       value: 2

@@ -5,7 +5,6 @@ using Events;
 using SuperMaxim.Messaging;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Serialization;
 
 public class KingProtection : MonoBehaviour
 {
@@ -19,6 +18,8 @@ public class KingProtection : MonoBehaviour
 
 		public EnemyType _enemyType;
 	}
+	
+	[SerializeField] private Camera _mainCamera;
 
 	[SerializeField] private List<EnemyDestroyer> _enemyDestroyers;
 
@@ -58,7 +59,8 @@ public class KingProtection : MonoBehaviour
 	{
 		foreach (var enemyDestroyer in _enemyDestroyers)
 		{
-			if (enemyDestroyer._destroyKey.WasPressedThisFrame())
+			var isCursorOnEnemyDestroyed = IsCursorOnEnemyDestroyer(enemyDestroyer);
+			if (enemyDestroyer._destroyKey.WasPressedThisFrame() || (isCursorOnEnemyDestroyed && Mouse.current.leftButton.wasPressedThisFrame))
 			{
 				var isEnemyDestroyed = TryDestroyEnemiesInRange(enemyDestroyer);
 				if (!isEnemyDestroyed)
@@ -67,8 +69,25 @@ public class KingProtection : MonoBehaviour
 				}
 			}
 
-			enemyDestroyer._ellipseRenderer.OnPressed(enemyDestroyer._destroyKey.IsPressed());
+			enemyDestroyer._ellipseRenderer.OnPressed(enemyDestroyer._destroyKey.IsPressed() || isCursorOnEnemyDestroyed);
 		}
+	}
+
+	private bool IsCursorOnEnemyDestroyer(EnemyDestroyer enemyDestroyer)
+	{
+		if (Mouse.current == null) return false;
+
+		// 1. Read screen position (Vector2)
+		Vector2 screenPosition = Mouse.current.position.ReadValue();
+
+		// 2. Supply Z depth relative to camera for 2D orthographic setup
+		Vector3 screenPoint = new Vector3(screenPosition.x, screenPosition.y, -_mainCamera.transform.position.z);
+
+		// 3. Convert to world coordinates
+		Vector3 worldPosition = _mainCamera.ScreenToWorldPoint(screenPoint);
+		worldPosition.z = 0f; // Lock to 2D plane
+		
+		return IsObjectOnEllipse(worldPosition, enemyDestroyer._ellipseRenderer, 0.3f);
 	}
 
 	private bool TryDestroyEnemiesInRange(EnemyDestroyer enemyDestroyer)
@@ -80,7 +99,7 @@ public class KingProtection : MonoBehaviour
 		var isDestroyed = false;
 		foreach (var enemy in enemies)
 		{
-			if (IsObjectOnEllipse(enemy.transform.position, enemyDestroyer._ellipseRenderer))
+			if (IsObjectOnEllipse(enemy.transform.position, enemyDestroyer._ellipseRenderer, _ellipseColliderSize))
 			{
 				if (enemy._isDead) continue;
 				DestroyEnemy(enemy);
@@ -91,7 +110,7 @@ public class KingProtection : MonoBehaviour
 		return isDestroyed;
 	}
 
-	private bool IsObjectOnEllipse(Vector3 objectPosition, EllipseRenderer ellipseRenderer)
+	private bool IsObjectOnEllipse(Vector3 objectPosition, EllipseRenderer ellipseRenderer, float colliderSize = 1)
 	{
 		// 1. Convert object position relative to the ellipse center
 		Vector3 localPos = objectPosition - ellipseRenderer.transform.position;
@@ -106,7 +125,7 @@ public class KingProtection : MonoBehaviour
 		                      + (localPos.y * localPos.y) / (yRadius * yRadius);
 
 		// 3. Check if the value is within (1 - threshold) and (1 + threshold)
-		return Mathf.Abs(normalizedVal - 1f) <= _ellipseColliderSize;
+		return Mathf.Abs(normalizedVal - 1f) <= colliderSize;
 	}
 
 	private void DestroyEnemy(Enemy enemy)

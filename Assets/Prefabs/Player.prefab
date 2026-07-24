@@ -565,6 +565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba7748a31712cf941b96c7cf4286f355, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KingProtection
+  _mainCamera: {fileID: 0}
   _enemyDestroyers:
   - _ellipseRenderer: {fileID: 0}
     _destroyKey:
@@ -695,6 +696,7 @@ MonoBehaviour:
         m_Flags: 0
       m_Flags: 0
     _enemyType: 2
+  _ellipseColliderSize: 0.7
   destroyFxPrefab: {fileID: 0}
 --- !u!1 &7129391318075827475
 GameObject:
