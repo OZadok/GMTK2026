@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: 2df618050052ae249b6b47be8f777922
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1550276408070712228
+    second: flag idle_0
+  - first:
+      213: -2642632256404817438
+    second: flag idle_1
+  - first:
+      213: 2178177952323202263
+    second: flag idle_2
+  - first:
+      213: -8523287002955616644
+    second: flag idle_3
+  - first:
+      213: 470883730135666382
+    second: flag idle_4
+  - first:
+      213: -1335112723062259637
+    second: flag idle_5
+  - first:
+      213: 871722620847899098
+    second: flag idle_6
+  - first:
+      213: 5389923774383426386
+    second: flag idle_7
+  - first:
+      213: -3341413148477661865
+    second: flag idle_8
+  - first:
+      213: -3317675954597662201
+    second: flag idle_9
+  - first:
+      213: 2575641645132473001
+    second: flag idle_10
+  - first:
+      213: 3748126217034547887
+    second: flag idle_11
+  - first:
+      213: -6515529039174714083
+    second: flag idle_12
+  - first:
+      213: -1811956797393562608
+    second: flag idle_13
+  - first:
+      213: 4982537033324993537
+    second: flag idle_14
+  - first:
+      213: 6581489701708724055
+    second: flag idle_15
+  - first:
+      213: 2447213478329108088
+    second: flag idle_16
+  - first:
+      213: 7731978167934056636
+    second: flag idle_17
+  - first:
+      213: -5895536454365041901
+    second: flag idle_18
+  - first:
+      213: -348139655166171217
+    second: flag idle_19
+  - first:
+      213: 3561106576487772646
+    second: flag idle_20
+  - first:
+      213: -2352875263967692097
+    second: flag idle_21
+  - first:
+      213: -8312811099225697300
+    second: flag idle_22
+  - first:
+      213: 3601472805194055451
+    second: flag idle_23
+  - first:
+      213: 6406613247681842700
+    second: flag idle_24
+  - first:
+      213: 1449617676059174614
+    second: flag idle_25
+  - first:
+      213: -9146295776558969362
+    second: flag idle_26
+  - first:
+      213: 5396794611577601817
+    second: flag idle_27
+  - first:
+      213: -1854984240552240939
+    second: flag idle_28
+  - first:
+      213: 1475874324505636940
+    second: flag idle_29
+  - first:
+      213: -7832638005270956264
+    second: flag idle_30
+  - first:
+      213: 1512943054328884226
+    second: flag idle_31
+  - first:
+      213: 4259197003471810656
+    second: flag idle_32
+  - first:
+      213: -4806178047049816736
+    second: flag idle_33
+  - first:
+      213: 522281740613385668
+    second: flag idle_34
+  - first:
+      213: -1550446334606257661
+    second: flag idle_35
+  - first:
+      213: 1089753295514279323
+    second: flag idle_36
+  - first:
+      213: 8113593619879262650
+    second: flag idle_37
+  - first:
+      213: 119866782404302268
+    second: flag idle_38
+  - first:
+      213: -8782253760267795683
+    second: flag idle_39
+  - first:
+      213: 4021697696718845117
+    second: flag idle_40
+  - first:
+      213: -3062258564598018772
+    second: flag idle_41
+  - first:
+      213: 4425224472690734394
+    second: flag idle_42
+  - first:
+      213: -7574041971721408625
+    second: flag idle_43
+  - first:
+      213: 1448357176960328218
+    second: flag idle_44
+  - first:
+      213: 1712966452476715571
+    second: flag idle_45
+  - first:
+      213: 72077581573036157
+    second: flag idle_46
+  - first:
+      213: 9108005509365874827
+    second: flag idle_47
+  - first:
+      213: 7953999249524397307
+    second: flag idle_48
+  - first:
+      213: -2360989297032576877
+    second: flag idle_49
+  - first:
+      213: -7668063342206803017
+    second: flag idle_50
+  - first:
+      213: 4713442721957674795
+    second: flag idle_51
+  - first:
+      213: -7096159869010113160
+    second: flag idle_52
+  - first:
+      213: -4625848103352843374
+    second: flag idle_53
+  - first:
+      213: 8560162238569745666
+    second: flag idle_54
+  - first:
+      213: 1666906216435803043
+    second: flag idle_55
+  - first:
+      213: 5812570500075318932
+    second: flag idle_56
+  - first:
+      213: -3547068670513651235
+    second: flag idle_57
+  - first:
+      213: -4242662891296649309
+    second: flag idle_58
+  - first:
+      213: 2121791867448498980
+    second: flag idle_59
+  - first:
+      213: -6969430756991239612
+    second: flag idle_60
+  - first:
+      213: 1072294356595566552
+    second: flag idle_61
+  - first:
+      213: 4145042689119778592
+    second: flag idle_62
+  - first:
+      213: 6948336585698884601
+    second: flag idle_63
+  - first:
+      213: -9115192010431007422
+    second: flag idle_64
+  - first:
+      213: -8846073781667696392
+    second: flag idle_65
+  - first:
+      213: -7559122619210625435
+    second: flag idle_66
+  - first:
+      213: -4075175699089539326
+    second: flag idle_67
+  - first:
+      213: 5716274063377725749
+    second: flag idle_68
+  - first:
+      213: 8180163821849807795
+    second: flag idle_69
+  - first:
+      213: 1789009974944168186
+    second: flag idle_70
+  - first:
+      213: 6968773126215015914
+    second: flag idle_71
+  - first:
+      213: 4893969277475532955
+    second: flag idle_72
+  - first:
+      213: 5053380582034459680
+    second: flag idle_73
+  - first:
+      213: 5447543168231013497
+    second: flag idle_74
+  - first:
+      213: 6164082287166930226
+    second: flag idle_75
+  - first:
+      213: 981646855952732833
+    second: flag idle_76
+  - first:
+      213: 1612063261313972182
+    second: flag idle_77
+  - first:
+      213: -6914336217594334347
+    second: flag idle_78
+  - first:
+      213: 5117736740999161670
+    second: flag idle_79
+  - first:
+      213: -2137917219400064556
+    second: flag idle_80
+  - first:
+      213: -8915845808264644977
+    second: flag idle_81
+  - first:
+      213: -453769720789798587
+    second: flag idle_82
+  - first:
+      213: -8446669003589425726
+    second: flag idle_83
+  - first:
+      213: -1631993888411818515
+    second: flag idle_84
+  - first:
+      213: 7158514225920137495
+    second: flag idle_85
+  - first:
+      213: 7963493237076508976
+    second: flag idle_86
+  - first:
+      213: 6165246454216839387
+    second: flag idle_87
+  - first:
+      213: 5477775242952205460
+    second: flag idle_88
+  - first:
+      213: 3460998338342470172
+    second: flag idle_89
+  - first:
+      213: 7947562212891551025
+    second: flag idle_90
+  - first:
+      213: -5783172915101663805
+    second: flag idle_91
+  - first:
+      213: -4155163790590890256
+    second: flag idle_92
+  - first:
+      213: -6865302977858369695
+    second: flag idle_93
+  - first:
+      213: 8005193147259446641
+    second: flag idle_94
+  - first:
+      213: -589650274309112538
+    second: flag idle_95
+  - first:
+      213: 132562185642130220
+    second: flag idle_96
+  - first:
+      213: 4894209278582862711
+    second: flag idle_97
+  - first:
+      213: 1209847712241685691
+    second: flag idle_98
+  - first:
+      213: -3146358516302695964
+    second: flag idle_99
+  - first:
+      213: -6955963674142152261
+    second: flag idle_100
+  - first:
+      213: -2826401815094452389
+    second: flag idle_101
+  - first:
+      213: 7133903175927381761
+    second: flag idle_102
+  - first:
+      213: 8341706220304731064
+    second: flag idle_103
+  - first:
+      213: -3910683866336758172
+    second: flag idle_104
+  - first:
+      213: -1423116550844512012
+    second: flag idle_105
+  - first:
+      213: 5077576347299672943
+    second: flag idle_106
+  - first:
+      213: -1533718655703305273
+    second: flag idle_107
+  - first:
+      213: 5385709769204596620
+    second: flag idle_108
+  - first:
+      213: -8774513826577848176
+    second: flag idle_109
+  - first:
+      213: 1133905020639609754
+    second: flag idle_110
+  - first:
+      213: -5110592013955782833
+    second: flag idle_111
+  - first:
+      213: 8015739978213232952
+    second: flag idle_112
+  - first:
+      213: 8009343422037248202
+    second: flag idle_113
+  - first:
+      213: 6597465747669385637
+    second: flag idle_114
+  - first:
+      213: -3845432108671594420
+    second: flag idle_115
+  - first:
+      213: 6238591112263100894
+    second: flag idle_116
+  - first:
+      213: 4139092584501510557
+    second: flag idle_117
+  - first:
+      213: 4011000007473098082
+    second: flag idle_118
+  - first:
+      213: -4313297591501106249
+    second: flag idle_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flag idle loop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b701bc2d597845a1fbbdcc2331e93
+      internalID: -270373558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a471a9e2c097de48a82ac801c6e7db5
+      internalID: -433801886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8a69953443e44389121be58e90850
+      internalID: 1826771985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867474d3dc8177d4c917686fa230b447
+      internalID: 2017595027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_4
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e796b7344a1b64b8c0e12f3ea7a204
+      internalID: 1907530238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_5
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c0308d8400ea04094431294d3f2cdb
+      internalID: 496651653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_6
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33be88f3720d6b45b115aa044cbe35a
+      internalID: 865749813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_7
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0bede6c32f29a47a4895f590feed65
+      internalID: -345071099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_8
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2025b00280a1e647b290f4d7a14f2db
+      internalID: -757677062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_9
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ce4e00e2c9f7478bc0a31e9132632
+      internalID: 452950995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_10
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fbc17dcf86ba449b89055051b83a36
+      internalID: 733028529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1bee2980c67d4192d2bc367ce4613
+      internalID: 2033229876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc5697ea8e14b4da9176d4f7f27def
+      internalID: -1046122451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_13
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e86c92c84c164aa84009aebf5d5af
+      internalID: 2136587537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_14
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6062471adccc4d04ca8657935d97b4b7
+      internalID: -990910374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_15
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774e835b8ce5f1a45b44372f6479bd5d
+      internalID: 1779205996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_16
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf4c3a5fe6ba6f45984ba50949e67b3
+      internalID: 1181930392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_17
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d7449532e75554faf3a005d871176e
+      internalID: -1434538131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_18
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4660f0b466ef8347b239afb8509f503
+      internalID: 46808827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_19
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de2763346aec241887f36a019f75d6
+      internalID: -209865651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_20
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43969649deca7234aac530f85c13cf87
+      internalID: -888579754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_21
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0d6225c7556c43b61d4511e9dda32
+      internalID: -1441686693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2dbe9756b8e441a09a8907dd6df13
+      internalID: -1051483546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb74d096bc94b849b449fcacb403153
+      internalID: 1964590613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb95edda9a6ad4693d8698b755c605
+      internalID: 2096012031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_25
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062784e6b4b6e9142981067ddb72d2c7
+      internalID: -398002012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_26
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98839eda21e48c943b6bcba93c0845d4
+      internalID: 1111945131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_27
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f249d9a6e2f0343967ef17e2affc2e
+      internalID: 1152339512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_28
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a718bd3a65211749bf286dfaa0ee489
+      internalID: -528810493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_29
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0565e985105854a4a8c05c92cf4dc192
+      internalID: -1880133993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_30
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8bca99c944a54b8caec7ed38b6aab
+      internalID: -1679776165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_31
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5752648c05b994479b3d5cd17ef1724
+      internalID: 787097119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_32
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43da5b9bca38724681e35723efcc22c
+      internalID: -258283921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010f2d327772c74580137cd2a25ae21
+      internalID: 1200501975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76722f486dbc4034c834a351eff2ef6e
+      internalID: -309190465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_35
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0fc03edfc7afb4fa289699b3bb8f26
+      internalID: 1011044126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_36
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ec6d27b65b4fe4bac18bce187183f0
+      internalID: 80060392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_37
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eda8d8eca07eed42afdb813536b01d6
+      internalID: -991791040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_38
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbef6e85f308c24c944b398efc8f8f0
+      internalID: 1992267724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_39
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ca6199be1d1d40b0d5d9e485b3a2c
+      internalID: 1695126224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_40
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfaa759f25dd2947bd0445fb8707dee
+      internalID: -401647059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_41
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5fd40a6e68ccc4c96448cbada2c14d
+      internalID: -354954927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_42
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf703845df071d47b4ee05954a8ed7d
+      internalID: 489426016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_43
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6052563a579a5c42a609ac893f2db76
+      internalID: -1375101016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf042eaba5c934b9697d54e06fb730
+      internalID: 355772154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_45
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eeb66cf1a7fab4c9e277b316cf1287
+      internalID: 649567821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_46
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8f44f8c4d0fa2409bf3673ef0dbebb
+      internalID: 1192746273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_47
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0493ed6bbf45a44ab12ff0705b64f71
+      internalID: 444260381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_48
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3651da96b67140ae6ba578ad0a774
+      internalID: -1759067087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_49
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0bf036a2af85549883781c66bea142
+      internalID: 120714608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_50
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fd4bb2710b49f4db35f5257ba7c3f2
+      internalID: 1317350267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_51
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bddaaf5751834f8fb214f467865d0
+      internalID: -2112631110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_52
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4513286d3a4ef4e9186de85c604eb8
+      internalID: -271353900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_53
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ea9cc68c8de946b6cc299f2442074
+      internalID: -1267753032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_54
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aace483583ebd45ae08e4f87747336
+      internalID: -1589916343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04866744c2f41054083cb2f903f84df2
+      internalID: -809659908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f06c33a1f52c4f9f8d8c6e62d1d6e
+      internalID: -615089612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_57
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c17ad8a7b1014b9f4f2350267ab0f
+      internalID: -2132999559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_58
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829ca6683e0dad341991333ac7a14ab1
+      internalID: 511062426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_59
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74ceef9b46d02e45b05973a6bc10a01
+      internalID: 215492346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_60
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5452c223df184b83188b96b420842
+      internalID: 1962084847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_61
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2608850dcfe464f9ebc9fb8e6f1a04
+      internalID: -746809438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_62
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67f7bcf28b33043b3c133aca96fc54
+      internalID: 1303886923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_63
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3211c6ad0508f44aa66a775140e052d
+      internalID: -1853107551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_64
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a607573d8071e342939b4b3b98dd564
+      internalID: 157204362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_65
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46b35312a6c024292c304eedb08927
+      internalID: 1761506947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe20fe15d64154fa28c0f4c4ed3766
+      internalID: -354664535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c339e41fc7180499ff8ac92c1d25f6
+      internalID: 141940146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_68
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b24ea2fc5950940a7360e6b520bf1e
+      internalID: 1811089443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_69
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee1825d0448864caabda20c280a271
+      internalID: -1641125657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_70
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528015eb04ab33d4195df215f892c492
+      internalID: -1340041469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_71
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f81cebe3fb98a4aa70c4f4011354c3
+      internalID: 2111686905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_72
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede2a860462d7f44d86ecc8f1f537bd1
+      internalID: 1738061498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_73
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9d33427bb447d41a5fc0bcc4d1dc3b
+      internalID: -68128495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_74
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33dc3cbaeeb52d479ba8408795dcfbe
+      internalID: 1926479447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_75
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32da86c75eb72e4d8881107bfeabcf8
+      internalID: -1309656431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_76
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d8c059e0e2f3d4282b1defabfd4871
+      internalID: 1556455093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e325236fabb8f44698d2140718afa1d
+      internalID: 1450223070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_78
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a811e46d24a4a46b9fd8761f14f0a9
+      internalID: 1600325398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_79
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0bf653df9aac46aa853df042e006d
+      internalID: 1591773606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_80
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44facddd989dcb046aeda77934f77235
+      internalID: 540432688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_81
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15621c1b2d801da40b5c05899b74239a
+      internalID: -2029976402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_82
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763e9c2cb8aacf4fb41ec971decdda4
+      internalID: -1908084330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_83
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caba121323f58b4bbf71a75732acced
+      internalID: 330041511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_84
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407fd9f6c9386a14cac52b5bfba10163
+      internalID: 490527595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_85
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854cca47297cab4fa38d5cacbfff2d9
+      internalID: 1911894658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_86
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4efeacc31f30d147a6e253c4c54eb8f
+      internalID: -2053765425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_87
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747dde2ba3503304d9d434b0a18b4c45
+      internalID: -544652566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea58f97aba761458497fa0d8bc53b3
+      internalID: -1737713387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_89
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a1dfda320b6e4d9899c61ee5945c0
+      internalID: 467701614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_90
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2f612507f4544d9a5629ce1ea87f8
+      internalID: 1470957389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_91
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34b6a1234e5dd42a5a2ebc36f1eef4
+      internalID: 127768953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_92
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbbead5f20ac0145b41285f1de5169a
+      internalID: -737659236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_93
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2e5e5ea12d314d9feed082e92f3f4
+      internalID: -1822752759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_94
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed828ba8ad266034c996301a288534b2
+      internalID: 55705394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_95
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf43a7d22065e4b961a1f29858d928
+      internalID: -16338559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_96
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba57f3bd5d000a4698d45e651ab0371
+      internalID: -1048088066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_97
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a526e65aeb8c24b8b0be6b347b09fe
+      internalID: -1927199401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_98
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a667cb180364e9488fbce00cb2d5e0f
+      internalID: -751640728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc8c560e373a04d9a9341a4ac04736
+      internalID: 2103900124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_100
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e77deb72c5b3a4c908168e6fb43f50
+      internalID: 805054161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_101
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de900fea3a715ef4d82ea7378ec0a529
+      internalID: -1791079029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_102
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b373dcdff932541bc7368a95ee90c4
+      internalID: -1422308621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_103
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98161de9f2556f74bae04813b6298817
+      internalID: 1588197134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_104
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47349ed4a815c314f96fac8fb5aee531
+      internalID: -1322698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_105
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc527f57e91024cad5d17b22d745e1
+      internalID: 836336450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_106
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b81fb0ef59b9b144956a2b73a82e5bb
+      internalID: 84129849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_107
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c728bad1dc695b49b74f3ca7f00048d
+      internalID: -384811749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_108
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc83a3695c6094c81c28b7445982d9
+      internalID: 919710414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_109
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68c80f80a21b54c9e7fcf3748bcbb3
+      internalID: -975951347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaeb9d75ec603442bdf15cbfa19446d
+      internalID: -974087900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_111
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349c0e730e5e104ba5b0a8d7efc80a8
+      internalID: 1857042496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce56ea3cb5d8a429979133bd236013
+      internalID: 1099482811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_113
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f1921540b0974a8d4fcfa05b7c6a4
+      internalID: -1358474411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_114
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d5dc4796b4a744872253815908276
+      internalID: -282234954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_115
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade9c1ccd1512d47abb13db82eeb126
+      internalID: 264025189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_116
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9c650611c95544bbb26506955412a
+      internalID: -983981336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_117
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8991873cbab0548a8fd8a34d9726d8
+      internalID: -2111219150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_118
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157b1067adf23434d89d11a07e6babd2
+      internalID: 1893117561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flag idle loop_119
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff92d292df45b843b1937f8dcb0a908
+      internalID: 951884039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f89c07f6b681b5c47b7b15d8a6dd3343
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":11.0},"gridSpriteSize":{"x":651.0,"y":386.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flag idle loop_0: -270373558
+      Flag idle loop_1: -433801886
+      Flag idle loop_10: 733028529
+      Flag idle loop_100: 805054161
+      Flag idle loop_101: -1791079029
+      Flag idle loop_102: -1422308621
+      Flag idle loop_103: 1588197134
+      Flag idle loop_104: -1322698066
+      Flag idle loop_105: 836336450
+      Flag idle loop_106: 84129849
+      Flag idle loop_107: -384811749
+      Flag idle loop_108: 919710414
+      Flag idle loop_109: -975951347
+      Flag idle loop_11: 2033229876
+      Flag idle loop_110: -974087900
+      Flag idle loop_111: 1857042496
+      Flag idle loop_112: 1099482811
+      Flag idle loop_113: -1358474411
+      Flag idle loop_114: -282234954
+      Flag idle loop_115: 264025189
+      Flag idle loop_116: -983981336
+      Flag idle loop_117: -2111219150
+      Flag idle loop_118: 1893117561
+      Flag idle loop_119: 951884039
+      Flag idle loop_12: -1046122451
+      Flag idle loop_13: 2136587537
+      Flag idle loop_14: -990910374
+      Flag idle loop_15: 1779205996
+      Flag idle loop_16: 1181930392
+      Flag idle loop_17: -1434538131
+      Flag idle loop_18: 46808827
+      Flag idle loop_19: -209865651
+      Flag idle loop_2: 1826771985
+      Flag idle loop_20: -888579754
+      Flag idle loop_21: -1441686693
+      Flag idle loop_22: -1051483546
+      Flag idle loop_23: 1964590613
+      Flag idle loop_24: 2096012031
+      Flag idle loop_25: -398002012
+      Flag idle loop_26: 1111945131
+      Flag idle loop_27: 1152339512
+      Flag idle loop_28: -528810493
+      Flag idle loop_29: -1880133993
+      Flag idle loop_3: 2017595027
+      Flag idle loop_30: -1679776165
+      Flag idle loop_31: 787097119
+      Flag idle loop_32: -258283921
+      Flag idle loop_33: 1200501975
+      Flag idle loop_34: -309190465
+      Flag idle loop_35: 1011044126
+      Flag idle loop_36: 80060392
+      Flag idle loop_37: -991791040
+      Flag idle loop_38: 1992267724
+      Flag idle loop_39: 1695126224
+      Flag idle loop_4: 1907530238
+      Flag idle loop_40: -401647059
+      Flag idle loop_41: -354954927
+      Flag idle loop_42: 489426016
+      Flag idle loop_43: -1375101016
+      Flag idle loop_44: 355772154
+      Flag idle loop_45: 649567821
+      Flag idle loop_46: 1192746273
+      Flag idle loop_47: 444260381
+      Flag idle loop_48: -1759067087
+      Flag idle loop_49: 120714608
+      Flag idle loop_5: 496651653
+      Flag idle loop_50: 1317350267
+      Flag idle loop_51: -2112631110
+      Flag idle loop_52: -271353900
+      Flag idle loop_53: -1267753032
+      Flag idle loop_54: -1589916343
+      Flag idle loop_55: -809659908
+      Flag idle loop_56: -615089612
+      Flag idle loop_57: -2132999559
+      Flag idle loop_58: 511062426
+      Flag idle loop_59: 215492346
+      Flag idle loop_6: 865749813
+      Flag idle loop_60: 1962084847
+      Flag idle loop_61: -746809438
+      Flag idle loop_62: 1303886923
+      Flag idle loop_63: -1853107551
+      Flag idle loop_64: 157204362
+      Flag idle loop_65: 1761506947
+      Flag idle loop_66: -354664535
+      Flag idle loop_67: 141940146
+      Flag idle loop_68: 1811089443
+      Flag idle loop_69: -1641125657
+      Flag idle loop_7: -345071099
+      Flag idle loop_70: -1340041469
+      Flag idle loop_71: 2111686905
+      Flag idle loop_72: 1738061498
+      Flag idle loop_73: -68128495
+      Flag idle loop_74: 1926479447
+      Flag idle loop_75: -1309656431
+      Flag idle loop_76: 1556455093
+      Flag idle loop_77: 1450223070
+      Flag idle loop_78: 1600325398
+      Flag idle loop_79: 1591773606
+      Flag idle loop_8: -757677062
+      Flag idle loop_80: 540432688
+      Flag idle loop_81: -2029976402
+      Flag idle loop_82: -1908084330
+      Flag idle loop_83: 330041511
+      Flag idle loop_84: 490527595
+      Flag idle loop_85: 1911894658
+      Flag idle loop_86: -2053765425
+      Flag idle loop_87: -544652566
+      Flag idle loop_88: -1737713387
+      Flag idle loop_89: 467701614
+      Flag idle loop_9: 452950995
+      Flag idle loop_90: 1470957389
+      Flag idle loop_91: 127768953
+      Flag idle loop_92: -737659236
+      Flag idle loop_93: -1822752759
+      Flag idle loop_94: 55705394
+      Flag idle loop_95: -16338559
+      Flag idle loop_96: -1048088066
+      Flag idle loop_97: -1927199401
+      Flag idle loop_98: -751640728
+      Flag idle loop_99: 2103900124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
