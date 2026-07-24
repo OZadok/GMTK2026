@@ -65,6 +65,6 @@ public class GoToKing : MonoBehaviour
     {
         // Add logic here (e.g., Attack, Stop Animation, Game Over)
         Messenger.Default.Publish(new EnemyReachesKingEvent());
-        Enemies.Instance.RemoveEnemy(gameObject);
+        enabled = false;
     }
 }

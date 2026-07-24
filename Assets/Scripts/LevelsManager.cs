@@ -27,6 +27,7 @@ public class LevelsManager : MonoBehaviour
             levelParameters._timeToReduceWhenEnemyReachesKing);
         _enemies.Init(levelParameters._spawnInterval, levelParameters._enemyType);
         _kingProtection.Init(levelParameters._enemyType);
+        
         var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 32;
         var castleGameObject = Instantiate(_castle);
         var vector3 = castleGameObject.transform.position;

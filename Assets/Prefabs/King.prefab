@@ -215,6 +215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1185652280724465295}
   - component: {fileID: 3505400114335993875}
+  - component: {fileID: 5219013180642834015}
   m_Layer: 0
   m_Name: King
   m_TagString: King
@@ -254,3 +255,16 @@ MonoBehaviour:
   _speed: 1
   _stepWidth: 0.4
   _walkingState: 0
+--- !u!114 &5219013180642834015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8680247632998444287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f35089f3e2fa114791617ed45ce9bd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::KingAnimation
+  _animator: {fileID: 419061065784735054}
