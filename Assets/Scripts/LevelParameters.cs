@@ -9,4 +9,6 @@ public class LevelParameters : ScriptableObject
 	public float _timeToReduceWhenPressedAndEnemyNotDestroyed = 1;
 	public float _timeToReduceWhenEnemyReachesKing = 2;
 	public float _spawnInterval = 2;
+	[Tooltip("it's also level time")] 
+	public float _levelDistance = 60;
 }

@@ -18,3 +18,4 @@ MonoBehaviour:
   _timeToReduceWhenPressedAndEnemyNotDestroyed: 1
   _timeToReduceWhenEnemyReachesKing: 2
   _spawnInterval: 2
+  _levelDistance: 20

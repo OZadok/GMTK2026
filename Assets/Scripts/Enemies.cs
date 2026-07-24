@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
 public class Enemies : MonoBehaviour
@@ -16,6 +17,8 @@ public class Enemies : MonoBehaviour
 	
 	[SerializeField] private List<Transform> _spawnPoints = new List<Transform>();
 
+	public bool _toSpawn = true;
+	
 	private EnemyType _typeToSpawn;
 /*
 	[Tooltip("Distance BEYOND the camera border to spawn enemies.")] [SerializeField]
@@ -55,6 +58,7 @@ public class Enemies : MonoBehaviour
 
 	private void Update()
 	{
+		if (!_toSpawn) return;
 		_spawnTimer += Time.deltaTime;
 		if (_spawnTimer >= _spawnInterval)
 		{
