@@ -28,6 +28,13 @@ public class KingProtection : MonoBehaviour
 	[Header("Optional VFX")] [SerializeField]
 	private GameObject destroyFxPrefab;
 
+	private void Start()
+	{
+		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
+	}
+
 	public void Init(EnemyType enemyType)
 	{
 		int flags = (int)enemyType;
@@ -44,6 +51,9 @@ public class KingProtection : MonoBehaviour
 		{
 			enemyDestroyer._destroyKey.Enable();
 		}
+		
+		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
 	}
 
 	private void OnDisable()
@@ -52,6 +62,21 @@ public class KingProtection : MonoBehaviour
 		{
 			enemyDestroyer._destroyKey.Disable();
 		}
+		
+		Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Unsubscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+	}
+
+	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
+	{
+		
+	}
+
+	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
+	{
+		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
 	}
 
 	private void Update()

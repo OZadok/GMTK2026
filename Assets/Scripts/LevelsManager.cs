@@ -1,4 +1,6 @@
 using System.Collections;
+using Events;
+using SuperMaxim.Messaging;
 using UnityEngine;
 
 public class LevelsManager : MonoBehaviour
@@ -28,7 +30,7 @@ public class LevelsManager : MonoBehaviour
         _enemies.Init(levelParameters._spawnInterval, levelParameters._enemyType);
         _kingProtection.Init(levelParameters._enemyType);
         
-        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 33.6f;
+        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 17f;
         var castleGameObject = Instantiate(_castle);
         var vector3 = castleGameObject.transform.position;
         vector3.x = castleXPosition;
@@ -45,9 +47,10 @@ public class LevelsManager : MonoBehaviour
 
     private IEnumerator RunLevel(LevelParameters levelParameters)
     {
-        SetLevel(levelParameters);
         _enemies._toSpawn = false;
         yield return StartCoroutine(WalkCastleOut());
+        Messenger.Default.Publish(new EndWalkInCastleEvent());
+        SetLevel(levelParameters);
         yield return new WaitForSeconds(2f);
         _enemies._toSpawn = true;
         
@@ -73,11 +76,13 @@ public class LevelsManager : MonoBehaviour
         vector3.y = -2;
         _kingMovement.transform.position = vector3;
         _kingMovement._walkingState = KingMovement.WalkingState.Straight;
-        
     }
     
     private IEnumerator WalkCastleIn()
     {
+        Messenger.Default.Publish(new StartWalkInCastleEvent());
+        
+        //walk stairs
         _kingMovement._walkingState = KingMovement.WalkingState.Up;
         yield return new WaitUntil(() => _kingMovement.transform.position.y >= 3);
         var vector3 = _kingMovement.transform.position;

@@ -29,6 +29,7 @@ public class Enemy : MonoBehaviour
 
 	private void OnEnemyReachesKing(EnemyReachesKingEvent enemyReachesKingEvent)
 	{
+		if (enemyReachesKingEvent.Enemy != this) return;
 		StartCoroutine(AttackAndDie());
 	}
 	

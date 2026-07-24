@@ -16,6 +16,8 @@ public class GoToKing : MonoBehaviour
     
     [Header("Sprite Settings")]
     [SerializeField] private SpriteRenderer _enemySpriteRenderer;
+    
+    [SerializeField] private Enemy _enemy;
 
     private void Start()
     {
@@ -64,7 +66,7 @@ public class GoToKing : MonoBehaviour
     private void OnReachKing()
     {
         // Add logic here (e.g., Attack, Stop Animation, Game Over)
-        Messenger.Default.Publish(new EnemyReachesKingEvent());
+        Messenger.Default.Publish(new EnemyReachesKingEvent(_enemy));
         enabled = false;
     }
 }

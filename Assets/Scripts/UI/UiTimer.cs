@@ -17,16 +17,28 @@ public class UiTimer : MonoBehaviour
 	[Header("Parameters")] [SerializeField]
 	private float _timeForChangeTimeToApear = 0.5f;
 
+	private void Start()
+	{
+		_timeText.text = "";
+	}
+
 	private void OnEnable()
 	{
 		Messenger.Default.Subscribe<TimerTimeEvent>(OnTimerTime);
 		Messenger.Default.Subscribe<TimerTimeChangeEvent>(OnTimerTimeChange);
+		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
 	}
 
 	private void OnDisable()
 	{
 		Messenger.Default.Unsubscribe<TimerTimeEvent>(OnTimerTime);
 		Messenger.Default.Unsubscribe<TimerTimeChangeEvent>(OnTimerTimeChange);
+		Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+	}
+
+	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
+	{
+		_timeText.text = "";
 	}
 
 	private void OnTimerTimeChange(TimerTimeChangeEvent timerTimeChangeEvent)

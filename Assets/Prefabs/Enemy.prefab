@@ -111,6 +111,7 @@ MonoBehaviour:
   _moveSpeed: 4
   _stoppingDistance: 0.7
   _enemySpriteRenderer: {fileID: 3794397849797657982}
+  _enemy: {fileID: 12697823902069533}
 --- !u!114 &12697823902069533
 MonoBehaviour:
   m_ObjectHideFlags: 0

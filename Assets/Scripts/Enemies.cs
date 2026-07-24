@@ -1,4 +1,8 @@
+using System;
 using System.Collections.Generic;
+using Events;
+using SuperMaxim.Messaging;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
@@ -48,6 +52,28 @@ public class Enemies : MonoBehaviour
 		_enemies.Add(EnemyType.Red, new List<Enemy>());
 		_enemies.Add(EnemyType.Green, new List<Enemy>());
 		_enemies.Add(EnemyType.Blue, new List<Enemy>());
+	}
+
+	private void OnEnable()
+	{
+		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+	}
+
+	private void OnDisable()
+	{
+		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+	}
+
+	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
+	{
+		foreach (var enemiesList in _enemies.Values)
+		{
+			foreach (var enemy in enemiesList)
+			{
+				Destroy(enemy.gameObject);
+			}
+			enemiesList.Clear();
+		}
 	}
 
 	public void Init(float spawnInterval, EnemyType enemyType)

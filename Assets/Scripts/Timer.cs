@@ -12,6 +12,8 @@ public class Timer : MonoBehaviour
     [SerializeField] private float _timeToReduceWhenPressedAndEnemyNotDestroyed = 1;
     [SerializeField] private float _timeToReduceWhenEnemyReachesKing = 2;
 
+    private bool _toRun;
+
     private void Start()
     {
         _time = _startTime;
@@ -32,6 +34,8 @@ public class Timer : MonoBehaviour
         Messenger.Default.Subscribe<EnemyDestroyedEvent>(OnEnemyDestroyed);
         Messenger.Default.Subscribe<TryDestroyEnemyAndFailedEvent>(OnTryDestroyEnemyAndFailed);
         Messenger.Default.Subscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
+        Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+        Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
     }
 
     private void OnDisable()
@@ -39,6 +43,18 @@ public class Timer : MonoBehaviour
         Messenger.Default.Unsubscribe<EnemyDestroyedEvent>(OnEnemyDestroyed);
         Messenger.Default.Unsubscribe<TryDestroyEnemyAndFailedEvent>(OnTryDestroyEnemyAndFailed);
         Messenger.Default.Unsubscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
+        Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+        Messenger.Default.Unsubscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+    }
+
+    private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
+    {
+        _toRun = true;
+    }
+
+    private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
+    {
+        _toRun = false;
     }
 
     private void OnEnemyReachesKing(EnemyReachesKingEvent obj)
@@ -49,6 +65,7 @@ public class Timer : MonoBehaviour
 
     private void Update()
     {
+        if (!_toRun) return;
         _time -= Time.deltaTime;
         if (_time < 0)
         {
@@ -60,6 +77,7 @@ public class Timer : MonoBehaviour
     
     private void OnEnemyDestroyed(EnemyDestroyedEvent enemyDestroyedEvent)
     {
+        if (!_toRun) return;
         if (_time > 0)
         {
             _time += _timeToAddWhenEnemyDestroyed;
@@ -69,6 +87,7 @@ public class Timer : MonoBehaviour
     
     private void OnTryDestroyEnemyAndFailed(TryDestroyEnemyAndFailedEvent tryDestroyEnemyAndFailedEvent)
     {
+        if (!_toRun) return;
         _time -= _timeToReduceWhenPressedAndEnemyNotDestroyed;
         Messenger.Default.Publish(new TimerTimeChangeEvent(-_timeToReduceWhenPressedAndEnemyNotDestroyed));
     }
