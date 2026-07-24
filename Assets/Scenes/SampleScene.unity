@@ -2850,6 +2850,9 @@ MonoBehaviour:
   _levelsParameters:
   - {fileID: 11400000, guid: 1cd83070ef5afba46af801fe42759559, type: 2}
   - {fileID: 11400000, guid: 7fa707b00f7449744b3c3e1b64b6c515, type: 2}
+  - {fileID: 11400000, guid: 4a19511a7ca57504c89adad54ec96674, type: 2}
+  - {fileID: 11400000, guid: 34cee8225d867924a93692fa4435a9b0, type: 2}
+  - {fileID: 11400000, guid: 584c536cd1b66a24c8fdd4aab08e452a, type: 2}
   _timer: {fileID: 1001002991}
   _enemies: {fileID: 1638638603}
   _kingProtection: {fileID: 754087874}

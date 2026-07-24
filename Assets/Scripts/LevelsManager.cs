@@ -30,7 +30,7 @@ public class LevelsManager : MonoBehaviour
         _enemies.Init(levelParameters._spawnInterval, levelParameters._enemyType);
         _kingProtection.Init(levelParameters._enemyType);
         
-        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 16f;
+        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 16.5f;
         var castleGameObject = Instantiate(_castle);
         var vector3 = castleGameObject.transform.position;
         vector3.x = castleXPosition;
@@ -69,7 +69,7 @@ public class LevelsManager : MonoBehaviour
     {
         var xPosition = _kingMovement.transform.position.x;
         _kingMovement._walkingState = KingMovement.WalkingState.Straight;
-        yield return new WaitUntil(() => xPosition + 8.6f <= _kingMovement.transform.position.x);
+        yield return new WaitUntil(() => xPosition + 8.55f <= _kingMovement.transform.position.x);
         _kingMovement._walkingState = KingMovement.WalkingState.Down;
         yield return new WaitUntil(() => _kingMovement.transform.position.y <= -2);
         var vector3 = _kingMovement.transform.position;
@@ -90,6 +90,6 @@ public class LevelsManager : MonoBehaviour
         _kingMovement.transform.position = vector3;
         var xPosition = _kingMovement.transform.position.x;
         _kingMovement._walkingState = KingMovement.WalkingState.Straight;
-        yield return new WaitUntil(() => xPosition + 8.6f <= _kingMovement.transform.position.x);
+        yield return new WaitUntil(() => xPosition + 8.55f <= _kingMovement.transform.position.x);
     }
 }
