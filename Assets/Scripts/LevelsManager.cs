@@ -30,7 +30,7 @@ public class LevelsManager : MonoBehaviour
         _enemies.Init(levelParameters._spawnInterval, levelParameters._enemyType);
         _kingProtection.Init(levelParameters._enemyType);
         
-        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 16.5f;
+        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 19.2f;
         var castleGameObject = Instantiate(_castle);
         var vector3 = castleGameObject.transform.position;
         vector3.x = castleXPosition;
@@ -51,16 +51,18 @@ public class LevelsManager : MonoBehaviour
         yield return StartCoroutine(WalkCastleOut());
         Messenger.Default.Publish(new EndWalkInCastleEvent());
         SetLevel(levelParameters);
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(4f);
         _enemies._toSpawn = true;
         
         _levelProgress = 0;
-        while (_levelProgress < levelParameters._levelDistance)
+        while (_levelProgress < levelParameters._levelDistance - 4)
         {
             yield return null;
             _levelProgress += Time.deltaTime;
         }
         _enemies._toSpawn = false;
+        
+        yield return new WaitForSeconds(4f);
         
         yield return StartCoroutine(WalkCastleIn());
     }
