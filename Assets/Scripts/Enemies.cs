@@ -15,6 +15,8 @@ public class Enemies : MonoBehaviour
 	private float _spawnInterval = 2.0f;
 	
 	[SerializeField] private List<Transform> _spawnPoints = new List<Transform>();
+
+	private EnemyType _typeToSpawn;
 /*
 	[Tooltip("Distance BEYOND the camera border to spawn enemies.")] [SerializeField]
 	private float _spawnBufferDistance = 2.0f;
@@ -43,6 +45,12 @@ public class Enemies : MonoBehaviour
 		_enemies.Add(EnemyType.Red, new List<Enemy>());
 		_enemies.Add(EnemyType.Green, new List<Enemy>());
 		_enemies.Add(EnemyType.Blue, new List<Enemy>());
+	}
+
+	public void Init(float spawnInterval, EnemyType enemyType)
+	{
+		_spawnInterval = spawnInterval;
+		_typeToSpawn = enemyType;
 	}
 
 	private void Update()
@@ -82,9 +90,27 @@ public class Enemies : MonoBehaviour
 
 	private void SpawnEnemy()
 	{
-		var enemyPrefabToSPawn = _enemyPrefabs[Random.Range(0, _enemyPrefabs.Count)];
+		var indices = new List<int>();
+		int flags = (int)_typeToSpawn;
+
+// Check bit positions directly and map to 0, 1, 2
+		if ((flags & (1 << 1)) != 0) indices.Add(0);
+		if ((flags & (1 << 2)) != 0) indices.Add(1);
+		if ((flags & (1 << 3)) != 0) indices.Add(2);
+
+// Guard against empty lists to avoid crashes
+		if (indices.Count == 0)
+		{
+			Debug.LogWarning("No spawn flags set!");
+			return; // Or handle fallback
+		}
+
+// Select a random index safely
+		int index = indices[UnityEngine.Random.Range(0, indices.Count)];
+		var enemyPrefabToSpawn = _enemyPrefabs[index];
+		
 		var spawnPosition = GetRandomSpawnPosition();
-		var enemy = Instantiate(enemyPrefabToSPawn, spawnPosition, Quaternion.identity).GetComponent<Enemy>();
+		var enemy = Instantiate(enemyPrefabToSpawn, spawnPosition, Quaternion.identity).GetComponent<Enemy>();
 		AddEnemy(enemy, enemy._type);
 	}
 

@@ -24,6 +24,17 @@ public class KingProtection : MonoBehaviour
 	[Header("Optional VFX")] [SerializeField]
 	private GameObject destroyFxPrefab;
 
+	public void Init(EnemyType enemyType)
+	{
+		int flags = (int)enemyType;
+
+// Check bit positions directly and map to 0, 1, 2
+		if ((flags & (1 << 1)) == 0) _enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
+		if ((flags & (1 << 2)) == 0) _enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
+		if ((flags & (1 << 3)) == 0) _enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
+
+	}
+
 	private void OnEnable()
 	{
 		foreach (var enemyDestroyer in _enemyDestroyers)
@@ -68,8 +79,8 @@ public class KingProtection : MonoBehaviour
 		{
 			if (IsObjectOnEllipse(enemy.transform.position, enemyDestroyer._ellipseRenderer))
 			{
+				if (enemy._isDead) continue;
 				DestroyEnemy(enemy);
-
 				isDestroyed = true;
 			}
 		}

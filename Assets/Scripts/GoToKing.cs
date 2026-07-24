@@ -37,8 +37,11 @@ public class GoToKing : MonoBehaviour
     {
         if (!_kingTransform) return;
 
-        _enemySpriteRenderer.flipX = transform.position.x > _kingTransform.position.x;
-        
+        if (_enemySpriteRenderer)
+        {
+            _enemySpriteRenderer.flipX = transform.position.x > _kingTransform.position.x;
+        }
+
         // Calculate distance to King
         float distanceToKing = Vector3.Distance(transform.position, _kingTransform.position);
 

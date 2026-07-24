@@ -18,6 +18,15 @@ public class Timer : MonoBehaviour
         _timerTimeEvent = new TimerTimeEvent(_time);
     }
 
+    public void Init(float startTime, float timeToAddWhenEnemyDestroyed, float timeToReduceWhenPressedAndEnemyNotDestroyed, float timeToReduceWhenEnemyReachesKing)
+    {
+        _startTime = startTime;
+        _time = _startTime;
+        _timeToAddWhenEnemyDestroyed = timeToAddWhenEnemyDestroyed;
+        _timeToReduceWhenPressedAndEnemyNotDestroyed = timeToReduceWhenPressedAndEnemyNotDestroyed;
+        _timeToReduceWhenEnemyReachesKing = timeToReduceWhenEnemyReachesKing;
+    }
+
     private void OnEnable()
     {
         Messenger.Default.Subscribe<EnemyDestroyedEvent>(OnEnemyDestroyed);

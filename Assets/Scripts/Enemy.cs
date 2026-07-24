@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class Enemy : MonoBehaviour
 {
@@ -8,8 +9,10 @@ public class Enemy : MonoBehaviour
 	[SerializeField] private Animator _animator;
 	[SerializeField] private GoToKing _goToKing;
 
+	[ReadOnly] public bool _isDead = false;
 	public void Electrified()
 	{
+		_isDead = true;
 		_animator.SetTrigger(Electrified1);
 		_goToKing.enabled = false;
 	}
