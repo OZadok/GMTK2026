@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxEffect
   cameraTransform: {fileID: 0}
-  parallaxMultiplier: {x: 0.1, y: 1}
+  parallaxMultiplier: {x: 0.1, y: 0}
   infiniteHorizontal: 0
   infiniteVertical: 0
 --- !u!1 &112507940
@@ -488,7 +488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxEffect
   cameraTransform: {fileID: 0}
-  parallaxMultiplier: {x: 0.2, y: 1}
+  parallaxMultiplier: {x: 0.2, y: 0}
   infiniteHorizontal: 0
   infiniteVertical: 0
 --- !u!1 &197348286
@@ -975,7 +975,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxEffect
   cameraTransform: {fileID: 0}
-  parallaxMultiplier: {x: 0.2, y: 1}
+  parallaxMultiplier: {x: 0.2, y: 0}
   infiniteHorizontal: 0
   infiniteVertical: 0
 --- !u!114 &524562121
@@ -1358,7 +1358,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxEffect
   cameraTransform: {fileID: 0}
-  parallaxMultiplier: {x: 0.3, y: 1}
+  parallaxMultiplier: {x: 0.3, y: 0}
   infiniteHorizontal: 0
   infiniteVertical: 0
 --- !u!114 &596157626
@@ -1977,7 +1977,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxEffect
   cameraTransform: {fileID: 0}
-  parallaxMultiplier: {x: 0.1, y: 1}
+  parallaxMultiplier: {x: 0.1, y: 0}
   infiniteHorizontal: 0
   infiniteVertical: 0
 --- !u!114 &738829489
@@ -2191,7 +2191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ParallaxEffect
   cameraTransform: {fileID: 0}
-  parallaxMultiplier: {x: 0.3, y: 1}
+  parallaxMultiplier: {x: 0.3, y: 0}
   infiniteHorizontal: 0
   infiniteVertical: 0
 --- !u!1001 &792616350
