@@ -12,6 +12,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Knight 3 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1797176824868849669, guid: 54c783a17665a534d80cffbd9d33a8de, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.9898549
+      objectReference: {fileID: 0}
+    - target: {fileID: 1797176824868849669, guid: 54c783a17665a534d80cffbd9d33a8de, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.116
+      objectReference: {fileID: 0}
+    - target: {fileID: 1797176824868849669, guid: 54c783a17665a534d80cffbd9d33a8de, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.074
+      objectReference: {fileID: 0}
     - target: {fileID: 5877946193781905129, guid: 54c783a17665a534d80cffbd9d33a8de, type: 3}
       propertyPath: m_Controller
       value: 
