@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 9d69f4520fe0f91448f6e2b7056af29c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7105069411746438058
+    second: Red Enemy Attack_0
+  - first:
+      213: 7480195608006666668
+    second: Red Enemy Attack_1
+  - first:
+      213: 6207041777692239221
+    second: Red Enemy Attack_2
+  - first:
+      213: -4732566709086245155
+    second: Red Enemy Attack_3
+  - first:
+      213: -4144563695163927771
+    second: Red Enemy Attack_4
+  - first:
+      213: -998950801613545434
+    second: Red Enemy Attack_5
+  - first:
+      213: -4390933043668495748
+    second: Red Enemy Attack_6
+  - first:
+      213: 7466149965015344952
+    second: Red Enemy Attack_7
+  - first:
+      213: 7254152501167945079
+    second: Red Enemy Attack_8
+  - first:
+      213: -6059292273268498425
+    second: Red Enemy Attack_9
+  - first:
+      213: -2120469498841865604
+    second: Red Enemy Attack_10
+  - first:
+      213: 7344556932658183640
+    second: Red Enemy Attack_11
+  - first:
+      213: 7544297757206480054
+    second: Red Enemy Attack_12
+  - first:
+      213: 3632787650072572893
+    second: Red Enemy Attack_13
+  - first:
+      213: -6156458085536230596
+    second: Red Enemy Attack_14
+  - first:
+      213: 1694828376254571301
+    second: Red Enemy Attack_15
+  - first:
+      213: 2066415856564689700
+    second: Red Enemy Attack_16
+  - first:
+      213: -3508621266772600630
+    second: Red Enemy Attack_17
+  - first:
+      213: 3035200198556102966
+    second: Red Enemy Attack_18
+  - first:
+      213: -3863861750592352440
+    second: Red Enemy Attack_19
+  - first:
+      213: 311808364486154003
+    second: Red Enemy Attack_20
+  - first:
+      213: -8361753307676898622
+    second: Red Enemy Attack_21
+  - first:
+      213: 2845012995636345612
+    second: Red Enemy Attack_22
+  - first:
+      213: 1745379995817210747
+    second: Red Enemy Attack_23
+  - first:
+      213: -6877142109204234354
+    second: Red Enemy Attack_24
+  - first:
+      213: -1172537583506814492
+    second: Red Enemy Attack_25
+  - first:
+      213: -6687770408833979964
+    second: Red Enemy Attack_26
+  - first:
+      213: -8621006816708115680
+    second: Red Enemy Attack_27
+  - first:
+      213: 5635192883368120586
+    second: Red Enemy Attack_28
+  - first:
+      213: -2615693208588780798
+    second: Red Enemy Attack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Enemy Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabd3a75cf64a9260800000000000000
+      internalID: 7105069411746438058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_1
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3336
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9aca1164efec760800000000000000
+      internalID: 7480195608006666668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 3336
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ea594c97d32650800000000000000
+      internalID: 6207041777692239221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_3
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 3336
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde231df6ab825eb0800000000000000
+      internalID: -4732566709086245155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_4
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 3336
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52316c0374d8b76c0800000000000000
+      internalID: -4144563695163927771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_5
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 3336
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620abb1e9830322f0800000000000000
+      internalID: -998950801613545434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2502
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c725d9339a54013c0800000000000000
+      internalID: -4390933043668495748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 2502
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e888f5d71d9760800000000000000
+      internalID: 7466149965015344952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2502
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77570a2044deba460800000000000000
+      internalID: 7254152501167945079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_9
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 2502
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ef8de7c119eba0800000000000000
+      internalID: -6059292273268498425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_10
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 2502
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ea7cb9349292e0800000000000000
+      internalID: -2120469498841865604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_11
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 2502
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd39bbfd9b1de560800000000000000
+      internalID: 7344556932658183640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4811ab6dab2b860800000000000000
+      internalID: 7544297757206480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1668
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37003de114a6230800000000000000
+      internalID: 3632787650072572893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_14
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1668
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3318015dfddf8aa0800000000000000
+      internalID: -6156458085536230596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_15
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1668
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e7e9bd6d358710800000000000000
+      internalID: 1694828376254571301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_16
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 1668
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bd5c0f5426dac10800000000000000
+      internalID: 2066415856564689700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_17
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 1668
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac853ae1c8fde4fc0800000000000000
+      internalID: -3508621266772600630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631b129df723f1a20800000000000000
+      internalID: 3035200198556102966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_19
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f49be953ec06ac0800000000000000
+      internalID: -3863861750592352440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_20
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31751333e04c35400800000000000000
+      internalID: 311808364486154003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_21
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca887c4ba515fb80800000000000000
+      internalID: -8361753307676898622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_22
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b364afe348b7720800000000000000
+      internalID: 2845012995636345612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_23
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f1c8dbd5d83810800000000000000
+      internalID: 1745379995817210747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f300730bb7f80a0800000000000000
+      internalID: -6877142109204234354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_25
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e90849b74f4abfe0800000000000000
+      internalID: -1172537583506814492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_26
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e41a1f344033a0800000000000000
+      internalID: -6687770408833979964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_27
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02344ebe9f70c5880800000000000000
+      internalID: -8621006816708115680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_28
+      rect:
+        serializedVersion: 2
+        x: 4676
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0157f5221a343e40800000000000000
+      internalID: 5635192883368120586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Enemy Attack_29
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bf9a4a2e033bbd0800000000000000
+      internalID: -2615693208588780798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0d93d6a82e30ab40a739d14eee30456
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":1169.0,"y":834.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Red Enemy Attack_0: 7105069411746438058
+      Red Enemy Attack_1: 7480195608006666668
+      Red Enemy Attack_10: -2120469498841865604
+      Red Enemy Attack_11: 7344556932658183640
+      Red Enemy Attack_12: 7544297757206480054
+      Red Enemy Attack_13: 3632787650072572893
+      Red Enemy Attack_14: -6156458085536230596
+      Red Enemy Attack_15: 1694828376254571301
+      Red Enemy Attack_16: 2066415856564689700
+      Red Enemy Attack_17: -3508621266772600630
+      Red Enemy Attack_18: 3035200198556102966
+      Red Enemy Attack_19: -3863861750592352440
+      Red Enemy Attack_2: 6207041777692239221
+      Red Enemy Attack_20: 311808364486154003
+      Red Enemy Attack_21: -8361753307676898622
+      Red Enemy Attack_22: 2845012995636345612
+      Red Enemy Attack_23: 1745379995817210747
+      Red Enemy Attack_24: -6877142109204234354
+      Red Enemy Attack_25: -1172537583506814492
+      Red Enemy Attack_26: -6687770408833979964
+      Red Enemy Attack_27: -8621006816708115680
+      Red Enemy Attack_28: 5635192883368120586
+      Red Enemy Attack_29: -2615693208588780798
+      Red Enemy Attack_3: -4732566709086245155
+      Red Enemy Attack_4: -4144563695163927771
+      Red Enemy Attack_5: -998950801613545434
+      Red Enemy Attack_6: -4390933043668495748
+      Red Enemy Attack_7: 7466149965015344952
+      Red Enemy Attack_8: 7254152501167945079
+      Red Enemy Attack_9: -6059292273268498425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

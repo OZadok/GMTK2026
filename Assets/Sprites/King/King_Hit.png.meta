@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: d2ce81ba39098c541a2a680b43550600
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4116486075112820444
+    second: King_Hit_0
+  - first:
+      213: -8171337884384231443
+    second: King_Hit_1
+  - first:
+      213: -7510716654485607356
+    second: King_Hit_2
+  - first:
+      213: -7318370140111517624
+    second: King_Hit_3
+  - first:
+      213: -6548489724330088270
+    second: King_Hit_4
+  - first:
+      213: 2294513741431122570
+    second: King_Hit_5
+  - first:
+      213: 278576427798960976
+    second: King_Hit_6
+  - first:
+      213: 3478319681048899448
+    second: King_Hit_7
+  - first:
+      213: -9165041650234087321
+    second: King_Hit_8
+  - first:
+      213: -2433657909896397867
+    second: King_Hit_9
+  - first:
+      213: 8151378055173013467
+    second: King_Hit_10
+  - first:
+      213: -6553987808449537628
+    second: King_Hit_11
+  - first:
+      213: 2468143614812740689
+    second: King_Hit_12
+  - first:
+      213: -3345384439781370066
+    second: King_Hit_13
+  - first:
+      213: -1378916197391650957
+    second: King_Hit_14
+  - first:
+      213: 4656087371511463153
+    second: King_Hit_15
+  - first:
+      213: -5855138448145112312
+    second: King_Hit_16
+  - first:
+      213: 800582290288668501
+    second: King_Hit_17
+  - first:
+      213: -3838969259216265187
+    second: King_Hit_18
+  - first:
+      213: 3097976594532893342
+    second: King_Hit_19
+  - first:
+      213: -4755838743129518947
+    second: King_Hit_20
+  - first:
+      213: 2544892918037783504
+    second: King_Hit_21
+  - first:
+      213: 1752746760274972735
+    second: King_Hit_22
+  - first:
+      213: 7967591573040745405
+    second: King_Hit_23
+  - first:
+      213: 5434900233748991421
+    second: King_Hit_24
+  - first:
+      213: -3729771074403222191
+    second: King_Hit_25
+  - first:
+      213: 7192447929353702697
+    second: King_Hit_26
+  - first:
+      213: 4444610139634653482
+    second: King_Hit_27
+  - first:
+      213: 5547066547008313068
+    second: King_Hit_28
+  - first:
+      213: 3584877969434720898
+    second: King_Hit_29
+  - first:
+      213: 763039252156014453
+    second: King_Hit_30
+  - first:
+      213: 4477723130071647362
+    second: King_Hit_31
+  - first:
+      213: 7452725291303703116
+    second: King_Hit_32
+  - first:
+      213: 3534320664671275734
+    second: King_Hit_33
+  - first:
+      213: 7124292713895343703
+    second: King_Hit_34
+  - first:
+      213: 2392596424348560032
+    second: King_Hit_35
+  - first:
+      213: 8633697051281790060
+    second: King_Hit_36
+  - first:
+      213: -6404811867856952212
+    second: King_Hit_37
+  - first:
+      213: -4237224833007410703
+    second: King_Hit_38
+  - first:
+      213: 7550020162780494880
+    second: King_Hit_39
+  - first:
+      213: -3332322638082823306
+    second: King_Hit_40
+  - first:
+      213: 3140785801678788203
+    second: King_Hit_41
+  - first:
+      213: -6981167813235368928
+    second: King_Hit_42
+  - first:
+      213: 6367871887165416674
+    second: King_Hit_43
+  - first:
+      213: 143283444264754861
+    second: King_Hit_44
+  - first:
+      213: 385546694416990841
+    second: King_Hit_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fe0a89bd4fd6c0800000000000000
+      internalID: -4116486075112820444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3336
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff59ddc73999e80800000000000000
+      internalID: -8171337884384231443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3336
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c66c80ff294c790800000000000000
+      internalID: -7510716654485607356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3336
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848c3d7c12def6a90800000000000000
+      internalID: -7318370140111517624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3336
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b862068a471f15a0800000000000000
+      internalID: -6548489724330088270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 3336
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a214a4710c7df10800000000000000
+      internalID: 2294513741431122570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2502
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b11cdf8c3bdd300800000000000000
+      internalID: 278576427798960976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2502
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f6b2c2259754030800000000000000
+      internalID: 3478319681048899448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2502
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76823267d2b3fc080800000000000000
+      internalID: -9165041650234087321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 2502
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db3ec76609e93ed0800000000000000
+      internalID: -2433657909896397867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_10
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2502
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf708047238f1170800000000000000
+      internalID: 8151378055173013467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 2502
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9df1f00de8b05a0800000000000000
+      internalID: -6553987808449537628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cdf877a8b904220800000000000000
+      internalID: 2468143614812740689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1668
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2756bd939ec291d0800000000000000
+      internalID: -3345384439781370066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_14
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1668
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f2077360b1ddce0800000000000000
+      internalID: -1378916197391650957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_15
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1668
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc7f1e9bcebd9040800000000000000
+      internalID: 4656087371511463153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_16
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1668
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803249f6a9e5ebea0800000000000000
+      internalID: -5855138448145112312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_17
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1668
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fef12f95d3c1b00800000000000000
+      internalID: 800582290288668501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1025c86ccd39bac0800000000000000
+      internalID: -3838969259216265187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 834
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e928b978c493efa20800000000000000
+      internalID: 3097976594532893342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_20
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 834
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c89b25cdddffdb0800000000000000
+      internalID: -4755838743129518947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_21
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 834
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ac0320a6415320800000000000000
+      internalID: 2544892918037783504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_22
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 834
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30186b54e1035810800000000000000
+      internalID: 1752746760274972735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_23
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 834
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4d725252929e60800000000000000
+      internalID: 7967591573040745405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdcb4e97f4ac6b40800000000000000
+      internalID: 5434900233748991421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d3ba018f03d3cc0800000000000000
+      internalID: -3729771074403222191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_26
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0f96d845b0d360800000000000000
+      internalID: 7192447929353702697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_27
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 0
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29d50a9f5d6ead30800000000000000
+      internalID: 4444610139634653482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_28
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 0
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce612e782a32bfc40800000000000000
+      internalID: 5547066547008313068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Hit_29
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 0
+        width: 721
+        height: 834
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ab74b058b00c130800000000000000
+      internalID: 3584877969434720898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 461aefcdba06dac44bf6dc35f027c74a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":721.0,"y":834.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      King_Hit_0: -4116486075112820444
+      King_Hit_1: -8171337884384231443
+      King_Hit_10: 8151378055173013467
+      King_Hit_11: -6553987808449537628
+      King_Hit_12: 2468143614812740689
+      King_Hit_13: -3345384439781370066
+      King_Hit_14: -1378916197391650957
+      King_Hit_15: 4656087371511463153
+      King_Hit_16: -5855138448145112312
+      King_Hit_17: 800582290288668501
+      King_Hit_18: -3838969259216265187
+      King_Hit_19: 3097976594532893342
+      King_Hit_2: -7510716654485607356
+      King_Hit_20: -4755838743129518947
+      King_Hit_21: 2544892918037783504
+      King_Hit_22: 1752746760274972735
+      King_Hit_23: 7967591573040745405
+      King_Hit_24: 5434900233748991421
+      King_Hit_25: -3729771074403222191
+      King_Hit_26: 7192447929353702697
+      King_Hit_27: 4444610139634653482
+      King_Hit_28: 5547066547008313068
+      King_Hit_29: 3584877969434720898
+      King_Hit_3: -7318370140111517624
+      King_Hit_4: -6548489724330088270
+      King_Hit_5: 2294513741431122570
+      King_Hit_6: 278576427798960976
+      King_Hit_7: 3478319681048899448
+      King_Hit_8: -9165041650234087321
+      King_Hit_9: -2433657909896397867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
