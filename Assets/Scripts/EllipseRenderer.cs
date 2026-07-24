@@ -10,6 +10,9 @@ public class EllipseRenderer : MonoBehaviour
 
 	[ReadOnly] public LineRenderer line;
 
+	[SerializeField] private SpriteRenderer _regularSprite;
+	[SerializeField] private SpriteRenderer _pressedSprite;
+	
 	[SerializeField] private Color _color;
 
 	void Awake()
@@ -51,6 +54,16 @@ public class EllipseRenderer : MonoBehaviour
 	{
 		if (isPressed)
 		{
+			if (_regularSprite && _regularSprite.gameObject)
+			{
+				_regularSprite?.gameObject.SetActive(false);
+			}
+
+			if (_pressedSprite && _pressedSprite.gameObject)
+			{
+				_pressedSprite?.gameObject.SetActive(true);
+			}
+
 			var color = _color;
 			
 			Color.RGBToHSV(color, out float h, out float s, out float v);
@@ -61,6 +74,15 @@ public class EllipseRenderer : MonoBehaviour
 		}
 		else
 		{
+			if (_regularSprite && _regularSprite.gameObject)
+			{
+				_regularSprite.gameObject.SetActive(true);
+			}
+			if (_pressedSprite && _pressedSprite.gameObject)
+			{
+				_pressedSprite.gameObject.SetActive(false);
+			}
+			
 			line.startColor = _color;
 			line.endColor = _color;
 		}
