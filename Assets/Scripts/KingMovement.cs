@@ -1,3 +1,4 @@
+using System;
 using DG.Tweening;
 using Events;
 using SuperMaxim.Messaging;
@@ -7,12 +8,86 @@ public class KingMovement : MonoBehaviour
 {
 	[SerializeField] private float _speed;
 	
+	[Tooltip("for walking on stairs")]
+	[SerializeField] private float _stepWidth = 0.4f; // Horizontal tread length
+	private float _stepHeight => _stepWidth * Mathf.Tan(37.5f * Mathf.Deg2Rad); // Automatically ~0.3f
+	
 	private bool _isDead = false;
+
+	public enum WalkingState
+	{
+		Straight, Up, Down
+	}
+	
+	public WalkingState _walkingState = WalkingState.Straight;
+	
 	private void Update()
 	{
-		if (!_isDead)
+		if (_isDead) return;
+		switch (_walkingState)
 		{
-			transform.position += transform.right * (_speed * Time.deltaTime);
+			case WalkingState.Straight:
+				WalkStraight();
+				break;
+			case WalkingState.Up:
+				WalkUpStairs();
+				break;
+			case WalkingState.Down:
+				WalkDownStairs();
+				break;
+			default:
+				throw new ArgumentOutOfRangeException();
+		}
+	}
+
+	private void WalkStraight()
+	{
+		transform.position += transform.right * (_speed * Time.deltaTime);
+	}
+	
+	private void WalkUp()
+	{
+		transform.position += transform.up * (_speed * Time.deltaTime);
+	}
+	
+	private void WalkDown()
+	{
+		transform.position -= transform.up * (_speed * Time.deltaTime);
+	}
+
+	private void WalkUpStairs()
+	{
+		// Alternate based on travel ratio: 1 unit forward to ~0.75 units up
+		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
+		float forwardRatio = _stepWidth / (_stepWidth + _stepHeight);
+    
+		float currentCycleProgress = (Time.time % totalCycleTime) / totalCycleTime;
+
+		if (currentCycleProgress < forwardRatio)
+		{
+			WalkStraight();
+		}
+		else
+		{
+			WalkUp();
+		}
+	}
+
+	private void WalkDownStairs()
+	{
+		// Alternate based on travel ratio: 1 unit forward to ~0.75 units up
+		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
+		float forwardRatio = _stepWidth / (_stepWidth + _stepHeight);
+    
+		float currentCycleProgress = (Time.time % totalCycleTime) / totalCycleTime;
+
+		if (currentCycleProgress < forwardRatio)
+		{
+			WalkStraight();
+		}
+		else
+		{
+			WalkDown();
 		}
 	}
 
