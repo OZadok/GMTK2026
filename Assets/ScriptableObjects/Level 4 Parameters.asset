@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Level 4 Parameters
   m_EditorClassIdentifier: Assembly-CSharp::LevelParameters
   _castlePrefab: {fileID: 8648730106185843076, guid: 162673e36007afa469655d4bda9e26ed, type: 3}
+  _progressBarBackground: {fileID: 21300000, guid: 9e561a041332f4b548c3b0c3712b29f5, type: 3}
   _enemyType: -1
   _levelTimerTime: 60
   _timeToAddWhenEnemyDestroyed: 5

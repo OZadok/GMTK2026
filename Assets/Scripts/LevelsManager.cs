@@ -12,13 +12,14 @@ public class LevelsManager : MonoBehaviour
     [SerializeField] private Enemies _enemies;
     [SerializeField] private KingProtection _kingProtection;
     [SerializeField] private KingMovement _kingMovement;
-
-    private float _levelProgress;
+    [SerializeField] private UIProgressBar _progressBar;
 
     private Vector3 _lastCheckPointPosition;
     private Coroutine _checkPointCoroutine;
     
     private List<GameObject> _castles = new List<GameObject>();
+
+    private float LevelProgress { get; set; }
 
     private void Start()
     {
@@ -34,7 +35,7 @@ public class LevelsManager : MonoBehaviour
         _enemies.Init(levelParameters._spawnInterval, levelParameters._enemyType);
         _kingProtection.Init(levelParameters._enemyType);
         
-        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 19.2f;
+        var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 15.2f;
         if (_castles.Count == _lastLevel)
         {
             _castles.Add(Instantiate(levelParameters._castlePrefab));
@@ -43,6 +44,8 @@ public class LevelsManager : MonoBehaviour
         var vector3 = castleGameObject.transform.position;
         vector3.x = castleXPosition;
         castleGameObject.transform.position = vector3;
+        
+        _progressBar.SwapBackgroundSprite(levelParameters._progressBarBackground);
     }
 
     private int _lastLevel;
@@ -99,20 +102,30 @@ public class LevelsManager : MonoBehaviour
         yield return StartCoroutine(WalkCastleOut());
         Messenger.Default.Publish(new EndWalkInCastleEvent());
         SetLevel(levelParameters);
-        yield return new WaitForSeconds(4f);
-        _enemies._toSpawn = true;
-        
-        _levelProgress = 0;
-        while (_levelProgress < levelParameters._levelDistance - 4)
+        LevelProgress = 0;
+        Messenger.Default.Publish(new LevelProgressEvent(LevelProgress/levelParameters._levelDistance));
+        StartCoroutine(SpawnEnemyAfterTime(4));
+        while (LevelProgress < levelParameters._levelDistance - 4)
         {
             yield return null;
-            _levelProgress += Time.deltaTime;
+            LevelProgress += Time.deltaTime * _kingMovement._speed;
+            Messenger.Default.Publish(new LevelProgressEvent(LevelProgress/levelParameters._levelDistance));
         }
         _enemies._toSpawn = false;
-        
-        yield return new WaitForSeconds(4f);
+        while (LevelProgress < levelParameters._levelDistance)
+        {
+            yield return null;
+            LevelProgress += Time.deltaTime * _kingMovement._speed;
+            Messenger.Default.Publish(new LevelProgressEvent(LevelProgress/levelParameters._levelDistance));
+        }
         
         yield return StartCoroutine(WalkCastleIn());
+    }
+
+    private IEnumerator SpawnEnemyAfterTime(float time)
+    {
+        yield return new WaitForSeconds(time);
+        _enemies._toSpawn = true;
     }
 
     private IEnumerator WalkCastleOut()

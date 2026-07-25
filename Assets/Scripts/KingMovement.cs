@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class KingMovement : MonoBehaviour
 {
-	[SerializeField] private float _speed;
+	[SerializeField] public float _speed;
 	
 	[Tooltip("for walking on stairs")]
 	[SerializeField] private float _stepWidth = 0.4f; // Horizontal tread length
