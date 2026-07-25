@@ -1524,7 +1524,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 302385435}
   - {fileID: 34699494}
@@ -4696,15 +4696,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 00:00
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9ec46b77ce08eed46ac70c76bb32bd2f, type: 2}
-  m_sharedMaterial: {fileID: 2019645779735444367, guid: 9ec46b77ce08eed46ac70c76bb32bd2f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: cfe8ee22e0f0b5b48bd2b1ddf76d5fa9, type: 2}
+  m_sharedMaterial: {fileID: 7375979812011386683, guid: cfe8ee22e0f0b5b48bd2b1ddf76d5fa9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4280688942
-  m_fontColor: {r: 0.18039216, g: 0.12941177, b: 0.14901961, a: 1}
+    rgba: 4293784053
+  m_fontColor: {r: 0.9622642, g: 0.94417953, b: 0.9304913, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4721,15 +4721,15 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
