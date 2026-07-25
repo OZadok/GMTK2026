@@ -1,0 +1,2609 @@
+fileFormatVersion: 2
+guid: 9001845f96db66446b6345acc90dd9f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -288016196804128557
+    second: dont let the count down shine_0
+  - first:
+      213: 2608274889317151079
+    second: dont let the count down shine_1
+  - first:
+      213: 7578450696736418540
+    second: dont let the count down shine_2
+  - first:
+      213: 6389707995932871188
+    second: dont let the count down shine_3
+  - first:
+      213: 1103864474228019026
+    second: dont let the count down shine_4
+  - first:
+      213: -1074647245371778638
+    second: dont let the count down shine_5
+  - first:
+      213: 178646096958977626
+    second: dont let the count down shine_6
+  - first:
+      213: -5729203088096459172
+    second: dont let the count down shine_7
+  - first:
+      213: 5085062935222788572
+    second: dont let the count down shine_8
+  - first:
+      213: -4441216043606249274
+    second: dont let the count down shine_9
+  - first:
+      213: -3441167545611405928
+    second: dont let the count down shine_10
+  - first:
+      213: 7039730406271983657
+    second: dont let the count down shine_11
+  - first:
+      213: -6011517674043267730
+    second: dont let the count down shine_12
+  - first:
+      213: -688133637806293762
+    second: dont let the count down shine_13
+  - first:
+      213: -1786381452197847065
+    second: dont let the count down shine_14
+  - first:
+      213: -2228261662647233917
+    second: dont let the count down shine_15
+  - first:
+      213: 4496323369198164971
+    second: dont let the count down shine_16
+  - first:
+      213: 1220971782069887966
+    second: dont let the count down shine_17
+  - first:
+      213: 506592676781815820
+    second: dont let the count down shine_18
+  - first:
+      213: -2484034845974796273
+    second: dont let the count down shine_19
+  - first:
+      213: 6793269553410114497
+    second: dont let the count down shine_20
+  - first:
+      213: 2495083075479256345
+    second: dont let the count down shine_21
+  - first:
+      213: -4738165139306564064
+    second: dont let the count down shine_22
+  - first:
+      213: -1159455858346817878
+    second: dont let the count down shine_23
+  - first:
+      213: -871092328884638536
+    second: dont let the count down shine_24
+  - first:
+      213: -2568135460207699275
+    second: dont let the count down shine_25
+  - first:
+      213: 7378820513018323916
+    second: dont let the count down shine_26
+  - first:
+      213: 7428642223927543014
+    second: dont let the count down shine_27
+  - first:
+      213: -8137870855777328086
+    second: dont let the count down shine_28
+  - first:
+      213: 1544048698395006804
+    second: dont let the count down shine_29
+  - first:
+      213: 6672738343728258458
+    second: dont let the count down shine_30
+  - first:
+      213: -8839264032399438159
+    second: dont let the count down shine_31
+  - first:
+      213: -4223906743028663802
+    second: dont let the count down shine_32
+  - first:
+      213: -8918387879412845337
+    second: dont let the count down shine_33
+  - first:
+      213: -980476043907670306
+    second: dont let the count down shine_34
+  - first:
+      213: -5181676205225085766
+    second: dont let the count down shine_35
+  - first:
+      213: -7373362091828405187
+    second: dont let the count down shine_36
+  - first:
+      213: 9213468410169241778
+    second: dont let the count down shine_37
+  - first:
+      213: -951128420731400303
+    second: dont let the count down shine_38
+  - first:
+      213: -4813347667798050654
+    second: dont let the count down shine_39
+  - first:
+      213: -984380216210843959
+    second: dont let the count down shine_40
+  - first:
+      213: -2843218592503491805
+    second: dont let the count down shine_41
+  - first:
+      213: -2237147734368186179
+    second: dont let the count down shine_42
+  - first:
+      213: -4981650851483710462
+    second: dont let the count down shine_43
+  - first:
+      213: 6452092106081518146
+    second: dont let the count down shine_44
+  - first:
+      213: 1287552802975807264
+    second: dont let the count down shine_45
+  - first:
+      213: 8912628568148665421
+    second: dont let the count down shine_46
+  - first:
+      213: -8025003181499971701
+    second: dont let the count down shine_47
+  - first:
+      213: -481838222572484114
+    second: dont let the count down shine_48
+  - first:
+      213: 3500591498539326663
+    second: dont let the count down shine_49
+  - first:
+      213: -4833366386833287052
+    second: dont let the count down shine_50
+  - first:
+      213: 937904672150377804
+    second: dont let the count down shine_51
+  - first:
+      213: -8430171065703770432
+    second: dont let the count down shine_52
+  - first:
+      213: 5569714450459181070
+    second: dont let the count down shine_53
+  - first:
+      213: 5220298792883287851
+    second: dont let the count down shine_54
+  - first:
+      213: 8585369186592348380
+    second: dont let the count down shine_55
+  - first:
+      213: -4942622271717326889
+    second: dont let the count down shine_56
+  - first:
+      213: -8322227266922100147
+    second: dont let the count down shine_57
+  - first:
+      213: 4821939057841175876
+    second: dont let the count down shine_58
+  - first:
+      213: -5907611732648482502
+    second: dont let the count down shine_59
+  - first:
+      213: -2911516117206399395
+    second: dont let the count down shine_60
+  - first:
+      213: -1715983639390907575
+    second: dont let the count down shine_61
+  - first:
+      213: -5388783257265354323
+    second: dont let the count down shine_62
+  - first:
+      213: -7295922220324226475
+    second: dont let the count down shine_63
+  - first:
+      213: 5010819605096408872
+    second: dont let the count down shine_64
+  - first:
+      213: -6785476893291245684
+    second: dont let the count down shine_65
+  - first:
+      213: -1246731725524003155
+    second: dont let the count down shine_66
+  - first:
+      213: 4389635330964060387
+    second: dont let the count down shine_67
+  - first:
+      213: -6188971851970865130
+    second: dont let the count down shine_68
+  - first:
+      213: 4148477551437762300
+    second: dont let the count down shine_69
+  - first:
+      213: -5501823711192790832
+    second: dont let the count down shine_70
+  - first:
+      213: -6206003970730120080
+    second: dont let the count down shine_71
+  - first:
+      213: 581817613520617986
+    second: dont let the count down shine_72
+  - first:
+      213: -9214770376670011514
+    second: dont let the count down shine_73
+  - first:
+      213: 7829092259844796750
+    second: dont let the count down shine_74
+  - first:
+      213: -7244546014193231516
+    second: dont let the count down shine_75
+  - first:
+      213: 6830431348896484705
+    second: dont let the count down shine_76
+  - first:
+      213: 1133011691849413328
+    second: dont let the count down shine_77
+  - first:
+      213: -9193517850357829022
+    second: dont let the count down shine_78
+  - first:
+      213: -1064164334233476344
+    second: dont let the count down shine_79
+  - first:
+      213: 9043426712207818455
+    second: dont let the count down shine_80
+  - first:
+      213: 8954828799651851004
+    second: dont let the count down shine_81
+  - first:
+      213: 4289676733304815475
+    second: dont let the count down shine_82
+  - first:
+      213: 9135092967330766623
+    second: dont let the count down shine_83
+  - first:
+      213: 1143595808225192829
+    second: dont let the count down shine_84
+  - first:
+      213: 6472249862054330445
+    second: dont let the count down shine_85
+  - first:
+      213: 497051472671229367
+    second: dont let the count down shine_86
+  - first:
+      213: 9183150676274441394
+    second: dont let the count down shine_87
+  - first:
+      213: 1756011442168420796
+    second: dont let the count down shine_88
+  - first:
+      213: -2492597157304934561
+    second: dont let the count down shine_89
+  - first:
+      213: -2541973552192349394
+    second: dont let the count down shine_90
+  - first:
+      213: -2512000243046128383
+    second: dont let the count down shine_91
+  - first:
+      213: -6209799302192107596
+    second: dont let the count down shine_92
+  - first:
+      213: -2779714639970555425
+    second: dont let the count down shine_93
+  - first:
+      213: 5862897675466789905
+    second: dont let the count down shine_94
+  - first:
+      213: 7486714608336361514
+    second: dont let the count down shine_95
+  - first:
+      213: 8656538782830125127
+    second: dont let the count down shine_96
+  - first:
+      213: -4944044930315615264
+    second: dont let the count down shine_97
+  - first:
+      213: -7930361526795581049
+    second: dont let the count down shine_98
+  - first:
+      213: -4433618946600064893
+    second: dont let the count down shine_99
+  - first:
+      213: -7583393992602844919
+    second: dont let the count down shine_100
+  - first:
+      213: -4029784956828973927
+    second: dont let the count down shine_101
+  - first:
+      213: -5452577809206698782
+    second: dont let the count down shine_102
+  - first:
+      213: 1335812377723742294
+    second: dont let the count down shine_103
+  - first:
+      213: -886605265914245867
+    second: dont let the count down shine_104
+  - first:
+      213: 6749437889509242210
+    second: dont let the count down shine_105
+  - first:
+      213: -4038500972295588518
+    second: dont let the count down shine_106
+  - first:
+      213: 6947948843105398638
+    second: dont let the count down shine_107
+  - first:
+      213: 1016951142917652015
+    second: dont let the count down shine_108
+  - first:
+      213: -7156748044256540074
+    second: dont let the count down shine_109
+  - first:
+      213: -5641700300660026955
+    second: dont let the count down shine_110
+  - first:
+      213: 6402822045703763118
+    second: dont let the count down shine_111
+  - first:
+      213: -722496338164912422
+    second: dont let the count down shine_112
+  - first:
+      213: -8970103938842645145
+    second: dont let the count down shine_113
+  - first:
+      213: 2215679109535169938
+    second: dont let the count down shine_114
+  - first:
+      213: 7724409789979905918
+    second: dont let the count down shine_115
+  - first:
+      213: 7297633104047481210
+    second: dont let the count down shine_116
+  - first:
+      213: -3868023916302917689
+    second: dont let the count down shine_117
+  - first:
+      213: -6742446166374045214
+    second: dont let the count down shine_118
+  - first:
+      213: -8224467736419573082
+    second: dont let the count down shine_119
+  - first:
+      213: 9134513978322185131
+    second: dont let the count down shine_120
+  - first:
+      213: -8429248484811006396
+    second: dont let the count down shine_121
+  - first:
+      213: 7064226659418069522
+    second: dont let the count down shine_122
+  - first:
+      213: -8607231990080329191
+    second: dont let the count down shine_123
+  - first:
+      213: -5976175599454596508
+    second: dont let the count down shine_124
+  - first:
+      213: 5136236953143329158
+    second: dont let the count down shine_125
+  - first:
+      213: 7025480600606782247
+    second: dont let the count down shine_126
+  - first:
+      213: -3430131230998246996
+    second: dont let the count down shine_127
+  - first:
+      213: -7967641252240045680
+    second: dont let the count down shine_128
+  - first:
+      213: -3290361960395473456
+    second: dont let the count down shine_129
+  - first:
+      213: -1698620410682040995
+    second: dont let the count down shine_130
+  - first:
+      213: -2949799105502865128
+    second: dont let the count down shine_131
+  - first:
+      213: 2846650343653078524
+    second: dont let the count down shine_132
+  - first:
+      213: -6981785696431363512
+    second: dont let the count down shine_133
+  - first:
+      213: 2209043642525600294
+    second: dont let the count down shine_134
+  - first:
+      213: 8927496666433804662
+    second: dont let the count down shine_135
+  - first:
+      213: -6655395940252494952
+    second: dont let the count down shine_136
+  - first:
+      213: -7233697855501864738
+    second: dont let the count down shine_137
+  - first:
+      213: 5777312106574941291
+    second: dont let the count down shine_138
+  - first:
+      213: 1071593685679534683
+    second: dont let the count down shine_139
+  - first:
+      213: -1309242056820423900
+    second: dont let the count down shine_140
+  - first:
+      213: 995761415321648876
+    second: dont let the count down shine_141
+  - first:
+      213: 883582240449851550
+    second: dont let the count down shine_142
+  - first:
+      213: 7076321847349817812
+    second: dont let the count down shine_143
+  - first:
+      213: -706168970796809138
+    second: dont let the count down shine_144
+  - first:
+      213: 9121539170970548601
+    second: dont let the count down shine_145
+  - first:
+      213: -6761500638948060575
+    second: dont let the count down shine_146
+  - first:
+      213: 1486848086244858283
+    second: dont let the count down shine_147
+  - first:
+      213: -8512463738914907467
+    second: dont let the count down shine_148
+  - first:
+      213: -124416011618430943
+    second: dont let the count down shine_149
+  - first:
+      213: -9187339814516366027
+    second: dont let the count down shine_150
+  - first:
+      213: -564570582442229507
+    second: dont let the count down shine_151
+  - first:
+      213: 7674427273782691782
+    second: dont let the count down shine_152
+  - first:
+      213: -5223193115518617343
+    second: dont let the count down shine_153
+  - first:
+      213: -2443260979322017272
+    second: dont let the count down shine_154
+  - first:
+      213: -4159110759551481926
+    second: dont let the count down shine_155
+  - first:
+      213: -2165106570994378344
+    second: dont let the count down shine_156
+  - first:
+      213: 5816463058809190204
+    second: dont let the count down shine_157
+  - first:
+      213: -7748587426079010554
+    second: dont let the count down shine_158
+  - first:
+      213: -6515547110271461243
+    second: dont let the count down shine_159
+  - first:
+      213: 1805361172999920493
+    second: dont let the count down shine_160
+  - first:
+      213: 5404372911853391338
+    second: dont let the count down shine_161
+  - first:
+      213: -1092258655290264233
+    second: dont let the count down shine_162
+  - first:
+      213: 437921325656714213
+    second: dont let the count down shine_163
+  - first:
+      213: 3457034703535474986
+    second: dont let the count down shine_164
+  - first:
+      213: 718256789383482561
+    second: dont let the count down shine_165
+  - first:
+      213: -6591140438126587378
+    second: dont let the count down shine_166
+  - first:
+      213: -163937122940185591
+    second: dont let the count down shine_167
+  - first:
+      213: 3852562772620819156
+    second: dont let the count down shine_168
+  - first:
+      213: 7531171137566321947
+    second: dont let the count down shine_169
+  - first:
+      213: -5373394131488552293
+    second: dont let the count down shine_170
+  - first:
+      213: 3560502570146331491
+    second: dont let the count down shine_171
+  - first:
+      213: -2701076686756797011
+    second: dont let the count down shine_172
+  - first:
+      213: 8211452195560232809
+    second: dont let the count down shine_173
+  - first:
+      213: 3656563927673005026
+    second: dont let the count down shine_174
+  - first:
+      213: -3163683398547713628
+    second: dont let the count down shine_175
+  - first:
+      213: 535843792466142838
+    second: dont let the count down shine_176
+  - first:
+      213: 2656266581440480958
+    second: dont let the count down shine_177
+  - first:
+      213: -8144447509530340829
+    second: dont let the count down shine_178
+  - first:
+      213: 5510269923606090322
+    second: dont let the count down shine_179
+  - first:
+      213: 1268848921746898309
+    second: dont let the count down shine_180
+  - first:
+      213: -1006504410517528299
+    second: dont let the count down shine_181
+  - first:
+      213: 7867362291362148330
+    second: dont let the count down shine_182
+  - first:
+      213: -2029981387594433255
+    second: dont let the count down shine_183
+  - first:
+      213: -1749504848784314495
+    second: dont let the count down shine_184
+  - first:
+      213: -3330967830768723468
+    second: dont let the count down shine_185
+  - first:
+      213: 4103957921811819679
+    second: dont let the count down shine_186
+  - first:
+      213: 7634206901623145918
+    second: dont let the count down shine_187
+  - first:
+      213: 465640200606459978
+    second: dont let the count down shine_188
+  - first:
+      213: -4406718964176584617
+    second: dont let the count down shine_189
+  - first:
+      213: -6632946446137227063
+    second: dont let the count down shine_190
+  - first:
+      213: -2835882296241083882
+    second: dont let the count down shine_191
+  - first:
+      213: 7091826820951180778
+    second: dont let the count down shine_192
+  - first:
+      213: 2889450850810273599
+    second: dont let the count down shine_193
+  - first:
+      213: -5627890955203298988
+    second: dont let the count down shine_194
+  - first:
+      213: 629521705367248040
+    second: dont let the count down shine_195
+  - first:
+      213: 8274072423163372098
+    second: dont let the count down shine_196
+  - first:
+      213: -6862314080960991291
+    second: dont let the count down shine_197
+  - first:
+      213: -2798553900940308635
+    second: dont let the count down shine_198
+  - first:
+      213: 3275236213794292104
+    second: dont let the count down shine_199
+  - first:
+      213: 3139292770547695555
+    second: dont let the count down shine_200
+  - first:
+      213: -7501295091592359246
+    second: dont let the count down shine_201
+  - first:
+      213: -2844727200748970125
+    second: dont let the count down shine_202
+  - first:
+      213: -7948961456883168248
+    second: dont let the count down shine_203
+  - first:
+      213: -2851266205619662765
+    second: dont let the count down shine_204
+  - first:
+      213: -5093278937527484075
+    second: dont let the count down shine_205
+  - first:
+      213: 7438400982598738425
+    second: dont let the count down shine_206
+  - first:
+      213: 5898327781333942786
+    second: dont let the count down shine_207
+  - first:
+      213: 7692389030158256997
+    second: dont let the count down shine_208
+  - first:
+      213: -186164553232373903
+    second: dont let the count down shine_209
+  - first:
+      213: -3393151656259584853
+    second: dont let the count down shine_210
+  - first:
+      213: 2458829614116678549
+    second: dont let the count down shine_211
+  - first:
+      213: -2886833077694323309
+    second: dont let the count down shine_212
+  - first:
+      213: 3971235845734024565
+    second: dont let the count down shine_213
+  - first:
+      213: 7382922183903952783
+    second: dont let the count down shine_214
+  - first:
+      213: -7131810399834491961
+    second: dont let the count down shine_215
+  - first:
+      213: -2952477649608379926
+    second: dont let the count down shine_216
+  - first:
+      213: 312769237984306981
+    second: dont let the count down shine_217
+  - first:
+      213: -8770555211637179634
+    second: dont let the count down shine_218
+  - first:
+      213: -667025901098395822
+    second: dont let the count down shine_219
+  - first:
+      213: -4772819416448618169
+    second: dont let the count down shine_220
+  - first:
+      213: 805140564735612611
+    second: dont let the count down shine_221
+  - first:
+      213: -1046816385425317316
+    second: dont let the count down shine_222
+  - first:
+      213: 9216406000678896392
+    second: dont let the count down shine_223
+  - first:
+      213: 4935844663792928367
+    second: dont let the count down shine_224
+  - first:
+      213: -6449603943072672281
+    second: dont let the count down shine_225
+  - first:
+      213: 5602049884043456158
+    second: dont let the count down shine_226
+  - first:
+      213: -8945694828571861910
+    second: dont let the count down shine_227
+  - first:
+      213: 5055877505736409309
+    second: dont let the count down shine_228
+  - first:
+      213: -89328860416498749
+    second: dont let the count down shine_229
+  - first:
+      213: 2211901296451187309
+    second: dont let the count down shine_230
+  - first:
+      213: 4983059951400400590
+    second: dont let the count down shine_231
+  - first:
+      213: 1698972082277611934
+    second: dont let the count down shine_232
+  - first:
+      213: -4090732705597599177
+    second: dont let the count down shine_233
+  - first:
+      213: -6408286066190181151
+    second: dont let the count down shine_234
+  - first:
+      213: -5395515887903306677
+    second: dont let the count down shine_235
+  - first:
+      213: -1253295826296362983
+    second: dont let the count down shine_236
+  - first:
+      213: -8447884720906795051
+    second: dont let the count down shine_237
+  - first:
+      213: 2820185915891034334
+    second: dont let the count down shine_238
+  - first:
+      213: 5141705089025336212
+    second: dont let the count down shine_239
+  - first:
+      213: 2348062501079452438
+    second: dont let the count down shine_240
+  - first:
+      213: -138280955276703628
+    second: dont let the count down shine_241
+  - first:
+      213: -3295809664280228785
+    second: dont let the count down shine_242
+  - first:
+      213: 6125648013013774074
+    second: dont let the count down shine_243
+  - first:
+      213: 4579703334218565643
+    second: dont let the count down shine_244
+  - first:
+      213: -3555235058340722594
+    second: dont let the count down shine_245
+  - first:
+      213: -5479956584500149863
+    second: dont let the count down shine_246
+  - first:
+      213: 6537060309403283995
+    second: dont let the count down shine_247
+  - first:
+      213: -5479414649776494237
+    second: dont let the count down shine_248
+  - first:
+      213: -8582066904986006956
+    second: dont let the count down shine_249
+  - first:
+      213: -4138838339955486459
+    second: dont let the count down shine_250
+  - first:
+      213: -4911822856639102420
+    second: dont let the count down shine_251
+  - first:
+      213: 752403586277118587
+    second: dont let the count down shine_252
+  - first:
+      213: -6382268497118814116
+    second: dont let the count down shine_253
+  - first:
+      213: -4870967535504159874
+    second: dont let the count down shine_254
+  - first:
+      213: -7130372384066265497
+    second: dont let the count down shine_255
+  - first:
+      213: -6957180032422505081
+    second: dont let the count down shine_256
+  - first:
+      213: 5397279532962922619
+    second: dont let the count down shine_257
+  - first:
+      213: 5898280540135518343
+    second: dont let the count down shine_258
+  - first:
+      213: -4942174937448903565
+    second: dont let the count down shine_259
+  - first:
+      213: -3880969712014145399
+    second: dont let the count down shine_260
+  - first:
+      213: -6308764393901538534
+    second: dont let the count down shine_261
+  - first:
+      213: -2684762174802972458
+    second: dont let the count down shine_262
+  - first:
+      213: 4253798256408532173
+    second: dont let the count down shine_263
+  - first:
+      213: 8414881945972347022
+    second: dont let the count down shine_264
+  - first:
+      213: -6042538161560568046
+    second: dont let the count down shine_265
+  - first:
+      213: -7792206003931794388
+    second: dont let the count down shine_266
+  - first:
+      213: -2037952485319755426
+    second: dont let the count down shine_267
+  - first:
+      213: 8692136434445315520
+    second: dont let the count down shine_268
+  - first:
+      213: 2377682335561279042
+    second: dont let the count down shine_269
+  - first:
+      213: 6625273071202294888
+    second: dont let the count down shine_270
+  - first:
+      213: 6061533790833128285
+    second: dont let the count down shine_271
+  - first:
+      213: 9111511236891845991
+    second: dont let the count down shine_272
+  - first:
+      213: 1853926160539468096
+    second: dont let the count down shine_273
+  - first:
+      213: 2785460815654128806
+    second: dont let the count down shine_274
+  - first:
+      213: 5791293140726829801
+    second: dont let the count down shine_275
+  - first:
+      213: 3531877754384554307
+    second: dont let the count down shine_276
+  - first:
+      213: -7268666761715248709
+    second: dont let the count down shine_277
+  - first:
+      213: -3809000340059909928
+    second: dont let the count down shine_278
+  - first:
+      213: 3658564395219100285
+    second: dont let the count down shine_279
+  - first:
+      213: 3505667429549843222
+    second: dont let the count down shine_280
+  - first:
+      213: 536853060677975675
+    second: dont let the count down shine_281
+  - first:
+      213: 1136012213577237172
+    second: dont let the count down shine_282
+  - first:
+      213: 7894355722975521882
+    second: dont let the count down shine_283
+  - first:
+      213: 469238660017922527
+    second: dont let the count down shine_284
+  - first:
+      213: -9070977117152655818
+    second: dont let the count down shine_285
+  - first:
+      213: -3392001577827397555
+    second: dont let the count down shine_286
+  - first:
+      213: -3155420523834046291
+    second: dont let the count down shine_287
+  - first:
+      213: -7176941328409431650
+    second: dont let the count down shine_288
+  - first:
+      213: -4865861683032934728
+    second: dont let the count down shine_289
+  - first:
+      213: -2121756883963586960
+    second: dont let the count down shine_290
+  - first:
+      213: -1841036860004589664
+    second: dont let the count down shine_291
+  - first:
+      213: 4282013207299492861
+    second: dont let the count down shine_292
+  - first:
+      213: -8632908403901445742
+    second: dont let the count down shine_293
+  - first:
+      213: 8347168056104845875
+    second: dont let the count down shine_294
+  - first:
+      213: -2716269616816322510
+    second: dont let the count down shine_295
+  - first:
+      213: 3012876389114797647
+    second: dont let the count down shine_296
+  - first:
+      213: -5374124030042471569
+    second: dont let the count down shine_297
+  - first:
+      213: 8432729269561848974
+    second: dont let the count down shine_298
+  - first:
+      213: 5532372246553727035
+    second: dont let the count down shine_299
+  - first:
+      213: 6006812753019156646
+    second: dont let the count down shine_300
+  - first:
+      213: 1854211005877405835
+    second: dont let the count down shine_301
+  - first:
+      213: -795898198668459897
+    second: dont let the count down shine_302
+  - first:
+      213: 8915541685705069494
+    second: dont let the count down shine_303
+  - first:
+      213: -6067824583552326302
+    second: dont let the count down shine_304
+  - first:
+      213: 631612291593537240
+    second: dont let the count down shine_305
+  - first:
+      213: 6224132484107249710
+    second: dont let the count down shine_306
+  - first:
+      213: 5108775694754967550
+    second: dont let the count down shine_307
+  - first:
+      213: 1384889540719185994
+    second: dont let the count down shine_308
+  - first:
+      213: -9076721267209544445
+    second: dont let the count down shine_309
+  - first:
+      213: 1281682030173145387
+    second: dont let the count down shine_310
+  - first:
+      213: -7152529063457802106
+    second: dont let the count down shine_311
+  - first:
+      213: -6169780974053054931
+    second: dont let the count down shine_312
+  - first:
+      213: 253606077018645681
+    second: dont let the count down shine_313
+  - first:
+      213: 3121525412977172408
+    second: dont let the count down shine_314
+  - first:
+      213: -512599273628829272
+    second: dont let the count down shine_315
+  - first:
+      213: 2058125221596294089
+    second: dont let the count down shine_316
+  - first:
+      213: -1733657680242571252
+    second: dont let the count down shine_317
+  - first:
+      213: -8488479241631560479
+    second: dont let the count down shine_318
+  - first:
+      213: 7429074723578104554
+    second: dont let the count down shine_319
+  - first:
+      213: 7933344100451977559
+    second: dont let the count down shine_320
+  - first:
+      213: 3952845804169426257
+    second: dont let the count down shine_321
+  - first:
+      213: 3952207400887758623
+    second: dont let the count down shine_322
+  - first:
+      213: -1041272659085607675
+    second: dont let the count down shine_323
+  - first:
+      213: 5151437316692388308
+    second: dont let the count down shine_324
+  - first:
+      213: -598546392207736746
+    second: dont let the count down shine_325
+  - first:
+      213: -739918821399854410
+    second: dont let the count down shine_326
+  - first:
+      213: 2487232933549783561
+    second: dont let the count down shine_327
+  - first:
+      213: 4886262264561598656
+    second: dont let the count down shine_328
+  - first:
+      213: 1629504439463318690
+    second: dont let the count down shine_329
+  - first:
+      213: -2669112946011533421
+    second: dont let the count down shine_330
+  - first:
+      213: 2517505930277551075
+    second: dont let the count down shine_331
+  - first:
+      213: -5958838331242887811
+    second: dont let the count down shine_332
+  - first:
+      213: -7602007491395179123
+    second: dont let the count down shine_333
+  - first:
+      213: -6271397141008698982
+    second: dont let the count down shine_334
+  - first:
+      213: -5744528203635008513
+    second: dont let the count down shine_335
+  - first:
+      213: 8750856079775240639
+    second: dont let the count down shine_336
+  - first:
+      213: -9035482741388131784
+    second: dont let the count down shine_337
+  - first:
+      213: 8789321919239235397
+    second: dont let the count down shine_338
+  - first:
+      213: -7415903656594206114
+    second: dont let the count down shine_339
+  - first:
+      213: -6485964324156908109
+    second: dont let the count down shine_340
+  - first:
+      213: 6283406026067871994
+    second: dont let the count down shine_341
+  - first:
+      213: 904127705484218221
+    second: dont let the count down shine_342
+  - first:
+      213: -6715676750546990458
+    second: dont let the count down shine_343
+  - first:
+      213: -2180081074607128518
+    second: dont let the count down shine_344
+  - first:
+      213: 7214583933002006696
+    second: dont let the count down shine_345
+  - first:
+      213: 1489892061994251912
+    second: dont let the count down shine_346
+  - first:
+      213: 3037997449280037021
+    second: dont let the count down shine_347
+  - first:
+      213: 9157049342594840491
+    second: dont let the count down shine_348
+  - first:
+      213: 3732980964474105795
+    second: dont let the count down shine_349
+  - first:
+      213: 2249415149079095441
+    second: dont let the count down shine_350
+  - first:
+      213: 4574106027691635260
+    second: dont let the count down shine_351
+  - first:
+      213: 3156233932348461024
+    second: dont let the count down shine_352
+  - first:
+      213: 3624502909626674893
+    second: dont let the count down shine_353
+  - first:
+      213: -6142648516899475204
+    second: dont let the count down shine_354
+  - first:
+      213: 5722315736861430985
+    second: dont let the count down shine_355
+  - first:
+      213: 7568872483579740145
+    second: dont let the count down shine_356
+  - first:
+      213: 1580104069439111183
+    second: dont let the count down shine_357
+  - first:
+      213: 845542564098780548
+    second: dont let the count down shine_358
+  - first:
+      213: -6917863437179352415
+    second: dont let the count down shine_359
+  - first:
+      213: 7216067894769326239
+    second: dont let the count down shine_360
+  - first:
+      213: 8524612077719929554
+    second: dont let the count down shine_361
+  - first:
+      213: 2408727313840803772
+    second: dont let the count down shine_362
+  - first:
+      213: 8479584861167436108
+    second: dont let the count down shine_363
+  - first:
+      213: 7705281569613328670
+    second: dont let the count down shine_364
+  - first:
+      213: 4277231676857756334
+    second: dont let the count down shine_365
+  - first:
+      213: 4478095860012226949
+    second: dont let the count down shine_366
+  - first:
+      213: -252288646234208567
+    second: dont let the count down shine_367
+  - first:
+      213: 8985509387028483450
+    second: dont let the count down shine_368
+  - first:
+      213: 7724045776946249825
+    second: dont let the count down shine_369
+  - first:
+      213: 3182655313401473569
+    second: dont let the count down shine_370
+  - first:
+      213: -1292547997570199530
+    second: dont let the count down shine_371
+  - first:
+      213: -6206642383498814618
+    second: dont let the count down shine_372
+  - first:
+      213: 4230535483734719376
+    second: dont let the count down shine_373
+  - first:
+      213: -1002692492453356086
+    second: dont let the count down shine_374
+  - first:
+      213: -3997300623781503326
+    second: dont let the count down shine_375
+  - first:
+      213: -946786097849303522
+    second: dont let the count down shine_376
+  - first:
+      213: -4057384240135876830
+    second: dont let the count down shine_377
+  - first:
+      213: -6152534884502345394
+    second: dont let the count down shine_378
+  - first:
+      213: -2553762910984221658
+    second: dont let the count down shine_379
+  - first:
+      213: -6315310318125475083
+    second: dont let the count down shine_380
+  - first:
+      213: -4047231274908811933
+    second: dont let the count down shine_381
+  - first:
+      213: 1278422677973140114
+    second: dont let the count down shine_382
+  - first:
+      213: 5849895095033992763
+    second: dont let the count down shine_383
+  - first:
+      213: -864599004955327806
+    second: dont let the count down shine_384
+  - first:
+      213: 3014170269466429113
+    second: dont let the count down shine_385
+  - first:
+      213: 634105381273025293
+    second: dont let the count down shine_386
+  - first:
+      213: 7924681553428224743
+    second: dont let the count down shine_387
+  - first:
+      213: 8712478120807360087
+    second: dont let the count down shine_388
+  - first:
+      213: -4661504694488781010
+    second: dont let the count down shine_389
+  - first:
+      213: -8042262493733956662
+    second: dont let the count down shine_390
+  - first:
+      213: 7945555940811907201
+    second: dont let the count down shine_391
+  - first:
+      213: 7739507921274586464
+    second: dont let the count down shine_392
+  - first:
+      213: -6862743963644862207
+    second: dont let the count down shine_393
+  - first:
+      213: -8484372214182039311
+    second: dont let the count down shine_394
+  - first:
+      213: 2907075762912222035
+    second: dont let the count down shine_395
+  - first:
+      213: 7322921023028727440
+    second: dont let the count down shine_396
+  - first:
+      213: 3420007910830400829
+    second: dont let the count down shine_397
+  - first:
+      213: 3211795700419951151
+    second: dont let the count down shine_398
+  - first:
+      213: 550747249828623489
+    second: dont let the count down shine_399
+  - first:
+      213: 1531699900036122294
+    second: dont let the count down shine_400
+  - first:
+      213: 1502985617826765963
+    second: dont let the count down shine_401
+  - first:
+      213: -801063438256418164
+    second: dont let the count down shine_402
+  - first:
+      213: 1134551751871506841
+    second: dont let the count down shine_403
+  - first:
+      213: 4593657358674925045
+    second: dont let the count down shine_404
+  - first:
+      213: -859927980515986406
+    second: dont let the count down shine_405
+  - first:
+      213: 5734436936278007480
+    second: dont let the count down shine_406
+  - first:
+      213: -8598970324903651397
+    second: dont let the count down shine_407
+  - first:
+      213: 1052311090214307262
+    second: dont let the count down shine_408
+  - first:
+      213: 5465242774279423858
+    second: dont let the count down shine_409
+  - first:
+      213: 4657086403257467084
+    second: dont let the count down shine_410
+  - first:
+      213: 4008259626807670201
+    second: dont let the count down shine_411
+  - first:
+      213: -7182546814962788823
+    second: dont let the count down shine_412
+  - first:
+      213: -402996917649595207
+    second: dont let the count down shine_413
+  - first:
+      213: 4127530809989938563
+    second: dont let the count down shine_414
+  - first:
+      213: 4266566830839877467
+    second: dont let the count down shine_415
+  - first:
+      213: 6102840622593295026
+    second: dont let the count down shine_416
+  - first:
+      213: -2310547040039352145
+    second: dont let the count down shine_417
+  - first:
+      213: -1322773582414601032
+    second: dont let the count down shine_418
+  - first:
+      213: -2743536253490487578
+    second: dont let the count down shine_419
+  - first:
+      213: 7291424339149645138
+    second: dont let the count down shine_420
+  - first:
+      213: -5655226959560911166
+    second: dont let the count down shine_421
+  - first:
+      213: 8682580541108979025
+    second: dont let the count down shine_422
+  - first:
+      213: -7539086486004098617
+    second: dont let the count down shine_423
+  - first:
+      213: 6380427313780261975
+    second: dont let the count down shine_424
+  - first:
+      213: -8632228296589049375
+    second: dont let the count down shine_425
+  - first:
+      213: -332400823645935752
+    second: dont let the count down shine_426
+  - first:
+      213: -7778359924554617030
+    second: dont let the count down shine_427
+  - first:
+      213: -7726876676319525595
+    second: dont let the count down shine_428
+  - first:
+      213: -2498687211906594843
+    second: dont let the count down shine_429
+  - first:
+      213: 5282349979062527366
+    second: dont let the count down shine_430
+  - first:
+      213: 5344953524000538027
+    second: dont let the count down shine_431
+  - first:
+      213: 3023393077225083880
+    second: dont let the count down shine_432
+  - first:
+      213: 5074660834123554903
+    second: dont let the count down shine_433
+  - first:
+      213: 3737196189198073435
+    second: dont let the count down shine_434
+  - first:
+      213: 1402892498754201217
+    second: dont let the count down shine_435
+  - first:
+      213: -5782275087796887895
+    second: dont let the count down shine_436
+  - first:
+      213: -5701495797911483950
+    second: dont let the count down shine_437
+  - first:
+      213: 13156981331059262
+    second: dont let the count down shine_438
+  - first:
+      213: -5400769874445578579
+    second: dont let the count down shine_439
+  - first:
+      213: 567621847309445206
+    second: dont let the count down shine_440
+  - first:
+      213: 7263317665422113907
+    second: dont let the count down shine_441
+  - first:
+      213: 4058055770207463198
+    second: dont let the count down shine_442
+  - first:
+      213: 373924425959428152
+    second: dont let the count down shine_443
+  - first:
+      213: -5754687834248008902
+    second: dont let the count down shine_444
+  - first:
+      213: -1835150976056697023
+    second: dont let the count down shine_445
+  - first:
+      213: 110478451159801873
+    second: dont let the count down shine_446
+  - first:
+      213: 8822880809052151613
+    second: dont let the count down shine_447
+  - first:
+      213: -8548157042814055541
+    second: dont let the count down shine_448
+  - first:
+      213: -120376391830868773
+    second: dont let the count down shine_449
+  - first:
+      213: -8338241899624778988
+    second: dont let the count down shine_450
+  - first:
+      213: 5786219503125686735
+    second: dont let the count down shine_451
+  - first:
+      213: -3302235121950746022
+    second: dont let the count down shine_452
+  - first:
+      213: -5391579153108905680
+    second: dont let the count down shine_453
+  - first:
+      213: 4273884520852257925
+    second: dont let the count down shine_454
+  - first:
+      213: -2685794863133179638
+    second: dont let the count down shine_455
+  - first:
+      213: 9064829247382604778
+    second: dont let the count down shine_456
+  - first:
+      213: -943723524297781941
+    second: dont let the count down shine_457
+  - first:
+      213: -4322308784893404729
+    second: dont let the count down shine_458
+  - first:
+      213: 4835087745097724702
+    second: dont let the count down shine_459
+  - first:
+      213: 6722227188882392593
+    second: dont let the count down shine_460
+  - first:
+      213: -6600078029965659799
+    second: dont let the count down shine_461
+  - first:
+      213: -9135973049827523329
+    second: dont let the count down shine_462
+  - first:
+      213: 2737214290761191233
+    second: dont let the count down shine_463
+  - first:
+      213: 1385023839920680309
+    second: dont let the count down shine_464
+  - first:
+      213: -5008891223426328099
+    second: dont let the count down shine_465
+  - first:
+      213: 4617076029873980322
+    second: dont let the count down shine_466
+  - first:
+      213: -9110461129075782467
+    second: dont let the count down shine_467
+  - first:
+      213: 2157465459847764716
+    second: dont let the count down shine_468
+  - first:
+      213: -6036141632534953407
+    second: dont let the count down shine_469
+  - first:
+      213: 8320712358064611768
+    second: dont let the count down shine_470
+  - first:
+      213: -5935570191633536540
+    second: dont let the count down shine_471
+  - first:
+      213: -8000122493765139604
+    second: dont let the count down shine_472
+  - first:
+      213: -2860475928043361398
+    second: dont let the count down shine_473
+  - first:
+      213: -42673096423822176
+    second: dont let the count down shine_474
+  - first:
+      213: -3822641788240113067
+    second: dont let the count down shine_475
+  - first:
+      213: 5023963861061315082
+    second: dont let the count down shine_476
+  - first:
+      213: -4572120507925182484
+    second: dont let the count down shine_477
+  - first:
+      213: -4811931570525799371
+    second: dont let the count down shine_478
+  - first:
+      213: -2342066786467571135
+    second: dont let the count down shine_479
+  - first:
+      213: 4160886249673472262
+    second: dont let the count down shine_480
+  - first:
+      213: -5724784591245841941
+    second: dont let the count down shine_481
+  - first:
+      213: 990700104030295462
+    second: dont let the count down shine_482
+  - first:
+      213: -7460756592185173445
+    second: dont let the count down shine_483
+  - first:
+      213: 5929914844233244949
+    second: dont let the count down shine_484
+  - first:
+      213: 7116203566499582839
+    second: dont let the count down shine_485
+  - first:
+      213: 8395684877083745866
+    second: dont let the count down shine_486
+  - first:
+      213: 5576450199290751212
+    second: dont let the count down shine_487
+  - first:
+      213: -2342989369565721905
+    second: dont let the count down shine_488
+  - first:
+      213: -9034486696332381115
+    second: dont let the count down shine_489
+  - first:
+      213: -2350914761100321741
+    second: dont let the count down shine_490
+  - first:
+      213: 3535073760839299380
+    second: dont let the count down shine_491
+  - first:
+      213: -2943314828196710566
+    second: dont let the count down shine_492
+  - first:
+      213: -5081457672789199828
+    second: dont let the count down shine_493
+  - first:
+      213: -7868950868978533678
+    second: dont let the count down shine_494
+  - first:
+      213: 3704818004260594062
+    second: dont let the count down shine_495
+  - first:
+      213: 4291451968308436344
+    second: dont let the count down shine_496
+  - first:
+      213: 5073715522102881629
+    second: dont let the count down shine_497
+  - first:
+      213: -4216895601327079214
+    second: dont let the count down shine_498
+  - first:
+      213: -391772004737849067
+    second: dont let the count down shine_499
+  - first:
+      213: 4899907865590859623
+    second: dont let the count down shine_500
+  - first:
+      213: -6869346505476927148
+    second: dont let the count down shine_501
+  - first:
+      213: 2084154655079612296
+    second: dont let the count down shine_502
+  - first:
+      213: -1236638121890569230
+    second: dont let the count down shine_503
+  - first:
+      213: 8936414043663469836
+    second: dont let the count down shine_504
+  - first:
+      213: -981314007700145276
+    second: dont let the count down shine_505
+  - first:
+      213: 1798459036997830965
+    second: dont let the count down shine_506
+  - first:
+      213: -5900880515733356632
+    second: dont let the count down shine_507
+  - first:
+      213: 8906636353067526641
+    second: dont let the count down shine_508
+  - first:
+      213: 5355651398650793302
+    second: dont let the count down shine_509
+  - first:
+      213: -3680578135647302156
+    second: dont let the count down shine_510
+  - first:
+      213: -4986800945469398279
+    second: dont let the count down shine_511
+  - first:
+      213: -7297778342012992024
+    second: dont let the count down shine_512
+  - first:
+      213: 9032957898945799385
+    second: dont let the count down shine_513
+  - first:
+      213: 1922277188860831452
+    second: dont let the count down shine_514
+  - first:
+      213: 5231718056525254442
+    second: dont let the count down shine_515
+  - first:
+      213: 8916914382136170073
+    second: dont let the count down shine_516
+  - first:
+      213: -6647728755042667589
+    second: dont let the count down shine_517
+  - first:
+      213: 9210853224779226518
+    second: dont let the count down shine_518
+  - first:
+      213: -899094417561465314
+    second: dont let the count down shine_519
+  - first:
+      213: 3857125050442613714
+    second: dont let the count down shine_520
+  - first:
+      213: 2576577512513793084
+    second: dont let the count down shine_521
+  - first:
+      213: 168088480326798746
+    second: dont let the count down shine_522
+  - first:
+      213: 548090458578044245
+    second: dont let the count down shine_523
+  - first:
+      213: 3487727823508174452
+    second: dont let the count down shine_524
+  - first:
+      213: -298932479453406199
+    second: dont let the count down shine_525
+  - first:
+      213: 691777069961590386
+    second: dont let the count down shine_526
+  - first:
+      213: 372289651723073207
+    second: dont let the count down shine_527
+  - first:
+      213: -7608905354327869284
+    second: dont let the count down shine_528
+  - first:
+      213: 3017736862689902860
+    second: dont let the count down shine_529
+  - first:
+      213: -5733803556751074227
+    second: dont let the count down shine_530
+  - first:
+      213: 6327358376826825561
+    second: dont let the count down shine_531
+  - first:
+      213: 3211640966562679118
+    second: dont let the count down shine_532
+  - first:
+      213: -7611086393260293980
+    second: dont let the count down shine_533
+  - first:
+      213: 8063672845176548962
+    second: dont let the count down shine_534
+  - first:
+      213: 5044814242878926360
+    second: dont let the count down shine_535
+  - first:
+      213: 4674764334574890575
+    second: dont let the count down shine_536
+  - first:
+      213: -7617065220168669748
+    second: dont let the count down shine_537
+  - first:
+      213: 8516651884804565661
+    second: dont let the count down shine_538
+  - first:
+      213: 7398668025317558682
+    second: dont let the count down shine_539
+  - first:
+      213: 7940977514001864700
+    second: dont let the count down shine_540
+  - first:
+      213: 30962462616093454
+    second: dont let the count down shine_541
+  - first:
+      213: -4704151689014643913
+    second: dont let the count down shine_542
+  - first:
+      213: 821231744361493586
+    second: dont let the count down shine_543
+  - first:
+      213: -382067022880950534
+    second: dont let the count down shine_544
+  - first:
+      213: -6196033084328037812
+    second: dont let the count down shine_545
+  - first:
+      213: 7417889602397748611
+    second: dont let the count down shine_546
+  - first:
+      213: -468367227901648693
+    second: dont let the count down shine_547
+  - first:
+      213: -3973496832997129495
+    second: dont let the count down shine_548
+  - first:
+      213: 3551457150712901781
+    second: dont let the count down shine_549
+  - first:
+      213: -2267267047590835582
+    second: dont let the count down shine_550
+  - first:
+      213: 253227425964272634
+    second: dont let the count down shine_551
+  - first:
+      213: -3058992831162590448
+    second: dont let the count down shine_552
+  - first:
+      213: 3389322713231169886
+    second: dont let the count down shine_553
+  - first:
+      213: 1685451471770379002
+    second: dont let the count down shine_554
+  - first:
+      213: 3925888170881391401
+    second: dont let the count down shine_555
+  - first:
+      213: 1440067495946894765
+    second: dont let the count down shine_556
+  - first:
+      213: -1140853244997072662
+    second: dont let the count down shine_557
+  - first:
+      213: 2109629486091539912
+    second: dont let the count down shine_558
+  - first:
+      213: 4279561696027871271
+    second: dont let the count down shine_559
+  - first:
+      213: 4809407763173220431
+    second: dont let the count down shine_560
+  - first:
+      213: 5408535082290336916
+    second: dont let the count down shine_561
+  - first:
+      213: -7497447306088077172
+    second: dont let the count down shine_562
+  - first:
+      213: -339450010877816288
+    second: dont let the count down shine_563
+  - first:
+      213: -4551396638538976059
+    second: dont let the count down shine_564
+  - first:
+      213: -162846113377682420
+    second: dont let the count down shine_565
+  - first:
+      213: -7703666017408636277
+    second: dont let the count down shine_566
+  - first:
+      213: 6165167439988490520
+    second: dont let the count down shine_567
+  - first:
+      213: 7961427854885957469
+    second: dont let the count down shine_568
+  - first:
+      213: 7773939464361821739
+    second: dont let the count down shine_569
+  - first:
+      213: 1115791160053157465
+    second: dont let the count down shine_570
+  - first:
+      213: -874125820055063906
+    second: dont let the count down shine_571
+  - first:
+      213: -8266993696931643955
+    second: dont let the count down shine_572
+  - first:
+      213: 7290171206799562291
+    second: dont let the count down shine_573
+  - first:
+      213: 135577768808250981
+    second: dont let the count down shine_574
+  - first:
+      213: -7004191526707350378
+    second: dont let the count down shine_575
+  - first:
+      213: -3977569511878404773
+    second: dont let the count down shine_576
+  - first:
+      213: -7337809678291987542
+    second: dont let the count down shine_577
+  - first:
+      213: -4436262037290729721
+    second: dont let the count down shine_578
+  - first:
+      213: -6027214005002933703
+    second: dont let the count down shine_579
+  - first:
+      213: 6358058490667887032
+    second: dont let the count down shine_580
+  - first:
+      213: 2338217000142515039
+    second: dont let the count down shine_581
+  - first:
+      213: -7428871044443687819
+    second: dont let the count down shine_582
+  - first:
+      213: 7015199880512195810
+    second: dont let the count down shine_583
+  - first:
+      213: 7377820536529716492
+    second: dont let the count down shine_584
+  - first:
+      213: -2195816352486393076
+    second: dont let the count down shine_585
+  - first:
+      213: 5624645286685473255
+    second: dont let the count down shine_586
+  - first:
+      213: 3241688821140601
+    second: dont let the count down shine_587
+  - first:
+      213: -3033162014862909188
+    second: dont let the count down shine_588
+  - first:
+      213: -7396719054310891102
+    second: dont let the count down shine_589
+  - first:
+      213: -1192500224835208866
+    second: dont let the count down shine_590
+  - first:
+      213: 8039914285958086565
+    second: dont let the count down shine_591
+  - first:
+      213: 3048676743722470067
+    second: dont let the count down shine_592
+  - first:
+      213: 9124064825229584984
+    second: dont let the count down shine_593
+  - first:
+      213: -5921592682176609112
+    second: dont let the count down shine_594
+  - first:
+      213: 154227417884427213
+    second: dont let the count down shine_595
+  - first:
+      213: -5125499675768066946
+    second: dont let the count down shine_596
+  - first:
+      213: -1689154126640335987
+    second: dont let the count down shine_597
+  - first:
+      213: -8654320255185277459
+    second: dont let the count down shine_598
+  - first:
+      213: -4794927407006731949
+    second: dont let the count down shine_599
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dont let the count down shine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d05ee38bc2c00cf0800000000000000
+      internalID: -288016196804128557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_1
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 4400
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761f15e4134723420800000000000000
+      internalID: 2608274889317151079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_2
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 4400
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea29ce91c01c2960800000000000000
+      internalID: 7578450696736418540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_3
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 4400
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a4d04719dcca850800000000000000
+      internalID: 6389707995932871188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_4
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 4400
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fc88a04e6b15f00800000000000000
+      internalID: 1103864474228019026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_5
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 4400
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b953c826061611f0800000000000000
+      internalID: -1074647245371778638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ffbdbdadaa7200800000000000000
+      internalID: 178646096958977626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_7
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 3300
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5680ff5528cd70b0800000000000000
+      internalID: -5729203088096459172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_8
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 3300
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a57a3cc5c19640800000000000000
+      internalID: 5085062935222788572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_9
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 3300
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07516f981ad52c0800000000000000
+      internalID: -4441216043606249274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_10
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 3300
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ba3f69548e30d0800000000000000
+      internalID: -3441167545611405928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_11
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 3300
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920ab54a18522b160800000000000000
+      internalID: 7039730406271983657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652bad968cc29ca0800000000000000
+      internalID: -6011517674043267730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_13
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 2200
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcfe803a124376f0800000000000000
+      internalID: -688133637806293762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_14
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 2200
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef966ca88f7537e0800000000000000
+      internalID: -1786381452197847065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_15
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 2200
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3825a4bd2df9311e0800000000000000
+      internalID: -2228261662647233917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_16
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 2200
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb18502846266e30800000000000000
+      internalID: 4496323369198164971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_17
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 2200
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed32d07ed53c1f010800000000000000
+      internalID: 1220971782069887966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f4610b57c70700800000000000000
+      internalID: 506592676781815820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_19
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1100
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08eaf3f77fe68dd0800000000000000
+      internalID: -2484034845974796273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_20
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 1100
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c38c72aaaa864e50800000000000000
+      internalID: 6793269553410114497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_21
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 1100
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91db70f66d050a220800000000000000
+      internalID: 2495083075479256345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_22
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 1100
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0263e70e8e7ae3eb0800000000000000
+      internalID: -4738165139306564064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_23
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 1100
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa60e763a09c8efe0800000000000000
+      internalID: -1159455858346817878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6342642249e3f0800000000000000
+      internalID: -871092328884638536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_25
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 0
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba5c3fc7662c5cd0800000000000000
+      internalID: -2568135460207699275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_26
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 0
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a2d37926d66660800000000000000
+      internalID: 7378820513018323916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_27
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 0
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44ba87eb6d71760800000000000000
+      internalID: 7428642223927543014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_28
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 0
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24636da299701f80800000000000000
+      internalID: -8137870855777328086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dont let the count down shine_29
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 0
+        width: 2373
+        height: 1100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4571db74c109d6510800000000000000
+      internalID: 1544048698395006804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 556b0f932d2934f4baa46a26db46dfb7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":2373.0,"y":1100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dont let the count down shine_0: -288016196804128557
+      dont let the count down shine_1: 2608274889317151079
+      dont let the count down shine_10: -3441167545611405928
+      dont let the count down shine_11: 7039730406271983657
+      dont let the count down shine_12: -6011517674043267730
+      dont let the count down shine_13: -688133637806293762
+      dont let the count down shine_14: -1786381452197847065
+      dont let the count down shine_15: -2228261662647233917
+      dont let the count down shine_16: 4496323369198164971
+      dont let the count down shine_17: 1220971782069887966
+      dont let the count down shine_18: 506592676781815820
+      dont let the count down shine_19: -2484034845974796273
+      dont let the count down shine_2: 7578450696736418540
+      dont let the count down shine_20: 6793269553410114497
+      dont let the count down shine_21: 2495083075479256345
+      dont let the count down shine_22: -4738165139306564064
+      dont let the count down shine_23: -1159455858346817878
+      dont let the count down shine_24: -871092328884638536
+      dont let the count down shine_25: -2568135460207699275
+      dont let the count down shine_26: 7378820513018323916
+      dont let the count down shine_27: 7428642223927543014
+      dont let the count down shine_28: -8137870855777328086
+      dont let the count down shine_29: 1544048698395006804
+      dont let the count down shine_3: 6389707995932871188
+      dont let the count down shine_4: 1103864474228019026
+      dont let the count down shine_5: -1074647245371778638
+      dont let the count down shine_6: 178646096958977626
+      dont let the count down shine_7: -5729203088096459172
+      dont let the count down shine_8: 5085062935222788572
+      dont let the count down shine_9: -4441216043606249274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
