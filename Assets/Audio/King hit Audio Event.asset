@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: King hit Audio Event
   m_EditorClassIdentifier: Assembly-CSharp::SimpleAudioEvent
   clips:
-  - {fileID: 8300000, guid: 6145cd35b47d9aa40937e0e7532a6144, type: 3}
+  - {fileID: 8300000, guid: 9aadc16e0ac3edc40bf19791cc719bc3, type: 3}
+  - {fileID: 8300000, guid: 7b8cd667fbc955f48be2564e9c79057a, type: 3}
+  - {fileID: 8300000, guid: a7d67e0ff8bb4fd4da3676e931d3392d, type: 3}
   volume:
     minValue: 1
     maxValue: 1
   pitch:
-    minValue: 1.0004474
-    maxValue: 1.0004474
+    minValue: 0.89722157
+    maxValue: 1.1036732
   spatialBlend: 0
   audioGroup: {fileID: 1526125298483436967, guid: adfa811859786014c8c385a5d41ef237, type: 2}
