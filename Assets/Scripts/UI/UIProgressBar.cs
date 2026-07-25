@@ -19,6 +19,7 @@ public class UIProgressBar : MonoBehaviour
 		Messenger.Default.Subscribe<LevelProgressEvent>(OnLevelProgress);
 		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
 		Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+		Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
 	}
 
 	private void OnDisable()
@@ -26,6 +27,12 @@ public class UIProgressBar : MonoBehaviour
 		Messenger.Default.Unsubscribe<LevelProgressEvent>(OnLevelProgress);
 		Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
 		Messenger.Default.Unsubscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+		Messenger.Default.Unsubscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+	}
+
+	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+	{
+		_slider.gameObject.SetActive(false);
 	}
 
 	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
