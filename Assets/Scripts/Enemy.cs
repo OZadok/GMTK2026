@@ -16,12 +16,14 @@ public class Enemy : MonoBehaviour
 	[SerializeField] private GoToKing _goToKing;
 
 	[SerializeField] private GameObject _lightning;
+	[SerializeField] private AudioEvent _audioEvent;
 
 	[ReadOnly] public bool _isDead = false;
 
 	private void OnEnable()
 	{
 		Messenger.Default.Subscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
+		_audioEvent.Play(transform);
 	}
 
 	private void OnDisable()

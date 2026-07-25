@@ -6,9 +6,12 @@ public class Lightning : MonoBehaviour
     [SerializeField] private Animator _animator;
     
     [SerializeField] private string _blendParameter = "RandomValue";
+    
+    [SerializeField] private SimpleAudioEvent _audioEvent;
 
     public void Play()
     {
+        _audioEvent.Play(transform);
         PlayRandom();
     }
 

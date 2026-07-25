@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22143c2e90167f241810fb1325f638e8, type: 3}
+  m_Name: King hit Audio Event
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleAudioEvent
+  clips:
+  - {fileID: 8300000, guid: 6145cd35b47d9aa40937e0e7532a6144, type: 3}
+  volume:
+    minValue: 1
+    maxValue: 1
+  pitch:
+    minValue: 1.0004474
+    maxValue: 1.0004474
+  spatialBlend: 0
+  audioGroup: {fileID: 0}

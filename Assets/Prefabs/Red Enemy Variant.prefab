@@ -103,6 +103,10 @@ PrefabInstance:
       propertyPath: _type
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 12697823902069533, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
+      propertyPath: _audioEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: f6ae67b5c078b044aae1e5d45d119ca9, type: 2}
     - target: {fileID: 442057113786489269, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
       propertyPath: m_Controller
       value: 

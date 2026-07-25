@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22143c2e90167f241810fb1325f638e8, type: 3}
+  m_Name: Lightning
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleAudioEvent
+  clips:
+  - {fileID: 8300000, guid: 3c71078d2e6d81f44b320d37043d5e61, type: 3}
+  - {fileID: 8300000, guid: dd631e245532cfa4e8102e179877f270, type: 3}
+  - {fileID: 8300000, guid: 7ef040d3140bfbc4a848fa41f00f2f33, type: 3}
+  volume:
+    minValue: 0.95
+    maxValue: 1
+  pitch:
+    minValue: 0.84538877
+    maxValue: 1.1546111
+  spatialBlend: 0
+  audioGroup: {fileID: 0}

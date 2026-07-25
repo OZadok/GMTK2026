@@ -103,6 +103,10 @@ PrefabInstance:
       propertyPath: _type
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 12697823902069533, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
+      propertyPath: _audioEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 19e44afc25395104589c90e91f940fae, type: 2}
     - target: {fileID: 469059328517154923, guid: df2d2bcbdeb66db428700688376e5006, type: 3}
       propertyPath: m_Name
       value: Green Enemy Variant

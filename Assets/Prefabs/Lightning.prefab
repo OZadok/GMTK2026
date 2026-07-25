@@ -129,3 +129,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Lightning
   _animator: {fileID: 2827597185772478432}
   _blendParameter: RandomValue
+  _audioEvent: {fileID: 11400000, guid: 79d098d4a5f99aa40a9f3c1c6fe8fbc1, type: 2}

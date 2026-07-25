@@ -14,6 +14,8 @@ public class LevelsManager : MonoBehaviour
     [SerializeField] private KingMovement _kingMovement;
     [SerializeField] private UIProgressBar _progressBar;
     [SerializeField] private UiTimer _uiTimer;
+    
+    [SerializeField] private AudioSource _successAudioSource;
 
     private Vector3 _lastCheckPointPosition;
     private Coroutine _checkPointCoroutine;
@@ -69,6 +71,7 @@ public class LevelsManager : MonoBehaviour
             }
 
             _lastLevel++;
+            _successAudioSource.Play();
         }
     }
 
