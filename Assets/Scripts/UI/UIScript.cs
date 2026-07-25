@@ -24,11 +24,18 @@ namespace UI
         private void OnEnable()
         {
             Messenger.Default.Subscribe<GameOverEvent>(OnGameOver);
+            Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
         }
 
         private void OnDisable()
         {
             Messenger.Default.Unsubscribe<GameOverEvent>(OnGameOver);
+            Messenger.Default.Unsubscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+        }
+
+        private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+        {
+            _gameOverPanel.SetActive(false);
         }
 
         private void OnGameOver(GameOverEvent obj)

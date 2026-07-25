@@ -94,11 +94,20 @@ public class KingMovement : MonoBehaviour
 	private void OnEnable()
 	{
 		Messenger.Default.Subscribe <GameOverEvent>(OnGameOver);
+		Messenger.Default.Subscribe <LoadCheckPointEvent>(OnLoadCheckPoint);
 	}
 
 	private void OnDisable()
 	{
 		Messenger.Default.Unsubscribe <GameOverEvent>(OnGameOver);
+		Messenger.Default.Unsubscribe <LoadCheckPointEvent>(OnLoadCheckPoint);
+	}
+
+	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+	{
+		_isDead = false;
+		transform.DOKill();
+		transform.rotation = Quaternion.identity;
 	}
 
 	private void OnGameOver(GameOverEvent obj)

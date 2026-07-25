@@ -16,6 +16,9 @@ public class LevelsManager : MonoBehaviour
 
     private float _levelProgress;
 
+    private Vector3 _lastCheckPointPosition;
+    private Coroutine _checkPointCoroutine;
+
     private void Start()
     {
         StartCoroutine(StartGame());
@@ -37,16 +40,56 @@ public class LevelsManager : MonoBehaviour
         castleGameObject.transform.position = vector3;
     }
 
+    private int _lastLevel;
+    private bool _isLevelRunning = false;
+
     private IEnumerator StartGame()
     {
-        foreach (var levelsParameter in _levelsParameters)
+        _lastLevel = 0;
+        while (_lastLevel < _levelsParameters.Length)
         {
-            yield return StartCoroutine(RunLevel(levelsParameter));
+            var levelsParameter = _levelsParameters[_lastLevel];
+        
+            _isLevelRunning = true;
+            _checkPointCoroutine = StartCoroutine(RunLevelWrapper(levelsParameter));
+
+            // Wait until the level finishes or is stopped
+            while (_isLevelRunning)
+            {
+                yield return null;
+            }
+
+            _lastLevel++;
         }
+    }
+
+    private IEnumerator RunLevelWrapper(LevelParameters level)
+    {
+        yield return RunLevel(level);
+        _isLevelRunning = false; // Normal completion
+    }
+
+    [ContextMenu("LoadCheckPoint")]
+    private void LoadCheckPoint()
+    {
+        _lastLevel--;
+
+        if (_checkPointCoroutine != null)
+        {
+            StopCoroutine(_checkPointCoroutine);
+            _checkPointCoroutine = null;
+        }
+
+        // Tell StartGame that the level has finished/stopped so it moves past the loop!
+        _isLevelRunning = false; 
+
+        _kingMovement.transform.position = _lastCheckPointPosition;
+        Messenger.Default.Publish(new LoadCheckPointEvent());
     }
 
     private IEnumerator RunLevel(LevelParameters levelParameters)
     {
+        _lastCheckPointPosition = _kingMovement.transform.position;
         _enemies._toSpawn = false;
         yield return StartCoroutine(WalkCastleOut());
         Messenger.Default.Publish(new EndWalkInCastleEvent());
