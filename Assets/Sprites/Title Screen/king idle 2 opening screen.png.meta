@@ -1,0 +1,1237 @@
+fileFormatVersion: 2
+guid: 5550d7485d95b57409ea76f95b3cde4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2182825711970590059
+    second: king idle 2 opening screen_0
+  - first:
+      213: -2700516017189081159
+    second: king idle 2 opening screen_1
+  - first:
+      213: 2062403980582272733
+    second: king idle 2 opening screen_2
+  - first:
+      213: 8119875572776522378
+    second: king idle 2 opening screen_3
+  - first:
+      213: -3357279454317440425
+    second: king idle 2 opening screen_4
+  - first:
+      213: -8601561010640640169
+    second: king idle 2 opening screen_5
+  - first:
+      213: 6112335309063301466
+    second: king idle 2 opening screen_6
+  - first:
+      213: 1817054854519584163
+    second: king idle 2 opening screen_7
+  - first:
+      213: 1327654626829189205
+    second: king idle 2 opening screen_8
+  - first:
+      213: 3374579011216883896
+    second: king idle 2 opening screen_9
+  - first:
+      213: -6510450627660829342
+    second: king idle 2 opening screen_10
+  - first:
+      213: 9214671264195104419
+    second: king idle 2 opening screen_11
+  - first:
+      213: -8668030766974025629
+    second: king idle 2 opening screen_12
+  - first:
+      213: 8319919241418525469
+    second: king idle 2 opening screen_13
+  - first:
+      213: 6911226128486602619
+    second: king idle 2 opening screen_14
+  - first:
+      213: -1150612504724391651
+    second: king idle 2 opening screen_15
+  - first:
+      213: -661520159199358483
+    second: king idle 2 opening screen_16
+  - first:
+      213: -6409261995153917575
+    second: king idle 2 opening screen_17
+  - first:
+      213: -6041777483039196698
+    second: king idle 2 opening screen_18
+  - first:
+      213: -7021997560617432561
+    second: king idle 2 opening screen_19
+  - first:
+      213: 4522754041078282131
+    second: king idle 2 opening screen_20
+  - first:
+      213: -928982151054353604
+    second: king idle 2 opening screen_21
+  - first:
+      213: 5454737329684731239
+    second: king idle 2 opening screen_22
+  - first:
+      213: 185809220426153270
+    second: king idle 2 opening screen_23
+  - first:
+      213: 1455414372101929851
+    second: king idle 2 opening screen_24
+  - first:
+      213: -1529584297480974289
+    second: king idle 2 opening screen_25
+  - first:
+      213: 5445276486701970595
+    second: king idle 2 opening screen_26
+  - first:
+      213: 446783590936423151
+    second: king idle 2 opening screen_27
+  - first:
+      213: -731588050433218774
+    second: king idle 2 opening screen_28
+  - first:
+      213: 107466354376338057
+    second: king idle 2 opening screen_29
+  - first:
+      213: 8413470432994936605
+    second: king idle 2 opening screen_30
+  - first:
+      213: 3472578120652182294
+    second: king idle 2 opening screen_31
+  - first:
+      213: 1079667697305928861
+    second: king idle 2 opening screen_32
+  - first:
+      213: 5241000731955369127
+    second: king idle 2 opening screen_33
+  - first:
+      213: -3001987751586633976
+    second: king idle 2 opening screen_34
+  - first:
+      213: -3251308574536065977
+    second: king idle 2 opening screen_35
+  - first:
+      213: -6917967605242861551
+    second: king idle 2 opening screen_36
+  - first:
+      213: 7989553832068986101
+    second: king idle 2 opening screen_37
+  - first:
+      213: -2759680936074549447
+    second: king idle 2 opening screen_38
+  - first:
+      213: 8632685198343954196
+    second: king idle 2 opening screen_39
+  - first:
+      213: 4067845539999517919
+    second: king idle 2 opening screen_40
+  - first:
+      213: -6566608449265396453
+    second: king idle 2 opening screen_41
+  - first:
+      213: -8407973932189816383
+    second: king idle 2 opening screen_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: king idle 2 opening screen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592676f749b05b1e0800000000000000
+      internalID: -2182825711970590059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_1
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf21358df6d58ad0800000000000000
+      internalID: -2700516017189081159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_2
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde35f54e712f9c10800000000000000
+      internalID: 2062403980582272733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_3
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8257bfffc79fa070800000000000000
+      internalID: 8119875572776522378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_4
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75211b9bf1c8861d0800000000000000
+      internalID: -3357279454317440425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_5
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572ae675dd11a880800000000000000
+      internalID: -8601561010640640169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_6
+      rect:
+        serializedVersion: 2
+        x: 10878
+        y: 11106
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59abcc349063d450800000000000000
+      internalID: 6112335309063301466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f90553c9773910800000000000000
+      internalID: 1817054854519584163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_8
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550ce8059d6cc6210800000000000000
+      internalID: 1327654626829189205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_9
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0421e3bb9e4de20800000000000000
+      internalID: 3374579011216883896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_10
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dae82e5ab36a5a0800000000000000
+      internalID: -6510450627660829342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_11
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae495081b611ef70800000000000000
+      internalID: 9214671264195104419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_12
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604b5051f7f4b780800000000000000
+      internalID: -8668030766974025629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_13
+      rect:
+        serializedVersion: 2
+        x: 10878
+        y: 9255
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b40b0287a467370800000000000000
+      internalID: 8319919241418525469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7797deeb8b99ef50800000000000000
+      internalID: 6911226128486602619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_15
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b7cde5043800f0800000000000000
+      internalID: -1150612504724391651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_16
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1992b8beec1d6f0800000000000000
+      internalID: -661520159199358483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_17
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97970725c2abd07a0800000000000000
+      internalID: -6409261995153917575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_18
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9be7fc36b472ca0800000000000000
+      internalID: -6041777483039196698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_19
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0db93c6adc8e90800000000000000
+      internalID: -7021997560617432561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_20
+      rect:
+        serializedVersion: 2
+        x: 10878
+        y: 7404
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397fee876dc04ce30800000000000000
+      internalID: 4522754041078282131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1ab3d7a79b13f0800000000000000
+      internalID: -928982151054353604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_22
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765dbee63be13bb40800000000000000
+      internalID: 5454737329684731239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_23
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d3e736080249200800000000000000
+      internalID: 185809220426153270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_24
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b322a09aba23410800000000000000
+      internalID: 1455414372101929851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_25
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2091ae7f23d5cae0800000000000000
+      internalID: -1529584297480974289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_26
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a478a54d12819b40800000000000000
+      internalID: 5445276486701970595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_27
+      rect:
+        serializedVersion: 2
+        x: 10878
+        y: 5553
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2d3d0f4b433600800000000000000
+      internalID: 446783590936423151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e1045b80e8d5f0800000000000000
+      internalID: -731588050433218774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_29
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a68e5741ccd7100800000000000000
+      internalID: 107466354376338057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_30
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d174ae648c6a2c470800000000000000
+      internalID: 8413470432994936605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_31
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135448f663113030800000000000000
+      internalID: 3472578120652182294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_32
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d944265ec00cbfe00800000000000000
+      internalID: 1079667697305928861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_33
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a413cfc566cbb840800000000000000
+      internalID: 5241000731955369127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_34
+      rect:
+        serializedVersion: 2
+        x: 10878
+        y: 3702
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ea9e8b0cc656d0800000000000000
+      internalID: -3001987751586633976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c989fd31801e2d0800000000000000
+      internalID: -3251308574536065977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_36
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e6d1bd117eff90800000000000000
+      internalID: -6917967605242861551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_37
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4355a31e890ee60800000000000000
+      internalID: 7989553832068986101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_38
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937ebdf5fc4a3b9d0800000000000000
+      internalID: -2759680936074549447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_39
+      rect:
+        serializedVersion: 2
+        x: 7252
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f501133757dc770800000000000000
+      internalID: 8632685198343954196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_40
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc04dc57f3e37830800000000000000
+      internalID: 4067845539999517919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_41
+      rect:
+        serializedVersion: 2
+        x: 10878
+        y: 1851
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1515722868bed4a0800000000000000
+      internalID: -6566608449265396453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: king idle 2 opening screen_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1813
+        height: 1851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e41b8140e05b80800000000000000
+      internalID: -8407973932189816383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9ecd6d7fb69fc2a4398e64b210309d45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":7.0},"gridSpriteSize":{"x":1813.0,"y":1851.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      king idle 2 opening screen_0: -2182825711970590059
+      king idle 2 opening screen_1: -2700516017189081159
+      king idle 2 opening screen_10: -6510450627660829342
+      king idle 2 opening screen_11: 9214671264195104419
+      king idle 2 opening screen_12: -8668030766974025629
+      king idle 2 opening screen_13: 8319919241418525469
+      king idle 2 opening screen_14: 6911226128486602619
+      king idle 2 opening screen_15: -1150612504724391651
+      king idle 2 opening screen_16: -661520159199358483
+      king idle 2 opening screen_17: -6409261995153917575
+      king idle 2 opening screen_18: -6041777483039196698
+      king idle 2 opening screen_19: -7021997560617432561
+      king idle 2 opening screen_2: 2062403980582272733
+      king idle 2 opening screen_20: 4522754041078282131
+      king idle 2 opening screen_21: -928982151054353604
+      king idle 2 opening screen_22: 5454737329684731239
+      king idle 2 opening screen_23: 185809220426153270
+      king idle 2 opening screen_24: 1455414372101929851
+      king idle 2 opening screen_25: -1529584297480974289
+      king idle 2 opening screen_26: 5445276486701970595
+      king idle 2 opening screen_27: 446783590936423151
+      king idle 2 opening screen_28: -731588050433218774
+      king idle 2 opening screen_29: 107466354376338057
+      king idle 2 opening screen_3: 8119875572776522378
+      king idle 2 opening screen_30: 8413470432994936605
+      king idle 2 opening screen_31: 3472578120652182294
+      king idle 2 opening screen_32: 1079667697305928861
+      king idle 2 opening screen_33: 5241000731955369127
+      king idle 2 opening screen_34: -3001987751586633976
+      king idle 2 opening screen_35: -3251308574536065977
+      king idle 2 opening screen_36: -6917967605242861551
+      king idle 2 opening screen_37: 7989553832068986101
+      king idle 2 opening screen_38: -2759680936074549447
+      king idle 2 opening screen_39: 8632685198343954196
+      king idle 2 opening screen_4: -3357279454317440425
+      king idle 2 opening screen_40: 4067845539999517919
+      king idle 2 opening screen_41: -6566608449265396453
+      king idle 2 opening screen_42: -8407973932189816383
+      king idle 2 opening screen_5: -8601561010640640169
+      king idle 2 opening screen_6: 6112335309063301466
+      king idle 2 opening screen_7: 1817054854519584163
+      king idle 2 opening screen_8: 1327654626829189205
+      king idle 2 opening screen_9: 3374579011216883896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
