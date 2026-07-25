@@ -594,6 +594,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Lightning 1_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 0
+        width: 263
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.55, y: 0.138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fbbecec748cec47b64f785e69872c0
+      internalID: -208965013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -608,7 +630,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":263.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.550000011920929,"y":0.1379999965429306},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":263.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.550000011920929,"y":0.1379999965429306},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":true,"isAlternate":false}'
     nameFileIdTable:
       Lightning 1_0: 1517471213043329985
       Lightning 1_1: 5272917093795561672
@@ -617,6 +639,7 @@ TextureImporter:
       Lightning 1_12: 8518622049025903008
       Lightning 1_13: -955968489627322421
       Lightning 1_14: 1122904269544911204
+      Lightning 1_15: -208965013
       Lightning 1_2: -8435105435218954902
       Lightning 1_3: -6067434084362793747
       Lightning 1_4: 4373225706394266992
