@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using Events;
 using SuperMaxim.Messaging;
 using UnityEngine;
@@ -8,10 +9,12 @@ public class UIProgressBar : MonoBehaviour
 {
 	[SerializeField] private Slider _slider;
 	[SerializeField] private Image _background;
+	[SerializeField] private CanvasGroup _canvasGroup;
 
 	private void Start()
 	{
-		_slider.gameObject.SetActive(false);
+		StartCoroutine(FadeCanvasGroup(_canvasGroup, 0, 0));
+		//_slider.gameObject.SetActive(false);
 	}
 
 	private void OnEnable()
@@ -32,17 +35,20 @@ public class UIProgressBar : MonoBehaviour
 
 	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
 	{
-		_slider.gameObject.SetActive(false);
+		StartCoroutine(FadeCanvasGroup(_canvasGroup, 0, 0));
+		//_slider.gameObject.SetActive(false);
 	}
 
 	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
 	{
-		_slider.gameObject.SetActive(true);
+		StartCoroutine(FadeCanvasGroup(_canvasGroup, 1, 0.5f));
+		//_slider.gameObject.SetActive(true);
 	}
 
 	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
 	{
-		_slider.gameObject.SetActive(false);
+		StartCoroutine(FadeCanvasGroup(_canvasGroup, 0, 0.5f));
+		//_slider.gameObject.SetActive(false);
 	}
 
 	private void OnLevelProgress(LevelProgressEvent levelProgressEvent)
@@ -53,5 +59,25 @@ public class UIProgressBar : MonoBehaviour
 	public void SwapBackgroundSprite(Sprite sprite)
 	{
 		_background.sprite = sprite;
+	}
+	
+	/// <summary>
+	/// Fades a CanvasGroup's alpha over time.
+	/// </summary>
+	public IEnumerator FadeCanvasGroup(CanvasGroup canvasGroup, float targetAlpha, float duration)
+	{
+		if (canvasGroup == null) yield break;
+
+		float startAlpha = canvasGroup.alpha;
+		float elapsed = 0f;
+
+		while (elapsed < duration)
+		{
+			elapsed += Time.deltaTime;
+			canvasGroup.alpha = Mathf.Lerp(startAlpha, targetAlpha, elapsed / duration);
+			yield return null;
+		}
+
+		canvasGroup.alpha = targetAlpha;
 	}
 }
