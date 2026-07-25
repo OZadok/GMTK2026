@@ -16,6 +16,42 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pink Castle Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 2715819342374774844, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.b
+      value: 0.73294747
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715819342374774844, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.g
+      value: 0.25729796
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715819342374774844, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9245283
+      objectReference: {fileID: 0}
+    - target: {fileID: 3698392110545831268, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.b
+      value: 0.73294747
+      objectReference: {fileID: 0}
+    - target: {fileID: 3698392110545831268, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.g
+      value: 0.25729796
+      objectReference: {fileID: 0}
+    - target: {fileID: 3698392110545831268, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9245283
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.b
+      value: 0.73294747
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.g
+      value: 0.25729796
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9245283
+      objectReference: {fileID: 0}
     - target: {fileID: 5925876343493914072, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -60,6 +96,30 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 437bbd0e4c4291946b3d23978459cf39, type: 3}
+    - target: {fileID: 7415040538864542111, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.b
+      value: 0.73294747
+      objectReference: {fileID: 0}
+    - target: {fileID: 7415040538864542111, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.g
+      value: 0.25729796
+      objectReference: {fileID: 0}
+    - target: {fileID: 7415040538864542111, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9245283
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468349717682295162, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.b
+      value: 0.73294747
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468349717682295162, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.g
+      value: 0.25729796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468349717682295162, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9245283
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
