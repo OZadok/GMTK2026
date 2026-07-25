@@ -17,7 +17,7 @@ MonoBehaviour:
   _flowersSprite: {fileID: 21300000, guid: 7b309d413d68c42faa96ff489e3ed01a, type: 3}
   _enemyType: -1
   _levelTimerTime: 60
-  _timeToAddWhenEnemyDestroyed: 5
+  _timeToAddWhenEnemyDestroyed: 3
   _timeToReduceWhenPressedAndEnemyNotDestroyed: 1
   _timeToReduceWhenEnemyReachesKing: 2
   _spawnInterval: 2
