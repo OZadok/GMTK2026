@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 589f7a977e43b6d4d9baf8179a381a27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8670143746495966616
+    second: Green Enemy Attack_0
+  - first:
+      213: -2425486379985505810
+    second: Green Enemy Attack_1
+  - first:
+      213: -4115568843664510930
+    second: Green Enemy Attack_2
+  - first:
+      213: -1205247901559151682
+    second: Green Enemy Attack_3
+  - first:
+      213: 6171295605163926121
+    second: Green Enemy Attack_4
+  - first:
+      213: 3999130241559436146
+    second: Green Enemy Attack_5
+  - first:
+      213: -5203753788495529431
+    second: Green Enemy Attack_6
+  - first:
+      213: -4951446385325573980
+    second: Green Enemy Attack_7
+  - first:
+      213: 4819408560029437225
+    second: Green Enemy Attack_8
+  - first:
+      213: 8950276392406108320
+    second: Green Enemy Attack_9
+  - first:
+      213: -4240369865524299150
+    second: Green Enemy Attack_10
+  - first:
+      213: -9205851714253976245
+    second: Green Enemy Attack_11
+  - first:
+      213: -8909403758438387145
+    second: Green Enemy Attack_12
+  - first:
+      213: -5594866473376386707
+    second: Green Enemy Attack_13
+  - first:
+      213: 8340726414262789974
+    second: Green Enemy Attack_14
+  - first:
+      213: 57564674467423771
+    second: Green Enemy Attack_15
+  - first:
+      213: -9054389910184478688
+    second: Green Enemy Attack_16
+  - first:
+      213: 7554850119324773957
+    second: Green Enemy Attack_17
+  - first:
+      213: -2566457812714151439
+    second: Green Enemy Attack_18
+  - first:
+      213: 1241320056343123142
+    second: Green Enemy Attack_19
+  - first:
+      213: -2190749536708241405
+    second: Green Enemy Attack_20
+  - first:
+      213: -8352546345731546214
+    second: Green Enemy Attack_21
+  - first:
+      213: -8492855235036404675
+    second: Green Enemy Attack_22
+  - first:
+      213: 1414929744121086533
+    second: Green Enemy Attack_23
+  - first:
+      213: -5454411510046003211
+    second: Green Enemy Attack_24
+  - first:
+      213: -6796713805476490370
+    second: Green Enemy Attack_25
+  - first:
+      213: -1116921661883974502
+    second: Green Enemy Attack_26
+  - first:
+      213: -4659215287006851965
+    second: Green Enemy Attack_27
+  - first:
+      213: -5769246650775292544
+    second: Green Enemy Attack_28
+  - first:
+      213: -3235001528942020716
+    second: Green Enemy Attack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Enemy Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d67711dc9825870800000000000000
+      internalID: 8670143746495966616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_1
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 3792
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee17a69fcf0f65ed0800000000000000
+      internalID: -2425486379985505810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3792
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2036b021ff82e6c0800000000000000
+      internalID: -4115568843664510930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3792
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb328415b69164fe0800000000000000
+      internalID: -1205247901559151682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3792
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a9bde7a8d4a550800000000000000
+      internalID: 6171295605163926121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_5
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 3792
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b1ca234c3cf7730800000000000000
+      internalID: 3999130241559436146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a7122008d88c7b0800000000000000
+      internalID: -5203753788495529431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2844
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f6461fbde84bb0800000000000000
+      internalID: -4951446385325573980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2844
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d08001d8af1e240800000000000000
+      internalID: 4819408560029437225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_9
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 2844
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84ee255f4c53c70800000000000000
+      internalID: 8950276392406108320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_10
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 2844
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3721e21e2725c0800000000000000
+      internalID: -4240369865524299150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_11
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 2844
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d88fcf3ae3e3080800000000000000
+      internalID: -9205851714253976245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ffb95c707b5480800000000000000
+      internalID: -8909403758438387145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_13
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1896
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6178a8d59a0b52b0800000000000000
+      internalID: -5594866473376386707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1896
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657e9d29b7630c370800000000000000
+      internalID: 8340726414262789974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1896
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16ed3534c28cc000800000000000000
+      internalID: 57564674467423771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_16
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1896
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028b2915958585280800000000000000
+      internalID: -9054389910184478688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_17
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 1896
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eabadf72838d860800000000000000
+      internalID: 7554850119324773957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1a52e873c126cd0800000000000000
+      internalID: -2566457812714151439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c456e2b30e0a3110800000000000000
+      internalID: 1241320056343123142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30857a847e4e891e0800000000000000
+      internalID: -2190749536708241405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_21
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932fac2a5bc51c80800000000000000
+      internalID: -8352546345731546214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_22
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34a6da2921532a80800000000000000
+      internalID: -8492855235036404675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_23
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c87c0b17d2a310800000000000000
+      internalID: 1414929744121086533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe7ec51a90e44b0800000000000000
+      internalID: -5454411510046003211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739490fdc83da1a0800000000000000
+      internalID: -6796713805476490370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c777d8aa5ef70f0800000000000000
+      internalID: -1116921661883974502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_27
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c03edc164275fb0800000000000000
+      internalID: -4659215287006851965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_28
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853de6ecb48fefa0800000000000000
+      internalID: -5769246650775292544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Enemy Attack_29
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497b09bcf37fa13d0800000000000000
+      internalID: -3235001528942020716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 76e1ad63c3068e7428ee94b3b1758617
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":939.0,"y":948.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4000000059604645,"y":0.06499999761581421},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Green Enemy Attack_0: 8670143746495966616
+      Green Enemy Attack_1: -2425486379985505810
+      Green Enemy Attack_10: -4240369865524299150
+      Green Enemy Attack_11: -9205851714253976245
+      Green Enemy Attack_12: -8909403758438387145
+      Green Enemy Attack_13: -5594866473376386707
+      Green Enemy Attack_14: 8340726414262789974
+      Green Enemy Attack_15: 57564674467423771
+      Green Enemy Attack_16: -9054389910184478688
+      Green Enemy Attack_17: 7554850119324773957
+      Green Enemy Attack_18: -2566457812714151439
+      Green Enemy Attack_19: 1241320056343123142
+      Green Enemy Attack_2: -4115568843664510930
+      Green Enemy Attack_20: -2190749536708241405
+      Green Enemy Attack_21: -8352546345731546214
+      Green Enemy Attack_22: -8492855235036404675
+      Green Enemy Attack_23: 1414929744121086533
+      Green Enemy Attack_24: -5454411510046003211
+      Green Enemy Attack_25: -6796713805476490370
+      Green Enemy Attack_26: -1116921661883974502
+      Green Enemy Attack_27: -4659215287006851965
+      Green Enemy Attack_28: -5769246650775292544
+      Green Enemy Attack_29: -3235001528942020716
+      Green Enemy Attack_3: -1205247901559151682
+      Green Enemy Attack_4: 6171295605163926121
+      Green Enemy Attack_5: 3999130241559436146
+      Green Enemy Attack_6: -5203753788495529431
+      Green Enemy Attack_7: -4951446385325573980
+      Green Enemy Attack_8: 4819408560029437225
+      Green Enemy Attack_9: 8950276392406108320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
