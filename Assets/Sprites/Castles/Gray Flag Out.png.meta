@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: 1bbc853e31f03e1429fc3d87a016417f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8017116816566746186
+    second: Gray Flag Out_0
+  - first:
+      213: -8099159813869665462
+    second: Gray Flag Out_1
+  - first:
+      213: 3891962464570391418
+    second: Gray Flag Out_2
+  - first:
+      213: 136352284947807444
+    second: Gray Flag Out_3
+  - first:
+      213: 7766736877504582500
+    second: Gray Flag Out_4
+  - first:
+      213: 8367420313784265928
+    second: Gray Flag Out_5
+  - first:
+      213: -8799700397844298439
+    second: Gray Flag Out_6
+  - first:
+      213: -6791752890316500983
+    second: Gray Flag Out_7
+  - first:
+      213: -4638487717166926681
+    second: Gray Flag Out_8
+  - first:
+      213: 228186759389543974
+    second: Gray Flag Out_9
+  - first:
+      213: 23268519626375000
+    second: Gray Flag Out_10
+  - first:
+      213: -7718027955514843339
+    second: Gray Flag Out_11
+  - first:
+      213: -5358072202496335215
+    second: Gray Flag Out_12
+  - first:
+      213: -3229326473696929913
+    second: Gray Flag Out_13
+  - first:
+      213: -1376749689812285382
+    second: Gray Flag Out_14
+  - first:
+      213: -6724916919053922995
+    second: Gray Flag Out_15
+  - first:
+      213: 5426841425203748039
+    second: Gray Flag Out_16
+  - first:
+      213: -6450335005497303618
+    second: Gray Flag Out_17
+  - first:
+      213: 2185693618445572978
+    second: Gray Flag Out_18
+  - first:
+      213: -4309041010063533246
+    second: Gray Flag Out_19
+  - first:
+      213: 5501345158378872565
+    second: Gray Flag Out_20
+  - first:
+      213: 3404497985494774437
+    second: Gray Flag Out_21
+  - first:
+      213: -9183536382535480287
+    second: Gray Flag Out_22
+  - first:
+      213: 5525658523924388739
+    second: Gray Flag Out_23
+  - first:
+      213: 5716333390974240870
+    second: Gray Flag Out_24
+  - first:
+      213: -4653825771561636177
+    second: Gray Flag Out_25
+  - first:
+      213: -7786163785817420170
+    second: Gray Flag Out_26
+  - first:
+      213: -127787267854207090
+    second: Gray Flag Out_27
+  - first:
+      213: 4818565885882470273
+    second: Gray Flag Out_28
+  - first:
+      213: 8603306782546852114
+    second: Gray Flag Out_29
+  - first:
+      213: 6691713471056131691
+    second: Gray Flag Out_30
+  - first:
+      213: 2293968365088090467
+    second: Gray Flag Out_31
+  - first:
+      213: 6467313506241446640
+    second: Gray Flag Out_32
+  - first:
+      213: -4704214164450670832
+    second: Gray Flag Out_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gray Flag Out_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b38ab95bba7db090800000000000000
+      internalID: -8017116816566746186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_1
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430e2b7f010a9f80800000000000000
+      internalID: -8099159813869665462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_2
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b3fd3bd37030630800000000000000
+      internalID: 3891962464570391418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_3
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc70a44eab64e100800000000000000
+      internalID: 136352284947807444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_4
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46356974a0ef8cb60800000000000000
+      internalID: 7766736877504582500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_5
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccaf71617c0f1470800000000000000
+      internalID: 8367420313784265928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93580a86c1f21e580800000000000000
+      internalID: -8799700397844298439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d3720bb8deb1a0800000000000000
+      internalID: -6791752890316500983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4b04b3ff7c0afb0800000000000000
+      internalID: -4638487717166926681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_9
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e7cdf06aeaa2300800000000000000
+      internalID: 228186759389543974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_10
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f77c6689aa25000800000000000000
+      internalID: 23268519626375000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_11
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fd001677e04e490800000000000000
+      internalID: -7718027955514843339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_12
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192af4958bd44a5b0800000000000000
+      internalID: -5358072202496335215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787978f8ea02f23d0800000000000000
+      internalID: -3229326473696929913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a380c12937dc4ece0800000000000000
+      internalID: -1376749689812285382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_15
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc6c731bb4ca2a0800000000000000
+      internalID: -6724916919053922995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_16
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccd4a90683005b40800000000000000
+      internalID: 5426841425203748039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_17
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd013ec7ecb76a0800000000000000
+      internalID: -6450335005497303618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_18
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b594304c4255e10800000000000000
+      internalID: 2185693618445572978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_19
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b929818063334c0800000000000000
+      internalID: -4309041010063533246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fedcff2644b85c40800000000000000
+      internalID: 5501345158378872565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2f2f741e43f3f20800000000000000
+      internalID: 3404497985494774437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_22
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc81901568d8080800000000000000
+      internalID: -9183536382535480287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_23
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b5f9cb6251fac40800000000000000
+      internalID: 5525658523924388739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_24
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66849b2ceee745f40800000000000000
+      internalID: 5716333390974240870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_25
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea2872e1a4a6fb0800000000000000
+      internalID: -4653825771561636177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_26
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e87572a4df1f390800000000000000
+      internalID: -7786163785817420170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877bbc28220a3ef0800000000000000
+      internalID: -127787267854207090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f07d2b42cfed240800000000000000
+      internalID: 4818565885882470273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219f96bbfe5156770800000000000000
+      internalID: 8603306782546852114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_30
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b663ffc92fdbddc50800000000000000
+      internalID: 6691713471056131691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Out_31
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692f07f210d5df10800000000000000
+      internalID: 2293968365088090467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70f85f0cc5383c34f977198e8cae4699
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":5.0},"gridSpriteSize":{"x":651.0,"y":463.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gray Flag Out_0: -8017116816566746186
+      Gray Flag Out_1: -8099159813869665462
+      Gray Flag Out_10: 23268519626375000
+      Gray Flag Out_11: -7718027955514843339
+      Gray Flag Out_12: -5358072202496335215
+      Gray Flag Out_13: -3229326473696929913
+      Gray Flag Out_14: -1376749689812285382
+      Gray Flag Out_15: -6724916919053922995
+      Gray Flag Out_16: 5426841425203748039
+      Gray Flag Out_17: -6450335005497303618
+      Gray Flag Out_18: 2185693618445572978
+      Gray Flag Out_19: -4309041010063533246
+      Gray Flag Out_2: 3891962464570391418
+      Gray Flag Out_20: 5501345158378872565
+      Gray Flag Out_21: 3404497985494774437
+      Gray Flag Out_22: -9183536382535480287
+      Gray Flag Out_23: 5525658523924388739
+      Gray Flag Out_24: 5716333390974240870
+      Gray Flag Out_25: -4653825771561636177
+      Gray Flag Out_26: -7786163785817420170
+      Gray Flag Out_27: -127787267854207090
+      Gray Flag Out_28: 4818565885882470273
+      Gray Flag Out_29: 8603306782546852114
+      Gray Flag Out_3: 136352284947807444
+      Gray Flag Out_30: 6691713471056131691
+      Gray Flag Out_31: 2293968365088090467
+      Gray Flag Out_4: 7766736877504582500
+      Gray Flag Out_5: 8367420313784265928
+      Gray Flag Out_6: -8799700397844298439
+      Gray Flag Out_7: -6791752890316500983
+      Gray Flag Out_8: -4638487717166926681
+      Gray Flag Out_9: 228186759389543974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

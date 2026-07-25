@@ -1,109 +1,109 @@
 fileFormatVersion: 2
-guid: ca7955b3aedefe6468bfaa6f4ab0fbe3
+guid: 40a04a6e05ab90c48b805a28b26e53a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 865615025444322929
-    second: flag animation out_0
+      213: -5110025330284933709
+    second: Green Flag Out_0
   - first:
-      213: 2596295783221887118
-    second: flag animation out_1
+      213: -3965242693392812130
+    second: Green Flag Out_1
   - first:
-      213: -1475001274625064488
-    second: flag animation out_2
+      213: 8651369771895374171
+    second: Green Flag Out_2
   - first:
-      213: 7246770273458924199
-    second: flag animation out_3
+      213: -8192039901138703671
+    second: Green Flag Out_3
   - first:
-      213: 8272360067197978661
-    second: flag animation out_4
+      213: 3543214887009951451
+    second: Green Flag Out_4
   - first:
-      213: -7219814054439822355
-    second: flag animation out_5
+      213: 2304075572437006906
+    second: Green Flag Out_5
   - first:
-      213: 7505571306225125715
-    second: flag animation out_6
+      213: -4853497088112517481
+    second: Green Flag Out_6
   - first:
-      213: -4886884550253864442
-    second: flag animation out_7
+      213: -5757535063607022707
+    second: Green Flag Out_7
   - first:
-      213: 5218368108553493969
-    second: flag animation out_8
+      213: -8411516937344515667
+    second: Green Flag Out_8
   - first:
-      213: 4651459270711592282
-    second: flag animation out_9
+      213: 2975825927772929743
+    second: Green Flag Out_9
   - first:
-      213: -2874977029596259779
-    second: flag animation out_10
+      213: -4999244973241809704
+    second: Green Flag Out_10
   - first:
-      213: -8766967680759421066
-    second: flag animation out_11
+      213: 8068092137093264962
+    second: Green Flag Out_11
   - first:
-      213: -2669604470439984853
-    second: flag animation out_12
+      213: -8741558845828258860
+    second: Green Flag Out_12
   - first:
-      213: 2918018984896137790
-    second: flag animation out_13
+      213: 9146613959871781963
+    second: Green Flag Out_13
   - first:
-      213: -2298043976783964987
-    second: flag animation out_14
+      213: -331668534724448934
+    second: Green Flag Out_14
   - first:
-      213: 9143434221435147242
-    second: flag animation out_15
+      213: -5584747002074505427
+    second: Green Flag Out_15
   - first:
-      213: 796902132715411893
-    second: flag animation out_16
+      213: 2031130504603151642
+    second: Green Flag Out_16
   - first:
-      213: -6776677965620684175
-    second: flag animation out_17
+      213: 58638864992314203
+    second: Green Flag Out_17
   - first:
-      213: -4937399857813006394
-    second: flag animation out_18
+      213: 1913679506820004525
+    second: Green Flag Out_18
   - first:
-      213: 8778305138548791442
-    second: flag animation out_19
+      213: -1050532530953328716
+    second: Green Flag Out_19
   - first:
-      213: -7461517785349334220
-    second: flag animation out_20
+      213: -8568952452821798791
+    second: Green Flag Out_20
   - first:
-      213: 3606787563346945759
-    second: flag animation out_21
+      213: 96848246576040699
+    second: Green Flag Out_21
   - first:
-      213: -7322011182903785033
-    second: flag animation out_22
+      213: 4228785634468788721
+    second: Green Flag Out_22
   - first:
-      213: -2121386783647010551
-    second: flag animation out_23
+      213: 1010376390371443924
+    second: Green Flag Out_23
   - first:
-      213: -3850955435895879932
-    second: flag animation out_24
+      213: 8220976286411990033
+    second: Green Flag Out_24
   - first:
-      213: 8226858190923690202
-    second: flag animation out_25
+      213: -1732170579338995039
+    second: Green Flag Out_25
   - first:
-      213: -6535196230452154032
-    second: flag animation out_26
+      213: 9209007740116161148
+    second: Green Flag Out_26
   - first:
-      213: 1353393724147971522
-    second: flag animation out_27
+      213: -2196147546143497489
+    second: Green Flag Out_27
   - first:
-      213: -3236024923761972927
-    second: flag animation out_28
+      213: 1070102776379415148
+    second: Green Flag Out_28
   - first:
-      213: 8655750580108049109
-    second: flag animation out_29
+      213: 9051661720772420701
+    second: Green Flag Out_29
   - first:
-      213: -6964540245629160524
-    second: flag animation out_30
+      213: -6624298712448099317
+    second: Green Flag Out_30
   - first:
-      213: 3653457139011872329
-    second: flag animation out_31
+      213: 1532432937105796886
+    second: Green Flag Out_31
   - first:
-      213: 5739067811488380255
-    second: flag animation out_32
+      213: -2861282652048584179
+    second: Green Flag Out_32
   - first:
-      213: -5278431189482829000
-    second: flag animation out_33
+      213: -7519162369140608436
+    second: Green Flag Out_33
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -150,7 +150,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -199,7 +199,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flag first animation_0
+      name: Green Flag Out_0
       rect:
         serializedVersion: 2
         x: 651
@@ -212,16 +212,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 84010b121a758b741954e484ac83b930
-      internalID: -1347267618
+      spriteID: 3bd4e13490b8519b0800000000000000
+      internalID: -5110025330284933709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_1
+      name: Green Flag Out_1
       rect:
         serializedVersion: 2
         x: 1302
@@ -234,16 +234,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6b04567ac04a63147bb0e819d1de0c94
-      internalID: -184886396
+      spriteID: e97bb1477c0a8f8c0800000000000000
+      internalID: -3965242693392812130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_2
+      name: Green Flag Out_2
       rect:
         serializedVersion: 2
         x: 1953
@@ -256,16 +256,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 50625b04d100d2148a49666a4d4d5ba3
-      internalID: -109403552
+      spriteID: b51406a78f6df0870800000000000000
+      internalID: 8651369771895374171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_3
+      name: Green Flag Out_3
       rect:
         serializedVersion: 2
         x: 2604
@@ -278,16 +278,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 60efea2174627694ca69cce7d289838b
-      internalID: 1423005224
+      spriteID: 9ca2dcafc17005e80800000000000000
+      internalID: -8192039901138703671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_4
+      name: Green Flag Out_4
       rect:
         serializedVersion: 2
         x: 3255
@@ -300,16 +300,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: abab41087e0441e4b9776643bb131c0e
-      internalID: -989350471
+      spriteID: bde9a1fba270c2130800000000000000
+      internalID: 3543214887009951451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_5
+      name: Green Flag Out_5
       rect:
         serializedVersion: 2
         x: 3906
@@ -322,16 +322,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3de68596cfce844469b077bd32abf9f6
-      internalID: -734843866
+      spriteID: a3a33ce8688b9ff10800000000000000
+      internalID: 2304075572437006906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_6
+      name: Green Flag Out_6
       rect:
         serializedVersion: 2
         x: 0
@@ -344,16 +344,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 64de35367c5349d40aa517d84940c60d
-      internalID: 1338757765
+      spriteID: 79e19a00d1ae4acb0800000000000000
+      internalID: -4853497088112517481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_7
+      name: Green Flag Out_7
       rect:
         serializedVersion: 2
         x: 651
@@ -366,16 +366,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1d0b988ca14f7e84e84796f685fb2f4e
-      internalID: 2062915209
+      spriteID: d8be8d74d502910b0800000000000000
+      internalID: -5757535063607022707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_8
+      name: Green Flag Out_8
       rect:
         serializedVersion: 2
         x: 1302
@@ -388,16 +388,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 21a54555dc017364cb7fbc670b99c6f5
-      internalID: -1802045653
+      spriteID: da1066f59e9444b80800000000000000
+      internalID: -8411516937344515667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_9
+      name: Green Flag Out_9
       rect:
         serializedVersion: 2
         x: 1953
@@ -410,16 +410,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a137f88d286cdf848baf5ca2633c38bf
-      internalID: -1799605186
+      spriteID: fce7d4a2ae14c4920800000000000000
+      internalID: 2975825927772929743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_10
+      name: Green Flag Out_10
       rect:
         serializedVersion: 2
         x: 2604
@@ -432,16 +432,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9f36848d65877ec44853f264ce33465c
-      internalID: -1813288229
+      spriteID: 8d4c3c81f2d1f9ab0800000000000000
+      internalID: -4999244973241809704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_11
+      name: Green Flag Out_11
       rect:
         serializedVersion: 2
         x: 3255
@@ -454,16 +454,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 844893340a20af9458615074df065103
-      internalID: 1040527988
+      spriteID: 246f0965d0f97ff60800000000000000
+      internalID: 8068092137093264962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_12
+      name: Green Flag Out_12
       rect:
         serializedVersion: 2
         x: 3906
@@ -476,16 +476,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b1d5cfbbe2c1e064e92b6b1374ede2fd
-      internalID: -533342976
+      spriteID: 4d3ab336b8ebfa680800000000000000
+      internalID: -8741558845828258860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_13
+      name: Green Flag Out_13
       rect:
         serializedVersion: 2
         x: 0
@@ -498,16 +498,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0bdc47ebe4f1eed4296d2ee396e957c5
-      internalID: -1958742835
+      spriteID: b4c59c78fec4fee70800000000000000
+      internalID: 9146613959871781963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_14
+      name: Green Flag Out_14
       rect:
         serializedVersion: 2
         x: 651
@@ -520,16 +520,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2e1afa854d0951940a6788c1af33f128
-      internalID: -28427516
+      spriteID: a5d2394993da56bf0800000000000000
+      internalID: -331668534724448934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_15
+      name: Green Flag Out_15
       rect:
         serializedVersion: 2
         x: 1302
@@ -542,16 +542,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 557d83d320718f543a4f29ef1ca89f10
-      internalID: -1455745211
+      spriteID: d2fdbecd03efe72b0800000000000000
+      internalID: -5584747002074505427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_16
+      name: Green Flag Out_16
       rect:
         serializedVersion: 2
         x: 1953
@@ -564,16 +564,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a6eb9fee90e17fe4e977397babc8e542
-      internalID: 713111943
+      spriteID: a1da45bbe66003c10800000000000000
+      internalID: 2031130504603151642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_17
+      name: Green Flag Out_17
       rect:
         serializedVersion: 2
         x: 2604
@@ -586,16 +586,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5d8b0c18559d6474e8648f08f0e9beb3
-      internalID: 1927928189
+      spriteID: b5326edacb350d000800000000000000
+      internalID: 58638864992314203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_18
+      name: Green Flag Out_18
       rect:
         serializedVersion: 2
         x: 3255
@@ -608,16 +608,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1e732f315e15fb34c9886c1eaea7d2a2
-      internalID: -833622386
+      spriteID: daa73f15f51ce8a10800000000000000
+      internalID: 1913679506820004525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_19
+      name: Green Flag Out_19
       rect:
         serializedVersion: 2
         x: 3906
@@ -630,16 +630,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 968c76945518fba4eb3a93fa23d9d3bb
-      internalID: -59178220
+      spriteID: 4b7e883aa32cb61f0800000000000000
+      internalID: -1050532530953328716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_20
+      name: Green Flag Out_20
       rect:
         serializedVersion: 2
         x: 0
@@ -652,16 +652,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9046d4572b02f3e438ac5cf7040611c6
-      internalID: 1818003704
+      spriteID: 9703858f427f41980800000000000000
+      internalID: -8568952452821798791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_21
+      name: Green Flag Out_21
       rect:
         serializedVersion: 2
         x: 651
@@ -674,16 +674,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 53abdb910187b2946ba1125e4a76cb6a
-      internalID: -377440517
+      spriteID: bfac84697f2185100800000000000000
+      internalID: 96848246576040699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_22
+      name: Green Flag Out_22
       rect:
         serializedVersion: 2
         x: 1302
@@ -696,16 +696,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 012c310b0ec69174db127d0532ac07d1
-      internalID: 1120973002
+      spriteID: 1f979c5212aafaa30800000000000000
+      internalID: 4228785634468788721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_23
+      name: Green Flag Out_23
       rect:
         serializedVersion: 2
         x: 1953
@@ -718,16 +718,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c87d02e31de8ff64993f39a6311a407c
-      internalID: 285829283
+      spriteID: 4d4088d49f3950e00800000000000000
+      internalID: 1010376390371443924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_24
+      name: Green Flag Out_24
       rect:
         serializedVersion: 2
         x: 2604
@@ -740,16 +740,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7753933ca81768947813f1e72430e2c3
-      internalID: -1611402048
+      spriteID: 1142f7a3066c61270800000000000000
+      internalID: 8220976286411990033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_25
+      name: Green Flag Out_25
       rect:
         serializedVersion: 2
         x: 3255
@@ -762,16 +762,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 793bbafd2d38c6b468d1af45564504e0
-      internalID: 17849762
+      spriteID: 1aadd18190816f7e0800000000000000
+      internalID: -1732170579338995039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_26
+      name: Green Flag Out_26
       rect:
         serializedVersion: 2
         x: 3906
@@ -784,16 +784,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9c55a0408d0775645b19c8bd1a66fc41
-      internalID: -1027320531
+      spriteID: c72527b8fb7fccf70800000000000000
+      internalID: 9209007740116161148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_27
+      name: Green Flag Out_27
       rect:
         serializedVersion: 2
         x: 0
@@ -806,16 +806,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2c57ffb889516ae4db047afd466fc843
-      internalID: -929502625
+      spriteID: fe265c54177b581e0800000000000000
+      internalID: -2196147546143497489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_28
+      name: Green Flag Out_28
       rect:
         serializedVersion: 2
         x: 651
@@ -828,16 +828,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c9be04e05723b12418f203bcb1e887a5
-      internalID: -1141470737
+      spriteID: c6a11433ec4c9de00800000000000000
+      internalID: 1070102776379415148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_29
+      name: Green Flag Out_29
       rect:
         serializedVersion: 2
         x: 2604
@@ -850,16 +850,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f8a55ff5220abfc4a84bd28e329d658a
-      internalID: -1739532392
+      spriteID: d5424a59066fd9d70800000000000000
+      internalID: 9051661720772420701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_30
+      name: Green Flag Out_30
       rect:
         serializedVersion: 2
         x: 3255
@@ -872,16 +872,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2476b916d0f429647977cb3c3d4f0326
-      internalID: 1044274079
+      spriteID: b0c14760b63c114a0800000000000000
+      internalID: -6624298712448099317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag first animation_31
+      name: Green Flag Out_31
       rect:
         serializedVersion: 2
         x: 3906
@@ -894,10 +894,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ac5a417049ba01f438f56440a5a5b70d
-      internalID: -65019549
+      spriteID: 61fac4a13ab444510800000000000000
+      internalID: 1532432937105796886
       vertices: []
       indices: 
       edges: []
@@ -906,7 +906,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4f695587657556d4899f6e7135e807ef
+    spriteID: 9ecf4a49a387fdc47b6aa1babb2a0246
     internalID: 0
     vertices: []
     indices: 
@@ -918,38 +918,38 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":5.0},"gridSpriteSize":{"x":651.0,"y":463.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Flag first animation_0: -1347267618
-      Flag first animation_1: -184886396
-      Flag first animation_10: -1813288229
-      Flag first animation_11: 1040527988
-      Flag first animation_12: -533342976
-      Flag first animation_13: -1958742835
-      Flag first animation_14: -28427516
-      Flag first animation_15: -1455745211
-      Flag first animation_16: 713111943
-      Flag first animation_17: 1927928189
-      Flag first animation_18: -833622386
-      Flag first animation_19: -59178220
-      Flag first animation_2: -109403552
-      Flag first animation_20: 1818003704
-      Flag first animation_21: -377440517
-      Flag first animation_22: 1120973002
-      Flag first animation_23: 285829283
-      Flag first animation_24: -1611402048
-      Flag first animation_25: 17849762
-      Flag first animation_26: -1027320531
-      Flag first animation_27: -929502625
-      Flag first animation_28: -1141470737
-      Flag first animation_29: -1739532392
-      Flag first animation_3: 1423005224
-      Flag first animation_30: 1044274079
-      Flag first animation_31: -65019549
-      Flag first animation_4: -989350471
-      Flag first animation_5: -734843866
-      Flag first animation_6: 1338757765
-      Flag first animation_7: 2062915209
-      Flag first animation_8: -1802045653
-      Flag first animation_9: -1799605186
+      Green Flag Out_0: -5110025330284933709
+      Green Flag Out_1: -3965242693392812130
+      Green Flag Out_10: -4999244973241809704
+      Green Flag Out_11: 8068092137093264962
+      Green Flag Out_12: -8741558845828258860
+      Green Flag Out_13: 9146613959871781963
+      Green Flag Out_14: -331668534724448934
+      Green Flag Out_15: -5584747002074505427
+      Green Flag Out_16: 2031130504603151642
+      Green Flag Out_17: 58638864992314203
+      Green Flag Out_18: 1913679506820004525
+      Green Flag Out_19: -1050532530953328716
+      Green Flag Out_2: 8651369771895374171
+      Green Flag Out_20: -8568952452821798791
+      Green Flag Out_21: 96848246576040699
+      Green Flag Out_22: 4228785634468788721
+      Green Flag Out_23: 1010376390371443924
+      Green Flag Out_24: 8220976286411990033
+      Green Flag Out_25: -1732170579338995039
+      Green Flag Out_26: 9209007740116161148
+      Green Flag Out_27: -2196147546143497489
+      Green Flag Out_28: 1070102776379415148
+      Green Flag Out_29: 9051661720772420701
+      Green Flag Out_3: -8192039901138703671
+      Green Flag Out_30: -6624298712448099317
+      Green Flag Out_31: 1532432937105796886
+      Green Flag Out_4: 3543214887009951451
+      Green Flag Out_5: 2304075572437006906
+      Green Flag Out_6: -4853497088112517481
+      Green Flag Out_7: -5757535063607022707
+      Green Flag Out_8: -8411516937344515667
+      Green Flag Out_9: 2975825927772929743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

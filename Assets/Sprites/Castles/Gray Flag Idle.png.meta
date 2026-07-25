@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: 85b548a02e9e69b47afd6f60af119c2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8492606994552791035
+    second: Gray Flag Idle_0
+  - first:
+      213: -1010366140320729456
+    second: Gray Flag Idle_1
+  - first:
+      213: -2626021873411707987
+    second: Gray Flag Idle_2
+  - first:
+      213: -9017753725951391880
+    second: Gray Flag Idle_3
+  - first:
+      213: -761698018507859196
+    second: Gray Flag Idle_4
+  - first:
+      213: 1981822785344983709
+    second: Gray Flag Idle_5
+  - first:
+      213: 7457213318537679649
+    second: Gray Flag Idle_6
+  - first:
+      213: -5170208801314964674
+    second: Gray Flag Idle_7
+  - first:
+      213: -4505595645179496189
+    second: Gray Flag Idle_8
+  - first:
+      213: 1419240780849980353
+    second: Gray Flag Idle_9
+  - first:
+      213: -1155161213001042265
+    second: Gray Flag Idle_10
+  - first:
+      213: 4888943471956087331
+    second: Gray Flag Idle_11
+  - first:
+      213: 8939225133825597909
+    second: Gray Flag Idle_12
+  - first:
+      213: -7805646285027398052
+    second: Gray Flag Idle_13
+  - first:
+      213: 2380515460654694578
+    second: Gray Flag Idle_14
+  - first:
+      213: 6977281206246319718
+    second: Gray Flag Idle_15
+  - first:
+      213: 3784706372301239067
+    second: Gray Flag Idle_16
+  - first:
+      213: -2681033722426316599
+    second: Gray Flag Idle_17
+  - first:
+      213: 5437498158746700429
+    second: Gray Flag Idle_18
+  - first:
+      213: -6533762528646109191
+    second: Gray Flag Idle_19
+  - first:
+      213: -223074641804057920
+    second: Gray Flag Idle_20
+  - first:
+      213: 7535913910159510819
+    second: Gray Flag Idle_21
+  - first:
+      213: -3838933050091642279
+    second: Gray Flag Idle_22
+  - first:
+      213: 8155530240851380620
+    second: Gray Flag Idle_23
+  - first:
+      213: -2231644121835895865
+    second: Gray Flag Idle_24
+  - first:
+      213: 2329129256862346216
+    second: Gray Flag Idle_25
+  - first:
+      213: -5998813675183897887
+    second: Gray Flag Idle_26
+  - first:
+      213: 1304733617611404622
+    second: Gray Flag Idle_27
+  - first:
+      213: -1707439757643131534
+    second: Gray Flag Idle_28
+  - first:
+      213: -4416680721945990797
+    second: Gray Flag Idle_29
+  - first:
+      213: -1982941643967758756
+    second: Gray Flag Idle_30
+  - first:
+      213: -4379272284251437584
+    second: Gray Flag Idle_31
+  - first:
+      213: -2982063792745103844
+    second: Gray Flag Idle_32
+  - first:
+      213: -5785343016344099194
+    second: Gray Flag Idle_33
+  - first:
+      213: -7464352907039099077
+    second: Gray Flag Idle_34
+  - first:
+      213: 8802936848898174235
+    second: Gray Flag Idle_35
+  - first:
+      213: 7892859255824631492
+    second: Gray Flag Idle_36
+  - first:
+      213: 2547420151506851444
+    second: Gray Flag Idle_37
+  - first:
+      213: 684064953988174320
+    second: Gray Flag Idle_38
+  - first:
+      213: 8366823304138240283
+    second: Gray Flag Idle_39
+  - first:
+      213: -3182199381022256153
+    second: Gray Flag Idle_40
+  - first:
+      213: 7976814901058077714
+    second: Gray Flag Idle_41
+  - first:
+      213: -1155460193256200813
+    second: Gray Flag Idle_42
+  - first:
+      213: -2832959243155575630
+    second: Gray Flag Idle_43
+  - first:
+      213: 6081866990880233821
+    second: Gray Flag Idle_44
+  - first:
+      213: -5399187522115588303
+    second: Gray Flag Idle_45
+  - first:
+      213: 3200003056925530701
+    second: Gray Flag Idle_46
+  - first:
+      213: -3078657071689090649
+    second: Gray Flag Idle_47
+  - first:
+      213: -2059435967811337260
+    second: Gray Flag Idle_48
+  - first:
+      213: 7385926487198939956
+    second: Gray Flag Idle_49
+  - first:
+      213: 8535610842514133464
+    second: Gray Flag Idle_50
+  - first:
+      213: -268252036569368829
+    second: Gray Flag Idle_51
+  - first:
+      213: 3138117336657517093
+    second: Gray Flag Idle_52
+  - first:
+      213: -1820975861172641966
+    second: Gray Flag Idle_53
+  - first:
+      213: -9136760317201764277
+    second: Gray Flag Idle_54
+  - first:
+      213: -6816534464184911689
+    second: Gray Flag Idle_55
+  - first:
+      213: 5507534013084318771
+    second: Gray Flag Idle_56
+  - first:
+      213: -3212206063885811185
+    second: Gray Flag Idle_57
+  - first:
+      213: -8357722675483494427
+    second: Gray Flag Idle_58
+  - first:
+      213: 6229587205233734041
+    second: Gray Flag Idle_59
+  - first:
+      213: -3502039853015522092
+    second: Gray Flag Idle_60
+  - first:
+      213: 2592602342307834127
+    second: Gray Flag Idle_61
+  - first:
+      213: 3732779293717603219
+    second: Gray Flag Idle_62
+  - first:
+      213: -1043099925737264905
+    second: Gray Flag Idle_63
+  - first:
+      213: 994818166125877252
+    second: Gray Flag Idle_64
+  - first:
+      213: -3121796068805801826
+    second: Gray Flag Idle_65
+  - first:
+      213: -6764651247003610473
+    second: Gray Flag Idle_66
+  - first:
+      213: -4014852255903371376
+    second: Gray Flag Idle_67
+  - first:
+      213: -4180155445681127270
+    second: Gray Flag Idle_68
+  - first:
+      213: -4849654013986669199
+    second: Gray Flag Idle_69
+  - first:
+      213: -8209873918835863824
+    second: Gray Flag Idle_70
+  - first:
+      213: 171513585437263117
+    second: Gray Flag Idle_71
+  - first:
+      213: 9201209863566665990
+    second: Gray Flag Idle_72
+  - first:
+      213: 247036831450541173
+    second: Gray Flag Idle_73
+  - first:
+      213: -3335393401975929894
+    second: Gray Flag Idle_74
+  - first:
+      213: -8116095815062893781
+    second: Gray Flag Idle_75
+  - first:
+      213: 2959299416463100434
+    second: Gray Flag Idle_76
+  - first:
+      213: -1488761765376951697
+    second: Gray Flag Idle_77
+  - first:
+      213: 5239716077383587974
+    second: Gray Flag Idle_78
+  - first:
+      213: 1262639136269547830
+    second: Gray Flag Idle_79
+  - first:
+      213: -803146320638138371
+    second: Gray Flag Idle_80
+  - first:
+      213: 5398505789744333028
+    second: Gray Flag Idle_81
+  - first:
+      213: 8803346544096729588
+    second: Gray Flag Idle_82
+  - first:
+      213: -1287187547299823672
+    second: Gray Flag Idle_83
+  - first:
+      213: 8606526820161726921
+    second: Gray Flag Idle_84
+  - first:
+      213: -8747786401373633084
+    second: Gray Flag Idle_85
+  - first:
+      213: -8481560470344819642
+    second: Gray Flag Idle_86
+  - first:
+      213: -5811457833989527619
+    second: Gray Flag Idle_87
+  - first:
+      213: -4043153076995433485
+    second: Gray Flag Idle_88
+  - first:
+      213: 5463545698554610674
+    second: Gray Flag Idle_89
+  - first:
+      213: -7877591824120058186
+    second: Gray Flag Idle_90
+  - first:
+      213: 7126020410125200723
+    second: Gray Flag Idle_91
+  - first:
+      213: -2317918659781275149
+    second: Gray Flag Idle_92
+  - first:
+      213: -7303270955047683712
+    second: Gray Flag Idle_93
+  - first:
+      213: 3205856787435347191
+    second: Gray Flag Idle_94
+  - first:
+      213: -2336576804163573174
+    second: Gray Flag Idle_95
+  - first:
+      213: 3704758674858174543
+    second: Gray Flag Idle_96
+  - first:
+      213: 4353173732341990617
+    second: Gray Flag Idle_97
+  - first:
+      213: 8599488729743900989
+    second: Gray Flag Idle_98
+  - first:
+      213: 5021300705263759788
+    second: Gray Flag Idle_99
+  - first:
+      213: -937905200300437767
+    second: Gray Flag Idle_100
+  - first:
+      213: 6609842855286396665
+    second: Gray Flag Idle_101
+  - first:
+      213: 8808780867521726937
+    second: Gray Flag Idle_102
+  - first:
+      213: -6579926403112567988
+    second: Gray Flag Idle_103
+  - first:
+      213: 2390085101447263359
+    second: Gray Flag Idle_104
+  - first:
+      213: -7645993406766815283
+    second: Gray Flag Idle_105
+  - first:
+      213: -4754973992372048312
+    second: Gray Flag Idle_106
+  - first:
+      213: -2180515695407320313
+    second: Gray Flag Idle_107
+  - first:
+      213: -9092004448024986622
+    second: Gray Flag Idle_108
+  - first:
+      213: -8755277349523498386
+    second: Gray Flag Idle_109
+  - first:
+      213: -3751722865791473407
+    second: Gray Flag Idle_110
+  - first:
+      213: 378836986205846166
+    second: Gray Flag Idle_111
+  - first:
+      213: -432721997521421821
+    second: Gray Flag Idle_112
+  - first:
+      213: 8121431491263267019
+    second: Gray Flag Idle_113
+  - first:
+      213: 821806501075026250
+    second: Gray Flag Idle_114
+  - first:
+      213: -254525093630684029
+    second: Gray Flag Idle_115
+  - first:
+      213: 1394417545470556313
+    second: Gray Flag Idle_116
+  - first:
+      213: 1505882684807175841
+    second: Gray Flag Idle_117
+  - first:
+      213: 5055929990828497266
+    second: Gray Flag Idle_118
+  - first:
+      213: -2774781268066552588
+    second: Gray Flag Idle_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gray Flag Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500eea82fe2342a80800000000000000
+      internalID: -8492606994552791035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b91939557af1f0800000000000000
+      internalID: -1010366140320729456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daba3e6f40f7e8bd0800000000000000
+      internalID: -2626021873411707987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87746bca3c08ad280800000000000000
+      internalID: -9017753725951391880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b58b410b7ed65f0800000000000000
+      internalID: -761698018507859196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_5
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d925348b259d08b10800000000000000
+      internalID: 1981822785344983709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12310c1d0085d7760800000000000000
+      internalID: 7457213318537679649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_7
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf507fc7abf38b0800000000000000
+      internalID: -5170208801314964674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_8
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3097783e1a8e871c0800000000000000
+      internalID: -4505595645179496189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_9
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3af4188f722b310800000000000000
+      internalID: 1419240780849980353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_10
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a673c04ffa08ffe0800000000000000
+      internalID: -1155161213001042265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32258ec5f2409d340800000000000000
+      internalID: 4888943471956087331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d12beca5e18e0c70800000000000000
+      internalID: 8939225133825597909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e28925f06cca390800000000000000
+      internalID: -7805646285027398052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b006aee23a490120800000000000000
+      internalID: 2380515460654694578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66622543a4844d060800000000000000
+      internalID: 6977281206246319718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b133c24b46af58430800000000000000
+      internalID: 3784706372301239067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8afefb80e0bcad0800000000000000
+      internalID: -2681033722426316599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a00fa24cfd57b40800000000000000
+      internalID: 5437498158746700429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f76a49f8996355a0800000000000000
+      internalID: -6533762528646109191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_20
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c22fd09bca77ecf0800000000000000
+      internalID: -223074641804057920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_21
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d8bf836c1f49860800000000000000
+      internalID: 7535913910159510819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952e7c00bbe59bac0800000000000000
+      internalID: -3838933050091642279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8907e05b834e2170800000000000000
+      internalID: 8155530240851380620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c302e4be7b9701e0800000000000000
+      internalID: -2231644121835895865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebef3708bab25020800000000000000
+      internalID: 2329129256862346216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e288e8debeefbca0800000000000000
+      internalID: -5998813675183897887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_27
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45fc3cff485b1210800000000000000
+      internalID: 1304733617611404622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755d4a3694fd48e0800000000000000
+      internalID: -1707439757643131534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e712b84cc4b2c0800000000000000
+      internalID: -4416680721945990797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_30
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ef8f4b41d2b74e0800000000000000
+      internalID: -1982941643967758756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_31
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ca725f03b933c0800000000000000
+      internalID: -4379272284251437584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_32
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ebfd7b7c49d96d0800000000000000
+      internalID: -2982063792745103844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e50fbd2556bfa0800000000000000
+      internalID: -5785343016344099194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b7c1349a496890800000000000000
+      internalID: -7464352907039099077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da5c29c605a2a70800000000000000
+      internalID: 8802936848898174235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c49dcca1198d60800000000000000
+      internalID: 7892859255824631492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476dc3881214a5320800000000000000
+      internalID: 2547420151506851444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f152c983794e7900800000000000000
+      internalID: 684064953988174320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_39
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11be9d377dec1470800000000000000
+      internalID: 8366823304138240283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_40
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e353b1e58e86d3d0800000000000000
+      internalID: -3182199381022256153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_41
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2140c98b3e653be60800000000000000
+      internalID: 7976814901058077714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_42
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3952cdc731bf6ffe0800000000000000
+      internalID: -1155460193256200813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_43
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc6d88f39e4fa8d0800000000000000
+      internalID: -2832959243155575630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59179a1ec1276450800000000000000
+      internalID: 6081866990880233821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_45
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f24940e8b3215b0800000000000000
+      internalID: -5399187522115588303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ad53073d1b86c20800000000000000
+      internalID: 3200003056925530701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a93ab864b96645d0800000000000000
+      internalID: -3078657071689090649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_48
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d341fc06e96b63e0800000000000000
+      internalID: -2059435967811337260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_49
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b34aef105108660800000000000000
+      internalID: 7385926487198939956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_50
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1170176d4947670800000000000000
+      internalID: 8535610842514133464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_51
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307f10aa13af64cf0800000000000000
+      internalID: -268252036569368829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_52
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a57fa5715dc8b20800000000000000
+      internalID: 3138117336657517093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_53
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f5e3a2a189ab6e0800000000000000
+      internalID: -1820975861172641966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_54
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40bd4f66e4b33180800000000000000
+      internalID: -9136760317201764277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8fc07350ec661a0800000000000000
+      internalID: -6816534464184911689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cb5463101be6c40800000000000000
+      internalID: 5507534013084318771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f020bb89a93fb63d0800000000000000
+      internalID: -3212206063885811185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_58
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7349cf187630c80800000000000000
+      internalID: -8357722675483494427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9917641be80f37650800000000000000
+      internalID: 6229587205233734041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_60
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4afbbee41466fc0800000000000000
+      internalID: -3502039853015522092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_61
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09aa191816caf320800000000000000
+      internalID: 2592602342307834127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_62
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a8f29dfe7dc330800000000000000
+      internalID: 3732779293717603219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_63
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a135e42a2681f0800000000000000
+      internalID: -1043099925737264905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_64
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d900f9dd4ecd00800000000000000
+      internalID: 994818166125877252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_65
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e988e91f3072da4d0800000000000000
+      internalID: -3121796068805801826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79252f018812f12a0800000000000000
+      internalID: -6764651247003610473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f243515216848c0800000000000000
+      internalID: -4014852255903371376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_68
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90034205ca1df5c0800000000000000
+      internalID: -4180155445681127270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_69
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df6cc6e5192bcb0800000000000000
+      internalID: -4849654013986669199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_70
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe4b092b2ba01e80800000000000000
+      internalID: -8209873918835863824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_71
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05442e72b6516200800000000000000
+      internalID: 171513585437263117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_72
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60926bdee9341bf70800000000000000
+      internalID: 9201209863566665990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_73
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c2c0970b6ad6300800000000000000
+      internalID: 247036831450541173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_74
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30b016f5d46b1d0800000000000000
+      internalID: -3335393401975929894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_75
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b442c6bd5dd5f80800000000000000
+      internalID: -8116095815062893781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_76
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21acd46e32b811920800000000000000
+      internalID: 2959299416463100434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6af58bef0bd65be0800000000000000
+      internalID: -1488761765376951697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_78
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6881a5cd20637b840800000000000000
+      internalID: 5239716077383587974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_79
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6393adcca9bc58110800000000000000
+      internalID: 1262639136269547830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_80
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7a3b73da6aad4f0800000000000000
+      internalID: -803146320638138371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_81
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c99bc9685bea40800000000000000
+      internalID: 5398505789744333028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_82
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f95c8b2a05cb2a70800000000000000
+      internalID: 8803346544096729588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_83
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf33ebdebdf22ee0800000000000000
+      internalID: -1287187547299823672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_84
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9ac992b86807770800000000000000
+      internalID: 8606526820161726921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_85
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c12f9d9e999680800000000000000
+      internalID: -8747786401373633084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_86
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1a1080b17b4a80800000000000000
+      internalID: -8481560470344819642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_87
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7a4e1f3ed895fa0800000000000000
+      internalID: -5811457833989527619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd821b2b5d3e7c0800000000000000
+      internalID: -4043153076995433485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_89
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30670add962db40800000000000000
+      internalID: 5463545698554610674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_90
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be6dc529fb2da290800000000000000
+      internalID: -7877591824120058186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_91
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d22b7cec5b4e260800000000000000
+      internalID: 7126020410125200723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_92
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1dc71824915dfd0800000000000000
+      internalID: -2317918659781275149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_93
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08974f1c2c195aa90800000000000000
+      internalID: -7303270955047683712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_94
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcdbd743cd7d7c20800000000000000
+      internalID: 3205856787435347191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_95
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aa96db6cfc29fd0800000000000000
+      internalID: -2336576804163573174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_96
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e779d262f96330800000000000000
+      internalID: 3704758674858174543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_97
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d44ec90274996c30800000000000000
+      internalID: 4353173732341990617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_98
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d314c5a0075875770800000000000000
+      internalID: 8599488729743900989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca13aaf236e3fa540800000000000000
+      internalID: 5021300705263759788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_100
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fec9178034ebf2f0800000000000000
+      internalID: -937905200300437767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_101
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6df727e01eabb50800000000000000
+      internalID: 6609842855286396665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_102
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c3e037831f3a70800000000000000
+      internalID: 8808780867521726937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_103
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf24e5cc76fa4a0800000000000000
+      internalID: -6579926403112567988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_104
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b7be8cb94b2120800000000000000
+      internalID: 2390085101447263359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_105
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76faab189f3e590800000000000000
+      internalID: -7645993406766815283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_106
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e617cc850f20eb0800000000000000
+      internalID: -4754973992372048312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_107
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703351427804db1e0800000000000000
+      internalID: -2180515695407320313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_108
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cf2334026b2d180800000000000000
+      internalID: -9092004448024986622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_109
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad0a753a10f7680800000000000000
+      internalID: -8755277349523498386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109e9c85ee33febc0800000000000000
+      internalID: -3751722865791473407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_111
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a34965b36e14500800000000000000
+      internalID: 378836986205846166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30afc3bc2a9aef9f0800000000000000
+      internalID: -432721997521421821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_113
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc00b6089ee15b070800000000000000
+      internalID: 8121431491263267019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_114
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410faa98a4a76b00800000000000000
+      internalID: 821806501075026250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_115
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38458bf96ceb77cf0800000000000000
+      internalID: -254525093630684029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_116
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9983852ae57f95310800000000000000
+      internalID: 1394417545470556313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_117
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aed755c258f5e410800000000000000
+      internalID: 1505882684807175841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_118
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27993980a854a2640800000000000000
+      internalID: 5055929990828497266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray Flag Idle_119
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43c7b532ffd79d0800000000000000
+      internalID: -2774781268066552588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34b6b38532c39b3439c2d72eab5d844a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":11.0},"gridSpriteSize":{"x":651.0,"y":386.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gray Flag Idle_0: -8492606994552791035
+      Gray Flag Idle_1: -1010366140320729456
+      Gray Flag Idle_10: -1155161213001042265
+      Gray Flag Idle_100: -937905200300437767
+      Gray Flag Idle_101: 6609842855286396665
+      Gray Flag Idle_102: 8808780867521726937
+      Gray Flag Idle_103: -6579926403112567988
+      Gray Flag Idle_104: 2390085101447263359
+      Gray Flag Idle_105: -7645993406766815283
+      Gray Flag Idle_106: -4754973992372048312
+      Gray Flag Idle_107: -2180515695407320313
+      Gray Flag Idle_108: -9092004448024986622
+      Gray Flag Idle_109: -8755277349523498386
+      Gray Flag Idle_11: 4888943471956087331
+      Gray Flag Idle_110: -3751722865791473407
+      Gray Flag Idle_111: 378836986205846166
+      Gray Flag Idle_112: -432721997521421821
+      Gray Flag Idle_113: 8121431491263267019
+      Gray Flag Idle_114: 821806501075026250
+      Gray Flag Idle_115: -254525093630684029
+      Gray Flag Idle_116: 1394417545470556313
+      Gray Flag Idle_117: 1505882684807175841
+      Gray Flag Idle_118: 5055929990828497266
+      Gray Flag Idle_119: -2774781268066552588
+      Gray Flag Idle_12: 8939225133825597909
+      Gray Flag Idle_13: -7805646285027398052
+      Gray Flag Idle_14: 2380515460654694578
+      Gray Flag Idle_15: 6977281206246319718
+      Gray Flag Idle_16: 3784706372301239067
+      Gray Flag Idle_17: -2681033722426316599
+      Gray Flag Idle_18: 5437498158746700429
+      Gray Flag Idle_19: -6533762528646109191
+      Gray Flag Idle_2: -2626021873411707987
+      Gray Flag Idle_20: -223074641804057920
+      Gray Flag Idle_21: 7535913910159510819
+      Gray Flag Idle_22: -3838933050091642279
+      Gray Flag Idle_23: 8155530240851380620
+      Gray Flag Idle_24: -2231644121835895865
+      Gray Flag Idle_25: 2329129256862346216
+      Gray Flag Idle_26: -5998813675183897887
+      Gray Flag Idle_27: 1304733617611404622
+      Gray Flag Idle_28: -1707439757643131534
+      Gray Flag Idle_29: -4416680721945990797
+      Gray Flag Idle_3: -9017753725951391880
+      Gray Flag Idle_30: -1982941643967758756
+      Gray Flag Idle_31: -4379272284251437584
+      Gray Flag Idle_32: -2982063792745103844
+      Gray Flag Idle_33: -5785343016344099194
+      Gray Flag Idle_34: -7464352907039099077
+      Gray Flag Idle_35: 8802936848898174235
+      Gray Flag Idle_36: 7892859255824631492
+      Gray Flag Idle_37: 2547420151506851444
+      Gray Flag Idle_38: 684064953988174320
+      Gray Flag Idle_39: 8366823304138240283
+      Gray Flag Idle_4: -761698018507859196
+      Gray Flag Idle_40: -3182199381022256153
+      Gray Flag Idle_41: 7976814901058077714
+      Gray Flag Idle_42: -1155460193256200813
+      Gray Flag Idle_43: -2832959243155575630
+      Gray Flag Idle_44: 6081866990880233821
+      Gray Flag Idle_45: -5399187522115588303
+      Gray Flag Idle_46: 3200003056925530701
+      Gray Flag Idle_47: -3078657071689090649
+      Gray Flag Idle_48: -2059435967811337260
+      Gray Flag Idle_49: 7385926487198939956
+      Gray Flag Idle_5: 1981822785344983709
+      Gray Flag Idle_50: 8535610842514133464
+      Gray Flag Idle_51: -268252036569368829
+      Gray Flag Idle_52: 3138117336657517093
+      Gray Flag Idle_53: -1820975861172641966
+      Gray Flag Idle_54: -9136760317201764277
+      Gray Flag Idle_55: -6816534464184911689
+      Gray Flag Idle_56: 5507534013084318771
+      Gray Flag Idle_57: -3212206063885811185
+      Gray Flag Idle_58: -8357722675483494427
+      Gray Flag Idle_59: 6229587205233734041
+      Gray Flag Idle_6: 7457213318537679649
+      Gray Flag Idle_60: -3502039853015522092
+      Gray Flag Idle_61: 2592602342307834127
+      Gray Flag Idle_62: 3732779293717603219
+      Gray Flag Idle_63: -1043099925737264905
+      Gray Flag Idle_64: 994818166125877252
+      Gray Flag Idle_65: -3121796068805801826
+      Gray Flag Idle_66: -6764651247003610473
+      Gray Flag Idle_67: -4014852255903371376
+      Gray Flag Idle_68: -4180155445681127270
+      Gray Flag Idle_69: -4849654013986669199
+      Gray Flag Idle_7: -5170208801314964674
+      Gray Flag Idle_70: -8209873918835863824
+      Gray Flag Idle_71: 171513585437263117
+      Gray Flag Idle_72: 9201209863566665990
+      Gray Flag Idle_73: 247036831450541173
+      Gray Flag Idle_74: -3335393401975929894
+      Gray Flag Idle_75: -8116095815062893781
+      Gray Flag Idle_76: 2959299416463100434
+      Gray Flag Idle_77: -1488761765376951697
+      Gray Flag Idle_78: 5239716077383587974
+      Gray Flag Idle_79: 1262639136269547830
+      Gray Flag Idle_8: -4505595645179496189
+      Gray Flag Idle_80: -803146320638138371
+      Gray Flag Idle_81: 5398505789744333028
+      Gray Flag Idle_82: 8803346544096729588
+      Gray Flag Idle_83: -1287187547299823672
+      Gray Flag Idle_84: 8606526820161726921
+      Gray Flag Idle_85: -8747786401373633084
+      Gray Flag Idle_86: -8481560470344819642
+      Gray Flag Idle_87: -5811457833989527619
+      Gray Flag Idle_88: -4043153076995433485
+      Gray Flag Idle_89: 5463545698554610674
+      Gray Flag Idle_9: 1419240780849980353
+      Gray Flag Idle_90: -7877591824120058186
+      Gray Flag Idle_91: 7126020410125200723
+      Gray Flag Idle_92: -2317918659781275149
+      Gray Flag Idle_93: -7303270955047683712
+      Gray Flag Idle_94: 3205856787435347191
+      Gray Flag Idle_95: -2336576804163573174
+      Gray Flag Idle_96: 3704758674858174543
+      Gray Flag Idle_97: 4353173732341990617
+      Gray Flag Idle_98: 8599488729743900989
+      Gray Flag Idle_99: 5021300705263759788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

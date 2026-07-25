@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: 5a883842db0c07c46858678e2bd961dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1894085700120239317
+    second: Pink Flag Out_0
+  - first:
+      213: -493165433114420556
+    second: Pink Flag Out_1
+  - first:
+      213: -7769434770936849282
+    second: Pink Flag Out_2
+  - first:
+      213: -6601781283886554049
+    second: Pink Flag Out_3
+  - first:
+      213: 1892160808457169991
+    second: Pink Flag Out_4
+  - first:
+      213: -5825595198578642277
+    second: Pink Flag Out_5
+  - first:
+      213: -132058525055747065
+    second: Pink Flag Out_6
+  - first:
+      213: 8726574826944472149
+    second: Pink Flag Out_7
+  - first:
+      213: -4126230167970053254
+    second: Pink Flag Out_8
+  - first:
+      213: -4218385497941254360
+    second: Pink Flag Out_9
+  - first:
+      213: -128806367282673594
+    second: Pink Flag Out_10
+  - first:
+      213: -805113753907939183
+    second: Pink Flag Out_11
+  - first:
+      213: -3997736949656172509
+    second: Pink Flag Out_12
+  - first:
+      213: 1545199490571207735
+    second: Pink Flag Out_13
+  - first:
+      213: -2468763592341758560
+    second: Pink Flag Out_14
+  - first:
+      213: -4534381284744380561
+    second: Pink Flag Out_15
+  - first:
+      213: 6278572913848322426
+    second: Pink Flag Out_16
+  - first:
+      213: 2980946286861083077
+    second: Pink Flag Out_17
+  - first:
+      213: 6842730498402352776
+    second: Pink Flag Out_18
+  - first:
+      213: -3477501354764359845
+    second: Pink Flag Out_19
+  - first:
+      213: 323848446934775533
+    second: Pink Flag Out_20
+  - first:
+      213: -355909658456889683
+    second: Pink Flag Out_21
+  - first:
+      213: 1575208853091486907
+    second: Pink Flag Out_22
+  - first:
+      213: 2892161671383601663
+    second: Pink Flag Out_23
+  - first:
+      213: -688679693679326450
+    second: Pink Flag Out_24
+  - first:
+      213: 181406774697612018
+    second: Pink Flag Out_25
+  - first:
+      213: -3952931820710676689
+    second: Pink Flag Out_26
+  - first:
+      213: -5591263392379193477
+    second: Pink Flag Out_27
+  - first:
+      213: -286832426849312225
+    second: Pink Flag Out_28
+  - first:
+      213: 652189376744830102
+    second: Pink Flag Out_29
+  - first:
+      213: 2898340580545682538
+    second: Pink Flag Out_30
+  - first:
+      213: -2148696642731719803
+    second: Pink Flag Out_31
+  - first:
+      213: 5405268989949709767
+    second: Pink Flag Out_32
+  - first:
+      213: 7100762448784019620
+    second: Pink Flag Out_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink Flag Out_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23af2e471bd6b5e0800000000000000
+      internalID: -1894085700120239317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_1
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba96b7c6ace729f0800000000000000
+      internalID: -493165433114420556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_2
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c9db47d3c6d2490800000000000000
+      internalID: -7769434770936849282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_3
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34ae1966e2c164a0800000000000000
+      internalID: -6601781283886554049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_4
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c610eea3e424a10800000000000000
+      internalID: 1892160808457169991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_5
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92bf7f3804572fa0800000000000000
+      internalID: -5825595198578642277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c7d7c9875da2ef0800000000000000
+      internalID: -132058525055747065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55424e9d1950b1970800000000000000
+      internalID: 8726574826944472149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305a0268facb6c0800000000000000
+      internalID: -4126230167970053254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_9
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f5d855db84575c0800000000000000
+      internalID: -4218385497941254360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_10
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ce499a43663ef0800000000000000
+      internalID: -128806367282673594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_11
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19839867e49a3d4f0800000000000000
+      internalID: -805113753907939183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_12
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3284a4adc6f2588c0800000000000000
+      internalID: -3997736949656172509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7348c96ffb6a17510800000000000000
+      internalID: 1545199490571207735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5d04c7903dbdd0800000000000000
+      internalID: -2468763592341758560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_15
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fb1a6ee34a211c0800000000000000
+      internalID: -4534381284744380561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_16
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798152ccc8f12750800000000000000
+      internalID: 6278572913848322426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_17
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1efdaaad27e5920800000000000000
+      internalID: 2980946286861083077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_18
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ef00b422346fe50800000000000000
+      internalID: 6842730498402352776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_19
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a45341fe6dbfc0800000000000000
+      internalID: -3477501354764359845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6fb98527a8e7400800000000000000
+      internalID: 323848446934775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6eb832d0e8f0bf0800000000000000
+      internalID: -355909658456889683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_22
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc81972b144cd510800000000000000
+      internalID: 1575208853091486907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_23
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d1df77b5032820800000000000000
+      internalID: 2892161671383601663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_24
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b0836a7715176f0800000000000000
+      internalID: -688679693679326450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_25
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f253bd108c748200800000000000000
+      internalID: 181406774697612018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_26
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b33dd37d5429c0800000000000000
+      internalID: -3952931820710676689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b7938197d762b0800000000000000
+      internalID: -5591263392379193477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12659f6d67f40cf0800000000000000
+      internalID: -286832426849312225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694b82f58ca0d0900800000000000000
+      internalID: 652189376744830102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_30
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c5685e669f83820800000000000000
+      internalID: 2898340580545682538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Out_31
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c6e7a9cb4e22e0800000000000000
+      internalID: -2148696642731719803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8410bb4215a303847a5ca95ace0b15e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":5.0},"gridSpriteSize":{"x":651.0,"y":463.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pink Flag Out_0: -1894085700120239317
+      Pink Flag Out_1: -493165433114420556
+      Pink Flag Out_10: -128806367282673594
+      Pink Flag Out_11: -805113753907939183
+      Pink Flag Out_12: -3997736949656172509
+      Pink Flag Out_13: 1545199490571207735
+      Pink Flag Out_14: -2468763592341758560
+      Pink Flag Out_15: -4534381284744380561
+      Pink Flag Out_16: 6278572913848322426
+      Pink Flag Out_17: 2980946286861083077
+      Pink Flag Out_18: 6842730498402352776
+      Pink Flag Out_19: -3477501354764359845
+      Pink Flag Out_2: -7769434770936849282
+      Pink Flag Out_20: 323848446934775533
+      Pink Flag Out_21: -355909658456889683
+      Pink Flag Out_22: 1575208853091486907
+      Pink Flag Out_23: 2892161671383601663
+      Pink Flag Out_24: -688679693679326450
+      Pink Flag Out_25: 181406774697612018
+      Pink Flag Out_26: -3952931820710676689
+      Pink Flag Out_27: -5591263392379193477
+      Pink Flag Out_28: -286832426849312225
+      Pink Flag Out_29: 652189376744830102
+      Pink Flag Out_3: -6601781283886554049
+      Pink Flag Out_30: 2898340580545682538
+      Pink Flag Out_31: -2148696642731719803
+      Pink Flag Out_4: 1892160808457169991
+      Pink Flag Out_5: -5825595198578642277
+      Pink Flag Out_6: -132058525055747065
+      Pink Flag Out_7: 8726574826944472149
+      Pink Flag Out_8: -4126230167970053254
+      Pink Flag Out_9: -4218385497941254360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

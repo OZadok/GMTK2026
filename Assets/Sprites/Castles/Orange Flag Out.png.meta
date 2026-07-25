@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: ca7955b3aedefe6468bfaa6f4ab0fbe3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 865615025444322929
+    second: flag animation out_0
+  - first:
+      213: 2596295783221887118
+    second: flag animation out_1
+  - first:
+      213: -1475001274625064488
+    second: flag animation out_2
+  - first:
+      213: 7246770273458924199
+    second: flag animation out_3
+  - first:
+      213: 8272360067197978661
+    second: flag animation out_4
+  - first:
+      213: -7219814054439822355
+    second: flag animation out_5
+  - first:
+      213: 7505571306225125715
+    second: flag animation out_6
+  - first:
+      213: -4886884550253864442
+    second: flag animation out_7
+  - first:
+      213: 5218368108553493969
+    second: flag animation out_8
+  - first:
+      213: 4651459270711592282
+    second: flag animation out_9
+  - first:
+      213: -2874977029596259779
+    second: flag animation out_10
+  - first:
+      213: -8766967680759421066
+    second: flag animation out_11
+  - first:
+      213: -2669604470439984853
+    second: flag animation out_12
+  - first:
+      213: 2918018984896137790
+    second: flag animation out_13
+  - first:
+      213: -2298043976783964987
+    second: flag animation out_14
+  - first:
+      213: 9143434221435147242
+    second: flag animation out_15
+  - first:
+      213: 796902132715411893
+    second: flag animation out_16
+  - first:
+      213: -6776677965620684175
+    second: flag animation out_17
+  - first:
+      213: -4937399857813006394
+    second: flag animation out_18
+  - first:
+      213: 8778305138548791442
+    second: flag animation out_19
+  - first:
+      213: -7461517785349334220
+    second: flag animation out_20
+  - first:
+      213: 3606787563346945759
+    second: flag animation out_21
+  - first:
+      213: -7322011182903785033
+    second: flag animation out_22
+  - first:
+      213: -2121386783647010551
+    second: flag animation out_23
+  - first:
+      213: -3850955435895879932
+    second: flag animation out_24
+  - first:
+      213: 8226858190923690202
+    second: flag animation out_25
+  - first:
+      213: -6535196230452154032
+    second: flag animation out_26
+  - first:
+      213: 1353393724147971522
+    second: flag animation out_27
+  - first:
+      213: -3236024923761972927
+    second: flag animation out_28
+  - first:
+      213: 8655750580108049109
+    second: flag animation out_29
+  - first:
+      213: -6964540245629160524
+    second: flag animation out_30
+  - first:
+      213: 3653457139011872329
+    second: flag animation out_31
+  - first:
+      213: 5739067811488380255
+    second: flag animation out_32
+  - first:
+      213: -5278431189482829000
+    second: flag animation out_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange Flag Out_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acf774eeb8e6f4cb3836ed59d9cc45
+      internalID: -906590334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_1
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af375daf09aa8024eaace1af2804924a
+      internalID: -1222953594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_2
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b4f924e9889047b08e4aa03c77afb
+      internalID: -1430014653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_3
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca50fed64ad1c448a27dd912d534d1
+      internalID: 97794923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_4
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9866f5812551048a49f04c6213e3cd
+      internalID: 1199072785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_5
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1853
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfca250ec62a8a747b843b6d0acf11bb
+      internalID: 2105802656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13284c53c48ef5f4cb0c7de18d405d43
+      internalID: 522940053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c932f105e508f408ae13824a9eb523
+      internalID: -1171621418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7c85149a81304dbd86e239b27fae8
+      internalID: 1632658821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_9
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47c68266df55041a81a4e5c943f02d
+      internalID: -1709159710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_10
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad58cd1980aad438f80d416affc18f
+      internalID: 2118704111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_11
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d529dce720aae46b84e0214b2bccba
+      internalID: -1838349860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_12
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1390
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1e415deb906e459ef541e3410465b
+      internalID: -435282779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164fa02566a7a1b4da564b262057f160
+      internalID: -316397000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e1e8d7effbf534ea40437fd3ed1fcd
+      internalID: 586599373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_15
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601132d04a49a904daf758f8cc3addc5
+      internalID: 806939215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_16
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a6d16eb070334e8b33756886bd636
+      internalID: -454455449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_17
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa1e2e40daa9ec4e8c48553e2097c6e
+      internalID: 2116150878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_18
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b524afbcfa8f46a22644b242d7dad
+      internalID: -1536300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_19
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 927
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da20bd9d0bafd14d9a053812faeb655
+      internalID: 128874511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff89a141307f24eb53c1081f51f21a
+      internalID: -834978879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f15c884b0f8b74aa2488dff9d0fe60
+      internalID: 602335653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_22
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981cf492eb22e3418dc5401dbe44f54
+      internalID: 587984099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_23
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb0005867cdcf409ea2a3f4f05b8c5
+      internalID: 507709436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_24
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b9345f9e3e4042b7bc5bfc4181995
+      internalID: 1867353988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_25
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00957e1c3997ca24faac707c40b6a965
+      internalID: -1948597636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_26
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 464
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c011285630161340ba496810030a72e
+      internalID: -1188118564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838899df1ac3c6c44b7773f83968b7e6
+      internalID: -1024404786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e5864a937318429c99521af183bc7
+      internalID: 462148595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf66730a25db9c469089ce116f8d71d
+      internalID: 428504985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_30
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74891b1523061d34dada4a16645c0270
+      internalID: -1588202594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Flag Out_31
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1
+        width: 651
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5742f16e02976047afa38a51cb137c3
+      internalID: 1529249166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f695587657556d4899f6e7135e807ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":5.0},"gridSpriteSize":{"x":651.0,"y":463.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Orange Flag Out_0: -906590334
+      Orange Flag Out_1: -1222953594
+      Orange Flag Out_10: 2118704111
+      Orange Flag Out_11: -1838349860
+      Orange Flag Out_12: -435282779
+      Orange Flag Out_13: -316397000
+      Orange Flag Out_14: 586599373
+      Orange Flag Out_15: 806939215
+      Orange Flag Out_16: -454455449
+      Orange Flag Out_17: 2116150878
+      Orange Flag Out_18: -1536300340
+      Orange Flag Out_19: 128874511
+      Orange Flag Out_2: -1430014653
+      Orange Flag Out_20: -834978879
+      Orange Flag Out_21: 602335653
+      Orange Flag Out_22: 587984099
+      Orange Flag Out_23: 507709436
+      Orange Flag Out_24: 1867353988
+      Orange Flag Out_25: -1948597636
+      Orange Flag Out_26: -1188118564
+      Orange Flag Out_27: -1024404786
+      Orange Flag Out_28: 462148595
+      Orange Flag Out_29: 428504985
+      Orange Flag Out_3: 97794923
+      Orange Flag Out_30: -1588202594
+      Orange Flag Out_31: 1529249166
+      Orange Flag Out_4: 1199072785
+      Orange Flag Out_5: 2105802656
+      Orange Flag Out_6: 522940053
+      Orange Flag Out_7: -1171621418
+      Orange Flag Out_8: 1632658821
+      Orange Flag Out_9: -1709159710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

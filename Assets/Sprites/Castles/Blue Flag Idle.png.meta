@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: d8d3ab93dc459484b9dea1b157171ffd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8546360750590833558
+    second: Blue Flag Idle_0
+  - first:
+      213: 5168054818783760959
+    second: Blue Flag Idle_1
+  - first:
+      213: -5657150208448004916
+    second: Blue Flag Idle_2
+  - first:
+      213: 7778716338420623133
+    second: Blue Flag Idle_3
+  - first:
+      213: 1082268648577913534
+    second: Blue Flag Idle_4
+  - first:
+      213: 850869914183350528
+    second: Blue Flag Idle_5
+  - first:
+      213: -2229784240695785180
+    second: Blue Flag Idle_6
+  - first:
+      213: -8874971767590931265
+    second: Blue Flag Idle_7
+  - first:
+      213: 4917446229276246646
+    second: Blue Flag Idle_8
+  - first:
+      213: 2330484408351119132
+    second: Blue Flag Idle_9
+  - first:
+      213: 4817622991094904035
+    second: Blue Flag Idle_10
+  - first:
+      213: 3634040547099548123
+    second: Blue Flag Idle_11
+  - first:
+      213: 7705005239750404380
+    second: Blue Flag Idle_12
+  - first:
+      213: -1951987080570622232
+    second: Blue Flag Idle_13
+  - first:
+      213: -6475726482112658770
+    second: Blue Flag Idle_14
+  - first:
+      213: -4587507570110911789
+    second: Blue Flag Idle_15
+  - first:
+      213: 8316559737401214300
+    second: Blue Flag Idle_16
+  - first:
+      213: -8549606046757968561
+    second: Blue Flag Idle_17
+  - first:
+      213: 2259884635858825457
+    second: Blue Flag Idle_18
+  - first:
+      213: -4412485761968304190
+    second: Blue Flag Idle_19
+  - first:
+      213: 4556975650085063897
+    second: Blue Flag Idle_20
+  - first:
+      213: 1600281994228255849
+    second: Blue Flag Idle_21
+  - first:
+      213: -4787965111414358926
+    second: Blue Flag Idle_22
+  - first:
+      213: 3362201921672275162
+    second: Blue Flag Idle_23
+  - first:
+      213: -7150031314161095226
+    second: Blue Flag Idle_24
+  - first:
+      213: 1554368762843867409
+    second: Blue Flag Idle_25
+  - first:
+      213: -3433343330739299521
+    second: Blue Flag Idle_26
+  - first:
+      213: -7960432373750416585
+    second: Blue Flag Idle_27
+  - first:
+      213: 3335088188386605330
+    second: Blue Flag Idle_28
+  - first:
+      213: -2958177869396462774
+    second: Blue Flag Idle_29
+  - first:
+      213: -3400676793104013063
+    second: Blue Flag Idle_30
+  - first:
+      213: -8959264640478436398
+    second: Blue Flag Idle_31
+  - first:
+      213: 3745424296476516030
+    second: Blue Flag Idle_32
+  - first:
+      213: -2423106669386254916
+    second: Blue Flag Idle_33
+  - first:
+      213: -2054239803369745001
+    second: Blue Flag Idle_34
+  - first:
+      213: -706185325411163293
+    second: Blue Flag Idle_35
+  - first:
+      213: 5447747732118713156
+    second: Blue Flag Idle_36
+  - first:
+      213: -8727133184389846314
+    second: Blue Flag Idle_37
+  - first:
+      213: -5996625678976621601
+    second: Blue Flag Idle_38
+  - first:
+      213: -770053031676123615
+    second: Blue Flag Idle_39
+  - first:
+      213: -1336751011145147356
+    second: Blue Flag Idle_40
+  - first:
+      213: -3987144665111637348
+    second: Blue Flag Idle_41
+  - first:
+      213: 7981922302845946660
+    second: Blue Flag Idle_42
+  - first:
+      213: 7085205257905888401
+    second: Blue Flag Idle_43
+  - first:
+      213: 2016357584390961578
+    second: Blue Flag Idle_44
+  - first:
+      213: 6982239638437954848
+    second: Blue Flag Idle_45
+  - first:
+      213: 4707213415346525272
+    second: Blue Flag Idle_46
+  - first:
+      213: 2359002637511222251
+    second: Blue Flag Idle_47
+  - first:
+      213: 710881324529651337
+    second: Blue Flag Idle_48
+  - first:
+      213: -1011102077921379485
+    second: Blue Flag Idle_49
+  - first:
+      213: 7279817256294396839
+    second: Blue Flag Idle_50
+  - first:
+      213: -8258164473217505359
+    second: Blue Flag Idle_51
+  - first:
+      213: -3748569786608519920
+    second: Blue Flag Idle_52
+  - first:
+      213: 25145248624564404
+    second: Blue Flag Idle_53
+  - first:
+      213: -1555078075502400075
+    second: Blue Flag Idle_54
+  - first:
+      213: 4973919733542099906
+    second: Blue Flag Idle_55
+  - first:
+      213: 5850927524804344487
+    second: Blue Flag Idle_56
+  - first:
+      213: -4819737868181067110
+    second: Blue Flag Idle_57
+  - first:
+      213: 1167462023802699719
+    second: Blue Flag Idle_58
+  - first:
+      213: -4178399070872362218
+    second: Blue Flag Idle_59
+  - first:
+      213: 6828770395037255758
+    second: Blue Flag Idle_60
+  - first:
+      213: 7474158604636763697
+    second: Blue Flag Idle_61
+  - first:
+      213: -2933648539309142092
+    second: Blue Flag Idle_62
+  - first:
+      213: 4670428560746154356
+    second: Blue Flag Idle_63
+  - first:
+      213: -2420203961278378065
+    second: Blue Flag Idle_64
+  - first:
+      213: 3867719894841236367
+    second: Blue Flag Idle_65
+  - first:
+      213: 2825815230179684174
+    second: Blue Flag Idle_66
+  - first:
+      213: 5595744169209607341
+    second: Blue Flag Idle_67
+  - first:
+      213: 7014787491487930771
+    second: Blue Flag Idle_68
+  - first:
+      213: 6961644783816706150
+    second: Blue Flag Idle_69
+  - first:
+      213: -2832923553929454673
+    second: Blue Flag Idle_70
+  - first:
+      213: 4159257686795264712
+    second: Blue Flag Idle_71
+  - first:
+      213: -5085028394694075288
+    second: Blue Flag Idle_72
+  - first:
+      213: 4290775741617865440
+    second: Blue Flag Idle_73
+  - first:
+      213: -7412946029037262761
+    second: Blue Flag Idle_74
+  - first:
+      213: -3628463650862878223
+    second: Blue Flag Idle_75
+  - first:
+      213: 3039917870077241323
+    second: Blue Flag Idle_76
+  - first:
+      213: 8788244536338310737
+    second: Blue Flag Idle_77
+  - first:
+      213: -8904633869561218933
+    second: Blue Flag Idle_78
+  - first:
+      213: -25478071994994932
+    second: Blue Flag Idle_79
+  - first:
+      213: 8186916705876165146
+    second: Blue Flag Idle_80
+  - first:
+      213: -972131836432722680
+    second: Blue Flag Idle_81
+  - first:
+      213: -4546399450362552787
+    second: Blue Flag Idle_82
+  - first:
+      213: -2679686036258250695
+    second: Blue Flag Idle_83
+  - first:
+      213: 6873053533181690908
+    second: Blue Flag Idle_84
+  - first:
+      213: 2610509452850926217
+    second: Blue Flag Idle_85
+  - first:
+      213: -6527757917062585245
+    second: Blue Flag Idle_86
+  - first:
+      213: 7056726853434172657
+    second: Blue Flag Idle_87
+  - first:
+      213: -8026296466066797584
+    second: Blue Flag Idle_88
+  - first:
+      213: 505821313795464722
+    second: Blue Flag Idle_89
+  - first:
+      213: 7401945908370538652
+    second: Blue Flag Idle_90
+  - first:
+      213: 4417508351139317134
+    second: Blue Flag Idle_91
+  - first:
+      213: 3079303908934868131
+    second: Blue Flag Idle_92
+  - first:
+      213: -2735755538212123509
+    second: Blue Flag Idle_93
+  - first:
+      213: 8757401076167800240
+    second: Blue Flag Idle_94
+  - first:
+      213: 4251876716961094811
+    second: Blue Flag Idle_95
+  - first:
+      213: -6204137965748175491
+    second: Blue Flag Idle_96
+  - first:
+      213: -1937529855595769722
+    second: Blue Flag Idle_97
+  - first:
+      213: 4279800883256158129
+    second: Blue Flag Idle_98
+  - first:
+      213: -6607720297726179116
+    second: Blue Flag Idle_99
+  - first:
+      213: 2044738686284799618
+    second: Blue Flag Idle_100
+  - first:
+      213: -8944303740106170975
+    second: Blue Flag Idle_101
+  - first:
+      213: 815865190714161694
+    second: Blue Flag Idle_102
+  - first:
+      213: -1584307132647794484
+    second: Blue Flag Idle_103
+  - first:
+      213: 5069306756101998109
+    second: Blue Flag Idle_104
+  - first:
+      213: -2720319751753929228
+    second: Blue Flag Idle_105
+  - first:
+      213: -830606066805340852
+    second: Blue Flag Idle_106
+  - first:
+      213: -7080040915384070369
+    second: Blue Flag Idle_107
+  - first:
+      213: 5301296197323876362
+    second: Blue Flag Idle_108
+  - first:
+      213: 7311381915608357259
+    second: Blue Flag Idle_109
+  - first:
+      213: -8082058191334149682
+    second: Blue Flag Idle_110
+  - first:
+      213: 1001507232112460891
+    second: Blue Flag Idle_111
+  - first:
+      213: 816124225391214979
+    second: Blue Flag Idle_112
+  - first:
+      213: -7132406436037276022
+    second: Blue Flag Idle_113
+  - first:
+      213: -1329099738241437383
+    second: Blue Flag Idle_114
+  - first:
+      213: 2988637633605911920
+    second: Blue Flag Idle_115
+  - first:
+      213: -1770986685992252615
+    second: Blue Flag Idle_116
+  - first:
+      213: 174890878581114997
+    second: Blue Flag Idle_117
+  - first:
+      213: 2823206823890362661
+    second: Blue Flag Idle_118
+  - first:
+      213: 3399726973696375360
+    second: Blue Flag Idle_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Flag Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c41ba8d2a356980800000000000000
+      internalID: -8546360750590833558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f321a55e97e98b740800000000000000
+      internalID: 5168054818783760959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccfd68bbd3cd71b0800000000000000
+      internalID: -5657150208448004916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a610eb4d83fb60800000000000000
+      internalID: 7778716338420623133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2570e0a9df40f00800000000000000
+      internalID: 1082268648577913534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_5
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00937f8cda5eecb00800000000000000
+      internalID: 850869914183350528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42940970c073e01e0800000000000000
+      internalID: -2229784240695785180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_7
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43f11f234c5d480800000000000000
+      internalID: -8874971767590931265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_8
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6724812ba474e3440800000000000000
+      internalID: 4917446229276246646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_9
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17da52d83b875020800000000000000
+      internalID: 2330484408351119132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_10
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e477f5e592abd240800000000000000
+      internalID: 4817622991094904035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91c35af94be6230800000000000000
+      internalID: 3634040547099548123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a8d3517dadea60800000000000000
+      internalID: 7705005239750404380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeaf60a71629e4e0800000000000000
+      internalID: -1951987080570622232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2c51b03199126a0800000000000000
+      internalID: -6475726482112658770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daaf1fab26e550c0800000000000000
+      internalID: -4587507570110911789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c558d15a40b5a6370800000000000000
+      internalID: 8316559737401214300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a5752992b95980800000000000000
+      internalID: -8549606046757968561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07ab95a19bc5f10800000000000000
+      internalID: 2259884635858825457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf096de393b3c2c0800000000000000
+      internalID: -4412485761968304190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_20
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dccc69b531ad3f30800000000000000
+      internalID: 4556975650085063897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_21
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ccd6ebef7553610800000000000000
+      internalID: 1600281994228255849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cfe21591bbd8db0800000000000000
+      internalID: -4787965111414358926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4696485d0f8ae20800000000000000
+      internalID: 3362201921672275162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd228af66cf5cc90800000000000000
+      internalID: -7150031314161095226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a547872a329510800000000000000
+      internalID: 1554368762843867409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bd35b6e605a50d0800000000000000
+      internalID: -3433343330739299521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_27
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3618aeecd68190800000000000000
+      internalID: -7960432373750416585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219726b890d984e20800000000000000
+      internalID: 3335088188386605330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43b330a6e072f6d0800000000000000
+      internalID: -2958177869396462774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_30
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8ee17697e5ec0d0800000000000000
+      internalID: -3400676793104013063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_31
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3a097174c4aa380800000000000000
+      internalID: -8959264640478436398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_32
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe9994bd8b6af330800000000000000
+      internalID: 3745424296476516030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53a5682556f5ed0800000000000000
+      internalID: -2423106669386254916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7959dac58cfdd73e0800000000000000
+      internalID: -2054239803369745001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363264520302336f0800000000000000
+      internalID: -706185325411163293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44330eee2b94a9b40800000000000000
+      internalID: 5447747732118713156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da6bec6b9ef2e680800000000000000
+      internalID: -8727133184389846314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3ec9967b4b7cca0800000000000000
+      internalID: -5996625678976621601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_39
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1266bbcf8d83055f0800000000000000
+      internalID: -770053031676123615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_40
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c9c8ba908e27de0800000000000000
+      internalID: -1336751011145147356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_41
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925de74d01daa8c0800000000000000
+      internalID: -3987144665111637348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_42
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b86ed5b0c75ce60800000000000000
+      internalID: 7981922302845946660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_43
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd53e94a4b35260800000000000000
+      internalID: 7085205257905888401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b9c53a8a8bfb10800000000000000
+      internalID: 2016357584390961578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_45
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250fb925f5e5e060800000000000000
+      internalID: 6982239638437954848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854deaf49a1635140800000000000000
+      internalID: 4707213415346525272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e019766cdcb020800000000000000
+      internalID: 2359002637511222251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_48
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e8c0a5cce8dd900800000000000000
+      internalID: 710881324529651337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_49
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b36d56408d7f1f0800000000000000
+      internalID: -1011102077921379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_50
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3bf27793b170560800000000000000
+      internalID: 7279817256294396839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_51
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ae1d4a2b156d80800000000000000
+      internalID: -8258164473217505359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_52
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015ff6dc3a76afbc0800000000000000
+      internalID: -3748569786608519920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_53
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85e0c6875595000800000000000000
+      internalID: 25145248624564404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_54
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd6eafbab04b6ae0800000000000000
+      internalID: -1555078075502400075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb151b05a9e60540800000000000000
+      internalID: 4973919733542099906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab482959ba23150800000000000000
+      internalID: 5850927524804344487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa198e1f9dc1db0800000000000000
+      internalID: -4819737868181067110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_58
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb4817688a33010800000000000000
+      internalID: 1167462023802699719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a4d2ee285306c0800000000000000
+      internalID: -4178399070872362218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_60
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4846e07e7aa4ce50800000000000000
+      internalID: 6828770395037255758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_61
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136bd40b6ab89b760800000000000000
+      internalID: 7474158604636763697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_62
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf82a652369947d0800000000000000
+      internalID: -2933648539309142092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_63
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790d10f702b0d040800000000000000
+      internalID: 4670428560746154356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_64
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf420ce155b96ed0800000000000000
+      internalID: -2420203961278378065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_65
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b19b690c6eca530800000000000000
+      internalID: 3867719894841236367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fafb3eaff473720800000000000000
+      internalID: 2825815230179684174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b3b3aca318ad40800000000000000
+      internalID: 5595744169209607341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_68
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399ddfcbe08895160800000000000000
+      internalID: 7014787491487930771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_69
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66888d7eb0bbc9060800000000000000
+      internalID: 6961644783816706150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_70
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9234890f6fa8d0800000000000000
+      internalID: -2832923553929454673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_71
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2aeb654d6a8b930800000000000000
+      internalID: 4159257686795264712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_72
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1c7ddd995e69b0800000000000000
+      internalID: -5085028394694075288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_73
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20ff1bdc5eb8b30800000000000000
+      internalID: 4290775741617865440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_74
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7586710bcdcef1990800000000000000
+      internalID: -7412946029037262761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_75
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1b6e1b88b15adc0800000000000000
+      internalID: -3628463650862878223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_76
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e0585235ff2a20800000000000000
+      internalID: 3039917870077241323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15666bbf7dd16f970800000000000000
+      internalID: 8788244536338310737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_78
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8834e5aca26c6480800000000000000
+      internalID: -8904633869561218933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_79
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2d2914db75aff0800000000000000
+      internalID: -25478071994994932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_80
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c57b2e55cd9170800000000000000
+      internalID: 8186916705876165146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_81
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805549ece3b4282f0800000000000000
+      internalID: -972131836432722680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_82
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2edb1aa9c1f7e0c0800000000000000
+      internalID: -4546399450362552787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_83
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930a0436fb7dfcad0800000000000000
+      internalID: -2679686036258250695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_84
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c98ff5cdf16f50800000000000000
+      internalID: 6873053533181690908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_85
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9829afb24846a3420800000000000000
+      internalID: 2610509452850926217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_86
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364adbd82ceb865a0800000000000000
+      internalID: -6527757917062585245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_87
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f467ef5fa78ee160800000000000000
+      internalID: 7056726853434172657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8d16a3eddc9090800000000000000
+      internalID: -8026296466066797584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_89
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e99901ec9050700800000000000000
+      internalID: 505821313795464722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_90
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c900513269ef8b660800000000000000
+      internalID: 7401945908370538652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_91
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e850bfdb0742e4d30800000000000000
+      internalID: 4417508351139317134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_92
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd88f1792ebba20800000000000000
+      internalID: 3079303908934868131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_93
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c0f8825d4a80ad0800000000000000
+      internalID: -2735755538212123509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_94
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5fa9c41e9888970800000000000000
+      internalID: 8757401076167800240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_95
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c583fb853b10b30800000000000000
+      internalID: 4251876716961094811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_96
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db01e146976e9a0800000000000000
+      internalID: -6204137965748175491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_97
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680108f9cd28c15e0800000000000000
+      internalID: -1937529855595769722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_98
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7e2eb5a38e46b30800000000000000
+      internalID: 4279800883256158129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d884eef569ac44a0800000000000000
+      internalID: -6607720297726179116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_100
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e118e600f506c10800000000000000
+      internalID: 2044738686284799618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_101
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad16c723237fd380800000000000000
+      internalID: -8944303740106170975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_102
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1abf1d7119825b00800000000000000
+      internalID: 815865190714161694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_103
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8196f8e09630ae0800000000000000
+      internalID: -1584307132647794484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_104
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1682f6e2abc95640800000000000000
+      internalID: 5069306756101998109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_105
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd6a31499b7f3ad0800000000000000
+      internalID: -2720319751753929228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_106
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4588c7de281974f0800000000000000
+      internalID: -830606066805340852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_107
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f0d439c44aebd90800000000000000
+      internalID: -7080040915384070369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_108
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a086e92ddccf19940800000000000000
+      internalID: 5301296197323876362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_109
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b891d096d1f377560800000000000000
+      internalID: 7311381915608357259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1fd7345e2c6df80800000000000000
+      internalID: -8082058191334149682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_111
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b544c0a758116ed00800000000000000
+      internalID: 1001507232112460891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c803b8a4735b00800000000000000
+      internalID: 816124225391214979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_113
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec942b22a940d90800000000000000
+      internalID: -7132406436037276022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_114
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931fd0774d61e8de0800000000000000
+      internalID: -1329099738241437383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_115
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c171e716c97920800000000000000
+      internalID: 2988637633605911920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_116
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4c7ffdf03c67e0800000000000000
+      internalID: -1770986685992252615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_117
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788844d3565d6200800000000000000
+      internalID: 174890878581114997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_118
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a179f5ab0e2720800000000000000
+      internalID: 2823206823890362661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Flag Idle_119
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7c788ba14e2f20800000000000000
+      internalID: 3399726973696375360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6daba9eedfd6f314e85a013c952cd3ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":11.0},"gridSpriteSize":{"x":651.0,"y":386.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Blue Flag Idle_0: -8546360750590833558
+      Blue Flag Idle_1: 5168054818783760959
+      Blue Flag Idle_10: 4817622991094904035
+      Blue Flag Idle_100: 2044738686284799618
+      Blue Flag Idle_101: -8944303740106170975
+      Blue Flag Idle_102: 815865190714161694
+      Blue Flag Idle_103: -1584307132647794484
+      Blue Flag Idle_104: 5069306756101998109
+      Blue Flag Idle_105: -2720319751753929228
+      Blue Flag Idle_106: -830606066805340852
+      Blue Flag Idle_107: -7080040915384070369
+      Blue Flag Idle_108: 5301296197323876362
+      Blue Flag Idle_109: 7311381915608357259
+      Blue Flag Idle_11: 3634040547099548123
+      Blue Flag Idle_110: -8082058191334149682
+      Blue Flag Idle_111: 1001507232112460891
+      Blue Flag Idle_112: 816124225391214979
+      Blue Flag Idle_113: -7132406436037276022
+      Blue Flag Idle_114: -1329099738241437383
+      Blue Flag Idle_115: 2988637633605911920
+      Blue Flag Idle_116: -1770986685992252615
+      Blue Flag Idle_117: 174890878581114997
+      Blue Flag Idle_118: 2823206823890362661
+      Blue Flag Idle_119: 3399726973696375360
+      Blue Flag Idle_12: 7705005239750404380
+      Blue Flag Idle_13: -1951987080570622232
+      Blue Flag Idle_14: -6475726482112658770
+      Blue Flag Idle_15: -4587507570110911789
+      Blue Flag Idle_16: 8316559737401214300
+      Blue Flag Idle_17: -8549606046757968561
+      Blue Flag Idle_18: 2259884635858825457
+      Blue Flag Idle_19: -4412485761968304190
+      Blue Flag Idle_2: -5657150208448004916
+      Blue Flag Idle_20: 4556975650085063897
+      Blue Flag Idle_21: 1600281994228255849
+      Blue Flag Idle_22: -4787965111414358926
+      Blue Flag Idle_23: 3362201921672275162
+      Blue Flag Idle_24: -7150031314161095226
+      Blue Flag Idle_25: 1554368762843867409
+      Blue Flag Idle_26: -3433343330739299521
+      Blue Flag Idle_27: -7960432373750416585
+      Blue Flag Idle_28: 3335088188386605330
+      Blue Flag Idle_29: -2958177869396462774
+      Blue Flag Idle_3: 7778716338420623133
+      Blue Flag Idle_30: -3400676793104013063
+      Blue Flag Idle_31: -8959264640478436398
+      Blue Flag Idle_32: 3745424296476516030
+      Blue Flag Idle_33: -2423106669386254916
+      Blue Flag Idle_34: -2054239803369745001
+      Blue Flag Idle_35: -706185325411163293
+      Blue Flag Idle_36: 5447747732118713156
+      Blue Flag Idle_37: -8727133184389846314
+      Blue Flag Idle_38: -5996625678976621601
+      Blue Flag Idle_39: -770053031676123615
+      Blue Flag Idle_4: 1082268648577913534
+      Blue Flag Idle_40: -1336751011145147356
+      Blue Flag Idle_41: -3987144665111637348
+      Blue Flag Idle_42: 7981922302845946660
+      Blue Flag Idle_43: 7085205257905888401
+      Blue Flag Idle_44: 2016357584390961578
+      Blue Flag Idle_45: 6982239638437954848
+      Blue Flag Idle_46: 4707213415346525272
+      Blue Flag Idle_47: 2359002637511222251
+      Blue Flag Idle_48: 710881324529651337
+      Blue Flag Idle_49: -1011102077921379485
+      Blue Flag Idle_5: 850869914183350528
+      Blue Flag Idle_50: 7279817256294396839
+      Blue Flag Idle_51: -8258164473217505359
+      Blue Flag Idle_52: -3748569786608519920
+      Blue Flag Idle_53: 25145248624564404
+      Blue Flag Idle_54: -1555078075502400075
+      Blue Flag Idle_55: 4973919733542099906
+      Blue Flag Idle_56: 5850927524804344487
+      Blue Flag Idle_57: -4819737868181067110
+      Blue Flag Idle_58: 1167462023802699719
+      Blue Flag Idle_59: -4178399070872362218
+      Blue Flag Idle_6: -2229784240695785180
+      Blue Flag Idle_60: 6828770395037255758
+      Blue Flag Idle_61: 7474158604636763697
+      Blue Flag Idle_62: -2933648539309142092
+      Blue Flag Idle_63: 4670428560746154356
+      Blue Flag Idle_64: -2420203961278378065
+      Blue Flag Idle_65: 3867719894841236367
+      Blue Flag Idle_66: 2825815230179684174
+      Blue Flag Idle_67: 5595744169209607341
+      Blue Flag Idle_68: 7014787491487930771
+      Blue Flag Idle_69: 6961644783816706150
+      Blue Flag Idle_7: -8874971767590931265
+      Blue Flag Idle_70: -2832923553929454673
+      Blue Flag Idle_71: 4159257686795264712
+      Blue Flag Idle_72: -5085028394694075288
+      Blue Flag Idle_73: 4290775741617865440
+      Blue Flag Idle_74: -7412946029037262761
+      Blue Flag Idle_75: -3628463650862878223
+      Blue Flag Idle_76: 3039917870077241323
+      Blue Flag Idle_77: 8788244536338310737
+      Blue Flag Idle_78: -8904633869561218933
+      Blue Flag Idle_79: -25478071994994932
+      Blue Flag Idle_8: 4917446229276246646
+      Blue Flag Idle_80: 8186916705876165146
+      Blue Flag Idle_81: -972131836432722680
+      Blue Flag Idle_82: -4546399450362552787
+      Blue Flag Idle_83: -2679686036258250695
+      Blue Flag Idle_84: 6873053533181690908
+      Blue Flag Idle_85: 2610509452850926217
+      Blue Flag Idle_86: -6527757917062585245
+      Blue Flag Idle_87: 7056726853434172657
+      Blue Flag Idle_88: -8026296466066797584
+      Blue Flag Idle_89: 505821313795464722
+      Blue Flag Idle_9: 2330484408351119132
+      Blue Flag Idle_90: 7401945908370538652
+      Blue Flag Idle_91: 4417508351139317134
+      Blue Flag Idle_92: 3079303908934868131
+      Blue Flag Idle_93: -2735755538212123509
+      Blue Flag Idle_94: 8757401076167800240
+      Blue Flag Idle_95: 4251876716961094811
+      Blue Flag Idle_96: -6204137965748175491
+      Blue Flag Idle_97: -1937529855595769722
+      Blue Flag Idle_98: 4279800883256158129
+      Blue Flag Idle_99: -6607720297726179116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

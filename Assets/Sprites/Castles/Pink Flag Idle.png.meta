@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: ce418917ff786cb43b8b204d5019c3f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4068236768028482827
+    second: Pink Flag Idle_0
+  - first:
+      213: 5251855143850540014
+    second: Pink Flag Idle_1
+  - first:
+      213: 8749108046957798633
+    second: Pink Flag Idle_2
+  - first:
+      213: -1908170227808018819
+    second: Pink Flag Idle_3
+  - first:
+      213: -5103000994954406167
+    second: Pink Flag Idle_4
+  - first:
+      213: 3725886324742222576
+    second: Pink Flag Idle_5
+  - first:
+      213: -2838489999594935367
+    second: Pink Flag Idle_6
+  - first:
+      213: 709849062593211217
+    second: Pink Flag Idle_7
+  - first:
+      213: -1547553907103368686
+    second: Pink Flag Idle_8
+  - first:
+      213: 41480729750643495
+    second: Pink Flag Idle_9
+  - first:
+      213: -7475610639126787846
+    second: Pink Flag Idle_10
+  - first:
+      213: 6227696302321646552
+    second: Pink Flag Idle_11
+  - first:
+      213: 8410540668513931442
+    second: Pink Flag Idle_12
+  - first:
+      213: -7962883672985264045
+    second: Pink Flag Idle_13
+  - first:
+      213: -893613984991312062
+    second: Pink Flag Idle_14
+  - first:
+      213: -1894545229212319962
+    second: Pink Flag Idle_15
+  - first:
+      213: -8617654333330197699
+    second: Pink Flag Idle_16
+  - first:
+      213: -9099070191482332728
+    second: Pink Flag Idle_17
+  - first:
+      213: -7953540725304910669
+    second: Pink Flag Idle_18
+  - first:
+      213: 7253897802224551167
+    second: Pink Flag Idle_19
+  - first:
+      213: 2781292014197174722
+    second: Pink Flag Idle_20
+  - first:
+      213: 8137034519971285843
+    second: Pink Flag Idle_21
+  - first:
+      213: -8289040223274822508
+    second: Pink Flag Idle_22
+  - first:
+      213: 3156832095509711756
+    second: Pink Flag Idle_23
+  - first:
+      213: -5693354350733432804
+    second: Pink Flag Idle_24
+  - first:
+      213: 2365633743676653178
+    second: Pink Flag Idle_25
+  - first:
+      213: 4963466636921960713
+    second: Pink Flag Idle_26
+  - first:
+      213: -1621334221464753966
+    second: Pink Flag Idle_27
+  - first:
+      213: -7787073084339352539
+    second: Pink Flag Idle_28
+  - first:
+      213: 7013339134950203727
+    second: Pink Flag Idle_29
+  - first:
+      213: -1572298195796968252
+    second: Pink Flag Idle_30
+  - first:
+      213: 7876312410443864254
+    second: Pink Flag Idle_31
+  - first:
+      213: -8545964325655410854
+    second: Pink Flag Idle_32
+  - first:
+      213: -46771404377950634
+    second: Pink Flag Idle_33
+  - first:
+      213: -4295059086418807860
+    second: Pink Flag Idle_34
+  - first:
+      213: 3811059192750142986
+    second: Pink Flag Idle_35
+  - first:
+      213: 6488264259407051464
+    second: Pink Flag Idle_36
+  - first:
+      213: -3765694841003068360
+    second: Pink Flag Idle_37
+  - first:
+      213: 6601910068065437453
+    second: Pink Flag Idle_38
+  - first:
+      213: 3513424668731837944
+    second: Pink Flag Idle_39
+  - first:
+      213: 1539954817186816114
+    second: Pink Flag Idle_40
+  - first:
+      213: -8068399435885546572
+    second: Pink Flag Idle_41
+  - first:
+      213: -709613626671144332
+    second: Pink Flag Idle_42
+  - first:
+      213: -1773869791152137404
+    second: Pink Flag Idle_43
+  - first:
+      213: -4181074233674701218
+    second: Pink Flag Idle_44
+  - first:
+      213: -1409485013766565295
+    second: Pink Flag Idle_45
+  - first:
+      213: -4344977613202613900
+    second: Pink Flag Idle_46
+  - first:
+      213: 3052577566387953100
+    second: Pink Flag Idle_47
+  - first:
+      213: -7137301718239062939
+    second: Pink Flag Idle_48
+  - first:
+      213: -7729508502542124239
+    second: Pink Flag Idle_49
+  - first:
+      213: -7663520828506537548
+    second: Pink Flag Idle_50
+  - first:
+      213: 278404505367747634
+    second: Pink Flag Idle_51
+  - first:
+      213: -6351695100021988576
+    second: Pink Flag Idle_52
+  - first:
+      213: -1232562402445380450
+    second: Pink Flag Idle_53
+  - first:
+      213: 1643384937196328896
+    second: Pink Flag Idle_54
+  - first:
+      213: 956539573631276046
+    second: Pink Flag Idle_55
+  - first:
+      213: -1148381229720455576
+    second: Pink Flag Idle_56
+  - first:
+      213: 7616265051263492819
+    second: Pink Flag Idle_57
+  - first:
+      213: -6047864203277852429
+    second: Pink Flag Idle_58
+  - first:
+      213: 8375852859378806091
+    second: Pink Flag Idle_59
+  - first:
+      213: -3388378703245454632
+    second: Pink Flag Idle_60
+  - first:
+      213: 1747678407422304457
+    second: Pink Flag Idle_61
+  - first:
+      213: -2199905088227379830
+    second: Pink Flag Idle_62
+  - first:
+      213: -5220686236167575185
+    second: Pink Flag Idle_63
+  - first:
+      213: -8098920353387488715
+    second: Pink Flag Idle_64
+  - first:
+      213: 7244339951091367370
+    second: Pink Flag Idle_65
+  - first:
+      213: -300854185649092609
+    second: Pink Flag Idle_66
+  - first:
+      213: -2545346882179554054
+    second: Pink Flag Idle_67
+  - first:
+      213: -1997237516782297095
+    second: Pink Flag Idle_68
+  - first:
+      213: 3997306084439901321
+    second: Pink Flag Idle_69
+  - first:
+      213: 119144937616566144
+    second: Pink Flag Idle_70
+  - first:
+      213: 6318573007500803509
+    second: Pink Flag Idle_71
+  - first:
+      213: -5081524920019866307
+    second: Pink Flag Idle_72
+  - first:
+      213: 7936153648180658712
+    second: Pink Flag Idle_73
+  - first:
+      213: -6488722705448675422
+    second: Pink Flag Idle_74
+  - first:
+      213: 3775515378751053502
+    second: Pink Flag Idle_75
+  - first:
+      213: 70838256262492397
+    second: Pink Flag Idle_76
+  - first:
+      213: -7607951248474886133
+    second: Pink Flag Idle_77
+  - first:
+      213: 8489420064652617738
+    second: Pink Flag Idle_78
+  - first:
+      213: -3899594308000361376
+    second: Pink Flag Idle_79
+  - first:
+      213: -2301098472887659141
+    second: Pink Flag Idle_80
+  - first:
+      213: -1457064898499118289
+    second: Pink Flag Idle_81
+  - first:
+      213: -4445856637214655823
+    second: Pink Flag Idle_82
+  - first:
+      213: 3711129902168062395
+    second: Pink Flag Idle_83
+  - first:
+      213: -8739918602780700766
+    second: Pink Flag Idle_84
+  - first:
+      213: -2456673182225142358
+    second: Pink Flag Idle_85
+  - first:
+      213: -8939978995808396934
+    second: Pink Flag Idle_86
+  - first:
+      213: -5690531727219967016
+    second: Pink Flag Idle_87
+  - first:
+      213: 6715674870375944138
+    second: Pink Flag Idle_88
+  - first:
+      213: -4632415214553826891
+    second: Pink Flag Idle_89
+  - first:
+      213: 4592976618977669661
+    second: Pink Flag Idle_90
+  - first:
+      213: -27365347936693129
+    second: Pink Flag Idle_91
+  - first:
+      213: 8123212611767346089
+    second: Pink Flag Idle_92
+  - first:
+      213: 7859865133105175411
+    second: Pink Flag Idle_93
+  - first:
+      213: -375689298742586337
+    second: Pink Flag Idle_94
+  - first:
+      213: -7877630959607157194
+    second: Pink Flag Idle_95
+  - first:
+      213: 5946322890885385389
+    second: Pink Flag Idle_96
+  - first:
+      213: -7041361041395348678
+    second: Pink Flag Idle_97
+  - first:
+      213: 3999399776898645117
+    second: Pink Flag Idle_98
+  - first:
+      213: 1032541924870599848
+    second: Pink Flag Idle_99
+  - first:
+      213: 1907952458476284366
+    second: Pink Flag Idle_100
+  - first:
+      213: -1190080627861638097
+    second: Pink Flag Idle_101
+  - first:
+      213: 1711565559155541697
+    second: Pink Flag Idle_102
+  - first:
+      213: 6047163773809896798
+    second: Pink Flag Idle_103
+  - first:
+      213: -6962659332811757421
+    second: Pink Flag Idle_104
+  - first:
+      213: -6389866648253407590
+    second: Pink Flag Idle_105
+  - first:
+      213: 7450527848557916468
+    second: Pink Flag Idle_106
+  - first:
+      213: -8067587849684143223
+    second: Pink Flag Idle_107
+  - first:
+      213: 970728462070729816
+    second: Pink Flag Idle_108
+  - first:
+      213: -8706171700522832714
+    second: Pink Flag Idle_109
+  - first:
+      213: -4070308285158234151
+    second: Pink Flag Idle_110
+  - first:
+      213: -7961372574836550021
+    second: Pink Flag Idle_111
+  - first:
+      213: -7282127709449628095
+    second: Pink Flag Idle_112
+  - first:
+      213: -6389688122075840587
+    second: Pink Flag Idle_113
+  - first:
+      213: 1615015250451816333
+    second: Pink Flag Idle_114
+  - first:
+      213: 2442853848373617647
+    second: Pink Flag Idle_115
+  - first:
+      213: -4951161489264206348
+    second: Pink Flag Idle_116
+  - first:
+      213: 4462090035715104493
+    second: Pink Flag Idle_117
+  - first:
+      213: 4823797804090290329
+    second: Pink Flag Idle_118
+  - first:
+      213: 7595531122543533462
+    second: Pink Flag Idle_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink Flag Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d558c39c7457830800000000000000
+      internalID: 4068236768028482827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf4058d6652e840800000000000000
+      internalID: 5251855143850540014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46e68f9631b6970800000000000000
+      internalID: 8749108046957798633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed688a941d485e0800000000000000
+      internalID: -1908170227808018819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61747c1af7e29b0800000000000000
+      internalID: -5103000994954406167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_5
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2febb2fd105b330800000000000000
+      internalID: 3725886324742222576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb25a36268ab98d0800000000000000
+      internalID: -2838489999594935367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_7
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b230426f3e9d900800000000000000
+      internalID: 709849062593211217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_8
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21af558bbebf58ae0800000000000000
+      internalID: -1547553907103368686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_9
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723afc1018e539000800000000000000
+      internalID: 41480729750643495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_10
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3860
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af887bf2bbb414890800000000000000
+      internalID: -7475610639126787846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db35ec8ac83d6650800000000000000
+      internalID: 6227696302321646552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0dfb35d2e38b470800000000000000
+      internalID: 8410540668513931442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a4f31d772e7190800000000000000
+      internalID: -7962883672985264045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478542b0de3993f0800000000000000
+      internalID: -893613984991312062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f73e9d62935b5e0800000000000000
+      internalID: -1894545229212319962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d337fb8ca01f76880800000000000000
+      internalID: -8617654333330197699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9995aaedb99b180800000000000000
+      internalID: -9099070191482332728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc199999d85f9190800000000000000
+      internalID: -7953540725304910669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4c49a4e950ba460800000000000000
+      internalID: 7253897802224551167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_20
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c17adad952299620800000000000000
+      internalID: 2781292014197174722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_21
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3474
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bcaf7b8cd8ce070800000000000000
+      internalID: 8137034519971285843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49497ca85d967fc80800000000000000
+      internalID: -8289040223274822508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b8864b0125fcb20800000000000000
+      internalID: 3156832095509711756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18eb18f1642df0b0800000000000000
+      internalID: -5693354350733432804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e36803b5b64d020800000000000000
+      internalID: 2365633743676653178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9097c34db96c1e440800000000000000
+      internalID: 4963466636921960713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_27
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a863ad1ddf79e0800000000000000
+      internalID: -1621334221464753966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c82f79942cee390800000000000000
+      internalID: -7787073084339352539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f416d04f8c2645160800000000000000
+      internalID: 7013339134950203727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_30
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccb88e0f131e2ae0800000000000000
+      internalID: -1572298195796968252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_31
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d18428684e4d60800000000000000
+      internalID: 7876312410443864254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_32
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3088
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57062a69b2a66980800000000000000
+      internalID: -8545964325655410854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656f760d7a5d95ff0800000000000000
+      internalID: -46771404377950634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc371b06482e464c0800000000000000
+      internalID: -4295059086418807860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06fbd9d42a93e430800000000000000
+      internalID: 3811059192750142986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caf1d6b7f1fa0a50800000000000000
+      internalID: 6488264259407051464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834bd7d5e709dbbc0800000000000000
+      internalID: -3765694841003068360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078d1e7a32be9b50800000000000000
+      internalID: 6601910068065437453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_39
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd0bdc0f1132c030800000000000000
+      internalID: 3513424668731837944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_40
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27062984fb40f5510800000000000000
+      internalID: 1539954817186816114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_41
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b374161679470090800000000000000
+      internalID: -8068399435885546572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_42
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4726d7e8a22f626f0800000000000000
+      internalID: -709613626671144332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_43
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2702
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b9494c2d2f167e0800000000000000
+      internalID: -1773869791152137404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e7420327d9f5c0800000000000000
+      internalID: -4181074233674701218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_45
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152153609d0807ce0800000000000000
+      internalID: -1409485013766565295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799808a1e983b3c0800000000000000
+      internalID: -4344977613202613900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd51e59f1fec5a20800000000000000
+      internalID: 3052577566387953100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_48
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564539df6e533fc90800000000000000
+      internalID: -7137301718239062939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_49
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b7d9938f44bb490800000000000000
+      internalID: -7729508502542124239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_50
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18f08d864b5a590800000000000000
+      internalID: -7663520828506537548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_51
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c105e2c671dd300800000000000000
+      internalID: 278404505367747634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_52
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023a99195fe3ad7a0800000000000000
+      internalID: -6351695100021988576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_53
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94bdbe760f05eee0800000000000000
+      internalID: -1232562402445380450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_54
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2316
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c790d2b4e97ec610800000000000000
+      internalID: 1643384937196328896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0455eb9caf464d00800000000000000
+      internalID: 956539573631276046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86639cf1b512010f0800000000000000
+      internalID: -1148381229720455576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d268cf16b862b960800000000000000
+      internalID: 7616265051263492819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_58
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a2d1dc8ba11ca0800000000000000
+      internalID: -6047864203277852429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4da6366cc10d3470800000000000000
+      internalID: 8375852859378806091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_60
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25e84958f0af0d0800000000000000
+      internalID: -3388378703245454632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_61
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0e6008040014810800000000000000
+      internalID: 1747678407422304457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_62
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f1a45afd5871e0800000000000000
+      internalID: -2199905088227379830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_63
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e57157856c87b0800000000000000
+      internalID: -5220686236167575185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_64
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a582839dada9f80800000000000000
+      internalID: -8098920353387488715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_65
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1930
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb8f8adc0198460800000000000000
+      internalID: 7244339951091367370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7423f46b623dbf0800000000000000
+      internalID: -300854185649092609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42a891f7c1dacd0800000000000000
+      internalID: -2545346882179554054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_68
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff9b107f036844e0800000000000000
+      internalID: -1997237516782297095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_69
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9844c8584b8497730800000000000000
+      internalID: 3997306084439901321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_70
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087eb6380b947a100800000000000000
+      internalID: 119144937616566144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_71
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdf47f4ca410b750800000000000000
+      internalID: 6318573007500803509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_72
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dabe0220cca79b0800000000000000
+      internalID: -5081524920019866307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_73
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8128aba02b1e22e60800000000000000
+      internalID: 7936153648180658712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_74
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a758bff31d63f5a0800000000000000
+      internalID: -6488722705448675422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_75
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe1b72cb33556430800000000000000
+      internalID: 3775515378751053502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_76
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1544
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0b80dc40babf000800000000000000
+      internalID: 70838256262492397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003a2ee5a02b6690800000000000000
+      internalID: -7607951248474886133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_78
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0861b6e19a70d570800000000000000
+      internalID: 8489420064652617738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_79
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064d08743abd1e9c0800000000000000
+      internalID: -3899594308000361376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_80
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b755652712bd010e0800000000000000
+      internalID: -2301098472887659141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_81
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf446d13777cbe0800000000000000
+      internalID: -1457064898499118289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_82
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf18091f42d42c0800000000000000
+      internalID: -4445856637214655823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_83
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9be0ecbf4908330800000000000000
+      internalID: 3711129902168062395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_84
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af8d6b365295b680800000000000000
+      internalID: -8739918602780700766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_85
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaded3cb1c428edd0800000000000000
+      internalID: -2456673182225142358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_86
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7913672870dee380800000000000000
+      internalID: -8939978995808396934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_87
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1158
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbb6f73b8b2701b0800000000000000
+      internalID: -5690531727219967016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf86c3a6bed23d50800000000000000
+      internalID: 6715674870375944138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_89
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9776ce7ea56bfb0800000000000000
+      internalID: -4632415214553826891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_90
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12b6db76e78dbf30800000000000000
+      internalID: 4592976618977669661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_91
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774141d6c57ce9ff0800000000000000
+      internalID: -27365347936693129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_92
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3ad5fe4d27bb070800000000000000
+      internalID: 8123212611767346089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_93
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b5639f1b9d31d60800000000000000
+      internalID: 7859865133105175411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_94
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f145882c29849caf0800000000000000
+      internalID: -375689298742586337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_95
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eeef431680da290800000000000000
+      internalID: -7877630959607157194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_96
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac4ffe0a25958250800000000000000
+      internalID: 5946322890885385389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_97
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b0b58807f084e90800000000000000
+      internalID: -7041361041395348678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_98
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 772
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf1d848e8b08730800000000000000
+      internalID: 3999399776898645117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a43c97f863545e00800000000000000
+      internalID: 1032541924870599848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_100
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9efc7f6a86a7a10800000000000000
+      internalID: 1907952458476284366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_101
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bb3a69fbfb7fe0800000000000000
+      internalID: -1190080627861638097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_102
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6424bcec3b0c710800000000000000
+      internalID: 1711565559155541697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_103
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dac8cb967dbe350800000000000000
+      internalID: 6047163773809896798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_104
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39862bff93aaf5f90800000000000000
+      internalID: -6962659332811757421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_105
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e5dbc6322a257a0800000000000000
+      internalID: -6389866648253407590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_106
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431337a8a97956760800000000000000
+      internalID: 7450527848557916468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_107
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b159389b2a0090800000000000000
+      internalID: -8067587849684143223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_108
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c4613a468b87d00800000000000000
+      internalID: 970728462070729816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_109
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 386
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc27c437f67d2780800000000000000
+      internalID: -8706171700522832714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d760d81e2c5387c0800000000000000
+      internalID: -4070308285158234151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_111
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76945803d5838190800000000000000
+      internalID: -7961372574836550021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_112
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d93d3e6fa0fa90800000000000000
+      internalID: -7282127709449628095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_113
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff22ac1844357a0800000000000000
+      internalID: -6389688122075840587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_114
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fd40640dfa96610800000000000000
+      internalID: 1615015250451816333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_115
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3618ed1a2c6e120800000000000000
+      internalID: 2442853848373617647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_116
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd10de9bd0f94bb0800000000000000
+      internalID: -4951161489264206348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_117
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deedb9e0f378ced30800000000000000
+      internalID: 4462090035715104493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_118
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9907c159b8291f240800000000000000
+      internalID: 4823797804090290329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Flag Idle_119
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 0
+        width: 651
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d91a7205fb86960800000000000000
+      internalID: 7595531122543533462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49e471ec6aacf9248aeee6dfd94344e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":11.0},"gridSpriteSize":{"x":651.0,"y":386.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pink Flag Idle_0: 4068236768028482827
+      Pink Flag Idle_1: 5251855143850540014
+      Pink Flag Idle_10: -7475610639126787846
+      Pink Flag Idle_100: 1907952458476284366
+      Pink Flag Idle_101: -1190080627861638097
+      Pink Flag Idle_102: 1711565559155541697
+      Pink Flag Idle_103: 6047163773809896798
+      Pink Flag Idle_104: -6962659332811757421
+      Pink Flag Idle_105: -6389866648253407590
+      Pink Flag Idle_106: 7450527848557916468
+      Pink Flag Idle_107: -8067587849684143223
+      Pink Flag Idle_108: 970728462070729816
+      Pink Flag Idle_109: -8706171700522832714
+      Pink Flag Idle_11: 6227696302321646552
+      Pink Flag Idle_110: -4070308285158234151
+      Pink Flag Idle_111: -7961372574836550021
+      Pink Flag Idle_112: -7282127709449628095
+      Pink Flag Idle_113: -6389688122075840587
+      Pink Flag Idle_114: 1615015250451816333
+      Pink Flag Idle_115: 2442853848373617647
+      Pink Flag Idle_116: -4951161489264206348
+      Pink Flag Idle_117: 4462090035715104493
+      Pink Flag Idle_118: 4823797804090290329
+      Pink Flag Idle_119: 7595531122543533462
+      Pink Flag Idle_12: 8410540668513931442
+      Pink Flag Idle_13: -7962883672985264045
+      Pink Flag Idle_14: -893613984991312062
+      Pink Flag Idle_15: -1894545229212319962
+      Pink Flag Idle_16: -8617654333330197699
+      Pink Flag Idle_17: -9099070191482332728
+      Pink Flag Idle_18: -7953540725304910669
+      Pink Flag Idle_19: 7253897802224551167
+      Pink Flag Idle_2: 8749108046957798633
+      Pink Flag Idle_20: 2781292014197174722
+      Pink Flag Idle_21: 8137034519971285843
+      Pink Flag Idle_22: -8289040223274822508
+      Pink Flag Idle_23: 3156832095509711756
+      Pink Flag Idle_24: -5693354350733432804
+      Pink Flag Idle_25: 2365633743676653178
+      Pink Flag Idle_26: 4963466636921960713
+      Pink Flag Idle_27: -1621334221464753966
+      Pink Flag Idle_28: -7787073084339352539
+      Pink Flag Idle_29: 7013339134950203727
+      Pink Flag Idle_3: -1908170227808018819
+      Pink Flag Idle_30: -1572298195796968252
+      Pink Flag Idle_31: 7876312410443864254
+      Pink Flag Idle_32: -8545964325655410854
+      Pink Flag Idle_33: -46771404377950634
+      Pink Flag Idle_34: -4295059086418807860
+      Pink Flag Idle_35: 3811059192750142986
+      Pink Flag Idle_36: 6488264259407051464
+      Pink Flag Idle_37: -3765694841003068360
+      Pink Flag Idle_38: 6601910068065437453
+      Pink Flag Idle_39: 3513424668731837944
+      Pink Flag Idle_4: -5103000994954406167
+      Pink Flag Idle_40: 1539954817186816114
+      Pink Flag Idle_41: -8068399435885546572
+      Pink Flag Idle_42: -709613626671144332
+      Pink Flag Idle_43: -1773869791152137404
+      Pink Flag Idle_44: -4181074233674701218
+      Pink Flag Idle_45: -1409485013766565295
+      Pink Flag Idle_46: -4344977613202613900
+      Pink Flag Idle_47: 3052577566387953100
+      Pink Flag Idle_48: -7137301718239062939
+      Pink Flag Idle_49: -7729508502542124239
+      Pink Flag Idle_5: 3725886324742222576
+      Pink Flag Idle_50: -7663520828506537548
+      Pink Flag Idle_51: 278404505367747634
+      Pink Flag Idle_52: -6351695100021988576
+      Pink Flag Idle_53: -1232562402445380450
+      Pink Flag Idle_54: 1643384937196328896
+      Pink Flag Idle_55: 956539573631276046
+      Pink Flag Idle_56: -1148381229720455576
+      Pink Flag Idle_57: 7616265051263492819
+      Pink Flag Idle_58: -6047864203277852429
+      Pink Flag Idle_59: 8375852859378806091
+      Pink Flag Idle_6: -2838489999594935367
+      Pink Flag Idle_60: -3388378703245454632
+      Pink Flag Idle_61: 1747678407422304457
+      Pink Flag Idle_62: -2199905088227379830
+      Pink Flag Idle_63: -5220686236167575185
+      Pink Flag Idle_64: -8098920353387488715
+      Pink Flag Idle_65: 7244339951091367370
+      Pink Flag Idle_66: -300854185649092609
+      Pink Flag Idle_67: -2545346882179554054
+      Pink Flag Idle_68: -1997237516782297095
+      Pink Flag Idle_69: 3997306084439901321
+      Pink Flag Idle_7: 709849062593211217
+      Pink Flag Idle_70: 119144937616566144
+      Pink Flag Idle_71: 6318573007500803509
+      Pink Flag Idle_72: -5081524920019866307
+      Pink Flag Idle_73: 7936153648180658712
+      Pink Flag Idle_74: -6488722705448675422
+      Pink Flag Idle_75: 3775515378751053502
+      Pink Flag Idle_76: 70838256262492397
+      Pink Flag Idle_77: -7607951248474886133
+      Pink Flag Idle_78: 8489420064652617738
+      Pink Flag Idle_79: -3899594308000361376
+      Pink Flag Idle_8: -1547553907103368686
+      Pink Flag Idle_80: -2301098472887659141
+      Pink Flag Idle_81: -1457064898499118289
+      Pink Flag Idle_82: -4445856637214655823
+      Pink Flag Idle_83: 3711129902168062395
+      Pink Flag Idle_84: -8739918602780700766
+      Pink Flag Idle_85: -2456673182225142358
+      Pink Flag Idle_86: -8939978995808396934
+      Pink Flag Idle_87: -5690531727219967016
+      Pink Flag Idle_88: 6715674870375944138
+      Pink Flag Idle_89: -4632415214553826891
+      Pink Flag Idle_9: 41480729750643495
+      Pink Flag Idle_90: 4592976618977669661
+      Pink Flag Idle_91: -27365347936693129
+      Pink Flag Idle_92: 8123212611767346089
+      Pink Flag Idle_93: 7859865133105175411
+      Pink Flag Idle_94: -375689298742586337
+      Pink Flag Idle_95: -7877630959607157194
+      Pink Flag Idle_96: 5946322890885385389
+      Pink Flag Idle_97: -7041361041395348678
+      Pink Flag Idle_98: 3999399776898645117
+      Pink Flag Idle_99: 1032541924870599848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

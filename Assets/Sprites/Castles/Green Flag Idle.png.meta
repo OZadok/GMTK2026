@@ -1,367 +1,367 @@
 fileFormatVersion: 2
-guid: 2df618050052ae249b6b47be8f777922
+guid: 83b5439ba2f033c4c8b8ba1ff2eeca71
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1550276408070712228
-    second: flag idle_0
+      213: -534185207116101122
+    second: Green Flag Idle_0
   - first:
-      213: -2642632256404817438
-    second: flag idle_1
+      213: 6089882361993155744
+    second: Green Flag Idle_1
   - first:
-      213: 2178177952323202263
-    second: flag idle_2
+      213: -3801769848347906858
+    second: Green Flag Idle_2
   - first:
-      213: -8523287002955616644
-    second: flag idle_3
+      213: 4705697978480272789
+    second: Green Flag Idle_3
   - first:
-      213: 470883730135666382
-    second: flag idle_4
+      213: -8894827959758622556
+    second: Green Flag Idle_4
   - first:
-      213: -1335112723062259637
-    second: flag idle_5
+      213: -6434358924687174215
+    second: Green Flag Idle_5
   - first:
-      213: 871722620847899098
-    second: flag idle_6
+      213: -8000587090282152511
+    second: Green Flag Idle_6
   - first:
-      213: 5389923774383426386
-    second: flag idle_7
+      213: 792564057992105500
+    second: Green Flag Idle_7
   - first:
-      213: -3341413148477661865
-    second: flag idle_8
+      213: 3902486045718506336
+    second: Green Flag Idle_8
   - first:
-      213: -3317675954597662201
-    second: flag idle_9
+      213: 8705621049221901287
+    second: Green Flag Idle_9
   - first:
-      213: 2575641645132473001
-    second: flag idle_10
+      213: 57436911116386447
+    second: Green Flag Idle_10
   - first:
-      213: 3748126217034547887
-    second: flag idle_11
+      213: -5895218092254820559
+    second: Green Flag Idle_11
   - first:
-      213: -6515529039174714083
-    second: flag idle_12
+      213: 8905913549278881183
+    second: Green Flag Idle_12
   - first:
-      213: -1811956797393562608
-    second: flag idle_13
+      213: 4415424597160137371
+    second: Green Flag Idle_13
   - first:
-      213: 4982537033324993537
-    second: flag idle_14
+      213: 5440744379551087725
+    second: Green Flag Idle_14
   - first:
-      213: 6581489701708724055
-    second: flag idle_15
+      213: -6787948700718873582
+    second: Green Flag Idle_15
   - first:
-      213: 2447213478329108088
-    second: flag idle_16
+      213: -8011157925655556137
+    second: Green Flag Idle_16
   - first:
-      213: 7731978167934056636
-    second: flag idle_17
+      213: 6193870499759189889
+    second: Green Flag Idle_17
   - first:
-      213: -5895536454365041901
-    second: flag idle_18
+      213: 3977393846992830795
+    second: Green Flag Idle_18
   - first:
-      213: -348139655166171217
-    second: flag idle_19
+      213: 1720422336558165361
+    second: Green Flag Idle_19
   - first:
-      213: 3561106576487772646
-    second: flag idle_20
+      213: 1041463749334633662
+    second: Green Flag Idle_20
   - first:
-      213: -2352875263967692097
-    second: flag idle_21
+      213: -5893084927433222800
+    second: Green Flag Idle_21
   - first:
-      213: -8312811099225697300
-    second: flag idle_22
+      213: 5447678152753694321
+    second: Green Flag Idle_22
   - first:
-      213: 3601472805194055451
-    second: flag idle_23
+      213: 7082395128527638270
+    second: Green Flag Idle_23
   - first:
-      213: 6406613247681842700
-    second: flag idle_24
+      213: 5406445369359451104
+    second: Green Flag Idle_24
   - first:
-      213: 1449617676059174614
-    second: flag idle_25
+      213: -8224333008638443467
+    second: Green Flag Idle_25
   - first:
-      213: -9146295776558969362
-    second: flag idle_26
+      213: -5508341262420075423
+    second: Green Flag Idle_26
   - first:
-      213: 5396794611577601817
-    second: flag idle_27
+      213: 4163785150483025321
+    second: Green Flag Idle_27
   - first:
-      213: -1854984240552240939
-    second: flag idle_28
+      213: -2102301682274702251
+    second: Green Flag Idle_28
   - first:
-      213: 1475874324505636940
-    second: flag idle_29
+      213: 3971973356072892964
+    second: Green Flag Idle_29
   - first:
-      213: -7832638005270956264
-    second: flag idle_30
+      213: -1779297769798878061
+    second: Green Flag Idle_30
   - first:
-      213: 1512943054328884226
-    second: flag idle_31
+      213: -1348946992289020046
+    second: Green Flag Idle_31
   - first:
-      213: 4259197003471810656
-    second: flag idle_32
+      213: -7455376342852238732
+    second: Green Flag Idle_32
   - first:
-      213: -4806178047049816736
-    second: flag idle_33
+      213: -3498591044773311725
+    second: Green Flag Idle_33
   - first:
-      213: 522281740613385668
-    second: flag idle_34
+      213: 97095642395289299
+    second: Green Flag Idle_34
   - first:
-      213: -1550446334606257661
-    second: flag idle_35
+      213: 3301722586823051635
+    second: Green Flag Idle_35
   - first:
-      213: 1089753295514279323
-    second: flag idle_36
+      213: -1850931096346835667
+    second: Green Flag Idle_36
   - first:
-      213: 8113593619879262650
-    second: flag idle_37
+      213: 8212612091026439389
+    second: Green Flag Idle_37
   - first:
-      213: 119866782404302268
-    second: flag idle_38
+      213: 5006124198263453526
+    second: Green Flag Idle_38
   - first:
-      213: -8782253760267795683
-    second: flag idle_39
+      213: 8903519773355773701
+    second: Green Flag Idle_39
   - first:
-      213: 4021697696718845117
-    second: flag idle_40
+      213: 6717422574973355688
+    second: Green Flag Idle_40
   - first:
-      213: -3062258564598018772
-    second: flag idle_41
+      213: 2974398493311855187
+    second: Green Flag Idle_41
   - first:
-      213: 4425224472690734394
-    second: flag idle_42
+      213: -1261990583251723780
+    second: Green Flag Idle_42
   - first:
-      213: -7574041971721408625
-    second: flag idle_43
+      213: 92578480682674480
+    second: Green Flag Idle_43
   - first:
-      213: 1448357176960328218
-    second: flag idle_44
+      213: 7505588964573079371
+    second: Green Flag Idle_44
   - first:
-      213: 1712966452476715571
-    second: flag idle_45
+      213: -8810164878948094179
+    second: Green Flag Idle_45
   - first:
-      213: 72077581573036157
-    second: flag idle_46
+      213: -3015616191352809376
+    second: Green Flag Idle_46
   - first:
-      213: 9108005509365874827
-    second: flag idle_47
+      213: 5712106551215556655
+    second: Green Flag Idle_47
   - first:
-      213: 7953999249524397307
-    second: flag idle_48
+      213: 6350363405137148355
+    second: Green Flag Idle_48
   - first:
-      213: -2360989297032576877
-    second: flag idle_49
+      213: 2812917613193235601
+    second: Green Flag Idle_49
   - first:
-      213: -7668063342206803017
-    second: flag idle_50
+      213: 1801769822863837130
+    second: Green Flag Idle_50
   - first:
-      213: 4713442721957674795
-    second: flag idle_51
+      213: -6993707887191271902
+    second: Green Flag Idle_51
   - first:
-      213: -7096159869010113160
-    second: flag idle_52
+      213: -1531360542973167459
+    second: Green Flag Idle_52
   - first:
-      213: -4625848103352843374
-    second: flag idle_53
+      213: 8895565380935083706
+    second: Green Flag Idle_53
   - first:
-      213: 8560162238569745666
-    second: flag idle_54
+      213: 5554710745962867711
+    second: Green Flag Idle_54
   - first:
-      213: 1666906216435803043
-    second: flag idle_55
+      213: 7148483833489335462
+    second: Green Flag Idle_55
   - first:
-      213: 5812570500075318932
-    second: flag idle_56
+      213: -2564265253562548222
+    second: Green Flag Idle_56
   - first:
-      213: -3547068670513651235
-    second: flag idle_57
+      213: 3172755526554003113
+    second: Green Flag Idle_57
   - first:
-      213: -4242662891296649309
-    second: flag idle_58
+      213: -6285382154725191780
+    second: Green Flag Idle_58
   - first:
-      213: 2121791867448498980
-    second: flag idle_59
+      213: 6043538424137935151
+    second: Green Flag Idle_59
   - first:
-      213: -6969430756991239612
-    second: flag idle_60
+      213: -3281969754700968524
+    second: Green Flag Idle_60
   - first:
-      213: 1072294356595566552
-    second: flag idle_61
+      213: -5951650634974327631
+    second: Green Flag Idle_61
   - first:
-      213: 4145042689119778592
-    second: flag idle_62
+      213: -6431213844537256192
+    second: Green Flag Idle_62
   - first:
-      213: 6948336585698884601
-    second: flag idle_63
+      213: 7375927425930038007
+    second: Green Flag Idle_63
   - first:
-      213: -9115192010431007422
-    second: flag idle_64
+      213: -9144663026292807336
+    second: Green Flag Idle_64
   - first:
-      213: -8846073781667696392
-    second: flag idle_65
+      213: -855651042571483179
+    second: Green Flag Idle_65
   - first:
-      213: -7559122619210625435
-    second: flag idle_66
+      213: -5613900014821379992
+    second: Green Flag Idle_66
   - first:
-      213: -4075175699089539326
-    second: flag idle_67
+      213: 1581266471260947135
+    second: Green Flag Idle_67
   - first:
-      213: 5716274063377725749
-    second: flag idle_68
+      213: 5430619933355309324
+    second: Green Flag Idle_68
   - first:
-      213: 8180163821849807795
-    second: flag idle_69
+      213: -888156628537980322
+    second: Green Flag Idle_69
   - first:
-      213: 1789009974944168186
-    second: flag idle_70
+      213: -5635080235976548329
+    second: Green Flag Idle_70
   - first:
-      213: 6968773126215015914
-    second: flag idle_71
+      213: 2205679179665952905
+    second: Green Flag Idle_71
   - first:
-      213: 4893969277475532955
-    second: flag idle_72
+      213: -5638445251703870040
+    second: Green Flag Idle_72
   - first:
-      213: 5053380582034459680
-    second: flag idle_73
+      213: -6577567758373532074
+    second: Green Flag Idle_73
   - first:
-      213: 5447543168231013497
-    second: flag idle_74
+      213: -2314203206984959056
+    second: Green Flag Idle_74
   - first:
-      213: 6164082287166930226
-    second: flag idle_75
+      213: -8665888452088449903
+    second: Green Flag Idle_75
   - first:
-      213: 981646855952732833
-    second: flag idle_76
+      213: 7900923273997359540
+    second: Green Flag Idle_76
   - first:
-      213: 1612063261313972182
-    second: flag idle_77
+      213: -4162547609670605003
+    second: Green Flag Idle_77
   - first:
-      213: -6914336217594334347
-    second: flag idle_78
+      213: 8351152640768753241
+    second: Green Flag Idle_78
   - first:
-      213: 5117736740999161670
-    second: flag idle_79
+      213: -5036734401475327398
+    second: Green Flag Idle_79
   - first:
-      213: -2137917219400064556
-    second: flag idle_80
+      213: -2382939414411097600
+    second: Green Flag Idle_80
   - first:
-      213: -8915845808264644977
-    second: flag idle_81
+      213: -3335394468233278409
+    second: Green Flag Idle_81
   - first:
-      213: -453769720789798587
-    second: flag idle_82
+      213: -4492859823215053323
+    second: Green Flag Idle_82
   - first:
-      213: -8446669003589425726
-    second: flag idle_83
+      213: -7047546109504243153
+    second: Green Flag Idle_83
   - first:
-      213: -1631993888411818515
-    second: flag idle_84
+      213: 3460279465932511691
+    second: Green Flag Idle_84
   - first:
-      213: 7158514225920137495
-    second: flag idle_85
+      213: -163794361039820935
+    second: Green Flag Idle_85
   - first:
-      213: 7963493237076508976
-    second: flag idle_86
+      213: 5904065985403812595
+    second: Green Flag Idle_86
   - first:
-      213: 6165246454216839387
-    second: flag idle_87
+      213: 4946249100607139364
+    second: Green Flag Idle_87
   - first:
-      213: 5477775242952205460
-    second: flag idle_88
+      213: -7536826449525462708
+    second: Green Flag Idle_88
   - first:
-      213: 3460998338342470172
-    second: flag idle_89
+      213: -5649682235724087079
+    second: Green Flag Idle_89
   - first:
-      213: 7947562212891551025
-    second: flag idle_90
+      213: -2017935242121347462
+    second: Green Flag Idle_90
   - first:
-      213: -5783172915101663805
-    second: flag idle_91
+      213: -921511039038442017
+    second: Green Flag Idle_91
   - first:
-      213: -4155163790590890256
-    second: flag idle_92
+      213: -4930711420396278529
+    second: Green Flag Idle_92
   - first:
-      213: -6865302977858369695
-    second: flag idle_93
+      213: 4059262006182106163
+    second: Green Flag Idle_93
   - first:
-      213: 8005193147259446641
-    second: flag idle_94
+      213: -2198202791308297742
+    second: Green Flag Idle_94
   - first:
-      213: -589650274309112538
-    second: flag idle_95
+      213: 3500445571354299580
+    second: Green Flag Idle_95
   - first:
-      213: 132562185642130220
-    second: flag idle_96
+      213: 6781725967552801385
+    second: Green Flag Idle_96
   - first:
-      213: 4894209278582862711
-    second: flag idle_97
+      213: 6421296875413504122
+    second: Green Flag Idle_97
   - first:
-      213: 1209847712241685691
-    second: flag idle_98
+      213: 8599682595730880143
+    second: Green Flag Idle_98
   - first:
-      213: -3146358516302695964
-    second: flag idle_99
+      213: -7164764710554696571
+    second: Green Flag Idle_99
   - first:
-      213: -6955963674142152261
-    second: flag idle_100
+      213: 5391868305152266297
+    second: Green Flag Idle_100
   - first:
-      213: -2826401815094452389
-    second: flag idle_101
+      213: 4808167055271232302
+    second: Green Flag Idle_101
   - first:
-      213: 7133903175927381761
-    second: flag idle_102
+      213: 3469446704128447683
+    second: Green Flag Idle_102
   - first:
-      213: 8341706220304731064
-    second: flag idle_103
+      213: 7785224923998889152
+    second: Green Flag Idle_103
   - first:
-      213: -3910683866336758172
-    second: flag idle_104
+      213: 5132232251551188162
+    second: Green Flag Idle_104
   - first:
-      213: -1423116550844512012
-    second: flag idle_105
+      213: -5694335427563163970
+    second: Green Flag Idle_105
   - first:
-      213: 5077576347299672943
-    second: flag idle_106
+      213: -5399750948766392772
+    second: Green Flag Idle_106
   - first:
-      213: -1533718655703305273
-    second: flag idle_107
+      213: 2012152920293647309
+    second: Green Flag Idle_107
   - first:
-      213: 5385709769204596620
-    second: flag idle_108
+      213: 6819898711053311738
+    second: Green Flag Idle_108
   - first:
-      213: -8774513826577848176
-    second: flag idle_109
+      213: 8249302096107132361
+    second: Green Flag Idle_109
   - first:
-      213: 1133905020639609754
-    second: flag idle_110
+      213: -4149874341794782435
+    second: Green Flag Idle_110
   - first:
-      213: -5110592013955782833
-    second: flag idle_111
+      213: -4235914180661263002
+    second: Green Flag Idle_111
   - first:
-      213: 8015739978213232952
-    second: flag idle_112
+      213: -4017900932234594492
+    second: Green Flag Idle_112
   - first:
-      213: 8009343422037248202
-    second: flag idle_113
+      213: 6435901962683493770
+    second: Green Flag Idle_113
   - first:
-      213: 6597465747669385637
-    second: flag idle_114
+      213: 4603506838079314684
+    second: Green Flag Idle_114
   - first:
-      213: -3845432108671594420
-    second: flag idle_115
+      213: -1020493284990573672
+    second: Green Flag Idle_115
   - first:
-      213: 6238591112263100894
-    second: flag idle_116
+      213: 1526511179851350706
+    second: Green Flag Idle_116
   - first:
-      213: 4139092584501510557
-    second: flag idle_117
+      213: 6616248358010809298
+    second: Green Flag Idle_117
   - first:
-      213: 4011000007473098082
-    second: flag idle_118
+      213: -6983563396844469688
+    second: Green Flag Idle_118
   - first:
-      213: -4313297591501106249
-    second: flag idle_119
+      213: 6849483661984567546
+    second: Green Flag Idle_119
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -408,7 +408,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -457,7 +457,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Flag idle loop_0
+      name: Green Flag Idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -470,16 +470,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 793b701bc2d597845a1fbbdcc2331e93
-      internalID: -270373558
+      spriteID: ef9839562613698f0800000000000000
+      internalID: -534185207116101122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_1
+      name: Green Flag Idle_1
       rect:
         serializedVersion: 2
         x: 651
@@ -492,16 +492,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5a471a9e2c097de48a82ac801c6e7db5
-      internalID: -433801886
+      spriteID: 0a4d48e1ebb938450800000000000000
+      internalID: 6089882361993155744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_2
+      name: Green Flag Idle_2
       rect:
         serializedVersion: 2
         x: 1302
@@ -514,16 +514,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e4a8a69953443e44389121be58e90850
-      internalID: 1826771985
+      spriteID: 6dcae6f27766d3bc0800000000000000
+      internalID: -3801769848347906858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_3
+      name: Green Flag Idle_3
       rect:
         serializedVersion: 2
         x: 1953
@@ -536,16 +536,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 867474d3dc8177d4c917686fa230b447
-      internalID: 2017595027
+      spriteID: 595279b216ffd4140800000000000000
+      internalID: 4705697978480272789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_4
+      name: Green Flag Idle_4
       rect:
         serializedVersion: 2
         x: 2604
@@ -558,16 +558,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 54e796b7344a1b64b8c0e12f3ea7a204
-      internalID: 1907530238
+      spriteID: 4a0ff50f8193f8480800000000000000
+      internalID: -8894827959758622556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_5
+      name: Green Flag Idle_5
       rect:
         serializedVersion: 2
         x: 3255
@@ -580,16 +580,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 55c0308d8400ea04094431294d3f2cdb
-      internalID: 496651653
+      spriteID: 9b518a016a094b6a0800000000000000
+      internalID: -6434358924687174215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_6
+      name: Green Flag Idle_6
       rect:
         serializedVersion: 2
         x: 3906
@@ -602,16 +602,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f33be88f3720d6b45b115aa044cbe35a
-      internalID: 865749813
+      spriteID: 1cdf7292e6438f090800000000000000
+      internalID: -8000587090282152511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_7
+      name: Green Flag Idle_7
       rect:
         serializedVersion: 2
         x: 4557
@@ -624,16 +624,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7a0bede6c32f29a47a4895f590feed65
-      internalID: -345071099
+      spriteID: c1e8c52cfc0cffa00800000000000000
+      internalID: 792564057992105500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_8
+      name: Green Flag Idle_8
       rect:
         serializedVersion: 2
         x: 5208
@@ -646,16 +646,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c2025b00280a1e647b290f4d7a14f2db
-      internalID: -757677062
+      spriteID: 06b68ffd16a682630800000000000000
+      internalID: 3902486045718506336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_9
+      name: Green Flag Idle_9
       rect:
         serializedVersion: 2
         x: 5859
@@ -668,16 +668,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6b0ce4e00e2c9f7478bc0a31e9132632
-      internalID: 452950995
+      spriteID: 7ebe80c483490d870800000000000000
+      internalID: 8705621049221901287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_10
+      name: Green Flag Idle_10
       rect:
         serializedVersion: 2
         x: 6510
@@ -690,16 +690,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 13fbc17dcf86ba449b89055051b83a36
-      internalID: 733028529
+      spriteID: f80861cf09e0cc000800000000000000
+      internalID: 57436911116386447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_11
+      name: Green Flag Idle_11
       rect:
         serializedVersion: 2
         x: 0
@@ -712,16 +712,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6cd1bee2980c67d4192d2bc367ce4613
-      internalID: 2033229876
+      spriteID: 13702b9116aff2ea0800000000000000
+      internalID: -5895218092254820559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_12
+      name: Green Flag Idle_12
       rect:
         serializedVersion: 2
         x: 651
@@ -734,16 +734,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 13bc5697ea8e14b4da9176d4f7f27def
-      internalID: -1046122451
+      spriteID: f952b110039289b70800000000000000
+      internalID: 8905913549278881183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_13
+      name: Green Flag Idle_13
       rect:
         serializedVersion: 2
         x: 1302
@@ -756,16 +756,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3e7e86c92c84c164aa84009aebf5d5af
-      internalID: 2136587537
+      spriteID: b929046f64db64d30800000000000000
+      internalID: 4415424597160137371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_14
+      name: Green Flag Idle_14
       rect:
         serializedVersion: 2
         x: 1953
@@ -778,16 +778,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6062471adccc4d04ca8657935d97b4b7
-      internalID: -990910374
+      spriteID: d6c78d8df28618b40800000000000000
+      internalID: 5440744379551087725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_15
+      name: Green Flag Idle_15
       rect:
         serializedVersion: 2
         x: 2604
@@ -800,16 +800,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 774e835b8ce5f1a45b44372f6479bd5d
-      internalID: 1779205996
+      spriteID: 214c31cee9c5cc1a0800000000000000
+      internalID: -6787948700718873582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_16
+      name: Green Flag Idle_16
       rect:
         serializedVersion: 2
         x: 3255
@@ -822,16 +822,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: baf4c3a5fe6ba6f45984ba50949e67b3
-      internalID: 1181930392
+      spriteID: 7dfceb1cf46a2d090800000000000000
+      internalID: -8011157925655556137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_17
+      name: Green Flag Idle_17
       rect:
         serializedVersion: 2
         x: 3906
@@ -844,16 +844,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 88d7449532e75554faf3a005d871176e
-      internalID: -1434538131
+      spriteID: 18feaea276c05f550800000000000000
+      internalID: 6193870499759189889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_18
+      name: Green Flag Idle_18
       rect:
         serializedVersion: 2
         x: 4557
@@ -866,16 +866,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4660f0b466ef8347b239afb8509f503
-      internalID: 46808827
+      spriteID: b4105d571aa823730800000000000000
+      internalID: 3977393846992830795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_19
+      name: Green Flag Idle_19
       rect:
         serializedVersion: 2
         x: 5208
@@ -888,16 +888,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f9de2763346aec241887f36a019f75d6
-      internalID: -209865651
+      spriteID: 17d623afffa20e710800000000000000
+      internalID: 1720422336558165361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_20
+      name: Green Flag Idle_20
       rect:
         serializedVersion: 2
         x: 5859
@@ -910,16 +910,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 43969649deca7234aac530f85c13cf87
-      internalID: -888579754
+      spriteID: ebc898913c5047e00800000000000000
+      internalID: 1041463749334633662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_21
+      name: Green Flag Idle_21
       rect:
         serializedVersion: 2
         x: 6510
@@ -932,16 +932,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 01b0d6225c7556c43b61d4511e9dda32
-      internalID: -1441686693
+      spriteID: 075522d3b7e873ea0800000000000000
+      internalID: -5893084927433222800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_22
+      name: Green Flag Idle_22
       rect:
         serializedVersion: 2
         x: 0
@@ -954,16 +954,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fbe2dbe9756b8e441a09a8907dd6df13
-      internalID: -1051483546
+      spriteID: 1764a89ba6a0a9b40800000000000000
+      internalID: 5447678152753694321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_23
+      name: Green Flag Idle_23
       rect:
         serializedVersion: 2
         x: 651
@@ -976,16 +976,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: afb74d096bc94b849b449fcacb403153
-      internalID: 1964590613
+      spriteID: efec8d268d8b94260800000000000000
+      internalID: 7082395128527638270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_24
+      name: Green Flag Idle_24
       rect:
         serializedVersion: 2
         x: 1302
@@ -998,16 +998,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 38fb95edda9a6ad4693d8698b755c605
-      internalID: 2096012031
+      spriteID: 0e3c93a3b6d870b40800000000000000
+      internalID: 5406445369359451104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_25
+      name: Green Flag Idle_25
       rect:
         serializedVersion: 2
         x: 1953
@@ -1020,16 +1020,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 062784e6b4b6e9142981067ddb72d2c7
-      internalID: -398002012
+      spriteID: 5300699f3bc4ddd80800000000000000
+      internalID: -8224333008638443467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_26
+      name: Green Flag Idle_26
       rect:
         serializedVersion: 2
         x: 2604
@@ -1042,16 +1042,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 98839eda21e48c943b6bcba93c0845d4
-      internalID: 1111945131
+      spriteID: 16c13d76ec07e83b0800000000000000
+      internalID: -5508341262420075423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_27
+      name: Green Flag Idle_27
       rect:
         serializedVersion: 2
         x: 3255
@@ -1064,16 +1064,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 70f249d9a6e2f0343967ef17e2affc2e
-      internalID: 1152339512
+      spriteID: 9ad469f988cb8c930800000000000000
+      internalID: 4163785150483025321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_28
+      name: Green Flag Idle_28
       rect:
         serializedVersion: 2
         x: 3906
@@ -1086,16 +1086,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6a718bd3a65211749bf286dfaa0ee489
-      internalID: -528810493
+      spriteID: 55c6f4922cf13d2e0800000000000000
+      internalID: -2102301682274702251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_29
+      name: Green Flag Idle_29
       rect:
         serializedVersion: 2
         x: 4557
@@ -1108,16 +1108,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0565e985105854a4a8c05c92cf4dc192
-      internalID: -1880133993
+      spriteID: 42a7a0219b84f1730800000000000000
+      internalID: 3971973356072892964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_30
+      name: Green Flag Idle_30
       rect:
         serializedVersion: 2
         x: 5208
@@ -1130,16 +1130,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0ce8bca99c944a54b8caec7ed38b6aab
-      internalID: -1679776165
+      spriteID: 39c3e710b1aae47e0800000000000000
+      internalID: -1779297769798878061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_31
+      name: Green Flag Idle_31
       rect:
         serializedVersion: 2
         x: 5859
@@ -1152,16 +1152,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d5752648c05b994479b3d5cd17ef1724
-      internalID: 787097119
+      spriteID: 27708c78bd3974de0800000000000000
+      internalID: -1348946992289020046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_32
+      name: Green Flag Idle_32
       rect:
         serializedVersion: 2
         x: 6510
@@ -1174,16 +1174,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d43da5b9bca38724681e35723efcc22c
-      internalID: -258283921
+      spriteID: 472017967be298890800000000000000
+      internalID: -7455376342852238732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_33
+      name: Green Flag Idle_33
       rect:
         serializedVersion: 2
         x: 0
@@ -1196,16 +1196,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6010f2d327772c74580137cd2a25ae21
-      internalID: 1200501975
+      spriteID: 31b8ce92bf1827fc0800000000000000
+      internalID: -3498591044773311725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_34
+      name: Green Flag Idle_34
       rect:
         serializedVersion: 2
         x: 651
@@ -1218,16 +1218,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 76722f486dbc4034c834a351eff2ef6e
-      internalID: -309190465
+      spriteID: 3d6a53ae8f3f85100800000000000000
+      internalID: 97095642395289299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_35
+      name: Green Flag Idle_35
       rect:
         serializedVersion: 2
         x: 1302
@@ -1240,16 +1240,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fd0fc03edfc7afb4fa289699b3bb8f26
-      internalID: 1011044126
+      spriteID: 379c87e033312dd20800000000000000
+      internalID: 3301722586823051635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_36
+      name: Green Flag Idle_36
       rect:
         serializedVersion: 2
         x: 1953
@@ -1262,16 +1262,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 92ec6d27b65b4fe4bac18bce187183f0
-      internalID: 80060392
+      spriteID: d25c58a79fb2056e0800000000000000
+      internalID: -1850931096346835667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_37
+      name: Green Flag Idle_37
       rect:
         serializedVersion: 2
         x: 2604
@@ -1284,16 +1284,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7eda8d8eca07eed42afdb813536b01d6
-      internalID: -991791040
+      spriteID: ddc75bb3f2f09f170800000000000000
+      internalID: 8212612091026439389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_38
+      name: Green Flag Idle_38
       rect:
         serializedVersion: 2
         x: 3255
@@ -1306,16 +1306,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7fbef6e85f308c24c944b398efc8f8f0
-      internalID: 1992267724
+      spriteID: 657fafa4f63597540800000000000000
+      internalID: 5006124198263453526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_39
+      name: Green Flag Idle_39
       rect:
         serializedVersion: 2
         x: 3906
@@ -1328,16 +1328,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 194ca6199be1d1d40b0d5d9e485b3a2c
-      internalID: 1695126224
+      spriteID: 50f898d9f08af8b70800000000000000
+      internalID: 8903519773355773701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_40
+      name: Green Flag Idle_40
       rect:
         serializedVersion: 2
         x: 4557
@@ -1350,16 +1350,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: acfaa759f25dd2947bd0445fb8707dee
-      internalID: -401647059
+      spriteID: 8a60a73dd34193d50800000000000000
+      internalID: 6717422574973355688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_41
+      name: Green Flag Idle_41
       rect:
         serializedVersion: 2
         x: 5208
@@ -1372,16 +1372,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5b5fd40a6e68ccc4c96448cbada2c14d
-      internalID: -354954927
+      spriteID: 35a6f4eabaf274920800000000000000
+      internalID: 2974398493311855187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_42
+      name: Green Flag Idle_42
       rect:
         serializedVersion: 2
         x: 5859
@@ -1394,16 +1394,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fdf703845df071d47b4ee05954a8ed7d
-      internalID: 489426016
+      spriteID: cf9946730428c7ee0800000000000000
+      internalID: -1261990583251723780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_43
+      name: Green Flag Idle_43
       rect:
         serializedVersion: 2
         x: 6510
@@ -1416,16 +1416,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d6052563a579a5c42a609ac893f2db76
-      internalID: -1375101016
+      spriteID: 039afee33a7e84100800000000000000
+      internalID: 92578480682674480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_44
+      name: Green Flag Idle_44
       rect:
         serializedVersion: 2
         x: 0
@@ -1438,16 +1438,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5eaf042eaba5c934b9697d54e06fb730
-      internalID: 355772154
+      spriteID: b47687f9565392860800000000000000
+      internalID: 7505588964573079371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_45
+      name: Green Flag Idle_45
       rect:
         serializedVersion: 2
         x: 651
@@ -1460,16 +1460,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b9eeb66cf1a7fab4c9e277b316cf1287
-      internalID: 649567821
+      spriteID: d1f2da988b10cb580800000000000000
+      internalID: -8810164878948094179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_46
+      name: Green Flag Idle_46
       rect:
         serializedVersion: 2
         x: 1302
@@ -1482,16 +1482,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7e8f44f8c4d0fa2409bf3673ef0dbebb
-      internalID: 1192746273
+      spriteID: 068df772d016626d0800000000000000
+      internalID: -3015616191352809376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_47
+      name: Green Flag Idle_47
       rect:
         serializedVersion: 2
         x: 1953
@@ -1504,16 +1504,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c0493ed6bbf45a44ab12ff0705b64f71
-      internalID: 444260381
+      spriteID: f288260f4aa754f40800000000000000
+      internalID: 5712106551215556655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_48
+      name: Green Flag Idle_48
       rect:
         serializedVersion: 2
         x: 2604
@@ -1526,16 +1526,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7bb3651da96b67140ae6ba578ad0a774
-      internalID: -1759067087
+      spriteID: 3c9f6dd0fd5012850800000000000000
+      internalID: 6350363405137148355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_49
+      name: Green Flag Idle_49
       rect:
         serializedVersion: 2
         x: 3255
@@ -1548,16 +1548,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: dc0bf036a2af85549883781c66bea142
-      internalID: 120714608
+      spriteID: 19c82dc6aad790720800000000000000
+      internalID: 2812917613193235601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_50
+      name: Green Flag Idle_50
       rect:
         serializedVersion: 2
         x: 3906
@@ -1570,16 +1570,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a5fd4bb2710b49f4db35f5257ba7c3f2
-      internalID: 1317350267
+      spriteID: ac741d29b1c210910800000000000000
+      internalID: 1801769822863837130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_51
+      name: Green Flag Idle_51
       rect:
         serializedVersion: 2
         x: 4557
@@ -1592,16 +1592,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: aa7bddaaf5751834f8fb214f467865d0
-      internalID: -2112631110
+      spriteID: 226dd191bbb51fe90800000000000000
+      internalID: -6993707887191271902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_52
+      name: Green Flag Idle_52
       rect:
         serializedVersion: 2
         x: 5208
@@ -1614,16 +1614,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5e4513286d3a4ef4e9186de85c604eb8
-      internalID: -271353900
+      spriteID: d98f80d13b38fbae0800000000000000
+      internalID: -1531360542973167459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_53
+      name: Green Flag Idle_53
       rect:
         serializedVersion: 2
         x: 5859
@@ -1636,16 +1636,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b15ea9cc68c8de946b6cc299f2442074
-      internalID: -1267753032
+      spriteID: ab6e5ee4595637b70800000000000000
+      internalID: 8895565380935083706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_54
+      name: Green Flag Idle_54
       rect:
         serializedVersion: 2
         x: 6510
@@ -1658,16 +1658,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f4aace483583ebd45ae08e4f87747336
-      internalID: -1589916343
+      spriteID: ffb692b4efb461d40800000000000000
+      internalID: 5554710745962867711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_55
+      name: Green Flag Idle_55
       rect:
         serializedVersion: 2
         x: 0
@@ -1680,16 +1680,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 04866744c2f41054083cb2f903f84df2
-      internalID: -809659908
+      spriteID: 6a421c91c24843360800000000000000
+      internalID: 7148483833489335462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_56
+      name: Green Flag Idle_56
       rect:
         serializedVersion: 2
         x: 651
@@ -1702,16 +1702,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a77f06c33a1f52c4f9f8d8c6e62d1d6e
-      internalID: -615089612
+      spriteID: 20007838656e96cd0800000000000000
+      internalID: -2564265253562548222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_57
+      name: Green Flag Idle_57
       rect:
         serializedVersion: 2
         x: 1302
@@ -1724,16 +1724,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ea2c17ad8a7b1014b9f4f2350267ab0f
-      internalID: -2132999559
+      spriteID: 9a6a8676754e70c20800000000000000
+      internalID: 3172755526554003113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_58
+      name: Green Flag Idle_58
       rect:
         serializedVersion: 2
         x: 1953
@@ -1746,16 +1746,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 829ca6683e0dad341991333ac7a14ab1
-      internalID: 511062426
+      spriteID: c9f860e4b36d5c8a0800000000000000
+      internalID: -6285382154725191780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_59
+      name: Green Flag Idle_59
       rect:
         serializedVersion: 2
         x: 2604
@@ -1768,16 +1768,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e74ceef9b46d02e45b05973a6bc10a01
-      internalID: 215492346
+      spriteID: f296a2d3d26fed350800000000000000
+      internalID: 6043538424137935151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_60
+      name: Green Flag Idle_60
       rect:
         serializedVersion: 2
         x: 3255
@@ -1790,16 +1790,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c9f5452c223df184b83188b96b420842
-      internalID: 1962084847
+      spriteID: 4bd097f85e91472d0800000000000000
+      internalID: -3281969754700968524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_61
+      name: Green Flag Idle_61
       rect:
         serializedVersion: 2
         x: 3906
@@ -1812,16 +1812,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5b2608850dcfe464f9ebc9fb8e6f1a04
-      internalID: -746809438
+      spriteID: 1bc802bd74d776da0800000000000000
+      internalID: -5951650634974327631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_62
+      name: Green Flag Idle_62
       rect:
         serializedVersion: 2
         x: 4557
@@ -1834,16 +1834,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bd67f7bcf28b33043b3c133aca96fc54
-      internalID: 1303886923
+      spriteID: 00758c9151dbfb6a0800000000000000
+      internalID: -6431213844537256192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_63
+      name: Green Flag Idle_63
       rect:
         serializedVersion: 2
         x: 5208
@@ -1856,16 +1856,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b3211c6ad0508f44aa66a775140e052d
-      internalID: -1853107551
+      spriteID: 7fa0f9f1aee8c5660800000000000000
+      internalID: 7375927425930038007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_64
+      name: Green Flag Idle_64
       rect:
         serializedVersion: 2
         x: 5859
@@ -1878,16 +1878,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6a607573d8071e342939b4b3b98dd564
-      internalID: 157204362
+      spriteID: 8592b279d61a71180800000000000000
+      internalID: -9144663026292807336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_65
+      name: Green Flag Idle_65
       rect:
         serializedVersion: 2
         x: 6510
@@ -1900,16 +1900,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6a46b35312a6c024292c304eedb08927
-      internalID: 1761506947
+      spriteID: 5d785d309ed1024f0800000000000000
+      internalID: -855651042571483179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_66
+      name: Green Flag Idle_66
       rect:
         serializedVersion: 2
         x: 0
@@ -1922,16 +1922,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b7fe20fe15d64154fa28c0f4c4ed3766
-      internalID: -354664535
+      spriteID: 860f2042eab6712b0800000000000000
+      internalID: -5613900014821379992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_67
+      name: Green Flag Idle_67
       rect:
         serializedVersion: 2
         x: 651
@@ -1944,16 +1944,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c6c339e41fc7180499ff8ac92c1d25f6
-      internalID: 141940146
+      spriteID: fb28eba4a79c1f510800000000000000
+      internalID: 1581266471260947135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_68
+      name: Green Flag Idle_68
       rect:
         serializedVersion: 2
         x: 1302
@@ -1966,16 +1966,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 33b24ea2fc5950940a7360e6b520bf1e
-      internalID: 1811089443
+      spriteID: c097cc58e007d5b40800000000000000
+      internalID: 5430619933355309324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_69
+      name: Green Flag Idle_69
       rect:
         serializedVersion: 2
         x: 1953
@@ -1988,16 +1988,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2fee1825d0448864caabda20c280a271
-      internalID: -1641125657
+      spriteID: e5ac5138042aca3f0800000000000000
+      internalID: -888156628537980322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_70
+      name: Green Flag Idle_70
       rect:
         serializedVersion: 2
         x: 2604
@@ -2010,16 +2010,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 528015eb04ab33d4195df215f892c492
-      internalID: -1340041469
+      spriteID: 7102bcd916c2cc1b0800000000000000
+      internalID: -5635080235976548329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_71
+      name: Green Flag Idle_71
       rect:
         serializedVersion: 2
         x: 3255
@@ -2032,16 +2032,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 13f81cebe3fb98a4aa70c4f4011354c3
-      internalID: 2111686905
+      spriteID: 980d67817852c9e10800000000000000
+      internalID: 2205679179665952905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_72
+      name: Green Flag Idle_72
       rect:
         serializedVersion: 2
         x: 3906
@@ -2054,16 +2054,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ede2a860462d7f44d86ecc8f1f537bd1
-      internalID: 1738061498
+      spriteID: 8ade3b6dae730c1b0800000000000000
+      internalID: -5638445251703870040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_73
+      name: Green Flag Idle_73
       rect:
         serializedVersion: 2
         x: 4557
@@ -2076,16 +2076,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3a9d33427bb447d41a5fc0bcc4d1dc3b
-      internalID: -68128495
+      spriteID: 65e451429f8c7b4a0800000000000000
+      internalID: -6577567758373532074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_74
+      name: Green Flag Idle_74
       rect:
         serializedVersion: 2
         x: 5208
@@ -2098,16 +2098,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d33dc3cbaeeb52d479ba8408795dcfbe
-      internalID: 1926479447
+      spriteID: 0bb7795c17c42efd0800000000000000
+      internalID: -2314203206984959056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_75
+      name: Green Flag Idle_75
       rect:
         serializedVersion: 2
         x: 5859
@@ -2120,16 +2120,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c32da86c75eb72e4d8881107bfeabcf8
-      internalID: -1309656431
+      spriteID: 194bb1edd549cb780800000000000000
+      internalID: -8665888452088449903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_76
+      name: Green Flag Idle_76
       rect:
         serializedVersion: 2
         x: 6510
@@ -2142,16 +2142,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f2d8c059e0e2f3d4282b1defabfd4871
-      internalID: 1556455093
+      spriteID: 4b99a385bd7b5ad60800000000000000
+      internalID: 7900923273997359540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_77
+      name: Green Flag Idle_77
       rect:
         serializedVersion: 2
         x: 0
@@ -2164,16 +2164,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8e325236fabb8f44698d2140718afa1d
-      internalID: 1450223070
+      spriteID: 537aeecc009ab36c0800000000000000
+      internalID: -4162547609670605003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_78
+      name: Green Flag Idle_78
       rect:
         serializedVersion: 2
         x: 651
@@ -2186,16 +2186,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b1a811e46d24a4a46b9fd8761f14f0a9
-      internalID: 1600325398
+      spriteID: 95e361a941145e370800000000000000
+      internalID: 8351152640768753241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_79
+      name: Green Flag Idle_79
       rect:
         serializedVersion: 2
         x: 1302
@@ -2208,16 +2208,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7df0bf653df9aac46aa853df042e006d
-      internalID: 1591773606
+      spriteID: a5ac2146fbce91ab0800000000000000
+      internalID: -5036734401475327398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_80
+      name: Green Flag Idle_80
       rect:
         serializedVersion: 2
         x: 1953
@@ -2230,16 +2230,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 44facddd989dcb046aeda77934f77235
-      internalID: 540432688
+      spriteID: 00acfba5a391eeed0800000000000000
+      internalID: -2382939414411097600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_81
+      name: Green Flag Idle_81
       rect:
         serializedVersion: 2
         x: 2604
@@ -2252,16 +2252,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 15621c1b2d801da40b5c05899b74239a
-      internalID: -2029976402
+      spriteID: 73c072f176c46b1d0800000000000000
+      internalID: -3335394468233278409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_82
+      name: Green Flag Idle_82
       rect:
         serializedVersion: 2
         x: 3255
@@ -2274,16 +2274,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0763e9c2cb8aacf4fb41ec971decdda4
-      internalID: -1908084330
+      spriteID: 5f574a38bc726a1c0800000000000000
+      internalID: -4492859823215053323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_83
+      name: Green Flag Idle_83
       rect:
         serializedVersion: 2
         x: 3906
@@ -2296,16 +2296,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4caba121323f58b4bbf71a75732acced
-      internalID: 330041511
+      spriteID: f2a30d42726123e90800000000000000
+      internalID: -7047546109504243153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_84
+      name: Green Flag Idle_84
       rect:
         serializedVersion: 2
         x: 4557
@@ -2318,16 +2318,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 407fd9f6c9386a14cac52b5bfba10163
-      internalID: 490527595
+      spriteID: bc95c7647d1650030800000000000000
+      internalID: 3460279465932511691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_85
+      name: Green Flag Idle_85
       rect:
         serializedVersion: 2
         x: 5208
@@ -2340,16 +2340,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2854cca47297cab4fa38d5cacbfff2d9
-      internalID: 1911894658
+      spriteID: 977620e75e51abdf0800000000000000
+      internalID: -163794361039820935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_86
+      name: Green Flag Idle_86
       rect:
         serializedVersion: 2
         x: 5859
@@ -2362,16 +2362,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f4efeacc31f30d147a6e253c4c54eb8f
-      internalID: -2053765425
+      spriteID: 3faf57e8bb47fe150800000000000000
+      internalID: 5904065985403812595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_87
+      name: Green Flag Idle_87
       rect:
         serializedVersion: 2
         x: 6510
@@ -2384,16 +2384,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 747dde2ba3503304d9d434b0a18b4c45
-      internalID: -544652566
+      spriteID: 42ea844c95b94a440800000000000000
+      internalID: 4946249100607139364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_88
+      name: Green Flag Idle_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2406,16 +2406,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: eeea58f97aba761458497fa0d8bc53b3
-      internalID: -1737713387
+      spriteID: c492446a640d76790800000000000000
+      internalID: -7536826449525462708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_89
+      name: Green Flag Idle_89
       rect:
         serializedVersion: 2
         x: 651
@@ -2428,16 +2428,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 754a1dfda320b6e4d9899c61ee5945c0
-      internalID: 467701614
+      spriteID: 9d0c4dd90fb4891b0800000000000000
+      internalID: -5649682235724087079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_90
+      name: Green Flag Idle_90
       rect:
         serializedVersion: 2
         x: 1302
@@ -2450,16 +2450,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b4d2f612507f4544d9a5629ce1ea87f8
-      internalID: 1470957389
+      spriteID: a7e7d99b69adef3e0800000000000000
+      internalID: -2017935242121347462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_91
+      name: Green Flag Idle_91
       rect:
         serializedVersion: 2
         x: 1953
@@ -2472,16 +2472,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ad34b6a1234e5dd42a5a2ebc36f1eef4
-      internalID: 127768953
+      spriteID: fd53385a7922633f0800000000000000
+      internalID: -921511039038442017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_92
+      name: Green Flag Idle_92
       rect:
         serializedVersion: 2
         x: 2604
@@ -2494,16 +2494,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7dbbead5f20ac0145b41285f1de5169a
-      internalID: -737659236
+      spriteID: ffc61515618929bb0800000000000000
+      internalID: -4930711420396278529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_93
+      name: Green Flag Idle_93
       rect:
         serializedVersion: 2
         x: 3255
@@ -2516,16 +2516,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4c2e5e5ea12d314d9feed082e92f3f4
-      internalID: -1822752759
+      spriteID: 33459b8a945655830800000000000000
+      internalID: 4059262006182106163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_94
+      name: Green Flag Idle_94
       rect:
         serializedVersion: 2
         x: 3906
@@ -2538,16 +2538,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ed828ba8ad266034c996301a288534b2
-      internalID: 55705394
+      spriteID: 2f9fbc7353a6e71e0800000000000000
+      internalID: -2198202791308297742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_95
+      name: Green Flag Idle_95
       rect:
         serializedVersion: 2
         x: 4557
@@ -2560,16 +2560,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: adbf43a7d22065e4b961a1f29858d928
-      internalID: -16338559
+      spriteID: cbc892473b4149030800000000000000
+      internalID: 3500445571354299580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_96
+      name: Green Flag Idle_96
       rect:
         serializedVersion: 2
         x: 5208
@@ -2582,16 +2582,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8ba57f3bd5d000a4698d45e651ab0371
-      internalID: -1048088066
+      spriteID: 96ae60c16d78d1e50800000000000000
+      internalID: 6781725967552801385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_97
+      name: Green Flag Idle_97
       rect:
         serializedVersion: 2
         x: 5859
@@ -2604,16 +2604,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 68a526e65aeb8c24b8b0be6b347b09fe
-      internalID: -1927199401
+      spriteID: a7009589c770d1950800000000000000
+      internalID: 6421296875413504122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_98
+      name: Green Flag Idle_98
       rect:
         serializedVersion: 2
         x: 6510
@@ -2626,16 +2626,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4a667cb180364e9488fbce00cb2d5e0f
-      internalID: -751640728
+      spriteID: f86f5abf1c5385770800000000000000
+      internalID: 8599682595730880143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_99
+      name: Green Flag Idle_99
       rect:
         serializedVersion: 2
         x: 0
@@ -2648,16 +2648,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d1cc8c560e373a04d9a9341a4ac04736
-      internalID: 2103900124
+      spriteID: 5840220d474a19c90800000000000000
+      internalID: -7164764710554696571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_100
+      name: Green Flag Idle_100
       rect:
         serializedVersion: 2
         x: 651
@@ -2670,16 +2670,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c6e77deb72c5b3a4c908168e6fb43f50
-      internalID: 805054161
+      spriteID: 930d94cf7a3c3da40800000000000000
+      internalID: 5391868305152266297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_101
+      name: Green Flag Idle_101
       rect:
         serializedVersion: 2
         x: 1302
@@ -2692,16 +2692,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: de900fea3a715ef4d82ea7378ec0a529
-      internalID: -1791079029
+      spriteID: e238d26467a0ab240800000000000000
+      internalID: 4808167055271232302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_102
+      name: Green Flag Idle_102
       rect:
         serializedVersion: 2
         x: 1953
@@ -2714,16 +2714,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a1b373dcdff932541bc7368a95ee90c4
-      internalID: -1422308621
+      spriteID: 3c4d9be3563f52030800000000000000
+      internalID: 3469446704128447683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_103
+      name: Green Flag Idle_103
       rect:
         serializedVersion: 2
         x: 2604
@@ -2736,16 +2736,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 98161de9f2556f74bae04813b6298817
-      internalID: 1588197134
+      spriteID: 0c4a87b02dcaa0c60800000000000000
+      internalID: 7785224923998889152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_104
+      name: Green Flag Idle_104
       rect:
         serializedVersion: 2
         x: 3255
@@ -2758,16 +2758,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 47349ed4a815c314f96fac8fb5aee531
-      internalID: -1322698066
+      spriteID: 2c403828a0a593740800000000000000
+      internalID: 5132232251551188162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_105
+      name: Green Flag Idle_105
       rect:
         serializedVersion: 2
         x: 3906
@@ -2780,16 +2780,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d6fc527f57e91024cad5d17b22d745e1
-      internalID: 836336450
+      spriteID: ebeec283918a9f0b0800000000000000
+      internalID: -5694335427563163970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_106
+      name: Green Flag Idle_106
       rect:
         serializedVersion: 2
         x: 4557
@@ -2802,16 +2802,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5b81fb0ef59b9b144956a2b73a82e5bb
-      internalID: 84129849
+      spriteID: c3e53370f1b3015b0800000000000000
+      internalID: -5399750948766392772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_107
+      name: Green Flag Idle_107
       rect:
         serializedVersion: 2
         x: 5208
@@ -2824,16 +2824,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8c728bad1dc695b49b74f3ca7f00048d
-      internalID: -384811749
+      spriteID: dc32edf8b6a9ceb10800000000000000
+      internalID: 2012152920293647309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_108
+      name: Green Flag Idle_108
       rect:
         serializedVersion: 2
         x: 5859
@@ -2846,16 +2846,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 02cc83a3695c6094c81c28b7445982d9
-      internalID: 919710414
+      spriteID: afe1a7c8eb525ae50800000000000000
+      internalID: 6819898711053311738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_109
+      name: Green Flag Idle_109
       rect:
         serializedVersion: 2
         x: 6510
@@ -2868,16 +2868,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6e68c80f80a21b54c9e7fcf3748bcbb3
-      internalID: -975951347
+      spriteID: 9c5d95bbc886b7270800000000000000
+      internalID: 8249302096107132361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_110
+      name: Green Flag Idle_110
       rect:
         serializedVersion: 2
         x: 0
@@ -2890,16 +2890,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ceaeb9d75ec603442bdf15cbfa19446d
-      internalID: -974087900
+      spriteID: d1360dae54fa866c0800000000000000
+      internalID: -4149874341794782435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_111
+      name: Green Flag Idle_111
       rect:
         serializedVersion: 2
         x: 651
@@ -2912,16 +2912,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7349c0e730e5e104ba5b0a8d7efc80a8
-      internalID: 1857042496
+      spriteID: 66545aade720735c0800000000000000
+      internalID: -4235914180661263002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_112
+      name: Green Flag Idle_112
       rect:
         serializedVersion: 2
         x: 1302
@@ -2934,16 +2934,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d9ce56ea3cb5d8a429979133bd236013
-      internalID: 1099482811
+      spriteID: 447327fc36c8d38c0800000000000000
+      internalID: -4017900932234594492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_113
+      name: Green Flag Idle_113
       rect:
         serializedVersion: 2
         x: 1953
@@ -2956,16 +2956,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 285f1921540b0974a8d4fcfa05b7c6a4
-      internalID: -1358474411
+      spriteID: a8d2df67cbae05950800000000000000
+      internalID: 6435901962683493770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_114
+      name: Green Flag Idle_114
       rect:
         serializedVersion: 2
         x: 2604
@@ -2978,16 +2978,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 400d5dc4796b4a744872253815908276
-      internalID: -282234954
+      spriteID: cfa9ccc2411f2ef30800000000000000
+      internalID: 4603506838079314684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_115
+      name: Green Flag Idle_115
       rect:
         serializedVersion: 2
         x: 3255
@@ -3000,16 +3000,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: aade9c1ccd1512d47abb13db82eeb126
-      internalID: 264025189
+      spriteID: 893277c93ca76d1f0800000000000000
+      internalID: -1020493284990573672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_116
+      name: Green Flag Idle_116
       rect:
         serializedVersion: 2
         x: 3906
@@ -3022,16 +3022,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4c9c650611c95544bbb26506955412a
-      internalID: -983981336
+      spriteID: 2b2c3bc84d14f2510800000000000000
+      internalID: 1526511179851350706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_117
+      name: Green Flag Idle_117
       rect:
         serializedVersion: 2
         x: 4557
@@ -3044,16 +3044,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1e8991873cbab0548a8fd8a34d9726d8
-      internalID: -2111219150
+      spriteID: 2dbeef4c3d2a1db50800000000000000
+      internalID: 6616248358010809298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_118
+      name: Green Flag Idle_118
       rect:
         serializedVersion: 2
         x: 5208
@@ -3066,16 +3066,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 157b1067adf23434d89d11a07e6babd2
-      internalID: 1893117561
+      spriteID: 8424aa05716651f90800000000000000
+      internalID: -6983563396844469688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flag idle loop_119
+      name: Green Flag Idle_119
       rect:
         serializedVersion: 2
         x: 5859
@@ -3088,10 +3088,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3ff92d292df45b843b1937f8dcb0a908
-      internalID: 951884039
+      spriteID: af09e67b9114e0f50800000000000000
+      internalID: 6849483661984567546
       vertices: []
       indices: 
       edges: []
@@ -3100,7 +3100,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f89c07f6b681b5c47b7b15d8a6dd3343
+    spriteID: 156eb12742cf4f34fa46fb1b535e9514
     internalID: 0
     vertices: []
     indices: 
@@ -3112,126 +3112,126 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":11.0},"gridSpriteSize":{"x":651.0,"y":386.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Flag idle loop_0: -270373558
-      Flag idle loop_1: -433801886
-      Flag idle loop_10: 733028529
-      Flag idle loop_100: 805054161
-      Flag idle loop_101: -1791079029
-      Flag idle loop_102: -1422308621
-      Flag idle loop_103: 1588197134
-      Flag idle loop_104: -1322698066
-      Flag idle loop_105: 836336450
-      Flag idle loop_106: 84129849
-      Flag idle loop_107: -384811749
-      Flag idle loop_108: 919710414
-      Flag idle loop_109: -975951347
-      Flag idle loop_11: 2033229876
-      Flag idle loop_110: -974087900
-      Flag idle loop_111: 1857042496
-      Flag idle loop_112: 1099482811
-      Flag idle loop_113: -1358474411
-      Flag idle loop_114: -282234954
-      Flag idle loop_115: 264025189
-      Flag idle loop_116: -983981336
-      Flag idle loop_117: -2111219150
-      Flag idle loop_118: 1893117561
-      Flag idle loop_119: 951884039
-      Flag idle loop_12: -1046122451
-      Flag idle loop_13: 2136587537
-      Flag idle loop_14: -990910374
-      Flag idle loop_15: 1779205996
-      Flag idle loop_16: 1181930392
-      Flag idle loop_17: -1434538131
-      Flag idle loop_18: 46808827
-      Flag idle loop_19: -209865651
-      Flag idle loop_2: 1826771985
-      Flag idle loop_20: -888579754
-      Flag idle loop_21: -1441686693
-      Flag idle loop_22: -1051483546
-      Flag idle loop_23: 1964590613
-      Flag idle loop_24: 2096012031
-      Flag idle loop_25: -398002012
-      Flag idle loop_26: 1111945131
-      Flag idle loop_27: 1152339512
-      Flag idle loop_28: -528810493
-      Flag idle loop_29: -1880133993
-      Flag idle loop_3: 2017595027
-      Flag idle loop_30: -1679776165
-      Flag idle loop_31: 787097119
-      Flag idle loop_32: -258283921
-      Flag idle loop_33: 1200501975
-      Flag idle loop_34: -309190465
-      Flag idle loop_35: 1011044126
-      Flag idle loop_36: 80060392
-      Flag idle loop_37: -991791040
-      Flag idle loop_38: 1992267724
-      Flag idle loop_39: 1695126224
-      Flag idle loop_4: 1907530238
-      Flag idle loop_40: -401647059
-      Flag idle loop_41: -354954927
-      Flag idle loop_42: 489426016
-      Flag idle loop_43: -1375101016
-      Flag idle loop_44: 355772154
-      Flag idle loop_45: 649567821
-      Flag idle loop_46: 1192746273
-      Flag idle loop_47: 444260381
-      Flag idle loop_48: -1759067087
-      Flag idle loop_49: 120714608
-      Flag idle loop_5: 496651653
-      Flag idle loop_50: 1317350267
-      Flag idle loop_51: -2112631110
-      Flag idle loop_52: -271353900
-      Flag idle loop_53: -1267753032
-      Flag idle loop_54: -1589916343
-      Flag idle loop_55: -809659908
-      Flag idle loop_56: -615089612
-      Flag idle loop_57: -2132999559
-      Flag idle loop_58: 511062426
-      Flag idle loop_59: 215492346
-      Flag idle loop_6: 865749813
-      Flag idle loop_60: 1962084847
-      Flag idle loop_61: -746809438
-      Flag idle loop_62: 1303886923
-      Flag idle loop_63: -1853107551
-      Flag idle loop_64: 157204362
-      Flag idle loop_65: 1761506947
-      Flag idle loop_66: -354664535
-      Flag idle loop_67: 141940146
-      Flag idle loop_68: 1811089443
-      Flag idle loop_69: -1641125657
-      Flag idle loop_7: -345071099
-      Flag idle loop_70: -1340041469
-      Flag idle loop_71: 2111686905
-      Flag idle loop_72: 1738061498
-      Flag idle loop_73: -68128495
-      Flag idle loop_74: 1926479447
-      Flag idle loop_75: -1309656431
-      Flag idle loop_76: 1556455093
-      Flag idle loop_77: 1450223070
-      Flag idle loop_78: 1600325398
-      Flag idle loop_79: 1591773606
-      Flag idle loop_8: -757677062
-      Flag idle loop_80: 540432688
-      Flag idle loop_81: -2029976402
-      Flag idle loop_82: -1908084330
-      Flag idle loop_83: 330041511
-      Flag idle loop_84: 490527595
-      Flag idle loop_85: 1911894658
-      Flag idle loop_86: -2053765425
-      Flag idle loop_87: -544652566
-      Flag idle loop_88: -1737713387
-      Flag idle loop_89: 467701614
-      Flag idle loop_9: 452950995
-      Flag idle loop_90: 1470957389
-      Flag idle loop_91: 127768953
-      Flag idle loop_92: -737659236
-      Flag idle loop_93: -1822752759
-      Flag idle loop_94: 55705394
-      Flag idle loop_95: -16338559
-      Flag idle loop_96: -1048088066
-      Flag idle loop_97: -1927199401
-      Flag idle loop_98: -751640728
-      Flag idle loop_99: 2103900124
+      Green Flag Idle_0: -534185207116101122
+      Green Flag Idle_1: 6089882361993155744
+      Green Flag Idle_10: 57436911116386447
+      Green Flag Idle_100: 5391868305152266297
+      Green Flag Idle_101: 4808167055271232302
+      Green Flag Idle_102: 3469446704128447683
+      Green Flag Idle_103: 7785224923998889152
+      Green Flag Idle_104: 5132232251551188162
+      Green Flag Idle_105: -5694335427563163970
+      Green Flag Idle_106: -5399750948766392772
+      Green Flag Idle_107: 2012152920293647309
+      Green Flag Idle_108: 6819898711053311738
+      Green Flag Idle_109: 8249302096107132361
+      Green Flag Idle_11: -5895218092254820559
+      Green Flag Idle_110: -4149874341794782435
+      Green Flag Idle_111: -4235914180661263002
+      Green Flag Idle_112: -4017900932234594492
+      Green Flag Idle_113: 6435901962683493770
+      Green Flag Idle_114: 4603506838079314684
+      Green Flag Idle_115: -1020493284990573672
+      Green Flag Idle_116: 1526511179851350706
+      Green Flag Idle_117: 6616248358010809298
+      Green Flag Idle_118: -6983563396844469688
+      Green Flag Idle_119: 6849483661984567546
+      Green Flag Idle_12: 8905913549278881183
+      Green Flag Idle_13: 4415424597160137371
+      Green Flag Idle_14: 5440744379551087725
+      Green Flag Idle_15: -6787948700718873582
+      Green Flag Idle_16: -8011157925655556137
+      Green Flag Idle_17: 6193870499759189889
+      Green Flag Idle_18: 3977393846992830795
+      Green Flag Idle_19: 1720422336558165361
+      Green Flag Idle_2: -3801769848347906858
+      Green Flag Idle_20: 1041463749334633662
+      Green Flag Idle_21: -5893084927433222800
+      Green Flag Idle_22: 5447678152753694321
+      Green Flag Idle_23: 7082395128527638270
+      Green Flag Idle_24: 5406445369359451104
+      Green Flag Idle_25: -8224333008638443467
+      Green Flag Idle_26: -5508341262420075423
+      Green Flag Idle_27: 4163785150483025321
+      Green Flag Idle_28: -2102301682274702251
+      Green Flag Idle_29: 3971973356072892964
+      Green Flag Idle_3: 4705697978480272789
+      Green Flag Idle_30: -1779297769798878061
+      Green Flag Idle_31: -1348946992289020046
+      Green Flag Idle_32: -7455376342852238732
+      Green Flag Idle_33: -3498591044773311725
+      Green Flag Idle_34: 97095642395289299
+      Green Flag Idle_35: 3301722586823051635
+      Green Flag Idle_36: -1850931096346835667
+      Green Flag Idle_37: 8212612091026439389
+      Green Flag Idle_38: 5006124198263453526
+      Green Flag Idle_39: 8903519773355773701
+      Green Flag Idle_4: -8894827959758622556
+      Green Flag Idle_40: 6717422574973355688
+      Green Flag Idle_41: 2974398493311855187
+      Green Flag Idle_42: -1261990583251723780
+      Green Flag Idle_43: 92578480682674480
+      Green Flag Idle_44: 7505588964573079371
+      Green Flag Idle_45: -8810164878948094179
+      Green Flag Idle_46: -3015616191352809376
+      Green Flag Idle_47: 5712106551215556655
+      Green Flag Idle_48: 6350363405137148355
+      Green Flag Idle_49: 2812917613193235601
+      Green Flag Idle_5: -6434358924687174215
+      Green Flag Idle_50: 1801769822863837130
+      Green Flag Idle_51: -6993707887191271902
+      Green Flag Idle_52: -1531360542973167459
+      Green Flag Idle_53: 8895565380935083706
+      Green Flag Idle_54: 5554710745962867711
+      Green Flag Idle_55: 7148483833489335462
+      Green Flag Idle_56: -2564265253562548222
+      Green Flag Idle_57: 3172755526554003113
+      Green Flag Idle_58: -6285382154725191780
+      Green Flag Idle_59: 6043538424137935151
+      Green Flag Idle_6: -8000587090282152511
+      Green Flag Idle_60: -3281969754700968524
+      Green Flag Idle_61: -5951650634974327631
+      Green Flag Idle_62: -6431213844537256192
+      Green Flag Idle_63: 7375927425930038007
+      Green Flag Idle_64: -9144663026292807336
+      Green Flag Idle_65: -855651042571483179
+      Green Flag Idle_66: -5613900014821379992
+      Green Flag Idle_67: 1581266471260947135
+      Green Flag Idle_68: 5430619933355309324
+      Green Flag Idle_69: -888156628537980322
+      Green Flag Idle_7: 792564057992105500
+      Green Flag Idle_70: -5635080235976548329
+      Green Flag Idle_71: 2205679179665952905
+      Green Flag Idle_72: -5638445251703870040
+      Green Flag Idle_73: -6577567758373532074
+      Green Flag Idle_74: -2314203206984959056
+      Green Flag Idle_75: -8665888452088449903
+      Green Flag Idle_76: 7900923273997359540
+      Green Flag Idle_77: -4162547609670605003
+      Green Flag Idle_78: 8351152640768753241
+      Green Flag Idle_79: -5036734401475327398
+      Green Flag Idle_8: 3902486045718506336
+      Green Flag Idle_80: -2382939414411097600
+      Green Flag Idle_81: -3335394468233278409
+      Green Flag Idle_82: -4492859823215053323
+      Green Flag Idle_83: -7047546109504243153
+      Green Flag Idle_84: 3460279465932511691
+      Green Flag Idle_85: -163794361039820935
+      Green Flag Idle_86: 5904065985403812595
+      Green Flag Idle_87: 4946249100607139364
+      Green Flag Idle_88: -7536826449525462708
+      Green Flag Idle_89: -5649682235724087079
+      Green Flag Idle_9: 8705621049221901287
+      Green Flag Idle_90: -2017935242121347462
+      Green Flag Idle_91: -921511039038442017
+      Green Flag Idle_92: -4930711420396278529
+      Green Flag Idle_93: 4059262006182106163
+      Green Flag Idle_94: -2198202791308297742
+      Green Flag Idle_95: 3500445571354299580
+      Green Flag Idle_96: 6781725967552801385
+      Green Flag Idle_97: 6421296875413504122
+      Green Flag Idle_98: 8599682595730880143
+      Green Flag Idle_99: -7164764710554696571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
