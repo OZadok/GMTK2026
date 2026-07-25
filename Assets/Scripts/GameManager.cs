@@ -40,6 +40,5 @@ public class GameManager : MonoBehaviour
 
 	private void OnStartGame(StartGameEvent obj)
 	{
-		Time.timeScale = 1;
 	}
 }

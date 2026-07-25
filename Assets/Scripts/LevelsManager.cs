@@ -23,8 +23,18 @@ public class LevelsManager : MonoBehaviour
     private List<GameObject> _castles = new List<GameObject>();
 
     private float LevelProgress { get; set; }
+    
+    private void OnEnable()
+    {
+        Messenger.Default.Subscribe<StartGameEvent>(OnStartGame);
+    }
 
-    private void Start()
+    private void OnDisable()
+    {
+        Messenger.Default.Unsubscribe<StartGameEvent>(OnStartGame);
+    }
+
+    private void OnStartGame(StartGameEvent obj)
     {
         StartCoroutine(StartGame());
     }

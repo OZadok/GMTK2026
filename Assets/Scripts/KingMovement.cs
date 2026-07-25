@@ -16,10 +16,10 @@ public class KingMovement : MonoBehaviour
 
 	public enum WalkingState
 	{
-		Straight, Up, Down
+		None, Straight, Up, Down
 	}
 	
-	private WalkingState _walkingState = WalkingState.Straight;
+	private WalkingState _walkingState = WalkingState.None;
 	
 	private void FixedUpdate()
 	{
@@ -34,6 +34,8 @@ public class KingMovement : MonoBehaviour
 				break;
 			case WalkingState.Down:
 				WalkDownStairs();
+				break;
+			case WalkingState.None:
 				break;
 			default:
 				throw new ArgumentOutOfRangeException();

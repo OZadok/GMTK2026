@@ -143,7 +143,7 @@ public class Enemies : MonoBehaviour
 // Guard against empty lists to avoid crashes
 		if (indices.Count == 0)
 		{
-			Debug.LogWarning("No spawn flags set!");
+//			Debug.LogWarning("No spawn flags set!");
 			return; // Or handle fallback
 		}
 

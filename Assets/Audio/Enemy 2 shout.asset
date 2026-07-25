@@ -21,4 +21,4 @@ MonoBehaviour:
     minValue: 0.8013421
     maxValue: 1.2041638
   spatialBlend: 0
-  audioGroup: {fileID: 0}
+  audioGroup: {fileID: 1526125298483436967, guid: adfa811859786014c8c385a5d41ef237, type: 2}
