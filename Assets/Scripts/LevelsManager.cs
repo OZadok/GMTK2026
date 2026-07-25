@@ -12,8 +12,6 @@ public class LevelsManager : MonoBehaviour
     [SerializeField] private Enemies _enemies;
     [SerializeField] private KingProtection _kingProtection;
     [SerializeField] private KingMovement _kingMovement;
-    
-    [SerializeField] private GameObject _castle;
 
     private float _levelProgress;
 
@@ -39,7 +37,7 @@ public class LevelsManager : MonoBehaviour
         var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 19.2f;
         if (_castles.Count == _lastLevel)
         {
-            _castles.Add(Instantiate(_castle));
+            _castles.Add(Instantiate(levelParameters._castlePrefab));
         }
         var castleGameObject = _castles[_lastLevel];
         var vector3 = castleGameObject.transform.position;

@@ -12,9 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d882d18dad9c874ca6e411ae39daf17, type: 3}
   m_Name: Level 3 Parameters
   m_EditorClassIdentifier: Assembly-CSharp::LevelParameters
+  _castlePrefab: {fileID: 7462422911633473917, guid: a8d1fdda8d2561f4fbe801bbae66463f, type: 3}
   _enemyType: -1
   _levelTimerTime: 60
   _timeToAddWhenEnemyDestroyed: 5
   _timeToReduceWhenPressedAndEnemyNotDestroyed: 1
   _timeToReduceWhenEnemyReachesKing: 2
   _spawnInterval: 2
+  _levelDistance: 60

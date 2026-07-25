@@ -3001,7 +3001,6 @@ MonoBehaviour:
   _enemies: {fileID: 1638638603}
   _kingProtection: {fileID: 754087874}
   _kingMovement: {fileID: 2038357576}
-  _castle: {fileID: 2211817725015376910, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
 --- !u!4 &969469016
 Transform:
   m_ObjectHideFlags: 0
