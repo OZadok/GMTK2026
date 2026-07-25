@@ -14,12 +14,19 @@ public class GameManager : MonoBehaviour
 	{
 		Messenger.Default.Subscribe<StartGameEvent>(OnStartGame);
 		Messenger.Default.Subscribe<TimerTimeEvent>(OnTimerTime);
+		Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
 	}
 
 	private void OnDisable()
 	{
 		Messenger.Default.Unsubscribe<StartGameEvent>(OnStartGame);
 		Messenger.Default.Unsubscribe<TimerTimeEvent>(OnTimerTime);
+		Messenger.Default.Unsubscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+	}
+
+	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
+	{
+		isGameOver = false;
 	}
 
 	private void OnTimerTime(TimerTimeEvent timerTimeEvent)

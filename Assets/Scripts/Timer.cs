@@ -36,6 +36,7 @@ public class Timer : MonoBehaviour
         Messenger.Default.Subscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
         Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
         Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+        Messenger.Default.Subscribe<GameOverEvent>(OnGameOver);
     }
 
     private void OnDisable()
@@ -45,6 +46,12 @@ public class Timer : MonoBehaviour
         Messenger.Default.Unsubscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
         Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
         Messenger.Default.Unsubscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+        Messenger.Default.Unsubscribe<GameOverEvent>(OnGameOver);
+    }
+
+    private void OnGameOver(GameOverEvent obj)
+    {
+        _toRun = false;
     }
 
     private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
