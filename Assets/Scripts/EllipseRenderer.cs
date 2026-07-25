@@ -12,6 +12,8 @@ public class EllipseRenderer : MonoBehaviour
 
 	[SerializeField] private SpriteRenderer _regularSprite;
 	[SerializeField] private SpriteRenderer _pressedSprite;
+	[SerializeField] private ParticleSystem _particleSystemBack;
+	[SerializeField] private ParticleSystem _particleSystemFront;
 	
 	[SerializeField] private Color _color;
 
@@ -63,6 +65,14 @@ public class EllipseRenderer : MonoBehaviour
 			{
 				_pressedSprite?.gameObject.SetActive(true);
 			}
+			if (!_particleSystemBack.isPlaying)
+			{
+				_particleSystemBack.Play();
+			}
+			if (!_particleSystemFront.isPlaying)
+			{
+				_particleSystemFront.Play();
+			}
 
 			var color = _color;
 			
@@ -81,6 +91,15 @@ public class EllipseRenderer : MonoBehaviour
 			if (_pressedSprite && _pressedSprite.gameObject)
 			{
 				_pressedSprite.gameObject.SetActive(false);
+			}
+			
+			if (_particleSystemBack.isPlaying)
+			{
+				_particleSystemBack.Stop();
+			}
+			if (_particleSystemFront.isPlaying)
+			{
+				_particleSystemFront.Stop();
 			}
 			
 			line.startColor = _color;

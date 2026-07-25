@@ -161,19 +161,11 @@ public class KingMovement : MonoBehaviour
 	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
 	{
 		_isDead = false;
-		transform.DOKill();
-		transform.rotation = Quaternion.identity;
+		_actualSpeed = _castleSpeed;
 	}
 
 	private void OnGameOver(GameOverEvent obj)
 	{
 		_isDead = true;
-		
-		// 1. Stop any current rotation running on this transform
-		transform.DOKill();
-
-		// 2. Rotate relative to current local Z axis by 90 degrees
-		transform.DOLocalRotate(new Vector3(0, 0, 90), 0.5f, RotateMode.LocalAxisAdd)	
-			.SetEase(Ease.OutQuad);
 	}
 }
