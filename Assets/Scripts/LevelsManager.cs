@@ -13,6 +13,7 @@ public class LevelsManager : MonoBehaviour
     [SerializeField] private KingProtection _kingProtection;
     [SerializeField] private KingMovement _kingMovement;
     [SerializeField] private UIProgressBar _progressBar;
+    [SerializeField] private UiTimer _uiTimer;
 
     private Vector3 _lastCheckPointPosition;
     private Coroutine _checkPointCoroutine;
@@ -99,6 +100,7 @@ public class LevelsManager : MonoBehaviour
     {
         _lastCheckPointPosition = _kingMovement.transform.position;
         _enemies._toSpawn = false;
+        _uiTimer.SwapFlowerSprite(levelParameters._flowersSprite);
         yield return StartCoroutine(WalkCastleOut());
         Messenger.Default.Publish(new EndWalkInCastleEvent());
         SetLevel(levelParameters);

@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LevelParameters
   _castlePrefab: {fileID: 1780464066876606120, guid: 0aa34e1cb478c174c981f1fed093efb7, type: 3}
   _progressBarBackground: {fileID: 21300000, guid: 60491c21a8c6c446e9d84c2f40d5d49f, type: 3}
+  _flowersSprite: {fileID: 21300000, guid: 975930d63719e4766ace038d447e45af, type: 3}
   _enemyType: 6
   _levelTimerTime: 60
   _timeToAddWhenEnemyDestroyed: 5

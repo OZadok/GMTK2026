@@ -3,6 +3,7 @@ using Events;
 using SuperMaxim.Messaging;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UiTimer : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class UiTimer : MonoBehaviour
 	
 	[Header("References")] 
 	[SerializeField] private TMP_Text _timeText;
+	[SerializeField] private Image _flowerImage; 
 
 	[SerializeField] private Transform _changeTimeParent;
 
@@ -62,5 +64,10 @@ public class UiTimer : MonoBehaviour
 
 		// Format to Minute:Second:Millisecond (MM:ss:ff)
 		_timeText.text = time.ToString(@"mm\:ss\.ff");
+	}
+
+	public void SwapFlowerSprite(Sprite flowerSprite)
+	{
+		_flowerImage.sprite = flowerSprite;
 	}
 }

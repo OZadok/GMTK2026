@@ -6,6 +6,7 @@ public class LevelParameters : ScriptableObject
 	[Header("References")]
 	public GameObject _castlePrefab;
 	public Sprite _progressBarBackground;
+	public Sprite _flowersSprite;
 	
 	[Header("Parameters")]
 	public EnemyType _enemyType;
