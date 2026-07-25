@@ -54,6 +54,7 @@ public class KingProtection : MonoBehaviour
 		
 		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
 		Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+		Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
 	}
 
 	private void OnDisable()
@@ -65,6 +66,14 @@ public class KingProtection : MonoBehaviour
 		
 		Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
 		Messenger.Default.Unsubscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+		Messenger.Default.Unsubscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+	}
+
+	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+	{
+		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
 	}
 
 	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)

@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using Events;
 using SuperMaxim.Messaging;
 using UnityEngine;
@@ -18,6 +19,8 @@ public class LevelsManager : MonoBehaviour
 
     private Vector3 _lastCheckPointPosition;
     private Coroutine _checkPointCoroutine;
+    
+    private List<GameObject> _castles = new List<GameObject>();
 
     private void Start()
     {
@@ -34,7 +37,11 @@ public class LevelsManager : MonoBehaviour
         _kingProtection.Init(levelParameters._enemyType);
         
         var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 19.2f;
-        var castleGameObject = Instantiate(_castle);
+        if (_castles.Count == _lastLevel)
+        {
+            _castles.Add(Instantiate(_castle));
+        }
+        var castleGameObject = _castles[_lastLevel];
         var vector3 = castleGameObject.transform.position;
         vector3.x = castleXPosition;
         castleGameObject.transform.position = vector3;
@@ -113,14 +120,14 @@ public class LevelsManager : MonoBehaviour
     private IEnumerator WalkCastleOut()
     {
         var xPosition = _kingMovement.transform.position.x;
-        _kingMovement._walkingState = KingMovement.WalkingState.Straight;
+        _kingMovement.StartWalkingStraight();
         yield return new WaitUntil(() => xPosition + 8.55f <= _kingMovement.transform.position.x);
-        _kingMovement._walkingState = KingMovement.WalkingState.Down;
+        _kingMovement.StartWalkingDownStairs();
         yield return new WaitUntil(() => _kingMovement.transform.position.y <= -2);
         var vector3 = _kingMovement.transform.position;
         vector3.y = -2;
         _kingMovement.transform.position = vector3;
-        _kingMovement._walkingState = KingMovement.WalkingState.Straight;
+        _kingMovement.StartWalkingStraight();
     }
     
     private IEnumerator WalkCastleIn()
@@ -128,13 +135,13 @@ public class LevelsManager : MonoBehaviour
         Messenger.Default.Publish(new StartWalkInCastleEvent());
         
         //walk stairs
-        _kingMovement._walkingState = KingMovement.WalkingState.Up;
+        _kingMovement.StartWalkingUpStairs();
         yield return new WaitUntil(() => _kingMovement.transform.position.y >= 2.95f);
         var vector3 = _kingMovement.transform.position;
         vector3.y = 2.95f;
         _kingMovement.transform.position = vector3;
         var xPosition = _kingMovement.transform.position.x;
-        _kingMovement._walkingState = KingMovement.WalkingState.Straight;
+        _kingMovement.StartWalkingStraight();
         yield return new WaitUntil(() => xPosition + 8.55f <= _kingMovement.transform.position.x);
     }
 }

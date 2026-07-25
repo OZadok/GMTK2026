@@ -27,6 +27,7 @@ public class UiTimer : MonoBehaviour
 		Messenger.Default.Subscribe<TimerTimeEvent>(OnTimerTime);
 		Messenger.Default.Subscribe<TimerTimeChangeEvent>(OnTimerTimeChange);
 		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
 	}
 
 	private void OnDisable()
@@ -34,6 +35,12 @@ public class UiTimer : MonoBehaviour
 		Messenger.Default.Unsubscribe<TimerTimeEvent>(OnTimerTime);
 		Messenger.Default.Unsubscribe<TimerTimeChangeEvent>(OnTimerTimeChange);
 		Messenger.Default.Unsubscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Unsubscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+	}
+
+	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+	{
+		_timeText.text = "";
 	}
 
 	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)

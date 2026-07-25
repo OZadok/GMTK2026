@@ -57,14 +57,26 @@ public class Enemies : MonoBehaviour
 	private void OnEnable()
 	{
 		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
 	}
 
 	private void OnDisable()
 	{
 		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+	}
+
+	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+	{
+		ClearAllEnemies();
 	}
 
 	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
+	{
+		ClearAllEnemies();
+	}
+
+	private void ClearAllEnemies()
 	{
 		foreach (var enemiesList in _enemies.Values)
 		{

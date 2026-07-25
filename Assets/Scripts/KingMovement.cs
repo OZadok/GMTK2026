@@ -19,9 +19,9 @@ public class KingMovement : MonoBehaviour
 		Straight, Up, Down
 	}
 	
-	public WalkingState _walkingState = WalkingState.Straight;
+	private WalkingState _walkingState = WalkingState.Straight;
 	
-	private void Update()
+	private void FixedUpdate()
 	{
 		if (_isDead) return;
 		switch (_walkingState)
@@ -54,40 +54,72 @@ public class KingMovement : MonoBehaviour
 	{
 		transform.position -= transform.up * (_speed * Time.deltaTime);
 	}
+	
+	public void StartWalkingStraight()
+	{
+		_walkingState = WalkingState.Straight;
+	}
+	
+
+	// Call this when the character enters/starts stair movement
+	public void StartWalkingUpStairs()
+	{
+		_walkingState = WalkingState.Up;
+		_stairTimer = 0f;
+	}
 
 	private void WalkUpStairs()
 	{
-		// Alternate based on travel ratio: 1 unit forward to ~0.75 units up
-		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
-		float forwardRatio = _stepWidth / (_stepWidth + _stepHeight);
-    
-		float currentCycleProgress = (Time.time % totalCycleTime) / totalCycleTime;
+		// Advance local timer by frame duration
+		_stairTimer += Time.deltaTime;
 
-		if (currentCycleProgress < forwardRatio)
-		{
-			WalkStraight();
-		}
-		else
+		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
+		float upRatio = _stepHeight / (_stepWidth + _stepHeight);
+
+		// Progression from 0.0 to 1.0 based on local timer
+		float currentCycleProgress = (_stairTimer % totalCycleTime) / totalCycleTime;
+
+		if (currentCycleProgress < upRatio)
 		{
 			WalkUp();
 		}
+		else
+		{
+			WalkStraight();
+		}
+	}
+	
+	private float _stairTimer = 0f;
+	private bool _isWalkingDownStairs = false;
+
+	// Call this when the character enters/starts stair movement
+	public void StartWalkingDownStairs()
+	{
+		_walkingState = WalkingState.Down;
+		_isWalkingDownStairs = true;
+		_stairTimer = 0f; // Reset to 0 so you ALWAYS start by going Down
 	}
 
 	private void WalkDownStairs()
 	{
-		// Alternate based on travel ratio: 1 unit forward to ~0.75 units up
-		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
-		float forwardRatio = _stepWidth / (_stepWidth + _stepHeight);
-    
-		float currentCycleProgress = (Time.time % totalCycleTime) / totalCycleTime;
+		if (!_isWalkingDownStairs) return;
 
-		if (currentCycleProgress < forwardRatio)
+		// Advance local timer by frame duration
+		_stairTimer += Time.deltaTime;
+
+		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
+		float downRatio = _stepHeight / (_stepWidth + _stepHeight);
+
+		// Progression from 0.0 to 1.0 based on local timer
+		float currentCycleProgress = (_stairTimer % totalCycleTime) / totalCycleTime;
+
+		if (currentCycleProgress < downRatio)
 		{
-			WalkStraight();
+			WalkDown();
 		}
 		else
 		{
-			WalkDown();
+			WalkStraight();
 		}
 	}
 
