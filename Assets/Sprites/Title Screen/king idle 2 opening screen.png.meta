@@ -243,9 +243,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 11106
-        width: 1813
-        height: 1851
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: king idle 2 opening screen_1
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 11106
-        width: 1813
-        height: 1851
+        x: 1396
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: king idle 2 opening screen_2
       rect:
         serializedVersion: 2
-        x: 3626
-        y: 11106
-        width: 1813
-        height: 1851
+        x: 2792
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +308,10 @@ TextureImporter:
       name: king idle 2 opening screen_3
       rect:
         serializedVersion: 2
-        x: 5439
-        y: 11106
-        width: 1813
-        height: 1851
+        x: 4188
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +330,10 @@ TextureImporter:
       name: king idle 2 opening screen_4
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 11106
-        width: 1813
-        height: 1851
+        x: 5584
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: king idle 2 opening screen_5
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 11106
-        width: 1813
-        height: 1851
+        x: 6980
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: king idle 2 opening screen_6
       rect:
         serializedVersion: 2
-        x: 10878
-        y: 11106
-        width: 1813
-        height: 1851
+        x: 8376
+        y: 8552
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,9 +397,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 9255
-        width: 1813
-        height: 1851
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: king idle 2 opening screen_8
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 9255
-        width: 1813
-        height: 1851
+        x: 1396
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: king idle 2 opening screen_9
       rect:
         serializedVersion: 2
-        x: 3626
-        y: 9255
-        width: 1813
-        height: 1851
+        x: 2792
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: king idle 2 opening screen_10
       rect:
         serializedVersion: 2
-        x: 5439
-        y: 9255
-        width: 1813
-        height: 1851
+        x: 4188
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: king idle 2 opening screen_11
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 9255
-        width: 1813
-        height: 1851
+        x: 5584
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: king idle 2 opening screen_12
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 9255
-        width: 1813
-        height: 1851
+        x: 6980
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: king idle 2 opening screen_13
       rect:
         serializedVersion: 2
-        x: 10878
-        y: 9255
-        width: 1813
-        height: 1851
+        x: 8376
+        y: 7127
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,9 +551,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 7404
-        width: 1813
-        height: 1851
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: king idle 2 opening screen_15
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 7404
-        width: 1813
-        height: 1851
+        x: 1396
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: king idle 2 opening screen_16
       rect:
         serializedVersion: 2
-        x: 3626
-        y: 7404
-        width: 1813
-        height: 1851
+        x: 2792
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: king idle 2 opening screen_17
       rect:
         serializedVersion: 2
-        x: 5439
-        y: 7404
-        width: 1813
-        height: 1851
+        x: 4188
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: king idle 2 opening screen_18
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 7404
-        width: 1813
-        height: 1851
+        x: 5584
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: king idle 2 opening screen_19
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 7404
-        width: 1813
-        height: 1851
+        x: 6980
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: king idle 2 opening screen_20
       rect:
         serializedVersion: 2
-        x: 10878
-        y: 7404
-        width: 1813
-        height: 1851
+        x: 8376
+        y: 5702
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,9 +705,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 5553
-        width: 1813
-        height: 1851
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,10 +726,10 @@ TextureImporter:
       name: king idle 2 opening screen_22
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 5553
-        width: 1813
-        height: 1851
+        x: 1396
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,10 +748,10 @@ TextureImporter:
       name: king idle 2 opening screen_23
       rect:
         serializedVersion: 2
-        x: 3626
-        y: 5553
-        width: 1813
-        height: 1851
+        x: 2792
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,10 +770,10 @@ TextureImporter:
       name: king idle 2 opening screen_24
       rect:
         serializedVersion: 2
-        x: 5439
-        y: 5553
-        width: 1813
-        height: 1851
+        x: 4188
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -792,10 +792,10 @@ TextureImporter:
       name: king idle 2 opening screen_25
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 5553
-        width: 1813
-        height: 1851
+        x: 5584
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -814,10 +814,10 @@ TextureImporter:
       name: king idle 2 opening screen_26
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 5553
-        width: 1813
-        height: 1851
+        x: 6980
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,10 +836,10 @@ TextureImporter:
       name: king idle 2 opening screen_27
       rect:
         serializedVersion: 2
-        x: 10878
-        y: 5553
-        width: 1813
-        height: 1851
+        x: 8376
+        y: 4277
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,9 +859,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3702
-        width: 1813
-        height: 1851
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,10 +880,10 @@ TextureImporter:
       name: king idle 2 opening screen_29
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 3702
-        width: 1813
-        height: 1851
+        x: 1396
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -902,10 +902,10 @@ TextureImporter:
       name: king idle 2 opening screen_30
       rect:
         serializedVersion: 2
-        x: 3626
-        y: 3702
-        width: 1813
-        height: 1851
+        x: 2792
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -924,10 +924,10 @@ TextureImporter:
       name: king idle 2 opening screen_31
       rect:
         serializedVersion: 2
-        x: 5439
-        y: 3702
-        width: 1813
-        height: 1851
+        x: 4188
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -946,10 +946,10 @@ TextureImporter:
       name: king idle 2 opening screen_32
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 3702
-        width: 1813
-        height: 1851
+        x: 5584
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -968,10 +968,10 @@ TextureImporter:
       name: king idle 2 opening screen_33
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 3702
-        width: 1813
-        height: 1851
+        x: 6980
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -990,10 +990,10 @@ TextureImporter:
       name: king idle 2 opening screen_34
       rect:
         serializedVersion: 2
-        x: 10878
-        y: 3702
-        width: 1813
-        height: 1851
+        x: 8376
+        y: 2852
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1013,9 +1013,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1851
-        width: 1813
-        height: 1851
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1034,10 +1034,10 @@ TextureImporter:
       name: king idle 2 opening screen_36
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 1851
-        width: 1813
-        height: 1851
+        x: 1396
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,10 +1056,10 @@ TextureImporter:
       name: king idle 2 opening screen_37
       rect:
         serializedVersion: 2
-        x: 3626
-        y: 1851
-        width: 1813
-        height: 1851
+        x: 2792
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,10 +1078,10 @@ TextureImporter:
       name: king idle 2 opening screen_38
       rect:
         serializedVersion: 2
-        x: 5439
-        y: 1851
-        width: 1813
-        height: 1851
+        x: 4188
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: king idle 2 opening screen_39
       rect:
         serializedVersion: 2
-        x: 7252
-        y: 1851
-        width: 1813
-        height: 1851
+        x: 5584
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1122,10 +1122,10 @@ TextureImporter:
       name: king idle 2 opening screen_40
       rect:
         serializedVersion: 2
-        x: 9065
-        y: 1851
-        width: 1813
-        height: 1851
+        x: 6980
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1144,10 +1144,10 @@ TextureImporter:
       name: king idle 2 opening screen_41
       rect:
         serializedVersion: 2
-        x: 10878
-        y: 1851
-        width: 1813
-        height: 1851
+        x: 8376
+        y: 1427
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1167,9 +1167,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1813
-        height: 1851
+        y: 2
+        width: 1396
+        height: 1425
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1198,7 +1198,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":7.0},"gridSpriteSize":{"x":1813.0,"y":1851.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":7.0},"gridSpriteSize":{"x":1396.0,"y":1425.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       king idle 2 opening screen_0: -2182825711970590059
       king idle 2 opening screen_1: -2700516017189081159
