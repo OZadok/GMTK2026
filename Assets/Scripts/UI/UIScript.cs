@@ -13,6 +13,8 @@ namespace UI
         [SerializeField] private Button _startGameButton;
         [SerializeField] private Button _restartGameButton;
         [SerializeField] private GameObject _gameOverPanel;
+        [SerializeField] private IrisWipeController _irisWipeController;
+        [SerializeField] private LevelsManager _levelsManager;
 
         private void Awake()
         {
@@ -35,12 +37,20 @@ namespace UI
 
         private void OnLoadCheckPoint(LoadCheckPointEvent obj)
         {
-            _gameOverPanel.SetActive(false);
+            //_gameOverPanel.SetActive(false);
         }
 
         private void OnGameOver(GameOverEvent obj)
         {
             _gameOverPanel.SetActive(true);
+            
+            _irisWipeController.PlayIrisOut(new Vector2(0.5f, (5.4f -  2f)/10.8f), LoadCheckPoint);
+        }
+
+        private void LoadCheckPoint()
+        {
+            _levelsManager.LoadCheckPoint();
+            _irisWipeController.PlayIrisIn(new Vector2(0.5f, (5.4f +  2.95f)/10.8f));
         }
 
         private void RestartGameClicked()

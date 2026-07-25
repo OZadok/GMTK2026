@@ -77,7 +77,7 @@ public class LevelsManager : MonoBehaviour
     }
 
     [ContextMenu("LoadCheckPoint")]
-    private void LoadCheckPoint()
+    public void LoadCheckPoint()
     {
         _lastLevel--;
 

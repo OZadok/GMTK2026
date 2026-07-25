@@ -625,6 +625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 197348287}
   - component: {fileID: 197348289}
+  - component: {fileID: 197348290}
   - component: {fileID: 197348288}
   m_Layer: 5
   m_Name: Image
@@ -664,15 +665,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.8980392}
+  m_Material: {fileID: 2100000, guid: 28fb3cf03aa748142938c65a5179e43c, type: 2}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 7482667652216324306, guid: e05f39905f04f46459b17ecc428f1ea0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -690,6 +691,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 197348286}
   m_CullTransparentMesh: 1
+--- !u!114 &197348290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197348286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaa90d112b856e144873a3e43691246e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IrisWipeController
+  irisImage: {fileID: 197348288}
+  duration: 1.2
 --- !u!1 &377556584
 GameObject:
   m_ObjectHideFlags: 0
@@ -3312,7 +3327,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1043467180
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4340,7 +4355,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1415947714
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5500,6 +5515,8 @@ MonoBehaviour:
   _startGameButton: {fileID: 489976091}
   _restartGameButton: {fileID: 1043467181}
   _gameOverPanel: {fileID: 1415947713}
+  _irisWipeController: {fileID: 197348290}
+  _levelsManager: {fileID: 969469015}
 --- !u!1 &1990723540
 GameObject:
   m_ObjectHideFlags: 0
@@ -8387,10 +8404,6 @@ PrefabInstance:
     - target: {fileID: 1185652280724465295, guid: 414b52bf7b7a4e8418f1053d95799a5d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1185652280724465295, guid: 414b52bf7b7a4e8418f1053d95799a5d, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1185652280724465295, guid: 414b52bf7b7a4e8418f1053d95799a5d, type: 3}
       propertyPath: m_LocalPosition.z
