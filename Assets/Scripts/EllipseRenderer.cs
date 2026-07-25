@@ -18,6 +18,8 @@ public class EllipseRenderer : MonoBehaviour
 	
 	[SerializeField] private Color _color;
 
+	private bool _isShowing;
+
 	void Awake()
 	{
 		line = GetComponent<LineRenderer>();
@@ -55,6 +57,7 @@ public class EllipseRenderer : MonoBehaviour
 	
 	public void ToShow(bool toShow, float duration=0.5f)
 	{
+		_isShowing = toShow;
 		var targetAlpha = toShow ? 1f : 0f;
 		StartCoroutine(FadeTo(_regularSprite, targetAlpha, duration));
 	}
@@ -86,6 +89,7 @@ public class EllipseRenderer : MonoBehaviour
 
 	public void OnPressed(bool isPressed)
 	{
+		if (!_isShowing) return;
 		if (isPressed)
 		{
 			if (_regularSprite && _regularSprite.gameObject)

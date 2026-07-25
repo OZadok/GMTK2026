@@ -5211,6 +5211,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1425151398}
   - component: {fileID: 1425151399}
+  - component: {fileID: 1425151400}
   m_Layer: 5
   m_Name: ProgressBar
   m_TagString: Untagged
@@ -5252,6 +5253,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UIProgressBar
   _slider: {fileID: 314185611}
   _background: {fileID: 33951680}
+  _canvasGroup: {fileID: 1425151400}
+--- !u!225 &1425151400
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1425151397}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
 --- !u!1 &1428245176
 GameObject:
   m_ObjectHideFlags: 0
