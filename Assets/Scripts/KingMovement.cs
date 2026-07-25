@@ -7,6 +7,8 @@ using UnityEngine;
 public class KingMovement : MonoBehaviour
 {
 	[SerializeField] public float _speed;
+	[SerializeField] private float _castleSpeed;
+	private float _actualSpeed;
 	
 	[Tooltip("for walking on stairs")]
 	[SerializeField] private float _stepWidth = 0.4f; // Horizontal tread length
@@ -20,7 +22,12 @@ public class KingMovement : MonoBehaviour
 	}
 	
 	private WalkingState _walkingState = WalkingState.None;
-	
+
+	private void Start()
+	{
+		_actualSpeed = _castleSpeed;
+	}
+
 	private void FixedUpdate()
 	{
 		if (_isDead) return;
@@ -44,17 +51,17 @@ public class KingMovement : MonoBehaviour
 
 	private void WalkStraight()
 	{
-		transform.position += transform.right * (_speed * Time.deltaTime);
+		transform.position += transform.right * (_actualSpeed * Time.deltaTime);
 	}
 	
 	private void WalkUp()
 	{
-		transform.position += transform.up * (_speed * Time.deltaTime);
+		transform.position += transform.up * (_actualSpeed * Time.deltaTime);
 	}
 	
 	private void WalkDown()
 	{
-		transform.position -= transform.up * (_speed * Time.deltaTime);
+		transform.position -= transform.up * (_actualSpeed * Time.deltaTime);
 	}
 	
 	public void StartWalkingStraight()
@@ -75,7 +82,7 @@ public class KingMovement : MonoBehaviour
 		// Advance local timer by frame duration
 		_stairTimer += Time.deltaTime;
 
-		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
+		float totalCycleTime = (_stepWidth + _stepHeight) / _actualSpeed;
 		float upRatio = _stepHeight / (_stepWidth + _stepHeight);
 
 		// Progression from 0.0 to 1.0 based on local timer
@@ -109,7 +116,7 @@ public class KingMovement : MonoBehaviour
 		// Advance local timer by frame duration
 		_stairTimer += Time.deltaTime;
 
-		float totalCycleTime = (_stepWidth + _stepHeight) / _speed;
+		float totalCycleTime = (_stepWidth + _stepHeight) / _actualSpeed;
 		float downRatio = _stepHeight / (_stepWidth + _stepHeight);
 
 		// Progression from 0.0 to 1.0 based on local timer
@@ -127,14 +134,28 @@ public class KingMovement : MonoBehaviour
 
 	private void OnEnable()
 	{
-		Messenger.Default.Subscribe <GameOverEvent>(OnGameOver);
-		Messenger.Default.Subscribe <LoadCheckPointEvent>(OnLoadCheckPoint);
+		Messenger.Default.Subscribe<GameOverEvent>(OnGameOver);
+		Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
 	}
 
 	private void OnDisable()
 	{
-		Messenger.Default.Unsubscribe <GameOverEvent>(OnGameOver);
-		Messenger.Default.Unsubscribe <LoadCheckPointEvent>(OnLoadCheckPoint);
+		Messenger.Default.Unsubscribe<GameOverEvent>(OnGameOver);
+		Messenger.Default.Unsubscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+		Messenger.Default.Subscribe<StartWalkInCastleEvent>(OnStartWalkInCastle);
+		Messenger.Default.Subscribe<EndWalkInCastleEvent>(OnEndWalkInCastle);
+	}
+
+	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
+	{
+		_actualSpeed = _speed;
+	}
+
+	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
+	{
+		_actualSpeed = _castleSpeed;
 	}
 
 	private void OnLoadCheckPoint(LoadCheckPointEvent obj)

@@ -255,6 +255,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KingMovement
   _speed: 1
+  _castleSpeed: 2
   _stepWidth: 0.4
 --- !u!114 &5219013180642834015
 MonoBehaviour:
