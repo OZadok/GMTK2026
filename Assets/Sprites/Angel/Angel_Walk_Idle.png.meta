@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: def01d06948544b4d9104e3d8aac6c3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4138284403033315872
+    second: Angel_Walk_Idle_0
+  - first:
+      213: 7581943431879150706
+    second: Angel_Walk_Idle_1
+  - first:
+      213: -7359510832106648341
+    second: Angel_Walk_Idle_2
+  - first:
+      213: 5148282069536273047
+    second: Angel_Walk_Idle_3
+  - first:
+      213: 590698301796552546
+    second: Angel_Walk_Idle_4
+  - first:
+      213: -8898904145495914504
+    second: Angel_Walk_Idle_5
+  - first:
+      213: -2805622731390039283
+    second: Angel_Walk_Idle_6
+  - first:
+      213: 4588187642709688760
+    second: Angel_Walk_Idle_7
+  - first:
+      213: 7791302415307450018
+    second: Angel_Walk_Idle_8
+  - first:
+      213: 1245351833352929875
+    second: Angel_Walk_Idle_9
+  - first:
+      213: 3392060241611360162
+    second: Angel_Walk_Idle_10
+  - first:
+      213: 7089613506860454129
+    second: Angel_Walk_Idle_11
+  - first:
+      213: -1668785474166067354
+    second: Angel_Walk_Idle_12
+  - first:
+      213: -871104827536575058
+    second: Angel_Walk_Idle_13
+  - first:
+      213: 4683689961139545899
+    second: Angel_Walk_Idle_14
+  - first:
+      213: -1930244653027597972
+    second: Angel_Walk_Idle_15
+  - first:
+      213: -3666268313479450668
+    second: Angel_Walk_Idle_16
+  - first:
+      213: -8583346325609201026
+    second: Angel_Walk_Idle_17
+  - first:
+      213: 3062939397963549920
+    second: Angel_Walk_Idle_18
+  - first:
+      213: -4348283470650562626
+    second: Angel_Walk_Idle_19
+  - first:
+      213: 4487077900373202188
+    second: Angel_Walk_Idle_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e8a1d24cd196c0800000000000000
+      internalID: -4138284403033315872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c43446169783960800000000000000
+      internalID: 7581943431879150706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becc4abf3e3cdd990800000000000000
+      internalID: -7359510832106648341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f836f34f527740800000000000000
+      internalID: 5148282069536273047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8200d9f4923800800000000000000
+      internalID: 590698301796552546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7077df3ddb08480800000000000000
+      internalID: -8898904145495914504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b4cb99dfc6019d0800000000000000
+      internalID: -2805622731390039283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14c8e0a548caf30800000000000000
+      internalID: 4588187642709688760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62b024444402c60800000000000000
+      internalID: 7791302415307450018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352026fe4e0684110800000000000000
+      internalID: 1245351833352929875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a788fd51d4031f20800000000000000
+      internalID: 3392060241611360162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f09a3f0ced536260800000000000000
+      internalID: 7089613506860454129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66feffde37847d8e0800000000000000
+      internalID: -1668785474166067354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5fd8056c639e3f0800000000000000
+      internalID: -871104827536575058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2729c3543fcff040800000000000000
+      internalID: 4683689961139545899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6161b607b46635e0800000000000000
+      internalID: -1930244653027597972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df69c3c46cce1dc0800000000000000
+      internalID: -3666268313479450668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c8ed4ef3d1e880800000000000000
+      internalID: -8583346325609201026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec8a20872fb18a20800000000000000
+      internalID: 3062939397963549920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7ab2db83bc7a3c0800000000000000
+      internalID: -4348283470650562626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_Walk_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05104ba39d454e30800000000000000
+      internalID: 4487077900373202188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab2a693be0b306b4585f73bd14fa9e7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":383.0,"y":384.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Angel_Walk_Idle_0: -4138284403033315872
+      Angel_Walk_Idle_1: 7581943431879150706
+      Angel_Walk_Idle_10: 3392060241611360162
+      Angel_Walk_Idle_11: 7089613506860454129
+      Angel_Walk_Idle_12: -1668785474166067354
+      Angel_Walk_Idle_13: -871104827536575058
+      Angel_Walk_Idle_14: 4683689961139545899
+      Angel_Walk_Idle_15: -1930244653027597972
+      Angel_Walk_Idle_16: -3666268313479450668
+      Angel_Walk_Idle_17: -8583346325609201026
+      Angel_Walk_Idle_18: 3062939397963549920
+      Angel_Walk_Idle_19: -4348283470650562626
+      Angel_Walk_Idle_2: -7359510832106648341
+      Angel_Walk_Idle_20: 4487077900373202188
+      Angel_Walk_Idle_3: 5148282069536273047
+      Angel_Walk_Idle_4: 590698301796552546
+      Angel_Walk_Idle_5: -8898904145495914504
+      Angel_Walk_Idle_6: -2805622731390039283
+      Angel_Walk_Idle_7: 4588187642709688760
+      Angel_Walk_Idle_8: 7791302415307450018
+      Angel_Walk_Idle_9: 1245351833352929875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
