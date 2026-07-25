@@ -6,16 +6,31 @@ using UnityEngine;
 public class KingAnimation : MonoBehaviour
 {
     private static readonly int Hit = Animator.StringToHash("Hit");
+    private static readonly int Dead = Animator.StringToHash("Dead");
     [SerializeField] private Animator _animator;
     
     private void OnEnable()
     {
         Messenger.Default.Subscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
+        Messenger.Default.Subscribe<GameOverEvent>(OnGameOver);
+        Messenger.Default.Subscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
     }
 
     private void OnDisable()
     {
         Messenger.Default.Unsubscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
+        Messenger.Default.Unsubscribe<GameOverEvent>(OnGameOver);
+        Messenger.Default.Unsubscribe<LoadCheckPointEvent>(OnLoadCheckPoint);
+    }
+
+    private void OnLoadCheckPoint(LoadCheckPointEvent obj)
+    {
+        _animator.Play($"Walk");
+    }
+
+    private void OnGameOver(GameOverEvent obj)
+    {
+        _animator.SetTrigger(Dead);
     }
 
     private void OnEnemyReachesKing(EnemyReachesKingEvent enemyReachesKingEvent)
