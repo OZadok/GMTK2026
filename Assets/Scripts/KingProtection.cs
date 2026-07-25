@@ -30,9 +30,9 @@ public class KingProtection : MonoBehaviour
 
 	private void Start()
 	{
-		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
-		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
-		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[0]._ellipseRenderer.ToShow(false, 0);
+		_enemyDestroyers[1]._ellipseRenderer.ToShow(false, 0);
+		_enemyDestroyers[2]._ellipseRenderer.ToShow(false, 0);
 	}
 
 	public void Init(EnemyType enemyType)
@@ -40,9 +40,9 @@ public class KingProtection : MonoBehaviour
 		int flags = (int)enemyType;
 
 // Check bit positions directly and map to 0, 1, 2
-		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive((flags & (1 << 1)) != 0);
-		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive((flags & (1 << 2)) != 0);
-		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive((flags & (1 << 3)) != 0);
+		_enemyDestroyers[0]._ellipseRenderer.ToShow((flags & (1 << 1)) != 0);
+		_enemyDestroyers[1]._ellipseRenderer.ToShow((flags & (1 << 2)) != 0);
+		_enemyDestroyers[2]._ellipseRenderer.ToShow((flags & (1 << 3)) != 0);
 	}
 
 	private void OnEnable()
@@ -71,9 +71,9 @@ public class KingProtection : MonoBehaviour
 
 	private void OnLoadCheckPoint(LoadCheckPointEvent obj)
 	{
-		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
-		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
-		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[0]._ellipseRenderer.ToShow(false);
+		_enemyDestroyers[1]._ellipseRenderer.ToShow(false);
+		_enemyDestroyers[2]._ellipseRenderer.ToShow(false);
 	}
 
 	private void OnEndWalkInCastle(EndWalkInCastleEvent obj)
@@ -83,9 +83,9 @@ public class KingProtection : MonoBehaviour
 
 	private void OnStartWalkInCastle(StartWalkInCastleEvent obj)
 	{
-		_enemyDestroyers[0]._ellipseRenderer.gameObject.SetActive(false);
-		_enemyDestroyers[1]._ellipseRenderer.gameObject.SetActive(false);
-		_enemyDestroyers[2]._ellipseRenderer.gameObject.SetActive(false);
+		_enemyDestroyers[0]._ellipseRenderer.ToShow(false);
+		_enemyDestroyers[1]._ellipseRenderer.ToShow(false);
+		_enemyDestroyers[2]._ellipseRenderer.ToShow(false);
 	}
 
 	private void Update()

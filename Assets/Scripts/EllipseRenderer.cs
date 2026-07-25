@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 
 [RequireComponent(typeof(LineRenderer))]
@@ -50,6 +51,37 @@ public class EllipseRenderer : MonoBehaviour
 
 			line.SetPosition(i, new Vector3(x, y, 0f));
 		}
+	}
+	
+	public void ToShow(bool toShow, float duration=0.5f)
+	{
+		var targetAlpha = toShow ? 1f : 0f;
+		StartCoroutine(FadeTo(_regularSprite, targetAlpha, duration));
+	}
+	
+	/// <summary>
+	/// Fades any passed-in SpriteRenderer to a target alpha.
+	/// </summary>
+	public IEnumerator FadeTo(SpriteRenderer targetSprite, float targetAlpha, float duration)
+	{
+		if (targetSprite == null) yield break;
+
+		Color startColor = targetSprite.color;
+		float startAlpha = startColor.a;
+		float elapsed = 0f;
+
+		while (elapsed < duration)
+		{
+			elapsed += Time.deltaTime;
+			float newAlpha = Mathf.Lerp(startAlpha, targetAlpha, elapsed / duration);
+            
+			targetSprite.color = new Color(startColor.r, startColor.g, startColor.b, newAlpha);
+            
+			yield return null;
+		}
+
+		// Guarantee final value
+		targetSprite.color = new Color(startColor.r, startColor.g, startColor.b, targetAlpha);
 	}
 
 	public void OnPressed(bool isPressed)
