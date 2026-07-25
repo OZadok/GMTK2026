@@ -127,6 +127,7 @@ MonoBehaviour:
   _type: 0
   _animator: {fileID: 442057113786489269}
   _goToKing: {fileID: 8699382332723798439}
+  _lightning: {fileID: 5605005113363120988, guid: 9d46f4e3175e6c94388b94e1dc5d8f42, type: 3}
   _isDead: 0
 --- !u!1 &1690457584096913001
 GameObject:

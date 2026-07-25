@@ -15,6 +15,8 @@ public class Enemy : MonoBehaviour
 	[SerializeField] private Animator _animator;
 	[SerializeField] private GoToKing _goToKing;
 
+	[SerializeField] private GameObject _lightning;
+
 	[ReadOnly] public bool _isDead = false;
 
 	private void OnEnable()
@@ -48,6 +50,10 @@ public class Enemy : MonoBehaviour
 	public void Electrified()
 	{
 		_isDead = true;
+
+		var lightning = Instantiate(_lightning, transform).GetComponent<Lightning>();
+		lightning.Play();
+		
 		_animator.SetTrigger(Electrified1);
 		_goToKing.enabled = false;
 	}
