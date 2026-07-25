@@ -16,7 +16,7 @@ MonoBehaviour:
   _progressBarBackground: {fileID: 21300000, guid: ab9fdc42e7a794063a703e16e5378050, type: 3}
   _flowersSprite: {fileID: 21300000, guid: 8863c5a78b6e64da49d2e4f50f3a941c, type: 3}
   _enemyType: 2
-  _levelTimerTime: 20
+  _levelTimerTime: 30
   _timeToAddWhenEnemyDestroyed: 1
   _timeToReduceWhenPressedAndEnemyNotDestroyed: 1
   _timeToReduceWhenEnemyReachesKing: 3
