@@ -33,6 +33,8 @@ Transform:
   m_Children:
   - {fileID: 8818462939847497813}
   - {fileID: 4252503933280772559}
+  - {fileID: 1025642359974792664}
+  - {fileID: 6438628951399460045}
   m_Father: {fileID: 3917167532423624901}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!120 &499002256020354666
@@ -262,6 +264,8 @@ MonoBehaviour:
   line: {fileID: 499002256020354666}
   _regularSprite: {fileID: 3171049219376220172}
   _pressedSprite: {fileID: 1774934755631260364}
+  _particleSystemBack: {fileID: 94905321935034271}
+  _particleSystemFront: {fileID: 2131651583448756245}
   _color: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 1}
 --- !u!1 &1342776652450585234
 GameObject:
@@ -296,6 +300,8 @@ Transform:
   m_Children:
   - {fileID: 5946894449037325315}
   - {fileID: 8410313364413999797}
+  - {fileID: 3000988395787077019}
+  - {fileID: 5872791988722099646}
   m_Father: {fileID: 3917167532423624901}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!120 &1575140525290625045
@@ -525,6 +531,8 @@ MonoBehaviour:
   line: {fileID: 1575140525290625045}
   _regularSprite: {fileID: 3728625576684991200}
   _pressedSprite: {fileID: 7653244607094335986}
+  _particleSystemBack: {fileID: 2417641021642583271}
+  _particleSystemFront: {fileID: 6619350388652882026}
   _color: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 1}
 --- !u!1 &1355385531763675540
 GameObject:
@@ -557,7 +565,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 8410313364413999797}
+  m_Father: {fileID: 8719742342396520281}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!198 &2417641021642583271
 ParticleSystem:
@@ -576,7 +584,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -5391,9 +5399,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 3000988395787077019}
-  - {fileID: 5872791988722099646}
+  m_Children: []
   m_Father: {fileID: 8719742342396520281}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7653244607094335986
@@ -5486,7 +5492,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 8410313364413999797}
+  m_Father: {fileID: 8719742342396520281}
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!198 &6619350388652882026
 ParticleSystem:
@@ -5505,7 +5511,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -10773,9 +10779,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1025642359974792664}
-  - {fileID: 6438628951399460045}
+  m_Children: []
   m_Father: {fileID: 4749064480048886914}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1774934755631260364
@@ -10868,7 +10872,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 4252503933280772559}
+  m_Father: {fileID: 4749064480048886914}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!198 &94905321935034271
 ParticleSystem:
@@ -10887,7 +10891,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -15704,7 +15708,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 4252503933280772559}
+  m_Father: {fileID: 4749064480048886914}
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!198 &2131651583448756245
 ParticleSystem:
@@ -15723,7 +15727,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -20540,7 +20544,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 853351483970857380}
+  m_Father: {fileID: 9222118739042676012}
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!198 &3229151971260923555
 ParticleSystem:
@@ -20559,7 +20563,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -25378,6 +25382,8 @@ Transform:
   m_Children:
   - {fileID: 5500103796089552683}
   - {fileID: 853351483970857380}
+  - {fileID: 7678654993711092020}
+  - {fileID: 7655320157672162585}
   m_Father: {fileID: 3917167532423624901}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!120 &4212726613806835625
@@ -25607,6 +25613,8 @@ MonoBehaviour:
   line: {fileID: 4212726613806835625}
   _regularSprite: {fileID: 9066224638568881759}
   _pressedSprite: {fileID: 7433396205227625221}
+  _particleSystemBack: {fileID: 2733708224200054373}
+  _particleSystemFront: {fileID: 3229151971260923555}
   _color: {r: 0.54509807, g: 0.21803921, b: 0.32705888, a: 1}
 --- !u!1 &8069266315632377673
 GameObject:
@@ -25639,7 +25647,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 853351483970857380}
+  m_Father: {fileID: 9222118739042676012}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!198 &2733708224200054373
 ParticleSystem:
@@ -25658,7 +25666,7 @@ ParticleSystem:
   emitterVelocityMode: 1
   looping: 1
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   startDelay:
@@ -30473,9 +30481,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 7678654993711092020}
-  - {fileID: 7655320157672162585}
+  m_Children: []
   m_Father: {fileID: 9222118739042676012}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7433396205227625221
