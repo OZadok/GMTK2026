@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using Events;
 using SuperMaxim.Messaging;
 using TMPro;
@@ -18,6 +19,9 @@ public class UiTimer : MonoBehaviour
 
 	[Header("Parameters")] [SerializeField]
 	private float _timeForChangeTimeToApear = 0.5f;
+
+	[SerializeField] private Color _plusColor;
+	[SerializeField] private Color _minusColor;
 
 	private void Start()
 	{
@@ -50,13 +54,39 @@ public class UiTimer : MonoBehaviour
 		_timeText.text = "";
 	}
 
+	private Coroutine _colorTextCoroutine;
 	private void OnTimerTimeChange(TimerTimeChangeEvent timerTimeChangeEvent)
 	{
+		if (_colorTextCoroutine != null)
+		{
+			StopCoroutine(_colorTextCoroutine);
+		}
+		_colorTextCoroutine = StartCoroutine(ColorText(timerTimeChangeEvent.Amount > 0));
 		return;
 		var text = timerTimeChangeEvent.Amount > 0 ? "+" + timerTimeChangeEvent.Amount : $"{timerTimeChangeEvent.Amount}";
 		var changeTimeText = Instantiate(_changeTimeText, _changeTimeParent);
 		changeTimeText.text = text;
 		Destroy(changeTimeText.gameObject, _timeForChangeTimeToApear);
+	}
+
+	private IEnumerator ColorText(bool isPlus)
+	{
+		if (isPlus)
+		{
+			_timeText.color = _plusColor;
+		}
+		else
+		{
+			_timeText.color = _minusColor;
+		}
+		yield return new WaitForSeconds(0.4f);
+		TextWhite();
+		_colorTextCoroutine = null;
+	}
+
+	private void TextWhite()
+	{
+		_timeText.color = Color.white;
 	}
 
 	private void OnTimerTime(TimerTimeEvent timerTimeEvent)
