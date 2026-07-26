@@ -269,6 +269,7 @@ MonoBehaviour:
   _particleSystemFront: {fileID: 2131651583448756245}
   _color: {r: 0.3882353, g: 0.3254902, b: 0.5686275, a: 1}
   _uiTimerNumberChange: {fileID: 5397446878928284517}
+  _pressingAudioEvent: {fileID: 11400000, guid: a9c453dfce1b5744c8b17b89e32b8baa, type: 2}
 --- !u!1 &1342776652450585234
 GameObject:
   m_ObjectHideFlags: 0
@@ -538,6 +539,7 @@ MonoBehaviour:
   _particleSystemFront: {fileID: 6619350388652882026}
   _color: {r: 0.44705883, g: 0.5137255, b: 0.34509805, a: 1}
   _uiTimerNumberChange: {fileID: 3320679541955729932}
+  _pressingAudioEvent: {fileID: 11400000, guid: 08ce0593250858c4dba583130959f9ca, type: 2}
 --- !u!1 &1355385531763675540
 GameObject:
   m_ObjectHideFlags: 0
@@ -25622,6 +25624,7 @@ MonoBehaviour:
   _particleSystemFront: {fileID: 3229151971260923555}
   _color: {r: 0.54509807, g: 0.21803921, b: 0.32705888, a: 1}
   _uiTimerNumberChange: {fileID: 3811541871567426154}
+  _pressingAudioEvent: {fileID: 11400000, guid: b4ee2b27e7a014b4499fd4e83063dd6b, type: 2}
 --- !u!1 &8069266315632377673
 GameObject:
   m_ObjectHideFlags: 0

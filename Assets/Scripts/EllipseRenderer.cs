@@ -20,6 +20,8 @@ public class EllipseRenderer : MonoBehaviour
 	
 	[SerializeField] private UITimerNumberChange _uiTimerNumberChange;
 
+	[SerializeField] private AudioEvent _pressingAudioEvent;
+
 	private bool _isShowing;
 
 	void Awake()
@@ -111,6 +113,7 @@ public class EllipseRenderer : MonoBehaviour
 			if (!_particleSystemBack.isPlaying)
 			{
 				_particleSystemBack.Play();
+				_pressingAudioEvent.Play(transform);
 			}
 			if (!_particleSystemFront.isPlaying)
 			{
