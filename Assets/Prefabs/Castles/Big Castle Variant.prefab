@@ -214,6 +214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5161467962965602440}
+  - component: {fileID: 8428646200113886730}
   m_Layer: 0
   m_Name: Flora
   m_TagString: Untagged
@@ -237,6 +238,19 @@ Transform:
   - {fileID: 6845985488145462047}
   m_Father: {fileID: 1251734542147646281}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8428646200113886730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5335452142303968421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc21128c3e779a94a80cc46b29d7e50a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Flora
+  _animator: {fileID: 849992471282411147}
 --- !u!1001 &4856002778034839185
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -264,6 +278,10 @@ PrefabInstance:
     - target: {fileID: 4054018827510563292, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
       propertyPath: m_LocalPosition.x
       value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4249869190472375592, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
       propertyPath: m_ShapePath.Array.size
@@ -377,6 +395,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: deccfe24aef6cb44c99f8c00987c19ac, type: 3}
+    - target: {fileID: 7165204339751133344, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121295706918793794, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.5

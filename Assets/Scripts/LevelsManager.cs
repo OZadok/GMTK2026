@@ -101,6 +101,9 @@ public class LevelsManager : MonoBehaviour
         yield return new WaitUntil(() => xPosition + 4.5f <= _kingMovement.transform.position.x);
         _kingMovement.StopWalking();
         yield return new WaitForSeconds(1f);
+        var flora = FindAnyObjectByType<Flora>();
+        flora.Surprise();
+        yield return new WaitForSeconds(0.5f);
         _angel.SetLevel(_lastLevel); //remove flowers from angel
         yield return new WaitForSeconds(1f);
         _gameOverGameObject.SetActive(true);
