@@ -257,6 +257,74 @@ PrefabInstance:
       propertyPath: m_Name
       value: Big Castle Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 3026279417857140302, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4054018827510563292, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_LocalBounds.m_Center.x
+      value: 6.5226
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_LocalBounds.m_Center.y
+      value: 0.76030004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_LocalBounds.m_Extent.x
+      value: 8.0226
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_LocalBounds.m_Extent.y
+      value: 2.3200002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[1].x
+      value: 13.545055
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[1].y
+      value: -0.5605736
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[2].x
+      value: 13.528005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[2].y
+      value: 1.474719
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[3].x
+      value: 12.9855585
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[3].y
+      value: 2.0799174
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[4].x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[4].y
+      value: 2.0559692
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[5].x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339096845642283625, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
+      propertyPath: m_ShapePath.Array.data[5].y
+      value: 1.4182696
+      objectReference: {fileID: 0}
     - target: {fileID: 4477165727816715373, guid: 7ccb25479d2dae74899e09c944637f80, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.5
