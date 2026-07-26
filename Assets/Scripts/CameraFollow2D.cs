@@ -82,6 +82,6 @@ public class CameraFollow2D : MonoBehaviour
 
 	private void OnEnemyReachesKing(EnemyReachesKingEvent obj)
 	{
-		TriggerShake();
+		TriggerShake(0.3f, 0.15f, 1f);
 	}
 }
