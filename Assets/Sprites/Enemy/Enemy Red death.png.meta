@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 60f0c71d48e17a244891040416d003b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5331408681184174185
+    second: Enemy Red death_0
+  - first:
+      213: 8466704481457630882
+    second: Enemy Red death_1
+  - first:
+      213: -1300405654605093369
+    second: Enemy Red death_2
+  - first:
+      213: 4537383696565327027
+    second: Enemy Red death_3
+  - first:
+      213: 1520592995254180831
+    second: Enemy Red death_4
+  - first:
+      213: -1408080241973177811
+    second: Enemy Red death_5
+  - first:
+      213: -4598237685043361881
+    second: Enemy Red death_6
+  - first:
+      213: -7673634770301786178
+    second: Enemy Red death_7
+  - first:
+      213: -5201619581554881353
+    second: Enemy Red death_8
+  - first:
+      213: 3575969029403293710
+    second: Enemy Red death_9
+  - first:
+      213: -336845500181043013
+    second: Enemy Red death_10
+  - first:
+      213: -6906839437741180199
+    second: Enemy Red death_11
+  - first:
+      213: -603815778132421846
+    second: Enemy Red death_12
+  - first:
+      213: 8446195654023995356
+    second: Enemy Red death_13
+  - first:
+      213: -6632789928024811698
+    second: Enemy Red death_14
+  - first:
+      213: 518893510120072139
+    second: Enemy Red death_15
+  - first:
+      213: 4075198719638302014
+    second: Enemy Red death_16
+  - first:
+      213: -7631631546999940348
+    second: Enemy Red death_17
+  - first:
+      213: 6102614279505025940
+    second: Enemy Red death_18
+  - first:
+      213: 3126280611049003403
+    second: Enemy Red death_19
+  - first:
+      213: -2654706073171862880
+    second: Enemy Red death_20
+  - first:
+      213: -5645171609391047032
+    second: Enemy Red death_21
+  - first:
+      213: 8028177315534924954
+    second: Enemy Red death_22
+  - first:
+      213: 3732357269290816060
+    second: Enemy Red death_23
+  - first:
+      213: 7072610210599489625
+    second: Enemy Red death_24
+  - first:
+      213: -6609404169224364856
+    second: Enemy Red death_25
+  - first:
+      213: -5716916526739530508
+    second: Enemy Red death_26
+  - first:
+      213: -4494271350488114850
+    second: Enemy Red death_27
+  - first:
+      213: 4156220895020778268
+    second: Enemy Red death_28
+  - first:
+      213: -8631422777685632579
+    second: Enemy Red death_29
+  - first:
+      213: 7051308369070544664
+    second: Enemy Red death_30
+  - first:
+      213: 1739367665128709527
+    second: Enemy Red death_31
+  - first:
+      213: -5881422864156330546
+    second: Enemy Red death_32
+  - first:
+      213: 6153249038191884489
+    second: Enemy Red death_33
+  - first:
+      213: -3064408712975056787
+    second: Enemy Red death_34
+  - first:
+      213: 7727001732404148768
+    second: Enemy Red death_35
+  - first:
+      213: -1601802287877881027
+    second: Enemy Red death_36
+  - first:
+      213: 3968601790600303026
+    second: Enemy Red death_37
+  - first:
+      213: -890193018830987772
+    second: Enemy Red death_38
+  - first:
+      213: 6695681226062716470
+    second: Enemy Red death_39
+  - first:
+      213: -4135441957143992088
+    second: Enemy Red death_40
+  - first:
+      213: 1264139445060746187
+    second: Enemy Red death_41
+  - first:
+      213: 1765813567243006180
+    second: Enemy Red death_42
+  - first:
+      213: 4535669891077062874
+    second: Enemy Red death_43
+  - first:
+      213: 9039316622428910431
+    second: Enemy Red death_44
+  - first:
+      213: -5841672111937911048
+    second: Enemy Red death_45
+  - first:
+      213: -4745101293552164556
+    second: Enemy Red death_46
+  - first:
+      213: -642158777397872342
+    second: Enemy Red death_47
+  - first:
+      213: 929352821412131528
+    second: Enemy Red death_48
+  - first:
+      213: -7339190254006023668
+    second: Enemy Red death_49
+  - first:
+      213: -3210202731544615361
+    second: Enemy Red death_50
+  - first:
+      213: -2152775719302112473
+    second: Enemy Red death_51
+  - first:
+      213: -5101610894218372101
+    second: Enemy Red death_52
+  - first:
+      213: 5439921959015050890
+    second: Enemy Red death_53
+  - first:
+      213: -7370380937641935883
+    second: Enemy Red death_54
+  - first:
+      213: -6822781724103930010
+    second: Enemy Red death_55
+  - first:
+      213: -1891192603911005630
+    second: Enemy Red death_56
+  - first:
+      213: -1316857290052646160
+    second: Enemy Red death_57
+  - first:
+      213: -1419840577514132810
+    second: Enemy Red death_58
+  - first:
+      213: 36200909416838664
+    second: Enemy Red death_59
+  - first:
+      213: -2051953193624115410
+    second: Enemy Red death_60
+  - first:
+      213: 1712518636004997896
+    second: Enemy Red death_61
+  - first:
+      213: 4620361220225622756
+    second: Enemy Red death_62
+  - first:
+      213: 4756761464969346601
+    second: Enemy Red death_63
+  - first:
+      213: 8416062479331967156
+    second: Enemy Red death_64
+  - first:
+      213: -6293402449544700265
+    second: Enemy Red death_65
+  - first:
+      213: -6212561400140342843
+    second: Enemy Red death_66
+  - first:
+      213: 4273045409257313576
+    second: Enemy Red death_67
+  - first:
+      213: -6103119110384379427
+    second: Enemy Red death_68
+  - first:
+      213: -4163877078660258907
+    second: Enemy Red death_69
+  - first:
+      213: -893688909228470182
+    second: Enemy Red death_70
+  - first:
+      213: 6120856506653614366
+    second: Enemy Red death_71
+  - first:
+      213: 1313665856045343131
+    second: Enemy Red death_72
+  - first:
+      213: 6505630163010823559
+    second: Enemy Red death_73
+  - first:
+      213: 389583704483663119
+    second: Enemy Red death_74
+  - first:
+      213: -3103974915868751666
+    second: Enemy Red death_75
+  - first:
+      213: 4642213150251807850
+    second: Enemy Red death_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Red death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 9
+      pivot: {x: 0.34, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960aa62d2f7fcf940800000000000000
+      internalID: 5331408681184174185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Red death_1
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 9
+      pivot: {x: 0.34, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae6d7b0ed6cf7570800000000000000
+      internalID: 8466704481457630882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Red death_2
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 834
+        width: 1169
+        height: 834
+      alignment: 9
+      pivot: {x: 0.34, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706aa5d62f704fde0800000000000000
+      internalID: -1300405654605093369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Red death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 9
+      pivot: {x: 0.34, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4dc639e6608fe30800000000000000
+      internalID: 4537383696565327027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Red death_4
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 9
+      pivot: {x: 0.34, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9212d54b3a1510800000000000000
+      internalID: 1520592995254180831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Red death_5
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 0
+        width: 1169
+        height: 834
+      alignment: 9
+      pivot: {x: 0.34, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2251f1fa7e757ce0800000000000000
+      internalID: -1408080241973177811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 29ff6b25a2a836f47b93cbb5d7d50301
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":1169.0,"y":834.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.3400000035762787,"y":0.07500000298023224},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Enemy Red death_0: 5331408681184174185
+      Enemy Red death_1: 8466704481457630882
+      Enemy Red death_2: -1300405654605093369
+      Enemy Red death_3: 4537383696565327027
+      Enemy Red death_4: 1520592995254180831
+      Enemy Red death_5: -1408080241973177811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
