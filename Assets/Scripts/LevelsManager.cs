@@ -20,7 +20,7 @@ public class LevelsManager : MonoBehaviour
     private Vector3 _lastCheckPointPosition;
     private Coroutine _checkPointCoroutine;
     
-    private List<GameObject> _castles = new List<GameObject>();
+    [SerializeField] private List<Castle> _castles = new List<Castle>();
 
     private float LevelProgress { get; set; }
     
@@ -49,14 +49,14 @@ public class LevelsManager : MonoBehaviour
         _kingProtection.Init(levelParameters._enemyType);
         
         var castleXPosition = _kingMovement.transform.position.x + levelParameters._levelDistance + 15.2f;
-        if (_castles.Count == _lastLevel)
+        if (_castles.Count == _lastLevel + 1)
         {
-            _castles.Add(Instantiate(levelParameters._castlePrefab));
+            _castles.Add(Instantiate(levelParameters._castlePrefab).GetComponent<Castle>());
         }
-        var castleGameObject = _castles[_lastLevel];
-        var vector3 = castleGameObject.transform.position;
+        var castle = _castles[_lastLevel + 1];
+        var vector3 = castle.transform.position;
         vector3.x = castleXPosition;
-        castleGameObject.transform.position = vector3;
+        castle.transform.position = vector3;
         
         _progressBar.SwapBackgroundSprite(levelParameters._progressBarBackground);
     }
@@ -148,6 +148,7 @@ public class LevelsManager : MonoBehaviour
         var xPosition = _kingMovement.transform.position.x;
         _kingMovement.StartWalkingStraight();
         yield return new WaitUntil(() => xPosition + 8.55f <= _kingMovement.transform.position.x);
+        _castles[^1].ShowRightFlag();
         _kingMovement.StartWalkingDownStairs();
         yield return new WaitUntil(() => _kingMovement.transform.position.y <= -2);
         var vector3 = _kingMovement.transform.position;
@@ -168,6 +169,7 @@ public class LevelsManager : MonoBehaviour
         _kingMovement.transform.position = vector3;
         var xPosition = _kingMovement.transform.position.x;
         _kingMovement.StartWalkingStraight();
+        _castles[^1].ShowLeftFlag();
         yield return new WaitUntil(() => xPosition + 8.55f <= _kingMovement.transform.position.x);
     }
 }
