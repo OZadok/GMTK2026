@@ -144,6 +144,11 @@ public class LevelsManager : MonoBehaviour
         _angel.SetLevel(_lastLevel);
         yield return StartCoroutine(WalkCastleOut());
         Messenger.Default.Publish(new EndWalkInCastleEvent());
+        if (levelParameters._tutorialPrefab)
+        {
+            var tutorialGameObject = Instantiate(levelParameters._tutorialPrefab);
+            Destroy(tutorialGameObject, 6f);
+        }
         SetLevel(levelParameters);
         LevelProgress = 0;
         Messenger.Default.Publish(new LevelProgressEvent(LevelProgress/levelParameters._levelDistance));

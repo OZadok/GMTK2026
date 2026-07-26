@@ -7,6 +7,7 @@ public class LevelParameters : ScriptableObject
 	public GameObject _castlePrefab;
 	public Sprite _progressBarBackground;
 	public Sprite _flowersSprite;
+	public GameObject _tutorialPrefab;
 	
 	[Header("Parameters")]
 	public EnemyType _enemyType;
