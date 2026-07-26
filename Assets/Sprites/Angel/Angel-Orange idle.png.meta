@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: d3e0eab8ec44f6542960fbf18a3e02ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4174628833132099777
+    second: Angel-Orange idle_0
+  - first:
+      213: 4230416466560964162
+    second: Angel-Orange idle_1
+  - first:
+      213: 5914150938655558533
+    second: Angel-Orange idle_2
+  - first:
+      213: 6176317589445842419
+    second: Angel-Orange idle_3
+  - first:
+      213: 8437433836540072328
+    second: Angel-Orange idle_4
+  - first:
+      213: -4211464391652275146
+    second: Angel-Orange idle_5
+  - first:
+      213: -1886527821199767249
+    second: Angel-Orange idle_6
+  - first:
+      213: 145958051429190808
+    second: Angel-Orange idle_7
+  - first:
+      213: -115737347998398419
+    second: Angel-Orange idle_8
+  - first:
+      213: -7250574439661877053
+    second: Angel-Orange idle_9
+  - first:
+      213: 211284127291392738
+    second: Angel-Orange idle_10
+  - first:
+      213: 6184264036821763673
+    second: Angel-Orange idle_11
+  - first:
+      213: 5048508157497816562
+    second: Angel-Orange idle_12
+  - first:
+      213: 4260718414990605507
+    second: Angel-Orange idle_13
+  - first:
+      213: -9139251618916111810
+    second: Angel-Orange idle_14
+  - first:
+      213: -8418366436976150704
+    second: Angel-Orange idle_15
+  - first:
+      213: -1859438740347226412
+    second: Angel-Orange idle_16
+  - first:
+      213: 7580255313158822334
+    second: Angel-Orange idle_17
+  - first:
+      213: -1490222770043548219
+    second: Angel-Orange idle_18
+  - first:
+      213: 9060418153255196057
+    second: Angel-Orange idle_19
+  - first:
+      213: 6233978234755626893
+    second: Angel-Orange idle_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel-Orange idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c831fb3ec24fe930800000000000000
+      internalID: 4174628833132099777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2465455dc5575ba30800000000000000
+      internalID: 4230416466560964162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b8b96b1f8431250800000000000000
+      internalID: 5914150938655558533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f59ae2cf10b6b550800000000000000
+      internalID: 6176317589445842419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88115d2fe59c71570800000000000000
+      internalID: 8437433836540072328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0c57f27fdd85c0800000000000000
+      internalID: -4211464391652275146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f290f7e11f4b1d5e0800000000000000
+      internalID: -1886527821199767249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c8b8f031c860200800000000000000
+      internalID: 145958051429190808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d284f45ce71d46ef0800000000000000
+      internalID: -115737347998398419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_9
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c84d6a56f8c06b90800000000000000
+      internalID: -7250574439661877053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2c1e95bc1aee200800000000000000
+      internalID: 211284127291392738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9560cf7306be2d550800000000000000
+      internalID: 6184264036821763673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b15dcb67ef0640800000000000000
+      internalID: 5048508157497816562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccfa7df2dc112b30800000000000000
+      internalID: 4260718414990605507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_14
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a679d031bda2180800000000000000
+      internalID: -9139251618916111810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05737f6f354fb2b80800000000000000
+      internalID: -8418366436976150704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f0004152f136e0800000000000000
+      internalID: -1859438740347226412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9599f9b0a723960800000000000000
+      internalID: 7580255313158822334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_18
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd0b53494aa15be0800000000000000
+      internalID: -1490222770043548219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_19
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995d6456e421dbd70800000000000000
+      internalID: 9060418153255196057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Orange idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87302cec2a838650800000000000000
+      internalID: 6233978234755626893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c055d88754eb7e45ac76643482c4bf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":383.0,"y":384.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Angel-Orange idle_0: 4174628833132099777
+      Angel-Orange idle_1: 4230416466560964162
+      Angel-Orange idle_10: 211284127291392738
+      Angel-Orange idle_11: 6184264036821763673
+      Angel-Orange idle_12: 5048508157497816562
+      Angel-Orange idle_13: 4260718414990605507
+      Angel-Orange idle_14: -9139251618916111810
+      Angel-Orange idle_15: -8418366436976150704
+      Angel-Orange idle_16: -1859438740347226412
+      Angel-Orange idle_17: 7580255313158822334
+      Angel-Orange idle_18: -1490222770043548219
+      Angel-Orange idle_19: 9060418153255196057
+      Angel-Orange idle_2: 5914150938655558533
+      Angel-Orange idle_20: 6233978234755626893
+      Angel-Orange idle_3: 6176317589445842419
+      Angel-Orange idle_4: 8437433836540072328
+      Angel-Orange idle_5: -4211464391652275146
+      Angel-Orange idle_6: -1886527821199767249
+      Angel-Orange idle_7: 145958051429190808
+      Angel-Orange idle_8: -115737347998398419
+      Angel-Orange idle_9: -7250574439661877053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

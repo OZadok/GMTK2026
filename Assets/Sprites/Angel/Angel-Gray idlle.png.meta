@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: a0b99d6d44e23de45ac5d3dffbce2544
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4340547239903161980
+    second: Angel-Gray idlle_0
+  - first:
+      213: 1713685015128464131
+    second: Angel-Gray idlle_1
+  - first:
+      213: -1820632808984266581
+    second: Angel-Gray idlle_2
+  - first:
+      213: -8516177194865927624
+    second: Angel-Gray idlle_3
+  - first:
+      213: 6214738804211662128
+    second: Angel-Gray idlle_4
+  - first:
+      213: 2296208737714474804
+    second: Angel-Gray idlle_5
+  - first:
+      213: 2113032545975739965
+    second: Angel-Gray idlle_6
+  - first:
+      213: 5142619472006017213
+    second: Angel-Gray idlle_7
+  - first:
+      213: -3508758819591708019
+    second: Angel-Gray idlle_8
+  - first:
+      213: 4108857824606297024
+    second: Angel-Gray idlle_9
+  - first:
+      213: -2326198216110258186
+    second: Angel-Gray idlle_10
+  - first:
+      213: -7848131801456567347
+    second: Angel-Gray idlle_11
+  - first:
+      213: 997800077528174284
+    second: Angel-Gray idlle_12
+  - first:
+      213: 6832439990477609158
+    second: Angel-Gray idlle_13
+  - first:
+      213: 4090999178295379155
+    second: Angel-Gray idlle_14
+  - first:
+      213: -1530741434169252245
+    second: Angel-Gray idlle_15
+  - first:
+      213: -977048508870006414
+    second: Angel-Gray idlle_16
+  - first:
+      213: -7496084513186887858
+    second: Angel-Gray idlle_17
+  - first:
+      213: 5262174360032064944
+    second: Angel-Gray idlle_18
+  - first:
+      213: 6964655554318335021
+    second: Angel-Gray idlle_19
+  - first:
+      213: 157987510629070013
+    second: Angel-Gray idlle_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel-Gray idlle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eea3da7b8bc3c30800000000000000
+      internalID: 4340547239903161980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b54a7117b38c710800000000000000
+      internalID: 1713685015128464131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8321a3b10dbb6e0800000000000000
+      internalID: -1820632808984266581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83adbbf36f570d980800000000000000
+      internalID: -8516177194865927624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3fdce3003f3650800000000000000
+      internalID: 6214738804211662128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8e9d5ea5cddf10800000000000000
+      internalID: 2296208737714474804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3629bdb7eff25d10800000000000000
+      internalID: 2113032545975739965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0fcebb9214e5740800000000000000
+      internalID: 5142619472006017213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a7bb91726e4fc0800000000000000
+      internalID: -3508758819591708019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_9
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb1e3cfb68950930800000000000000
+      internalID: 4108857824606297024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7c9931c0fa7bfd0800000000000000
+      internalID: -2326198216110258186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb1cbf25b5d51390800000000000000
+      internalID: -7848131801456567347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce8ce942e5e8dd00800000000000000
+      internalID: 997800077528174284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85795b8f3b1de50800000000000000
+      internalID: 6832439990477609158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_14
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d406bed31626c830800000000000000
+      internalID: 4090999178295379155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66ae5d96c6b1cae0800000000000000
+      internalID: -1530741434169252245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2796a7cce83d072f0800000000000000
+      internalID: -977048508870006414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e474039e9de88f790800000000000000
+      internalID: -7496084513186887858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_18
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b531e343bff60940800000000000000
+      internalID: 5262174360032064944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_19
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c781a835d67a060800000000000000
+      internalID: 6964655554318335021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Gray idlle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47ef9cdc8413200800000000000000
+      internalID: 157987510629070013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fda205a0a99a74f4b8b657b5917af772
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":383.0,"y":384.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Angel-Gray idlle_0: 4340547239903161980
+      Angel-Gray idlle_1: 1713685015128464131
+      Angel-Gray idlle_10: -2326198216110258186
+      Angel-Gray idlle_11: -7848131801456567347
+      Angel-Gray idlle_12: 997800077528174284
+      Angel-Gray idlle_13: 6832439990477609158
+      Angel-Gray idlle_14: 4090999178295379155
+      Angel-Gray idlle_15: -1530741434169252245
+      Angel-Gray idlle_16: -977048508870006414
+      Angel-Gray idlle_17: -7496084513186887858
+      Angel-Gray idlle_18: 5262174360032064944
+      Angel-Gray idlle_19: 6964655554318335021
+      Angel-Gray idlle_2: -1820632808984266581
+      Angel-Gray idlle_20: 157987510629070013
+      Angel-Gray idlle_3: -8516177194865927624
+      Angel-Gray idlle_4: 6214738804211662128
+      Angel-Gray idlle_5: 2296208737714474804
+      Angel-Gray idlle_6: 2113032545975739965
+      Angel-Gray idlle_7: 5142619472006017213
+      Angel-Gray idlle_8: -3508758819591708019
+      Angel-Gray idlle_9: 4108857824606297024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

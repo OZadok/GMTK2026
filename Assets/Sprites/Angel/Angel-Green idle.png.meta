@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 70b283c4a1fc39d4cb16689090783849
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -103443434769143669
+    second: Angel-Green idle_0
+  - first:
+      213: 4761468723303744556
+    second: Angel-Green idle_1
+  - first:
+      213: -953911248458330558
+    second: Angel-Green idle_2
+  - first:
+      213: -5750727566544823308
+    second: Angel-Green idle_3
+  - first:
+      213: 5183333813956975213
+    second: Angel-Green idle_4
+  - first:
+      213: -4127540776948766536
+    second: Angel-Green idle_5
+  - first:
+      213: 8119530494628954189
+    second: Angel-Green idle_6
+  - first:
+      213: 6317602133007081640
+    second: Angel-Green idle_7
+  - first:
+      213: -970020890019786473
+    second: Angel-Green idle_8
+  - first:
+      213: -6858361849406414354
+    second: Angel-Green idle_9
+  - first:
+      213: 5753887986259441827
+    second: Angel-Green idle_10
+  - first:
+      213: -3668310146508534285
+    second: Angel-Green idle_11
+  - first:
+      213: 3329958797610602730
+    second: Angel-Green idle_12
+  - first:
+      213: 2943793038311934703
+    second: Angel-Green idle_13
+  - first:
+      213: -4769508840248388097
+    second: Angel-Green idle_14
+  - first:
+      213: 3740105193030626032
+    second: Angel-Green idle_15
+  - first:
+      213: -7127417843012401764
+    second: Angel-Green idle_16
+  - first:
+      213: -8404457714254534625
+    second: Angel-Green idle_17
+  - first:
+      213: 5293643098667459033
+    second: Angel-Green idle_18
+  - first:
+      213: -6323905183154133594
+    second: Angel-Green idle_19
+  - first:
+      213: 8472331692060654639
+    second: Angel-Green idle_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel-Green idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b882d308ebe709ef0800000000000000
+      internalID: -103443434769143669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2407a59392241240800000000000000
+      internalID: 4761468723303744556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e446806c603c2f0800000000000000
+      internalID: -953911248458330558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb9c043fbf4130b0800000000000000
+      internalID: -5750727566544823308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1536
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a1d2d24a6eee740800000000000000
+      internalID: 5183333813956975213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b86702388708b6c0800000000000000
+      internalID: -4127540776948766536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d408f4b37fd5ea070800000000000000
+      internalID: 8119530494628954189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0232afaa1aca750800000000000000
+      internalID: 6317602133007081640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71199a1d32bc982f0800000000000000
+      internalID: -970020890019786473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_9
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1152
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee12a013c3432d0a0800000000000000
+      internalID: -6858361849406414354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b16a53aae9df40800000000000000
+      internalID: 5753887986259441827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdc5677b5b871dc0800000000000000
+      internalID: -3668310146508534285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0544032e3663e20800000000000000
+      internalID: 3329958797610602730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_13
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feac9d4eb247ad820800000000000000
+      internalID: 2943793038311934703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_14
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 768
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d8efcafc4fcdb0800000000000000
+      internalID: -4769508840248388097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa2f2d6bd587e330800000000000000
+      internalID: 3740105193030626032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9507750c33561d90800000000000000
+      internalID: -7127417843012401764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f182114dc3e5d5b80800000000000000
+      internalID: -8404457714254534625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_18
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1a5cfe95cc67940800000000000000
+      internalID: 5293643098667459033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_19
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 384
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a8dccdb9fc38a0800000000000000
+      internalID: -6323905183154133594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel-Green idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c3f8c19c4c39570800000000000000
+      internalID: 8472331692060654639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3252d3ef9da85dd4a9f049dd3851e1e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":383.0,"y":384.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Angel-Green idle_0: -103443434769143669
+      Angel-Green idle_1: 4761468723303744556
+      Angel-Green idle_10: 5753887986259441827
+      Angel-Green idle_11: -3668310146508534285
+      Angel-Green idle_12: 3329958797610602730
+      Angel-Green idle_13: 2943793038311934703
+      Angel-Green idle_14: -4769508840248388097
+      Angel-Green idle_15: 3740105193030626032
+      Angel-Green idle_16: -7127417843012401764
+      Angel-Green idle_17: -8404457714254534625
+      Angel-Green idle_18: 5293643098667459033
+      Angel-Green idle_19: -6323905183154133594
+      Angel-Green idle_2: -953911248458330558
+      Angel-Green idle_20: 8472331692060654639
+      Angel-Green idle_3: -5750727566544823308
+      Angel-Green idle_4: 5183333813956975213
+      Angel-Green idle_5: -4127540776948766536
+      Angel-Green idle_6: 8119530494628954189
+      Angel-Green idle_7: 6317602133007081640
+      Angel-Green idle_8: -970020890019786473
+      Angel-Green idle_9: -6858361849406414354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

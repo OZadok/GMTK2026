@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 361c34c008aa7ad48a211a10aa5a4f0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3378920877679996565
+    second: title king sprite 2_0
+  - first:
+      213: -3247843489504101546
+    second: title king sprite 2_1
+  - first:
+      213: 2103033195136441466
+    second: title king sprite 2_2
+  - first:
+      213: 8126888028815450878
+    second: title king sprite 2_3
+  - first:
+      213: -1823067344336701435
+    second: title king sprite 2_4
+  - first:
+      213: -8929501776133265511
+    second: title king sprite 2_5
+  - first:
+      213: 4567458025663514494
+    second: title king sprite 2_6
+  - first:
+      213: 5015162400727436954
+    second: title king sprite 2_7
+  - first:
+      213: 6440772729262835017
+    second: title king sprite 2_8
+  - first:
+      213: 429885580996993036
+    second: title king sprite 2_9
+  - first:
+      213: -8068836929032814738
+    second: title king sprite 2_10
+  - first:
+      213: 7225183346096211111
+    second: title king sprite 2_11
+  - first:
+      213: -4744208262137651678
+    second: title king sprite 2_12
+  - first:
+      213: -1582073896341929188
+    second: title king sprite 2_13
+  - first:
+      213: 213407342290483895
+    second: title king sprite 2_14
+  - first:
+      213: -6905806510211507699
+    second: title king sprite 2_15
+  - first:
+      213: 3819210342660402022
+    second: title king sprite 2_16
+  - first:
+      213: 6837835370452435488
+    second: title king sprite 2_17
+  - first:
+      213: 3553991896648019315
+    second: title king sprite 2_18
+  - first:
+      213: -3336695783430862226
+    second: title king sprite 2_19
+  - first:
+      213: 5590653124408757679
+    second: title king sprite 2_20
+  - first:
+      213: -8220721106955660212
+    second: title king sprite 2_21
+  - first:
+      213: -552195000372595641
+    second: title king sprite 2_22
+  - first:
+      213: -3780259180796333537
+    second: title king sprite 2_23
+  - first:
+      213: -4652378570383750023
+    second: title king sprite 2_24
+  - first:
+      213: -5595300087841003367
+    second: title king sprite 2_25
+  - first:
+      213: 6616237088012523663
+    second: title king sprite 2_26
+  - first:
+      213: -5674792844760906034
+    second: title king sprite 2_27
+  - first:
+      213: 4773991065783378127
+    second: title king sprite 2_28
+  - first:
+      213: -2749165999758530223
+    second: title king sprite 2_29
+  - first:
+      213: -3800293858373693833
+    second: title king sprite 2_30
+  - first:
+      213: 1231777317811781896
+    second: title king sprite 2_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: title king sprite 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10640
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b619bb13d59ab11d0800000000000000
+      internalID: -3378920877679996565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 10640
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bfa0add875de2d0800000000000000
+      internalID: -3247843489504101546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_2
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 10640
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c56f27c897f2d10800000000000000
+      internalID: 2103033195136441466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_3
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 10640
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef26be6aa9188c070800000000000000
+      internalID: 8126888028815450878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_4
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 10640
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508323bc8e923b6e0800000000000000
+      internalID: -1823067344336701435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_5
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 10640
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9976b54f179041480800000000000000
+      internalID: -8929501776133265511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8512
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774e2affded26f30800000000000000
+      internalID: 4567458025663514494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_7
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 8512
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e014ac1af699540800000000000000
+      internalID: 5015162400727436954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_8
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 8512
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450cbe2ca8326950800000000000000
+      internalID: 6440772729262835017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_9
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 8512
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00636588a247f500800000000000000
+      internalID: 429885580996993036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_10
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 8512
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff176409bb50090800000000000000
+      internalID: -8068836929032814738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_11
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 8512
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4022df8f1054460800000000000000
+      internalID: 7225183346096211111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6384
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22edfc2b8bf292eb0800000000000000
+      internalID: -4744208262137651678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_13
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 6384
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130f186c285b0ae0800000000000000
+      internalID: -1582073896341929188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_14
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 6384
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba3fadd8dc26f200800000000000000
+      internalID: 213407342290483895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_15
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 6384
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a53474195a920a0800000000000000
+      internalID: -6905806510211507699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_16
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 6384
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b65c4529f800530800000000000000
+      internalID: 3819210342660402022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_17
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 6384
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224b608a0fd4ee50800000000000000
+      internalID: 6837835370452435488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4256
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6256dcc0525130800000000000000
+      internalID: 3553991896648019315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_19
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 4256
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4f011ddca1b1d0800000000000000
+      internalID: -3336695783430862226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_20
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 4256
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadcfc6656df59d40800000000000000
+      internalID: 5590653124408757679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_21
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4256
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441a5e55b12aed80800000000000000
+      internalID: -8220721106955660212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_22
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 4256
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447b04a2953658f0800000000000000
+      internalID: -552195000372595641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_23
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 4256
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12b9b1cd42d98bc0800000000000000
+      internalID: -3780259180796333537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2128
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c03afe65e6f6fb0800000000000000
+      internalID: -4652378570383750023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_25
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2128
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998668c17308952b0800000000000000
+      internalID: -5595300087841003367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_26
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2128
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8850c4c39891db50800000000000000
+      internalID: 6616237088012523663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_27
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2128
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6091a59f51f31b0800000000000000
+      internalID: -5674792844760906034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_28
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 2128
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc028e4a49f904240800000000000000
+      internalID: 4773991065783378127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_29
+      rect:
+        serializedVersion: 2
+        x: 9120
+        y: 2128
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159afc3c61009d9d0800000000000000
+      internalID: -2749165999758530223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8981eed4a24bc0800000000000000
+      internalID: -3800293858373693833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: title king sprite 2_31
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 1824
+        height: 2128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8010e8eb1f6281110800000000000000
+      internalID: 1231777317811781896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f2a7ac95d15d0e4e93ba0c892234f0e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":1824.0,"y":2128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      title king sprite 2_0: -3378920877679996565
+      title king sprite 2_1: -3247843489504101546
+      title king sprite 2_10: -8068836929032814738
+      title king sprite 2_11: 7225183346096211111
+      title king sprite 2_12: -4744208262137651678
+      title king sprite 2_13: -1582073896341929188
+      title king sprite 2_14: 213407342290483895
+      title king sprite 2_15: -6905806510211507699
+      title king sprite 2_16: 3819210342660402022
+      title king sprite 2_17: 6837835370452435488
+      title king sprite 2_18: 3553991896648019315
+      title king sprite 2_19: -3336695783430862226
+      title king sprite 2_2: 2103033195136441466
+      title king sprite 2_20: 5590653124408757679
+      title king sprite 2_21: -8220721106955660212
+      title king sprite 2_22: -552195000372595641
+      title king sprite 2_23: -3780259180796333537
+      title king sprite 2_24: -4652378570383750023
+      title king sprite 2_25: -5595300087841003367
+      title king sprite 2_26: 6616237088012523663
+      title king sprite 2_27: -5674792844760906034
+      title king sprite 2_28: 4773991065783378127
+      title king sprite 2_29: -2749165999758530223
+      title king sprite 2_3: 8126888028815450878
+      title king sprite 2_30: -3800293858373693833
+      title king sprite 2_31: 1231777317811781896
+      title king sprite 2_4: -1823067344336701435
+      title king sprite 2_5: -8929501776133265511
+      title king sprite 2_6: 4567458025663514494
+      title king sprite 2_7: 5015162400727436954
+      title king sprite 2_8: 6440772729262835017
+      title king sprite 2_9: 429885580996993036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

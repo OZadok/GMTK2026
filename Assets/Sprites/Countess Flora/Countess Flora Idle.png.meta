@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 33833951febeaff4bb4b82f475dcd05e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6914644194524160677
+    second: Countess Flora Idle_0
+  - first:
+      213: 7339458323765068588
+    second: Countess Flora Idle_1
+  - first:
+      213: -4649989258835748359
+    second: Countess Flora Idle_2
+  - first:
+      213: 8500102126077013416
+    second: Countess Flora Idle_3
+  - first:
+      213: -2147212022484869436
+    second: Countess Flora Idle_4
+  - first:
+      213: -7781617480890260141
+    second: Countess Flora Idle_5
+  - first:
+      213: 1074936434126884508
+    second: Countess Flora Idle_6
+  - first:
+      213: -5647566572764044328
+    second: Countess Flora Idle_7
+  - first:
+      213: 7805106896650788222
+    second: Countess Flora Idle_8
+  - first:
+      213: -783334727565637553
+    second: Countess Flora Idle_9
+  - first:
+      213: -3555505158925280246
+    second: Countess Flora Idle_10
+  - first:
+      213: 5483921949636794060
+    second: Countess Flora Idle_11
+  - first:
+      213: 111497125049081465
+    second: Countess Flora Idle_12
+  - first:
+      213: -6126156866282679709
+    second: Countess Flora Idle_13
+  - first:
+      213: 7611774214626824752
+    second: Countess Flora Idle_14
+  - first:
+      213: 3261223459152771531
+    second: Countess Flora Idle_15
+  - first:
+      213: -8643795982539623161
+    second: Countess Flora Idle_16
+  - first:
+      213: -4149082490306298575
+    second: Countess Flora Idle_17
+  - first:
+      213: 2251941316855770806
+    second: Countess Flora Idle_18
+  - first:
+      213: 3178092684114255194
+    second: Countess Flora Idle_19
+  - first:
+      213: -1277067981726436242
+    second: Countess Flora Idle_20
+  - first:
+      213: -1918245526983128993
+    second: Countess Flora Idle_21
+  - first:
+      213: 8504470174029896058
+    second: Countess Flora Idle_22
+  - first:
+      213: -1835026671198671623
+    second: Countess Flora Idle_23
+  - first:
+      213: 4176920037525556876
+    second: Countess Flora Idle_24
+  - first:
+      213: 3837052361656915054
+    second: Countess Flora Idle_25
+  - first:
+      213: 9027939426603872700
+    second: Countess Flora Idle_26
+  - first:
+      213: -8459781037756346692
+    second: Countess Flora Idle_27
+  - first:
+      213: -466208383374172421
+    second: Countess Flora Idle_28
+  - first:
+      213: 4939341949443614574
+    second: Countess Flora Idle_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Countess Flora Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d9b2d8dbf3a00a0800000000000000
+      internalID: -6914644194524160677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230dc7957efad560800000000000000
+      internalID: 7339458323765068588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f996b1e76be77fb0800000000000000
+      internalID: -4649989258835748359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adec5329dd66f570800000000000000
+      internalID: 8500102126077013416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce575eba029332e0800000000000000
+      internalID: -2147212022484869436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e0914124220490800000000000000
+      internalID: -7781617480890260141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0248ddf0faee00800000000000000
+      internalID: 1074936434126884508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d36709cf10df91b0800000000000000
+      internalID: -5647566572764044328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d52d88e5f415c60800000000000000
+      internalID: 7805106896650788222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48093f27390125f0800000000000000
+      internalID: -783334727565637553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c903555ee48aec0800000000000000
+      internalID: -3555505158925280246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_11
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6911845fdca1c40800000000000000
+      internalID: 5483921949636794060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e17046b0e1c8100800000000000000
+      internalID: 111497125049081465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36296e2b9c48bfaa0800000000000000
+      internalID: -6126156866282679709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0325f4db15472a960800000000000000
+      internalID: 7611774214626824752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9b8f71571324d20800000000000000
+      internalID: 3261223459152771531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705f6c5c9511b0880800000000000000
+      internalID: -8643795982539623161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_17
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dff75357f7b66c0800000000000000
+      internalID: -4149082490306298575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea63642b0804f10800000000000000
+      internalID: 2251941316855770806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dd5eb357ada1c20800000000000000
+      internalID: 3178092684114255194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64bb23df61f64ee0800000000000000
+      internalID: -1277067981726436242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5840344bd50165e0800000000000000
+      internalID: -1918245526983128993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_22
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d4fd8092f50670800000000000000
+      internalID: 8504470174029896058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_23
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fce5d507fca886e0800000000000000
+      internalID: -1835026671198671623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e0ce3d4a667f930800000000000000
+      internalID: 4176920037525556876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6452291bc2ff3530800000000000000
+      internalID: 3837052361656915054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b770931fa94d70800000000000000
+      internalID: 9027939426603872700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe82fec7f1d89a80800000000000000
+      internalID: -8459781037756346692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe5ca502f1b789f0800000000000000
+      internalID: -466208383374172421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Countess Flora Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67a5c055511c8440800000000000000
+      internalID: 4939341949443614574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 328bdcee9a2a03141be89d402db8c150
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":861.0,"y":980.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Countess Flora Idle_0: -6914644194524160677
+      Countess Flora Idle_1: 7339458323765068588
+      Countess Flora Idle_10: -3555505158925280246
+      Countess Flora Idle_11: 5483921949636794060
+      Countess Flora Idle_12: 111497125049081465
+      Countess Flora Idle_13: -6126156866282679709
+      Countess Flora Idle_14: 7611774214626824752
+      Countess Flora Idle_15: 3261223459152771531
+      Countess Flora Idle_16: -8643795982539623161
+      Countess Flora Idle_17: -4149082490306298575
+      Countess Flora Idle_18: 2251941316855770806
+      Countess Flora Idle_19: 3178092684114255194
+      Countess Flora Idle_2: -4649989258835748359
+      Countess Flora Idle_20: -1277067981726436242
+      Countess Flora Idle_21: -1918245526983128993
+      Countess Flora Idle_22: 8504470174029896058
+      Countess Flora Idle_23: -1835026671198671623
+      Countess Flora Idle_24: 4176920037525556876
+      Countess Flora Idle_25: 3837052361656915054
+      Countess Flora Idle_26: 9027939426603872700
+      Countess Flora Idle_27: -8459781037756346692
+      Countess Flora Idle_28: -466208383374172421
+      Countess Flora Idle_29: 4939341949443614574
+      Countess Flora Idle_3: 8500102126077013416
+      Countess Flora Idle_4: -2147212022484869436
+      Countess Flora Idle_5: -7781617480890260141
+      Countess Flora Idle_6: 1074936434126884508
+      Countess Flora Idle_7: -5647566572764044328
+      Countess Flora Idle_8: 7805106896650788222
+      Countess Flora Idle_9: -783334727565637553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 98417580077d6354eadc9c435525b7ae
+guid: e5ea1309f71197142876526e97c8109a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4985742999366091089
-    second: New Orange big Castle - Back layer_0
+      213: -7795656538035425573
+    second: Wide Orange Castle - Back layer_0
+  - first:
+      213: 3213317886645565943
+    second: Wide Orange Castle - Back layer_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: New Orange big Castle - Back layer_0
+      name: Wide Orange Castle - Back layer_0
       rect:
         serializedVersion: 2
-        x: 646
-        y: 738
-        width: 12335
-        height: 3396
+        x: 321
+        y: 779
+        width: 5192
+        height: 3355
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: faeb46d58251fcab0800000000000000
-      internalID: -4985742999366091089
+      spriteID: bde627b8ea340d390800000000000000
+      internalID: -7795656538035425573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wide Orange Castle - Back layer_1
+      rect:
+        serializedVersion: 2
+        x: 9402
+        y: 822
+        width: 4766
+        height: 3312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9faefc79ff79c20800000000000000
+      internalID: 3213317886645565943
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      New Orange big Castle - Back layer_0: -4985742999366091089
+      Wide Orange Castle - Back layer_0: -7795656538035425573
+      Wide Orange Castle - Back layer_1: 3213317886645565943
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
