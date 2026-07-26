@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Events;
 using SuperMaxim.Messaging;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelsManager : MonoBehaviour
 {
@@ -16,6 +17,8 @@ public class LevelsManager : MonoBehaviour
     [SerializeField] private UiTimer _uiTimer;
     
     [SerializeField] private AudioSource _successAudioSource;
+
+    [SerializeField] private IrisWipeController _irisWipeController;
 
     private Vector3 _lastCheckPointPosition;
     private Coroutine _checkPointCoroutine;
@@ -81,8 +84,24 @@ public class LevelsManager : MonoBehaviour
             }
 
             _lastLevel++;
-            _successAudioSource.Play();
+            if (_lastLevel < _levelsParameters.Length)
+            {
+                _successAudioSource.Play();
+            }
         }
+
+        StartCoroutine(BigCastle());
+    }
+
+    private IEnumerator BigCastle()
+    {
+        var xPosition = _kingMovement.transform.position.x;
+        yield return new WaitUntil(() => xPosition + 4.5f <= _kingMovement.transform.position.x);
+        _kingMovement.StopWalking();
+        yield return null;
+        _irisWipeController.PlayIrisIn(new Vector2(0.5f, (5.4f +  2.95f)/10.8f));
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(0);
     }
 
     private IEnumerator RunLevelWrapper(LevelParameters level)

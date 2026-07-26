@@ -63,6 +63,11 @@ public class KingMovement : MonoBehaviour
 	{
 		transform.position -= transform.up * (_actualSpeed * Time.deltaTime);
 	}
+
+	public void StopWalking()
+	{
+		_walkingState = WalkingState.None;
+	}
 	
 	public void StartWalkingStraight()
 	{

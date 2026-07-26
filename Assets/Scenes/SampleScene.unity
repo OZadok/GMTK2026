@@ -3856,6 +3856,7 @@ MonoBehaviour:
   _progressBar: {fileID: 1425151399}
   _uiTimer: {fileID: 503936025}
   _successAudioSource: {fileID: 969469017}
+  _irisWipeController: {fileID: 197348290}
   _castles:
   - {fileID: 619985962488079577}
 --- !u!4 &969469016
