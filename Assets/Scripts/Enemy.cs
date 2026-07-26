@@ -17,6 +17,8 @@ public class Enemy : MonoBehaviour
 
 	[SerializeField] private GameObject _lightning;
 	[SerializeField] private AudioEvent _audioEvent;
+	
+	[SerializeField] private UITimerNumberChange _uiTimerNumberChange;
 
 	[ReadOnly] public bool _isDead = false;
 
@@ -57,6 +59,7 @@ public class Enemy : MonoBehaviour
 		lightning.Play();
 		
 		_animator.SetTrigger(Electrified1);
+		_uiTimerNumberChange.Show();
 		_goToKing.enabled = false;
 	}
 }

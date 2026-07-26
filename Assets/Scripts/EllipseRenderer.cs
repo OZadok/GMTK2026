@@ -17,6 +17,8 @@ public class EllipseRenderer : MonoBehaviour
 	[SerializeField] private ParticleSystem _particleSystemFront;
 	
 	[SerializeField] private Color _color;
+	
+	[SerializeField] private UITimerNumberChange _uiTimerNumberChange;
 
 	private bool _isShowing;
 
@@ -53,6 +55,11 @@ public class EllipseRenderer : MonoBehaviour
 
 			line.SetPosition(i, new Vector3(x, y, 0f));
 		}
+	}
+
+	public void ShowUINUmberTimerChange()
+	{
+		_uiTimerNumberChange.Show();
 	}
 	
 	public void ToShow(bool toShow, float duration=0.5f)

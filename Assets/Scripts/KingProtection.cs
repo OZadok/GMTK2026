@@ -98,6 +98,7 @@ public class KingProtection : MonoBehaviour
 				var isEnemyDestroyed = TryDestroyEnemiesInRange(enemyDestroyer);
 				if (!isEnemyDestroyed)
 				{
+					enemyDestroyer._ellipseRenderer.ShowUINUmberTimerChange();
 					Messenger.Default.Publish(new TryDestroyEnemyAndFailedEvent());
 				}
 			}

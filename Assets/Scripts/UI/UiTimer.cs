@@ -52,6 +52,7 @@ public class UiTimer : MonoBehaviour
 
 	private void OnTimerTimeChange(TimerTimeChangeEvent timerTimeChangeEvent)
 	{
+		return;
 		var text = timerTimeChangeEvent.Amount > 0 ? "+" + timerTimeChangeEvent.Amount : $"{timerTimeChangeEvent.Amount}";
 		var changeTimeText = Instantiate(_changeTimeText, _changeTimeParent);
 		changeTimeText.text = text;

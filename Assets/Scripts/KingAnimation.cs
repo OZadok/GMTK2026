@@ -9,6 +9,8 @@ public class KingAnimation : MonoBehaviour
     private static readonly int Dead = Animator.StringToHash("Dead");
     [SerializeField] private Animator _animator;
     
+    [SerializeField] private UITimerNumberChange _uiTimerNumberChange;
+    
     private void OnEnable()
     {
         Messenger.Default.Subscribe<EnemyReachesKingEvent>(OnEnemyReachesKing);
@@ -41,6 +43,7 @@ public class KingAnimation : MonoBehaviour
     private IEnumerator AttackAndDie()
     {
         _animator.SetBool(Hit, true);
+        _uiTimerNumberChange.Show();
         yield return null;
 		
         /*yield return new WaitUntil(() => 
