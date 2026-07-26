@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 857c135cc3e0a7847849481ad65ba1ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -663875030892818149
+    second: Enemy Green death_0
+  - first:
+      213: -8676779009439557008
+    second: Enemy Green death_1
+  - first:
+      213: -2261263303539302241
+    second: Enemy Green death_2
+  - first:
+      213: -4560991647349028133
+    second: Enemy Green death_3
+  - first:
+      213: 7003414347293234520
+    second: Enemy Green death_4
+  - first:
+      213: 5304745526184490598
+    second: Enemy Green death_5
+  - first:
+      213: -3583327645835606592
+    second: Enemy Green death_6
+  - first:
+      213: 5296756603416922014
+    second: Enemy Green death_7
+  - first:
+      213: -5587249118683912409
+    second: Enemy Green death_8
+  - first:
+      213: -7636417681722470124
+    second: Enemy Green death_9
+  - first:
+      213: 3595495777261128708
+    second: Enemy Green death_10
+  - first:
+      213: 827956007035454655
+    second: Enemy Green death_11
+  - first:
+      213: 1480808032588548284
+    second: Enemy Green death_12
+  - first:
+      213: 4694841644064259129
+    second: Enemy Green death_13
+  - first:
+      213: 1176149713148202995
+    second: Enemy Green death_14
+  - first:
+      213: -8250263849590132383
+    second: Enemy Green death_15
+  - first:
+      213: 1460117745443287045
+    second: Enemy Green death_16
+  - first:
+      213: -448620402898398763
+    second: Enemy Green death_17
+  - first:
+      213: 6927841213482710540
+    second: Enemy Green death_18
+  - first:
+      213: 1954248055194468200
+    second: Enemy Green death_19
+  - first:
+      213: 3098429876829480693
+    second: Enemy Green death_20
+  - first:
+      213: 3723842848893111494
+    second: Enemy Green death_21
+  - first:
+      213: -6665455201640696892
+    second: Enemy Green death_22
+  - first:
+      213: -8754481958763195663
+    second: Enemy Green death_23
+  - first:
+      213: 4511252214526909976
+    second: Enemy Green death_24
+  - first:
+      213: -3678197956414008894
+    second: Enemy Green death_25
+  - first:
+      213: 9038826788389196254
+    second: Enemy Green death_26
+  - first:
+      213: -6190264710462367689
+    second: Enemy Green death_27
+  - first:
+      213: 80644599605120202
+    second: Enemy Green death_28
+  - first:
+      213: -2427457004045674071
+    second: Enemy Green death_29
+  - first:
+      213: -1736133189759857853
+    second: Enemy Green death_30
+  - first:
+      213: 1170522715516345678
+    second: Enemy Green death_31
+  - first:
+      213: -482542867669278657
+    second: Enemy Green death_32
+  - first:
+      213: 5317812253589184838
+    second: Enemy Green death_33
+  - first:
+      213: 1626903102512899911
+    second: Enemy Green death_34
+  - first:
+      213: 5079977860652663800
+    second: Enemy Green death_35
+  - first:
+      213: 1713284096675709223
+    second: Enemy Green death_36
+  - first:
+      213: -1210394336647603313
+    second: Enemy Green death_37
+  - first:
+      213: -8149300885644925497
+    second: Enemy Green death_38
+  - first:
+      213: -663875960621649537
+    second: Enemy Green death_39
+  - first:
+      213: 787109950579274103
+    second: Enemy Green death_40
+  - first:
+      213: 2869261747218968267
+    second: Enemy Green death_41
+  - first:
+      213: -3629666261538263537
+    second: Enemy Green death_42
+  - first:
+      213: 9174906537026156842
+    second: Enemy Green death_43
+  - first:
+      213: -6671494956549025339
+    second: Enemy Green death_44
+  - first:
+      213: 6614854390337720382
+    second: Enemy Green death_45
+  - first:
+      213: -3554572943410755914
+    second: Enemy Green death_46
+  - first:
+      213: -1415928707989988335
+    second: Enemy Green death_47
+  - first:
+      213: 1198500077940577455
+    second: Enemy Green death_48
+  - first:
+      213: 9165307078530679442
+    second: Enemy Green death_49
+  - first:
+      213: -2694172845361944972
+    second: Enemy Green death_50
+  - first:
+      213: 7456228263078647087
+    second: Enemy Green death_51
+  - first:
+      213: 2360530568181678184
+    second: Enemy Green death_52
+  - first:
+      213: 6318877955997064282
+    second: Enemy Green death_53
+  - first:
+      213: -8065079996894213009
+    second: Enemy Green death_54
+  - first:
+      213: -2004872150236929830
+    second: Enemy Green death_55
+  - first:
+      213: -5340186156351179905
+    second: Enemy Green death_56
+  - first:
+      213: -8699791902098945117
+    second: Enemy Green death_57
+  - first:
+      213: 4247335768840691864
+    second: Enemy Green death_58
+  - first:
+      213: 5329714828149740674
+    second: Enemy Green death_59
+  - first:
+      213: 472153004311392505
+    second: Enemy Green death_60
+  - first:
+      213: -6205650126990607196
+    second: Enemy Green death_61
+  - first:
+      213: -7053887438942054737
+    second: Enemy Green death_62
+  - first:
+      213: 1006153797972847221
+    second: Enemy Green death_63
+  - first:
+      213: -8162206837244887903
+    second: Enemy Green death_64
+  - first:
+      213: 9189627189797882936
+    second: Enemy Green death_65
+  - first:
+      213: -3846462762545233645
+    second: Enemy Green death_66
+  - first:
+      213: -6975311408019987966
+    second: Enemy Green death_67
+  - first:
+      213: -6722366419262825966
+    second: Enemy Green death_68
+  - first:
+      213: 3979919697598442280
+    second: Enemy Green death_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Green death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11d1604d2179c6f0800000000000000
+      internalID: -663875030892818149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Green death_1
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a1ac36673e59780800000000000000
+      internalID: -8676779009439557008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Green death_2
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 948
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90e9e091016e90e0800000000000000
+      internalID: -2261263303539302241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Green death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdacc3c034a14b0c0800000000000000
+      internalID: -4560991647349028133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Green death_4
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85599414e30213160800000000000000
+      internalID: 7003414347293234520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Green death_5
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 0
+        width: 939
+        height: 948
+      alignment: 9
+      pivot: {x: 0.4, y: 0.065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666b11843fd3e9940800000000000000
+      internalID: 5304745526184490598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 766b9adee236e1b459fbb3464c081ae1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":2.0},"gridSpriteSize":{"x":939.0,"y":948.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4000000059604645,"y":0.06499999761581421},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Enemy Green death_0: -663875030892818149
+      Enemy Green death_1: -8676779009439557008
+      Enemy Green death_2: -2261263303539302241
+      Enemy Green death_3: -4560991647349028133
+      Enemy Green death_4: 7003414347293234520
+      Enemy Green death_5: 5304745526184490598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
