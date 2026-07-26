@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: fb59dd6062bb28e43a37454901b0abad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4178683058214191614
+    second: Press 3_0
+  - first:
+      213: 2336742597724750424
+    second: Press 3_1
+  - first:
+      213: -5683822357736978489
+    second: Press 3_2
+  - first:
+      213: 281758036355264126
+    second: Press 3_3
+  - first:
+      213: 8143213136840969378
+    second: Press 3_4
+  - first:
+      213: -7574010059332010196
+    second: Press 3_5
+  - first:
+      213: 899603296866592374
+    second: Press 3_6
+  - first:
+      213: -764141133041610080
+    second: Press 3_7
+  - first:
+      213: 3764407472149570566
+    second: Press 3_8
+  - first:
+      213: -2258433438963818027
+    second: Press 3_9
+  - first:
+      213: 2758154432668118562
+    second: Press 3_10
+  - first:
+      213: 7030276240821852689
+    second: Press 3_11
+  - first:
+      213: -8958618833292211421
+    second: Press 3_12
+  - first:
+      213: -4072403473893235604
+    second: Press 3_13
+  - first:
+      213: 4621705145828459391
+    second: Press 3_14
+  - first:
+      213: 1552369661070515590
+    second: Press 3_15
+  - first:
+      213: 8310598922468085124
+    second: Press 3_16
+  - first:
+      213: -2874524546789024048
+    second: Press 3_17
+  - first:
+      213: 2112746957346365375
+    second: Press 3_18
+  - first:
+      213: -7787003509600189126
+    second: Press 3_19
+  - first:
+      213: 4680544084180506909
+    second: Press 3_20
+  - first:
+      213: 3578658227855685092
+    second: Press 3_21
+  - first:
+      213: 6721127005541089834
+    second: Press 3_22
+  - first:
+      213: 776292295318482484
+    second: Press 3_23
+  - first:
+      213: 764007342748093281
+    second: Press 3_24
+  - first:
+      213: 3256547073881706585
+    second: Press 3_25
+  - first:
+      213: -6776475899791825661
+    second: Press 3_26
+  - first:
+      213: -8359168510801344208
+    second: Press 3_27
+  - first:
+      213: -4571231097639889339
+    second: Press 3_28
+  - first:
+      213: 372820928481445968
+    second: Press 3_29
+  - first:
+      213: 4421592996134807621
+    second: Press 3_30
+  - first:
+      213: -5021867472662144336
+    second: Press 3_31
+  - first:
+      213: -3336641658785960292
+    second: Press 3_32
+  - first:
+      213: 1011712716279144597
+    second: Press 3_33
+  - first:
+      213: 1587493520279769066
+    second: Press 3_34
+  - first:
+      213: -6973818980792520826
+    second: Press 3_35
+  - first:
+      213: -6840933060951160880
+    second: Press 3_36
+  - first:
+      213: 4243692067439451833
+    second: Press 3_37
+  - first:
+      213: 9064631233286612271
+    second: Press 3_38
+  - first:
+      213: -2928214285724073653
+    second: Press 3_39
+  - first:
+      213: 4827659184361968348
+    second: Press 3_40
+  - first:
+      213: 6838220930803569674
+    second: Press 3_41
+  - first:
+      213: -6312793359983523944
+    second: Press 3_42
+  - first:
+      213: 1253801602260944847
+    second: Press 3_43
+  - first:
+      213: 1728065992383098401
+    second: Press 3_44
+  - first:
+      213: 4144713138717671595
+    second: Press 3_45
+  - first:
+      213: 8426400750296700701
+    second: Press 3_46
+  - first:
+      213: 2489408673739115003
+    second: Press 3_47
+  - first:
+      213: -5421812228753904701
+    second: Press 3_48
+  - first:
+      213: -1148625232130510035
+    second: Press 3_49
+  - first:
+      213: 3234929368941278693
+    second: Press 3_50
+  - first:
+      213: -4566953920499854822
+    second: Press 3_51
+  - first:
+      213: -5654015548004966098
+    second: Press 3_52
+  - first:
+      213: 2488388234629872748
+    second: Press 3_53
+  - first:
+      213: 6528033364887700754
+    second: Press 3_54
+  - first:
+      213: -5034936130308270651
+    second: Press 3_55
+  - first:
+      213: -8123232011276952098
+    second: Press 3_56
+  - first:
+      213: -4108023382243639127
+    second: Press 3_57
+  - first:
+      213: -3321407347442608121
+    second: Press 3_58
+  - first:
+      213: 2184967964772677574
+    second: Press 3_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Press 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e333ee5e55206c0800000000000000
+      internalID: -4178683058214191614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1264
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85248e41307cd6020800000000000000
+      internalID: 2336742597724750424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1264
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c70aa80ea10f11b0800000000000000
+      internalID: -5683822357736978489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1264
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e2195f07109e300800000000000000
+      internalID: 281758036355264126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_4
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1264
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac43bf0431820170800000000000000
+      internalID: 8143213136840969378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_5
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1264
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb748daf5b3e690800000000000000
+      internalID: -7574010059332010196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e084ae680c7c00800000000000000
+      internalID: 899603296866592374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 948
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a25ac620b93565f0800000000000000
+      internalID: -764141133041610080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 948
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6042d47b6acdd3430800000000000000
+      internalID: 3764407472149570566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 948
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1a2b1c0ce68a0e0800000000000000
+      internalID: -2258433438963818027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_10
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 948
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e2adad7dee64620800000000000000
+      internalID: 2758154432668118562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_11
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 948
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a1e073efe809160800000000000000
+      internalID: 7030276240821852689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4e7bc2a79ca380800000000000000
+      internalID: -8958618833292211421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 632
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64e684fd9aeb77c0800000000000000
+      internalID: -4072403473893235604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 632
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7343b1e758932040800000000000000
+      internalID: 4621705145828459391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 632
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d93306bff1b8510800000000000000
+      internalID: 1552369661070515590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_16
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 632
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d447440bd255370800000000000000
+      internalID: 8310598922468085124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_17
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 632
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dedf729723ab18d0800000000000000
+      internalID: -2874524546789024048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfdae4f92cf15d10800000000000000
+      internalID: 2112746957346365375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 316
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358f89b0910fe390800000000000000
+      internalID: -7787003509600189126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 316
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d199225cb02a4f040800000000000000
+      internalID: 4680544084180506909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_21
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 316
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5fddb92b2f9a130800000000000000
+      internalID: 3578658227855685092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_22
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 316
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22cf87c66d364d50800000000000000
+      internalID: 6721127005541089834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_23
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 316
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ea458cab1f5ca00800000000000000
+      internalID: 776292295318482484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b4a4e51ac4a9a00800000000000000
+      internalID: 764007342748093281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9509e0d4f44913d20800000000000000
+      internalID: 3256547073881706585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a9eb821f15f1a0800000000000000
+      internalID: -6776475899791825661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_27
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0390e0837844efb80800000000000000
+      internalID: -8359168510801344208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_28
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54694fe3989bf80c0800000000000000
+      internalID: -4571231097639889339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Press 3_29
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 0
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058c7feb8a68c2500800000000000000
+      internalID: 372820928481445968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aa99ad4d3f64bc74fa3525dce00d200c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":316.0,"y":316.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Press 3_0: -4178683058214191614
+      Press 3_1: 2336742597724750424
+      Press 3_10: 2758154432668118562
+      Press 3_11: 7030276240821852689
+      Press 3_12: -8958618833292211421
+      Press 3_13: -4072403473893235604
+      Press 3_14: 4621705145828459391
+      Press 3_15: 1552369661070515590
+      Press 3_16: 8310598922468085124
+      Press 3_17: -2874524546789024048
+      Press 3_18: 2112746957346365375
+      Press 3_19: -7787003509600189126
+      Press 3_2: -5683822357736978489
+      Press 3_20: 4680544084180506909
+      Press 3_21: 3578658227855685092
+      Press 3_22: 6721127005541089834
+      Press 3_23: 776292295318482484
+      Press 3_24: 764007342748093281
+      Press 3_25: 3256547073881706585
+      Press 3_26: -6776475899791825661
+      Press 3_27: -8359168510801344208
+      Press 3_28: -4571231097639889339
+      Press 3_29: 372820928481445968
+      Press 3_3: 281758036355264126
+      Press 3_4: 8143213136840969378
+      Press 3_5: -7574010059332010196
+      Press 3_6: 899603296866592374
+      Press 3_7: -764141133041610080
+      Press 3_8: 3764407472149570566
+      Press 3_9: -2258433438963818027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
