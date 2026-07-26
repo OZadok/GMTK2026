@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Red Press Audio Event
   m_EditorClassIdentifier: Assembly-CSharp::SimpleAudioEvent
   clips:
-  - {fileID: 8300000, guid: 7f3e4cf1474f1c64e9364ea6efbeafb2, type: 3}
+  - {fileID: 8300000, guid: 552283dc0885adf47a7a6b5f7a5d78f3, type: 3}
   volume:
     minValue: 0.95
     maxValue: 1

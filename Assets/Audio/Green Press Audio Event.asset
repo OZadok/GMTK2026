@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Green Press Audio Event
   m_EditorClassIdentifier: Assembly-CSharp::SimpleAudioEvent
   clips:
-  - {fileID: 8300000, guid: d6cbc91dd37f75b49bb838cee34938fc, type: 3}
+  - {fileID: 8300000, guid: ceeb9a5fedd9de2458b43beeca20d99e, type: 3}
   volume:
     minValue: 0.95
     maxValue: 1

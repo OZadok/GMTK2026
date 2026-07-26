@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Blue Press Audio Event
   m_EditorClassIdentifier: Assembly-CSharp::SimpleAudioEvent
   clips:
-  - {fileID: 8300000, guid: 96591afba3fc0284eb48ef43389a82e7, type: 3}
+  - {fileID: 8300000, guid: 93c5a60e9c28dc64b94bdc0c9fcbff27, type: 3}
   volume:
     minValue: 0.95
     maxValue: 1
