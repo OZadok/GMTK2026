@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 6669d7c5686b60c4190b0b150887a76d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3386593071162893238
+    second: Flora surprised (no loop)_0
+  - first:
+      213: 7372844716385665298
+    second: Flora surprised (no loop)_1
+  - first:
+      213: -2073416363584573340
+    second: Flora surprised (no loop)_2
+  - first:
+      213: 7356753986860861555
+    second: Flora surprised (no loop)_3
+  - first:
+      213: -1575464652166473104
+    second: Flora surprised (no loop)_4
+  - first:
+      213: -8254940463090144996
+    second: Flora surprised (no loop)_5
+  - first:
+      213: -4291326501615101139
+    second: Flora surprised (no loop)_6
+  - first:
+      213: 5783198907136242393
+    second: Flora surprised (no loop)_7
+  - first:
+      213: 7106333852471543892
+    second: Flora surprised (no loop)_8
+  - first:
+      213: -5791620893187849800
+    second: Flora surprised (no loop)_9
+  - first:
+      213: -4850472591187237405
+    second: Flora surprised (no loop)_10
+  - first:
+      213: -1726270060683292276
+    second: Flora surprised (no loop)_11
+  - first:
+      213: 4179774299677300788
+    second: Flora surprised (no loop)_12
+  - first:
+      213: 7954089126326328108
+    second: Flora surprised (no loop)_13
+  - first:
+      213: 2382079553231777604
+    second: Flora surprised (no loop)_14
+  - first:
+      213: 7602695115124705708
+    second: Flora surprised (no loop)_15
+  - first:
+      213: 2650314300850586407
+    second: Flora surprised (no loop)_16
+  - first:
+      213: -8742033452135165976
+    second: Flora surprised (no loop)_17
+  - first:
+      213: 2421434659212942391
+    second: Flora surprised (no loop)_18
+  - first:
+      213: -901825234441356820
+    second: Flora surprised (no loop)_19
+  - first:
+      213: 7038476124117122807
+    second: Flora surprised (no loop)_20
+  - first:
+      213: -414236134282420255
+    second: Flora surprised (no loop)_21
+  - first:
+      213: 5966240865275229394
+    second: Flora surprised (no loop)_22
+  - first:
+      213: 3102318983739363866
+    second: Flora surprised (no loop)_23
+  - first:
+      213: -2258983380638823753
+    second: Flora surprised (no loop)_24
+  - first:
+      213: 7691993749076438782
+    second: Flora surprised (no loop)_25
+  - first:
+      213: 4998487225178800464
+    second: Flora surprised (no loop)_26
+  - first:
+      213: 2632237441639103168
+    second: Flora surprised (no loop)_27
+  - first:
+      213: -5401930771528757270
+    second: Flora surprised (no loop)_28
+  - first:
+      213: 812196206575003143
+    second: Flora surprised (no loop)_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3a67d84789ffe20800000000000000
+      internalID: 3386593071162893238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118840e43b915660800000000000000
+      internalID: 7372844716385665298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_2
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4603f018dceb933e0800000000000000
+      internalID: -2073416363584573340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_3
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378c7c6f5c0781660800000000000000
+      internalID: 7356753986860861555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_4
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ade6bfe33d22ae0800000000000000
+      internalID: -1575464652166473104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_5
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196387a26f807d80800000000000000
+      internalID: -8254940463090144996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b130088452274c0800000000000000
+      internalID: -4291326501615101139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2784de3cc024050800000000000000
+      internalID: 5783198907136242393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_8
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45846e3ecf4ce9260800000000000000
+      internalID: 7106333852471543892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_9
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1cec3ab7700afa0800000000000000
+      internalID: -5791620893187849800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_10
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5248190e8afacb0800000000000000
+      internalID: -4850472591187237405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_11
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c819496a68e0b08e0800000000000000
+      internalID: -1726270060683292276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4389295849a810a30800000000000000
+      internalID: 4179774299677300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b5a76fae9926e60800000000000000
+      internalID: 7954089126326328108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_14
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe91d9bb8de0120800000000000000
+      internalID: 2382079553231777604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_15
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca90b982de2328960800000000000000
+      internalID: 7602695115124705708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_16
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723465d80dec7c420800000000000000
+      internalID: 2650314300850586407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_17
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc6ee74ee0ea680800000000000000
+      internalID: -8742033452135165976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd4354ef9aa9120800000000000000
+      internalID: 2421434659212942391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9b3a33ab21c73f0800000000000000
+      internalID: -901825234441356820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_20
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feb1125eb0bda160800000000000000
+      internalID: 7038476124117122807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_21
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef17fa3e66504af0800000000000000
+      internalID: -414236134282420255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_22
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4362bd4785cc250800000000000000
+      internalID: 5966240865275229394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_23
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125cbdcda6ad0b20800000000000000
+      internalID: 3102318983739363866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba038b759a76a0e0800000000000000
+      internalID: -2258983380638823753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efee9349f837fba60800000000000000
+      internalID: 7691993749076438782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_26
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514c1fe5a13e5540800000000000000
+      internalID: 4998487225178800464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_27
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab169c106978420800000000000000
+      internalID: 2632237441639103168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_28
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc6cd759c7805b0800000000000000
+      internalID: -5401930771528757270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora surprised (no loop)_29
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706a2dc8520854b00800000000000000
+      internalID: 812196206575003143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff153398bce746f43a258da7f6384b22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":861.0,"y":980.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flora surprised (no loop)_0: 3386593071162893238
+      Flora surprised (no loop)_1: 7372844716385665298
+      Flora surprised (no loop)_10: -4850472591187237405
+      Flora surprised (no loop)_11: -1726270060683292276
+      Flora surprised (no loop)_12: 4179774299677300788
+      Flora surprised (no loop)_13: 7954089126326328108
+      Flora surprised (no loop)_14: 2382079553231777604
+      Flora surprised (no loop)_15: 7602695115124705708
+      Flora surprised (no loop)_16: 2650314300850586407
+      Flora surprised (no loop)_17: -8742033452135165976
+      Flora surprised (no loop)_18: 2421434659212942391
+      Flora surprised (no loop)_19: -901825234441356820
+      Flora surprised (no loop)_2: -2073416363584573340
+      Flora surprised (no loop)_20: 7038476124117122807
+      Flora surprised (no loop)_21: -414236134282420255
+      Flora surprised (no loop)_22: 5966240865275229394
+      Flora surprised (no loop)_23: 3102318983739363866
+      Flora surprised (no loop)_24: -2258983380638823753
+      Flora surprised (no loop)_25: 7691993749076438782
+      Flora surprised (no loop)_26: 4998487225178800464
+      Flora surprised (no loop)_27: 2632237441639103168
+      Flora surprised (no loop)_28: -5401930771528757270
+      Flora surprised (no loop)_29: 812196206575003143
+      Flora surprised (no loop)_3: 7356753986860861555
+      Flora surprised (no loop)_4: -1575464652166473104
+      Flora surprised (no loop)_5: -8254940463090144996
+      Flora surprised (no loop)_6: -4291326501615101139
+      Flora surprised (no loop)_7: 5783198907136242393
+      Flora surprised (no loop)_8: 7106333852471543892
+      Flora surprised (no loop)_9: -5791620893187849800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 20b403a4e10565241affed535b1e92b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1286488058739503546
+    second: Flora with Flowers Idle_0
+  - first:
+      213: 5908149461227686906
+    second: Flora with Flowers Idle_1
+  - first:
+      213: -4486615682945116799
+    second: Flora with Flowers Idle_2
+  - first:
+      213: -4300732339635866715
+    second: Flora with Flowers Idle_3
+  - first:
+      213: 4399968395215006362
+    second: Flora with Flowers Idle_4
+  - first:
+      213: 7303549450085216972
+    second: Flora with Flowers Idle_5
+  - first:
+      213: -1659488599578302480
+    second: Flora with Flowers Idle_6
+  - first:
+      213: -2861230681940097057
+    second: Flora with Flowers Idle_7
+  - first:
+      213: -9162043631878547672
+    second: Flora with Flowers Idle_8
+  - first:
+      213: -8634456035649109563
+    second: Flora with Flowers Idle_9
+  - first:
+      213: -9132274901749214333
+    second: Flora with Flowers Idle_10
+  - first:
+      213: -3330580162679528325
+    second: Flora with Flowers Idle_11
+  - first:
+      213: -7180314251770302798
+    second: Flora with Flowers Idle_12
+  - first:
+      213: 6963791063855313058
+    second: Flora with Flowers Idle_13
+  - first:
+      213: -6878988302122043103
+    second: Flora with Flowers Idle_14
+  - first:
+      213: 8029342630891908174
+    second: Flora with Flowers Idle_15
+  - first:
+      213: -6087353782782403463
+    second: Flora with Flowers Idle_16
+  - first:
+      213: 4089813381655383320
+    second: Flora with Flowers Idle_17
+  - first:
+      213: -2965232461148748334
+    second: Flora with Flowers Idle_18
+  - first:
+      213: 2899080454084145004
+    second: Flora with Flowers Idle_19
+  - first:
+      213: -4260874670292080249
+    second: Flora with Flowers Idle_20
+  - first:
+      213: -7356373026077201393
+    second: Flora with Flowers Idle_21
+  - first:
+      213: 3077338152086960115
+    second: Flora with Flowers Idle_22
+  - first:
+      213: -4412766022505869290
+    second: Flora with Flowers Idle_23
+  - first:
+      213: -6092206880464410858
+    second: Flora with Flowers Idle_24
+  - first:
+      213: 6630868709082988602
+    second: Flora with Flowers Idle_25
+  - first:
+      213: -4137063938603788810
+    second: Flora with Flowers Idle_26
+  - first:
+      213: -3004962596097889733
+    second: Flora with Flowers Idle_27
+  - first:
+      213: -5843832444122649862
+    second: Flora with Flowers Idle_28
+  - first:
+      213: 712118409835375896
+    second: Flora with Flowers Idle_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ecc0b3de9752ee0800000000000000
+      internalID: -1286488058739503546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb446cd1a6fdf150800000000000000
+      internalID: 5908149461227686906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1851c56bec65cb1c0800000000000000
+      internalID: -4486615682945116799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a338fd29bab054c0800000000000000
+      internalID: -4300732339635866715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a6cb381f3df0d30800000000000000
+      internalID: 4399968395215006362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 3920
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc234db678b6b5560800000000000000
+      internalID: 7303549450085216972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7235939ef48f8e0800000000000000
+      internalID: -1659488599578302480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7038eaaddda48d0800000000000000
+      internalID: -2861230681940097057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827df310cd1e9d080800000000000000
+      internalID: -9162043631878547672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1486e9bff3c2880800000000000000
+      internalID: -8634456035649109563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d50a9c54a34180800000000000000
+      internalID: -9132274901749214333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_11
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 2940
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74268bfcf667c1d0800000000000000
+      internalID: -3330580162679528325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be6e8f1b366a5c90800000000000000
+      internalID: -7180314251770302798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b22ba31b54a060800000000000000
+      internalID: 6963791063855313058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129b2fde59ce880a0800000000000000
+      internalID: -6878988302122043103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c663ed494fd6f60800000000000000
+      internalID: 8029342630891908174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cdf1b9cff558ba0800000000000000
+      internalID: -6087353782782403463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_17
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1960
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d45331a9fe1c830800000000000000
+      internalID: 4089813381655383320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d585cc79c069d6d0800000000000000
+      internalID: -2965232461148748334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fa6f0205a9b3820800000000000000
+      internalID: 2899080454084145004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e7ccff055ed4c0800000000000000
+      internalID: -4260874670292080249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c276165b9e8e990800000000000000
+      internalID: -7356373026077201393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_22
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f776e0beb6e4ba20800000000000000
+      internalID: 3077338152086960115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_23
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 980
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610df9faea4b2c2c0800000000000000
+      internalID: -4412766022505869290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176abfbe12247ba0800000000000000
+      internalID: -6092206880464410858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30052585f3950c50800000000000000
+      internalID: 6630868709082988602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5517654423696c0800000000000000
+      internalID: -4137063938603788810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aef38907a3c46d0800000000000000
+      internalID: -3004962596097889733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaaa21aa5986eea0800000000000000
+      internalID: -5843832444122649862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flora with Flowers Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 0
+        width: 861
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81de048bbe3f1e900800000000000000
+      internalID: 712118409835375896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f2306d7509f7c034f9b13404d236387c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":861.0,"y":980.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Flora with Flowers Idle_0: -1286488058739503546
+      Flora with Flowers Idle_1: 5908149461227686906
+      Flora with Flowers Idle_10: -9132274901749214333
+      Flora with Flowers Idle_11: -3330580162679528325
+      Flora with Flowers Idle_12: -7180314251770302798
+      Flora with Flowers Idle_13: 6963791063855313058
+      Flora with Flowers Idle_14: -6878988302122043103
+      Flora with Flowers Idle_15: 8029342630891908174
+      Flora with Flowers Idle_16: -6087353782782403463
+      Flora with Flowers Idle_17: 4089813381655383320
+      Flora with Flowers Idle_18: -2965232461148748334
+      Flora with Flowers Idle_19: 2899080454084145004
+      Flora with Flowers Idle_2: -4486615682945116799
+      Flora with Flowers Idle_20: -4260874670292080249
+      Flora with Flowers Idle_21: -7356373026077201393
+      Flora with Flowers Idle_22: 3077338152086960115
+      Flora with Flowers Idle_23: -4412766022505869290
+      Flora with Flowers Idle_24: -6092206880464410858
+      Flora with Flowers Idle_25: 6630868709082988602
+      Flora with Flowers Idle_26: -4137063938603788810
+      Flora with Flowers Idle_27: -3004962596097889733
+      Flora with Flowers Idle_28: -5843832444122649862
+      Flora with Flowers Idle_29: 712118409835375896
+      Flora with Flowers Idle_3: -4300732339635866715
+      Flora with Flowers Idle_4: 4399968395215006362
+      Flora with Flowers Idle_5: 7303549450085216972
+      Flora with Flowers Idle_6: -1659488599578302480
+      Flora with Flowers Idle_7: -2861230681940097057
+      Flora with Flowers Idle_8: -9162043631878547672
+      Flora with Flowers Idle_9: -8634456035649109563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
