@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 5d17311422792b14a8f47bfe315e126b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3381012247150575912
+    second: Enemy Blue death_0
+  - first:
+      213: -5731656037938505136
+    second: Enemy Blue death_1
+  - first:
+      213: 1238143474407406055
+    second: Enemy Blue death_2
+  - first:
+      213: 494266874566694064
+    second: Enemy Blue death_3
+  - first:
+      213: 1676431284048748812
+    second: Enemy Blue death_4
+  - first:
+      213: -8222130152021508258
+    second: Enemy Blue death_5
+  - first:
+      213: -9041963818281494509
+    second: Enemy Blue death_6
+  - first:
+      213: 1574219950512022067
+    second: Enemy Blue death_7
+  - first:
+      213: -8203129272729523356
+    second: Enemy Blue death_8
+  - first:
+      213: 9104831716037058371
+    second: Enemy Blue death_9
+  - first:
+      213: -702794060215561669
+    second: Enemy Blue death_10
+  - first:
+      213: 8029068868929430328
+    second: Enemy Blue death_11
+  - first:
+      213: -2962931837444276699
+    second: Enemy Blue death_12
+  - first:
+      213: -7175795395854475672
+    second: Enemy Blue death_13
+  - first:
+      213: -2325782343422419704
+    second: Enemy Blue death_14
+  - first:
+      213: 8123994225689910011
+    second: Enemy Blue death_15
+  - first:
+      213: 4570465637375950842
+    second: Enemy Blue death_16
+  - first:
+      213: 1504104077464114347
+    second: Enemy Blue death_17
+  - first:
+      213: -512501107253995545
+    second: Enemy Blue death_18
+  - first:
+      213: -237771462133702808
+    second: Enemy Blue death_19
+  - first:
+      213: 1117532093396017826
+    second: Enemy Blue death_20
+  - first:
+      213: -2343244206890390877
+    second: Enemy Blue death_21
+  - first:
+      213: -5398088558541408207
+    second: Enemy Blue death_22
+  - first:
+      213: 1566140559430162854
+    second: Enemy Blue death_23
+  - first:
+      213: -2207324349341673296
+    second: Enemy Blue death_24
+  - first:
+      213: 1933159224001061651
+    second: Enemy Blue death_25
+  - first:
+      213: 102453873259644871
+    second: Enemy Blue death_26
+  - first:
+      213: 2534423562339146170
+    second: Enemy Blue death_27
+  - first:
+      213: -4994384422882774368
+    second: Enemy Blue death_28
+  - first:
+      213: 3454409355487791500
+    second: Enemy Blue death_29
+  - first:
+      213: -7153984746017697844
+    second: Enemy Blue death_30
+  - first:
+      213: 5898220292680879087
+    second: Enemy Blue death_31
+  - first:
+      213: 2432231937543060861
+    second: Enemy Blue death_32
+  - first:
+      213: -2558907454081273426
+    second: Enemy Blue death_33
+  - first:
+      213: 8375295794597499694
+    second: Enemy Blue death_34
+  - first:
+      213: -8925008086653822634
+    second: Enemy Blue death_35
+  - first:
+      213: 8269617209339049193
+    second: Enemy Blue death_36
+  - first:
+      213: 1848007285112876709
+    second: Enemy Blue death_37
+  - first:
+      213: -8498769585476663285
+    second: Enemy Blue death_38
+  - first:
+      213: -7053833395783133521
+    second: Enemy Blue death_39
+  - first:
+      213: 5087561538896604833
+    second: Enemy Blue death_40
+  - first:
+      213: 9053258966505674365
+    second: Enemy Blue death_41
+  - first:
+      213: -7280158071242253072
+    second: Enemy Blue death_42
+  - first:
+      213: -1257789622514965938
+    second: Enemy Blue death_43
+  - first:
+      213: -9167283108375353793
+    second: Enemy Blue death_44
+  - first:
+      213: 525366873330446360
+    second: Enemy Blue death_45
+  - first:
+      213: -3893423202961457634
+    second: Enemy Blue death_46
+  - first:
+      213: -3214416205466685828
+    second: Enemy Blue death_47
+  - first:
+      213: -8331243364067999684
+    second: Enemy Blue death_48
+  - first:
+      213: -7633349183712066051
+    second: Enemy Blue death_49
+  - first:
+      213: -4372653690545277446
+    second: Enemy Blue death_50
+  - first:
+      213: -2317544308419516614
+    second: Enemy Blue death_51
+  - first:
+      213: -6451087646306592051
+    second: Enemy Blue death_52
+  - first:
+      213: 6750069470614247240
+    second: Enemy Blue death_53
+  - first:
+      213: -4302612914670058501
+    second: Enemy Blue death_54
+  - first:
+      213: -6695449383897082492
+    second: Enemy Blue death_55
+  - first:
+      213: 713992201436287966
+    second: Enemy Blue death_56
+  - first:
+      213: 2167650181662837611
+    second: Enemy Blue death_57
+  - first:
+      213: 38986843272066926
+    second: Enemy Blue death_58
+  - first:
+      213: -4423161843852008367
+    second: Enemy Blue death_59
+  - first:
+      213: 4624632989685586098
+    second: Enemy Blue death_60
+  - first:
+      213: 5095951347246092145
+    second: Enemy Blue death_61
+  - first:
+      213: -7969985710266536284
+    second: Enemy Blue death_62
+  - first:
+      213: -9070333240591775670
+    second: Enemy Blue death_63
+  - first:
+      213: 6048767587331294026
+    second: Enemy Blue death_64
+  - first:
+      213: 3687321031582182679
+    second: Enemy Blue death_65
+  - first:
+      213: -8266954883695923175
+    second: Enemy Blue death_66
+  - first:
+      213: -2439196431437931355
+    second: Enemy Blue death_67
+  - first:
+      213: 6588845035725417414
+    second: Enemy Blue death_68
+  - first:
+      213: -4857328661190951249
+    second: Enemy Blue death_69
+  - first:
+      213: -5774334686305844543
+    second: Enemy Blue death_70
+  - first:
+      213: 8519012739425826278
+    second: Enemy Blue death_71
+  - first:
+      213: 332280885638387676
+    second: Enemy Blue death_72
+  - first:
+      213: -9156521019520797063
+    second: Enemy Blue death_73
+  - first:
+      213: 1427484862420099105
+    second: Enemy Blue death_74
+  - first:
+      213: 8380588871586883572
+    second: Enemy Blue death_75
+  - first:
+      213: 6442748831080380940
+    second: Enemy Blue death_76
+  - first:
+      213: 2284301288438605148
+    second: Enemy Blue death_77
+  - first:
+      213: -239891203846720132
+    second: Enemy Blue death_78
+  - first:
+      213: -664438986719074074
+    second: Enemy Blue death_79
+  - first:
+      213: 7571557876838627394
+    second: Enemy Blue death_80
+  - first:
+      213: 4067010825436077774
+    second: Enemy Blue death_81
+  - first:
+      213: -7184643882765235522
+    second: Enemy Blue death_82
+  - first:
+      213: -1024027229224654605
+    second: Enemy Blue death_83
+  - first:
+      213: 1423400061685048649
+    second: Enemy Blue death_84
+  - first:
+      213: 290483254242311055
+    second: Enemy Blue death_85
+  - first:
+      213: 2535509561193608596
+    second: Enemy Blue death_86
+  - first:
+      213: 7579497709627211293
+    second: Enemy Blue death_87
+  - first:
+      213: 1868617106023783715
+    second: Enemy Blue death_88
+  - first:
+      213: -3161288484024591515
+    second: Enemy Blue death_89
+  - first:
+      213: 8072136683524572873
+    second: Enemy Blue death_90
+  - first:
+      213: 7350833517660590588
+    second: Enemy Blue death_91
+  - first:
+      213: 7686832526159718060
+    second: Enemy Blue death_92
+  - first:
+      213: 3611719407156789257
+    second: Enemy Blue death_93
+  - first:
+      213: -1023088312871788893
+    second: Enemy Blue death_94
+  - first:
+      213: -4119163716529954547
+    second: Enemy Blue death_95
+  - first:
+      213: -2287778722979177109
+    second: Enemy Blue death_96
+  - first:
+      213: 4698579554708944021
+    second: Enemy Blue death_97
+  - first:
+      213: -8564212040538039187
+    second: Enemy Blue death_98
+  - first:
+      213: 5884445333862229711
+    second: Enemy Blue death_99
+  - first:
+      213: 4927641345425572378
+    second: Enemy Blue death_100
+  - first:
+      213: -4918048800976388093
+    second: Enemy Blue death_101
+  - first:
+      213: -1832866623427982029
+    second: Enemy Blue death_102
+  - first:
+      213: 4730735571835587303
+    second: Enemy Blue death_103
+  - first:
+      213: 7263042741824413718
+    second: Enemy Blue death_104
+  - first:
+      213: 3263911689627526525
+    second: Enemy Blue death_105
+  - first:
+      213: -7905949084005279240
+    second: Enemy Blue death_106
+  - first:
+      213: 7044791671337942326
+    second: Enemy Blue death_107
+  - first:
+      213: 2901545723128734612
+    second: Enemy Blue death_108
+  - first:
+      213: -6237312396683049504
+    second: Enemy Blue death_109
+  - first:
+      213: 4777381020788470215
+    second: Enemy Blue death_110
+  - first:
+      213: -5525908974120540627
+    second: Enemy Blue death_111
+  - first:
+      213: -6100353448859817058
+    second: Enemy Blue death_112
+  - first:
+      213: -8503011916963966318
+    second: Enemy Blue death_113
+  - first:
+      213: 1476597385305110052
+    second: Enemy Blue death_114
+  - first:
+      213: 7937059761503221593
+    second: Enemy Blue death_115
+  - first:
+      213: 629545945842139683
+    second: Enemy Blue death_116
+  - first:
+      213: 1755637145786497182
+    second: Enemy Blue death_117
+  - first:
+      213: 902200945810619590
+    second: Enemy Blue death_118
+  - first:
+      213: -4499146716981836713
+    second: Enemy Blue death_119
+  - first:
+      213: -2139612948320065140
+    second: Enemy Blue death_120
+  - first:
+      213: 9146521617802473977
+    second: Enemy Blue death_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Blue death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1516
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de385b464b3411d0800000000000000
+      internalID: -3381012247150575912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Blue death_1
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1516
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ad3fb73311570b0800000000000000
+      internalID: -5731656037938505136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Blue death_2
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1516
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e975051ee4ce2110800000000000000
+      internalID: 1238143474407406055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Blue death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b45aca8a1dfbd600800000000000000
+      internalID: 494266874566694064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Blue death_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e318ee51e34710800000000000000
+      internalID: 1676431284048748812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Blue death_5
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 758
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fbabf703025ed80800000000000000
+      internalID: -8222130152021508258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Blue death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 941
+        height: 758
+      alignment: 9
+      pivot: {x: 0.51, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318956b40dd748280800000000000000
+      internalID: -9041963818281494509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43ff7a2e6a58162468656e462ab68bf7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":941.0,"y":758.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5099999904632568,"y":0.07999999821186066},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Enemy Blue death_0: -3381012247150575912
+      Enemy Blue death_1: -5731656037938505136
+      Enemy Blue death_2: 1238143474407406055
+      Enemy Blue death_3: 494266874566694064
+      Enemy Blue death_4: 1676431284048748812
+      Enemy Blue death_5: -8222130152021508258
+      Enemy Blue death_6: -9041963818281494509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
