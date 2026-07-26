@@ -16,7 +16,7 @@ public class UITimerNumberChange : MonoBehaviour
 	{
 		var image = Instantiate(_image, transform);
 		image.gameObject.SetActive(true);
-		AnimateMoveAndFade(image, image.rectTransform, 0.5f, 0.3f);
+		AnimateMoveAndFade(image, image.rectTransform, 0.5f, 0.4f);
 	}
 	
 	
