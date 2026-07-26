@@ -1836,6 +1836,8 @@ MonoBehaviour:
   _flowerImage: {fileID: 302385436}
   _changeTimeParent: {fileID: 1066706877}
   _timeForChangeTimeToApear: 0.75
+  _plusColor: {r: 0.2901961, g: 0.827451, b: 0.44313726, a: 1}
+  _minusColor: {r: 0.84705883, g: 0.3137255, b: 0.21176471, a: 1}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
