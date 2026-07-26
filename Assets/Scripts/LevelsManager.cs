@@ -98,7 +98,7 @@ public class LevelsManager : MonoBehaviour
     private IEnumerator BigCastle()
     {
         var xPosition = _kingMovement.transform.position.x;
-        yield return new WaitUntil(() => xPosition + 4.5f <= _kingMovement.transform.position.x);
+        yield return new WaitUntil(() => xPosition + 5f <= _kingMovement.transform.position.x);
         _kingMovement.StopWalking();
         yield return new WaitForSeconds(1f);
         var flora = FindAnyObjectByType<Flora>();
@@ -107,9 +107,9 @@ public class LevelsManager : MonoBehaviour
         _angel.SetLevel(_lastLevel); //remove flowers from angel
         yield return new WaitForSeconds(1f);
         _gameOverGameObject.SetActive(true);
-        _irisWipeController.PlayIrisIn(new Vector2(0.5f, (5.4f +  2.95f)/10.8f));
+        _irisWipeController.PlayIrisOut(new Vector2(0.57f, (5.4f +  2.7f)/10.8f), ()=>SceneManager.LoadScene(0));
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(0);
+        // SceneManager.LoadScene(0);
     }
 
     private IEnumerator RunLevelWrapper(LevelParameters level)

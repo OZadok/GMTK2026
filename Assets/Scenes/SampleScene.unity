@@ -3857,7 +3857,7 @@ MonoBehaviour:
   _uiTimer: {fileID: 503936025}
   _angel: {fileID: 8030223613256179188}
   _successAudioSource: {fileID: 969469017}
-  _gameOverGameObject: {fileID: 1611209098}
+  _gameOverGameObject: {fileID: 1415947713}
   _irisWipeController: {fileID: 197348290}
   _castles:
   - {fileID: 619985962488079577}
