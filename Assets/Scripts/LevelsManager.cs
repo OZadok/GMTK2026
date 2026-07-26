@@ -15,9 +15,11 @@ public class LevelsManager : MonoBehaviour
     [SerializeField] private KingMovement _kingMovement;
     [SerializeField] private UIProgressBar _progressBar;
     [SerializeField] private UiTimer _uiTimer;
+    [SerializeField] private Angel _angel;
     
     [SerializeField] private AudioSource _successAudioSource;
 
+    [SerializeField] private GameObject _gameOverGameObject;
     [SerializeField] private IrisWipeController _irisWipeController;
 
     private Vector3 _lastCheckPointPosition;
@@ -98,7 +100,10 @@ public class LevelsManager : MonoBehaviour
         var xPosition = _kingMovement.transform.position.x;
         yield return new WaitUntil(() => xPosition + 4.5f <= _kingMovement.transform.position.x);
         _kingMovement.StopWalking();
-        yield return null;
+        yield return new WaitForSeconds(1f);
+        _angel.SetLevel(_lastLevel); //remove flowers from angel
+        yield return new WaitForSeconds(1f);
+        _gameOverGameObject.SetActive(true);
         _irisWipeController.PlayIrisIn(new Vector2(0.5f, (5.4f +  2.95f)/10.8f));
         yield return new WaitForSeconds(2f);
         SceneManager.LoadScene(0);
@@ -133,6 +138,7 @@ public class LevelsManager : MonoBehaviour
         _lastCheckPointPosition = _kingMovement.transform.position;
         _enemies._toSpawn = false;
         _uiTimer.SwapFlowerSprite(levelParameters._flowersSprite);
+        _angel.SetLevel(_lastLevel);
         yield return StartCoroutine(WalkCastleOut());
         Messenger.Default.Publish(new EndWalkInCastleEvent());
         SetLevel(levelParameters);
